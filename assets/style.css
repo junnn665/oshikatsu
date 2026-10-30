@@ -151,6 +151,19 @@ button, input, select { font: inherit; color: inherit; }
 }
 .due b { color: var(--wara); }
 .card.is-artist .due b { color: var(--uta); }
+/* 申込ボタン：カードの一番下 */
+.apply { display: flex; gap: 6px; padding: 0 10px 10px; flex-wrap: wrap; }
+.card .due + .apply, .card-link + .apply { padding-top: 10px; }
+.apply-btn {
+  flex: 1 1 0; min-width: 0; text-align: center; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  font-size: 12px; font-weight: 800; padding: 9px 6px; border-radius: 10px;
+  background: var(--wara); color: var(--ink);
+}
+.card.is-artist .apply-btn { background: var(--uta); color: #fff; }
+.apply-btn:hover { filter: brightness(.95); }
+.soon-go { margin: auto 12px 12px; font-size: 12px; font-weight: 800; text-align: center; padding: 7px 4px; border-radius: 10px; background: var(--wara); }
+.soon-card.is-artist .soon-go { background: var(--uta); color: #fff; }
+
 .save {
   position: absolute; right: 8px; top: 8px; z-index: 2;
   width: 34px; height: 34px; border-radius: 50%; border: 0; cursor: pointer;

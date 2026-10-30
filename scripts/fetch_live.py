@@ -38,7 +38,7 @@ NOW = dt.datetime.now(dt.timezone.utc)
 KEEP_DAYS = 45        # この日数より古い記事は消す（ただし申込締切・公演日がまだ先なら残す）
 INGEST_DAYS = 10      # この日数より古い記事は新しく取り込まない
 MAX_ITEMS = 600       # 保存する最大件数
-MAX_IMAGE_FETCH = 120 # 1回の実行で写真を探しにいく最大件数
+MAX_IMAGE_FETCH = 160 # 1回の実行で記事ページを読みにいく最大件数（写真と申込リンク）
 
 UA = "Mozilla/5.0 (compatible; WarautaBot/1.0; +https://github.com/) Python-urllib"
 BROWSER_UA = (
@@ -497,39 +497,86 @@ def decode_google_link(link: str) -> str | None:
         return None
 
 
-def find_og_image(link: str) -> str | None:
+# チケット販売サイト（記事の中からこのリンクを探して「申込」ボタンにする）
+TICKET_SITES = [
+    ("e+", re.compile(r"^https?://(?:www\.)?eplus\.jp/(?!sf/search|sf/word/search|$)[^\s\"'#]+")),
+    ("ぴあ", re.compile(r"^https?://(?:t|w|ticket)\.pia\.jp/[^\s\"'#]{4,}")),
+    ("ローチケ", re.compile(r"^https?://(?:www\.)?l-tike\.com/(?!$|search)[^\s\"'#]+")),
+    ("FANY", re.compile(r"^https?://ticket\.fany\.lol/(?!$|faq)[^\s\"'#]+")),
+    ("楽天チケット", re.compile(r"^https?://ticket\.rakuten\.co\.jp/[^\s\"'#]{4,}")),
+    ("tixplus", re.compile(r"^https?://(?:www\.)?tixplus\.jp/[^\s\"'#]{4,}")),
+    ("チケプラ", re.compile(r"^https?://(?:www\.)?ticket\.tickebo\.jp/[^\s\"'#]{4,}")),
+    ("LINEチケット", re.compile(r"^https?://ticket\.line\.me/[^\s\"'#]{4,}")),
+]
+HREF_RE = re.compile(r'<a\s[^>]*href=["\']([^"\']+)["\']', re.I)
+
+
+def find_ticket_links(text: str, base: str) -> list[dict]:
+    """記事ページの本文にあるチケット販売サイトへのリンクを、サイトごとに1つずつ拾う。"""
+    # ヘッダー・フッター・メニューのリンク（サイト共通の広告など）は見ない
+    body = re.sub(r"<(header|footer|nav|aside)\b.*?</\1>", " ", text, flags=re.S | re.I)
+    found: dict[str, str] = {}
+    for href in HREF_RE.findall(body):
+        url = urllib.parse.urljoin(base, html.unescape(href.strip()))
+        for name, pat in TICKET_SITES:
+            if name not in found and pat.match(url):
+                found[name] = url
+    return [{"site": k, "url": v} for k, v in found.items()][:3]
+
+
+def page_info(link: str) -> tuple[str | None, list[dict]]:
+    """記事ページを1回読んで、写真（og:image）と申込リンクを返す。"""
     if "news.google.com" in urllib.parse.urlparse(link).netloc:
-        return None
+        return None, []
     try:
-        body, final_url = http_get(link, limit=400_000, timeout=10, browser=True)
+        body, final_url = http_get(link, limit=600_000, timeout=10, browser=True)
     except Exception:
-        return None
+        return None, []
     text = body.decode("utf-8", errors="ignore")
+    image = None
     for tag in OG_RE.findall(text):
         m = CONTENT_RE.search(tag)
         if m:
             src = urllib.parse.urljoin(final_url, html.unescape(m.group(1).strip()))
             if src.startswith("https://"):
-                return src
-    return None
+                image = src
+                break
+    tickets = []
+    # 記事そのものがチケットサイトのページなら、それが申込ページ
+    for name, pat in TICKET_SITES:
+        if pat.match(final_url):
+            tickets = [{"site": name, "url": final_url}]
+            break
+    if not tickets:
+        tickets = find_ticket_links(text, final_url)
+    return image, tickets
 
 
-def add_images(items: list[dict]) -> None:
-    targets = [it for it in items if not it.get("image_checked")][:MAX_IMAGE_FETCH]
+def add_page_info(items: list[dict]) -> None:
+    """まだ調べていない記事を読み、写真と申込リンクを足す。申込に関係しそうな記事から先に。"""
+    pending = [it for it in items if not it.get("apply_checked")]
+    pri = {"moushikomi": 0, "kettei": 1, "fes": 2}
+    pending.sort(key=lambda it: it.get("published", ""), reverse=True)   # 新しい順
+    pending.sort(key=lambda it: pri.get(it.get("type"), 3))              # 申込の記事を先に（安定ソート）
+    targets = pending[:MAX_IMAGE_FETCH]
 
-    def work(it: dict) -> str | None:
+    def work(it: dict):
         if "news.google.com" in urllib.parse.urlparse(it["link"]).netloc:
             real = decode_google_link(it["link"])
             if real:
                 it["link"] = real  # 読者が元記事へ直接飛べるように
-        if it.get("image"):
-            return it["image"]
-        return find_og_image(it["link"])
+        return page_info(it["link"])
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=6) as ex:
-        for it, img in zip(targets, ex.map(work, targets)):
-            it["image"] = img if img and img.startswith("https://") else None
+        for it, (img, tickets) in zip(targets, ex.map(work, targets)):
+            if not it.get("image") and img:
+                it["image"] = img
+            if it.get("image") and not it["image"].startswith("https://"):
+                it["image"] = None
+            it["apply"] = tickets
             it["image_checked"] = True
+            it["apply_checked"] = True
+    print(f"pages checked: {len(targets)}, with apply links: {sum(1 for t in targets if t.get('apply'))}")
 
 
 # ---------------------------------------------------------------------------
@@ -698,7 +745,7 @@ def main() -> int:
         print("ニュースを取得できなかったので前回のデータを残します")
         raw = []
     items = build(raw, existing)
-    add_images(items)
+    add_page_info(items)
     new_count = sum(1 for it in items if it.get("added") == NOW.astimezone(JST).isoformat(timespec="seconds"))
 
     DATA_FILE.parent.mkdir(parents=True, exist_ok=True)

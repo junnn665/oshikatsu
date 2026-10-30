@@ -17,7 +17,7 @@
   var PAGE = 24;
   var DAY = 86400000;
 
-  var state = { genre: 'all', type: 'all', area: '', q: '', oshiOnly: false, savedOnly: false, shown: PAGE, tixOpen: true, tixShown: 10 };
+  var state = { genre: 'all', type: 'all', area: '', q: '', oshiOnly: false, savedOnly: false, shown: PAGE, tixOpen: true, tixShown: 10, applyOnly: false };
   var WEEK = ['日', '月', '火', '水', '木', '金', '土'];
   var data = { items: [], oshi: { geinin: [], artist: [] } };
   var $ = function (id) { return document.getElementById(id); };
@@ -58,7 +58,7 @@
     var t = title.replace(/^【[^】]*】\s*/, '').replace(/^画像[^|｜]*[|｜]\s*/, '');
     var lead = t.match(/^[『「]([^』」]{2,24})[』」]/);
     if (lead) return lead[1];
-    var head = t.split(/[、，,。！!？?：:｜|\s]/)[0];
+    var head = t.split(/[、，,。！!？?：:｜|　]/)[0].trim();
     if (head.length >= 2 && head.length <= 16) return head;
     var m = t.match(/[『「]([^』」]{2,24})[』」]/);
     if (m) return m[1];
@@ -99,6 +99,7 @@
     if (state.type !== 'all' && it.type !== state.type) return false;
     if (state.area && (it.areas || []).indexOf(state.area) < 0) return false;
     if (state.savedOnly && !saved[it.id]) return false;
+    if (state.applyOnly && !(it.apply && it.apply.length)) return false;
     if (state.oshiOnly && !oshiHits(it, oshiList).length) return false;
     if (state.q) {
       var hay = (it.title + ' ' + (it.source || '') + ' ' + (it.venue || '')).toLowerCase();
@@ -123,10 +124,12 @@
     $('soon-sec').hidden = !rows.length;
     $('soon').innerHTML = rows.length ? rows.slice(0, 24).map(function (r) {
       var iso = r.dl ? r.it.deadline : r.it.sale_start;
-      return '<a class="soon-card is-' + esc(r.it.genre) + '" href="' + esc(r.it.link) + '" target="_blank" rel="noopener">' +
+      var go = r.it.apply && r.it.apply.length ? r.it.apply[0] : null;
+      return '<a class="soon-card is-' + esc(r.it.genre) + '" href="' + esc(go ? go.url : r.it.link) + '" target="_blank" rel="noopener">' +
         '<span class="soon-when">' + (r.days > 1 ? '<span>あと</span><b>' + r.days + '</b><span>日</span>' : '<b>' + left(r.days) + '</b>') + '</span>' +
         '<span class="soon-kind">' + md(iso) + (r.dl ? ' 締切' : ' 受付開始') + '</span>' +
-        '<span class="soon-title">' + esc(r.it.title) + '</span></a>';
+        '<span class="soon-title">' + esc(r.it.title) + '</span>' +
+        (go ? '<span class="soon-go">' + esc(go.site) + 'で申込</span>' : '') + '</a>';
     }).join('') : '<p class="empty">締切日・受付開始日がわかっている申込は、いまありません。</p>';
   }
 
@@ -156,7 +159,15 @@
           '<span class="meta"><span>' + esc(it.source || '') + '</span><span>' + ago(it.published) + '</span>' +
             ((it.areas || []).length ? '<span>' + esc(it.areas.join('・')) + '</span>' : '') + '</span>' +
         '</span>' + due +
-      '</a></article>';
+      '</a>' + applyButtons(it) + '</article>';
+  }
+
+  // 記事の中で見つかったチケット販売サイトへの「申込」ボタン
+  function applyButtons(it) {
+    if (!it.apply || !it.apply.length) return '';
+    return '<span class="apply">' + it.apply.map(function (a) {
+      return '<a class="apply-btn" href="' + esc(a.url) + '" target="_blank" rel="noopener">' + esc(a.site) + 'で申込</a>';
+    }).join('') + '</span>';
   }
 
   // FANYは外から検索結果を開けないので、FANYの公演ページをGoogleで探すリンクにする
@@ -221,6 +232,7 @@
     });
     $('oshi-only').setAttribute('aria-pressed', state.oshiOnly ? 'true' : 'false');
     $('saved-only').setAttribute('aria-pressed', state.savedOnly ? 'true' : 'false');
+    $('apply-only').setAttribute('aria-pressed', state.applyOnly ? 'true' : 'false');
     renderSoon(oshiList);
     var list = data.items.filter(function (it) { return matches(it, oshiList); });
     $('count').textContent = list.length + '件';
@@ -248,6 +260,7 @@
     $('q').addEventListener('input', function (e) { state.q = e.target.value.trim(); reset(); });
     $('oshi-only').addEventListener('click', function () { state.oshiOnly = !state.oshiOnly; reset(); });
     $('saved-only').addEventListener('click', function () { state.savedOnly = !state.savedOnly; reset(); });
+    $('apply-only').addEventListener('click', function () { state.applyOnly = !state.applyOnly; reset(); });
     $('more').addEventListener('click', function () { state.shown += PAGE; render(); });
     $('tix-more').addEventListener('click', function () { state.tixShown += 20; render(); });
     $('tix-open').addEventListener('click', function () { state.tixOpen = !state.tixOpen; state.tixShown = 10; render(); });
