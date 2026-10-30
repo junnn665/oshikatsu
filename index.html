@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>わらうた｜お笑い・アーティストのライブと申込まとめ</title>
+<meta name="description" content="芸人のお笑いライブ、アーティストのツアー・フェス、チケットの先行・抽選・一般発売の情報を1日3回自動でまとめる非公式サイト">
+<meta property="og:title" content="わらうた">
+<meta property="og:description" content="お笑いライブと音楽ライブ、チケット申込の情報を毎日まとめるサイト">
+<meta property="og:type" content="website">
+<meta name="theme-color" content="#1D1A33">
+<link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+<link rel="icon" href="assets/icon-192.png" sizes="192x192" type="image/png">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="apple-mobile-web-app-title" content="わらうた">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap header-inner">
+    <div>
+      <p class="tagline">お笑いと音楽のライブ・申込まとめ</p>
+      <h1 class="logo"><span class="logo-wara">わら</span><span class="logo-uta">うた</span></h1>
+    </div>
+    <p class="update-note" id="updated">1日3回更新</p>
+  </div>
+  <nav class="wrap genre-switch" aria-label="ジャンル">
+    <button class="genre-btn" data-genre="all" aria-pressed="true">すべて</button>
+    <button class="genre-btn" data-genre="geinin" aria-pressed="false">お笑い</button>
+    <button class="genre-btn" data-genre="artist" aria-pressed="false">アーティスト</button>
+  </nav>
+</header>
+
+<main class="wrap main">
+  <section class="upcoming" aria-labelledby="upcoming-title">
+    <h2 id="upcoming-title" class="section-title">これからの申込</h2>
+    <p class="section-note">見出しに締切日・発売日が書かれていた情報です。必ず公式で日時をご確認ください。</p>
+    <div class="stub-row" id="upcoming"></div>
+  </section>
+
+  <details class="oshi">
+    <summary class="oshi-head"><span class="section-title">推しリスト</span><span class="count" id="oshi-count"></span></summary>
+    <ul class="oshi-list" id="oshi-list"></ul>
+    <form class="oshi-form" id="oshi-form">
+      <input type="text" id="oshi-input" placeholder="芸人・アーティスト名を追加" aria-label="推しの名前" autocomplete="off">
+      <button type="submit">追加</button>
+    </form>
+    <p class="section-note">追加した名前はこの端末にだけ保存されます。毎日の検索にも入れたいときは oshi.json に書いてください。</p>
+  </details>
+
+  <section class="feed" aria-labelledby="feed-title">
+    <div class="feed-head">
+      <h2 id="feed-title" class="section-title">新着</h2>
+      <span class="count" id="count"></span>
+    </div>
+    <div class="filters">
+      <div class="type-chips" id="type-chips" role="group" aria-label="種類"></div>
+      <div class="filter-row">
+        <select id="area" aria-label="エリア"><option value="">全国</option></select>
+        <input type="search" id="q" placeholder="名前・会場で探す" aria-label="キーワード">
+        <label class="switch"><input type="checkbox" id="oshi-only"> 推しだけ</label>
+        <label class="switch"><input type="checkbox" id="saved-only"> 気になるだけ</label>
+      </div>
+    </div>
+    <div class="cards" id="cards"><p class="empty">読み込み中…</p></div>
+    <button class="more" id="more" hidden>もっと見る</button>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <p>ニュースサイトや公式発表の見出しを自動で集めた非公式まとめです。日時・申込方法は必ず出典元・公式サイトでご確認ください。掲載の芸人・アーティスト・事務所とは関係ありません。</p>
+    <p>© わらうた</p>
+  </div>
+</footer>
+<script src="assets/app.js"></script>
+</body>
+</html>

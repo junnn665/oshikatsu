@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#1D1A33"/>
+  <defs><clipPath id="t"><rect x="66" y="146" width="380" height="220" rx="22"/></clipPath></defs>
+  <g transform="translate(256 256) scale(.8) translate(-256 -256) rotate(-8 256 256)">
+    <g clip-path="url(#t)">
+      <rect x="66" y="146" width="212" height="220" fill="#FFB800"/>
+      <rect x="278" y="146" width="168" height="220" fill="#3D5AFE"/>
+    </g>
+    <line x1="278" y1="172" x2="278" y2="340" stroke="#1D1A33" stroke-width="6" stroke-dasharray="12 10" stroke-linecap="round"/>
+    <circle cx="278" cy="146" r="20" fill="#1D1A33"/>
+    <circle cx="278" cy="366" r="20" fill="#1D1A33"/>
+    <!-- スタンドマイク -->
+    <g fill="#1D1A33">
+      <circle cx="172" cy="214" r="38"/>
+      <rect x="164" y="248" width="16" height="22" rx="4"/>
+      <rect x="166" y="266" width="12" height="62"/>
+      <ellipse cx="172" cy="332" rx="44" ry="10"/>
+    </g>
+    <g stroke="#FFB800" stroke-width="5" stroke-linecap="round" fill="none" opacity=".9">
+      <path d="M146 204h52M142 218h60M146 232h52"/>
+    </g>
+    <!-- 音符 -->
+    <g fill="#fff">
+      <ellipse cx="342" cy="300" rx="27" ry="20" transform="rotate(-22 342 300)"/>
+      <rect x="358" y="184" width="11" height="114" rx="4"/>
+      <path d="M364 184c18 10 44 24 44 54 0 12-4 22-10 30 2-26-14-38-34-44z"/>
+    </g>
+  </g>
+</svg>

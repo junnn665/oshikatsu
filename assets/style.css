@@ -1,0 +1,196 @@
+:root {
+  --ink: #1D1A33;
+  --sub: #4A4763;
+  --muted: #6A6880;
+  --paper: #EEF0F7;
+  --card: #FFFFFF;
+  --line: #CFD2E2;
+  --wara: #FFB800;       /* お笑い：寄席の提灯 */
+  --wara-deep: #8A5A00;
+  --uta: #3D5AFE;        /* アーティスト：ステージの照明 */
+  --uta-deep: #2236B8;
+  --alert: #E5243B;      /* 締切 */
+  --focus: #E5243B;
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: 'Zen Kaku Gothic New', 'Hiragino Sans', 'Noto Sans JP', sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
+a { color: inherit; }
+button, input, select { font: inherit; color: inherit; }
+:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+
+.wrap {
+  max-width: 1040px;
+  margin: 0 auto;
+  padding-left: max(16px, env(safe-area-inset-left));
+  padding-right: max(16px, env(safe-area-inset-right));
+}
+
+/* ヘッダー：劇場の看板 */
+.site-header { background: var(--ink); color: #fff; }
+.header-inner {
+  padding-top: 24px; padding-bottom: 16px;
+  display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 8px 16px;
+}
+.tagline { margin: 0; font-size: 14px; font-weight: 700; color: #C9C7E0; }
+.logo {
+  margin: 0; font-family: 'Dela Gothic One', sans-serif; font-weight: 400;
+  font-size: clamp(48px, 13vw, 76px); line-height: 1; letter-spacing: 0.02em;
+}
+.logo-wara { color: var(--wara); }
+.logo-uta { color: #fff; text-shadow: 4px 4px 0 var(--uta); }
+.update-note { margin: 0; font-size: 13px; color: #C9C7E0; }
+
+.genre-switch { display: flex; gap: 0; padding-bottom: 0; }
+.genre-btn {
+  flex: 1 1 0; max-width: 200px;
+  background: transparent; border: 0; border-radius: 12px 12px 0 0;
+  padding: 12px 8px 10px; font-weight: 700; color: #C9C7E0; cursor: pointer;
+}
+.genre-btn[aria-pressed="true"] { background: var(--paper); color: var(--ink); }
+.genre-btn[data-genre="geinin"][aria-pressed="true"] { box-shadow: inset 0 4px 0 var(--wara); }
+.genre-btn[data-genre="artist"][aria-pressed="true"] { box-shadow: inset 0 4px 0 var(--uta); }
+
+.main { padding-top: 24px; padding-bottom: 48px; display: flex; flex-direction: column; gap: 36px; }
+.section-title { margin: 0; font-family: 'Dela Gothic One', sans-serif; font-weight: 400; font-size: 24px; line-height: 1.3; }
+.section-note { margin: 6px 0 0; font-size: 13px; color: var(--muted); }
+
+/* これからの申込：半券を横に並べる */
+.stub-row {
+  margin-top: 14px; display: flex; gap: 12px; overflow-x: auto;
+  padding-bottom: 8px; scroll-snap-type: x proximity;
+}
+.stub {
+  flex: 0 0 auto; width: 248px; scroll-snap-align: start;
+  display: grid; grid-template-columns: 76px 1fr;
+  background: var(--card); border-radius: 10px; text-decoration: none; color: var(--ink);
+  border: 1px solid var(--line);
+  position: relative;
+}
+.stub-date {
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  padding: 10px 4px; border-right: 2px dashed var(--line); text-align: center;
+}
+.stub-days { font-family: 'Dela Gothic One', sans-serif; font-size: 30px; line-height: 1; }
+.stub-unit { font-size: 12px; font-weight: 700; }
+.stub-kind { font-size: 11px; font-weight: 700; margin-top: 4px; color: var(--muted); }
+.stub.is-deadline .stub-days, .stub.is-deadline .stub-unit { color: var(--alert); }
+.stub-body { padding: 10px 12px; font-size: 14px; font-weight: 700; line-height: 1.45;
+  display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; }
+.stub:hover .stub-body { text-decoration: underline; }
+/* 切り取り線の丸い切り欠き */
+.stub::before, .stub::after {
+  content: ""; position: absolute; left: 69px; width: 14px; height: 14px; border-radius: 50%;
+  background: var(--paper); border: 1px solid var(--line);
+}
+.stub::before { top: -8px; }
+.stub::after { bottom: -8px; }
+
+/* 推しリスト */
+.oshi { background: var(--card); border-radius: 14px; border: 1px solid var(--line); }
+.oshi { padding: 0; }
+.oshi-head { display: flex; align-items: baseline; gap: 10px; padding: 16px 18px; cursor: pointer; list-style: none; }
+.oshi-head::-webkit-details-marker { display: none; }
+.oshi-head::after { content: "＋"; margin-left: auto; font-weight: 700; }
+.oshi[open] .oshi-head::after { content: "−"; }
+.oshi > :not(summary) { margin-left: 18px; margin-right: 18px; }
+.oshi > .section-note { margin-bottom: 18px; }
+.oshi-list { margin-top: 0 !important; }
+.oshi-list { list-style: none; margin: 14px 0 0; padding: 0; display: flex; flex-wrap: wrap; gap: 8px; }
+.oshi-tag {
+  display: inline-flex; align-items: center; gap: 4px;
+  border-radius: 999px; padding: 4px 6px 4px 12px; font-size: 14px; font-weight: 700;
+  background: #FFF3CC; color: var(--wara-deep);
+}
+.oshi-tag.is-artist { background: #E3E8FF; color: var(--uta-deep); }
+.oshi-tag button {
+  border: 0; background: transparent; cursor: pointer; width: 26px; height: 26px; border-radius: 50%;
+  color: inherit; font-size: 16px; line-height: 1;
+}
+.oshi-tag button:hover { background: rgba(0,0,0,.08); }
+.oshi-tag .hits { font-weight: 400; font-size: 12px; }
+.oshi-form { margin-top: 12px; display: flex; gap: 8px; }
+.oshi-form input { flex: 1; min-width: 0; padding: 10px 12px; border: 1px solid var(--line); border-radius: 8px; background: #fff; }
+.oshi-form button, .more {
+  border: 0; border-radius: 8px; padding: 10px 18px; background: var(--ink); color: #fff; font-weight: 700; cursor: pointer;
+}
+.switch { display: inline-flex; align-items: center; gap: 6px; font-size: 14px; font-weight: 700; cursor: pointer; }
+.switch input { width: 18px; height: 18px; accent-color: var(--ink); }
+
+/* 新着 */
+.feed-head { display: flex; align-items: baseline; gap: 10px; }
+.count { font-size: 14px; color: var(--muted); }
+.filters { margin-top: 12px; display: flex; flex-direction: column; gap: 10px; }
+.type-chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.type-chip {
+  border: 1px solid var(--line); background: var(--card); border-radius: 999px;
+  padding: 5px 14px; font-size: 14px; font-weight: 700; cursor: pointer;
+}
+.type-chip[aria-pressed="true"] { background: var(--ink); border-color: var(--ink); color: #fff; }
+.filter-row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.filter-row select, .filter-row input[type="search"] {
+  padding: 8px 10px; border: 1px solid var(--line); border-radius: 8px; background: #fff;
+}
+.filter-row input[type="search"] { flex: 1 1 180px; min-width: 0; }
+
+.cards { margin-top: 16px; display: grid; grid-template-columns: 1fr; gap: 12px; }
+@media (min-width: 760px) { .cards { grid-template-columns: 1fr 1fr; } }
+
+/* チケット型のカード：左端の色帯がジャンル */
+.card {
+  background: var(--card); border-radius: 10px; border: 1px solid var(--line);
+  border-left: 8px solid var(--uta);
+  display: grid; grid-template-columns: 1fr auto; min-width: 0;
+}
+.card.is-geinin { border-left-color: var(--wara); }
+.card-main { padding: 12px 14px; min-width: 0; display: flex; gap: 12px; }
+.card-text { min-width: 0; flex: 1; }
+.card-thumb { width: 84px; height: 84px; object-fit: cover; border-radius: 6px; flex-shrink: 0; background: var(--paper); }
+.card-meta { display: flex; flex-wrap: wrap; gap: 4px 8px; align-items: center; font-size: 12px; color: var(--muted); }
+.type-label { font-weight: 700; color: var(--ink); }
+.type-label.t-moushikomi { color: var(--alert); }
+.type-label.t-chushi { background: var(--ink); color: #fff; padding: 0 6px; border-radius: 4px; }
+.new { font-weight: 700; color: #fff; background: var(--alert); padding: 0 6px; border-radius: 4px; }
+.card-title { margin: 4px 0 6px; font-size: 15px; font-weight: 700; line-height: 1.5; overflow-wrap: anywhere; }
+.card-title a { text-decoration: none; }
+.card-title a:hover { text-decoration: underline; }
+.chips { display: flex; flex-wrap: wrap; gap: 4px; }
+.chip { font-size: 12px; padding: 1px 8px; border-radius: 999px; background: var(--paper); color: var(--sub); }
+.chip.is-oshi { background: #FFF3CC; color: var(--wara-deep); font-weight: 700; }
+
+.card-side {
+  border-left: 2px dashed var(--line); width: 64px;
+  display: flex; flex-direction: column; align-items: center; justify-content: space-between; padding: 10px 4px;
+}
+.save {
+  border: 0; background: transparent; cursor: pointer; font-size: 22px; line-height: 1;
+  width: 40px; height: 40px; border-radius: 50%; color: var(--line);
+}
+.save[aria-pressed="true"] { color: var(--wara); }
+.save:hover { background: var(--paper); }
+.side-date { text-align: center; font-size: 11px; font-weight: 700; color: var(--muted); line-height: 1.3; }
+.side-date b { display: block; font-family: 'Dela Gothic One', sans-serif; font-weight: 400; font-size: 18px; color: var(--ink); }
+.side-date.is-deadline, .side-date.is-deadline b { color: var(--alert); }
+
+.empty { color: var(--muted); font-size: 14px; margin: 0; }
+.more { display: block; margin: 20px auto 0; }
+.more[hidden] { display: none; }
+
+.site-footer { background: var(--ink); color: #C9C7E0; font-size: 12px; padding: 24px 0 36px; }
+.site-footer p { margin: 0 0 8px; max-width: 70ch; }
+
+@media (max-width: 420px) {
+  .card-thumb { width: 64px; height: 64px; }
+  .card-side { width: 56px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  * { scroll-behavior: auto !important; }
+}
