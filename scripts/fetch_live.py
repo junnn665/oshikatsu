@@ -663,10 +663,10 @@ def load_ticket_rows() -> list[dict]:
 
 
 def merge_ticket_rows(prev: list[dict], got: dict[int, list[dict]]) -> list[dict]:
-    """今回読めたページの公演を、前回までの分に足す。過ぎた公演と、3日見かけない公演は消す。"""
+    """今回読めたページの公演を、前回までの分に足す。過ぎた公演と、4日見かけない公演は消す。"""
     today = NOW.astimezone(JST).date().isoformat()
     stamp = NOW.astimezone(JST).isoformat(timespec="seconds")
-    stale = (NOW - dt.timedelta(days=3)).astimezone(JST).isoformat(timespec="seconds")
+    stale = (NOW - dt.timedelta(days=4)).astimezone(JST).isoformat(timespec="seconds")
     rows: dict[str, dict] = {}
     for r in prev:
         if r.get("page") in got:          # このページは読み直したので、古い分は捨てる
@@ -683,7 +683,7 @@ def merge_ticket_rows(prev: list[dict], got: dict[int, list[dict]]) -> list[dict
 def main() -> int:
     existing = load_existing()
     eplus_note = ""
-    run_no = int(NOW.timestamp() // (6 * 3600))  # 実行ごとに、読むページを順番に変える
+    run_no = int(NOW.timestamp() // (8 * 3600))  # 1日3回の実行ごとに、読むページを順番に変える
     try:
         got = eplus.fetch(NOW.astimezone(JST).date(), run_no)
         eplus_note = eplus.LAST_NOTE

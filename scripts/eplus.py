@@ -97,7 +97,7 @@ def _get_retry(url: str) -> str:
         return _get(url)
 
 
-def fetch(today: dt.date, run_no: int, per_run: int = 3) -> dict[int, list[dict]]:
+def fetch(today: dt.date, run_no: int, per_run: int = 1) -> dict[int, list[dict]]:
     """1ページ目と、ほかのページから per_run ページだけ読む（実行ごとに順番に回す）。
 
     返り値は {ページ番号: そのページの公演}。読めなかったページは入らない。
@@ -118,7 +118,7 @@ def fetch(today: dt.date, run_no: int, per_run: int = 3) -> dict[int, list[dict]
         targets = []
     errors = []
     for n in targets:
-        time.sleep(3)
+        time.sleep(8)
         try:
             got[n] = parse_page(_get_retry(f"{BASE}{LIST_PATH}/p{n}"), today)
         except Exception as e:
