@@ -241,7 +241,18 @@ def oshi_in(title: str) -> list[str]:
     return [n for n in OSHI["geinin"] + OSHI["artist"] if n.lower() in low]
 
 
+# 写真ギャラリーなど、本文記事の重複になるページ
+JUNK_PATTERNS = [
+    re.compile(r"^画像・写真\s*[|｜]"),
+    re.compile(r"\s\d+\s*枚目\s*$"),
+    re.compile(r"(画像|写真)\s*\d+\s*/\s*\d+"),
+    re.compile(r"【(画像|写真)】"),
+]
+
+
 def is_wanted(title: str) -> bool:
+    if any(p.search(title) for p in JUNK_PATTERNS):
+        return False
     if any(w in title for w in NOT_WANTED_WORDS):
         return False
     if not any(w in title for w in LIVE_WORDS):
