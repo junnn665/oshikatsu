@@ -664,10 +664,13 @@ def load_tickets() -> list[dict]:
 
 def main() -> int:
     existing = load_existing()
+    eplus_note = ""
     try:
         tickets = build_tickets(eplus.fetch(NOW.astimezone(JST).date()))
+        eplus_note = eplus.LAST_NOTE
     except Exception as e:
-        print(f"[warn] eplus: {e}", file=sys.stderr)
+        eplus_note = f"{type(e).__name__}: {e}"
+        print(f"[warn] eplus: {eplus_note}", file=sys.stderr)
         tickets = []
     if not tickets:
         tickets = load_tickets()  # 読めなかったときは前回の分を残す
@@ -685,7 +688,7 @@ def main() -> int:
         {"updated": stamp, "oshi": OSHI, "items": items, "tickets": tickets}, ensure_ascii=False, indent=1), "utf-8")
     STATUS_FILE.write_text(json.dumps({
         "updated": stamp, "total": len(items), "new": new_count,
-        "raw": len(raw), "errors": errors, "tickets": len(tickets),
+        "raw": len(raw), "errors": errors, "tickets": len(tickets), "eplus": eplus_note,
     }, ensure_ascii=False, indent=1), "utf-8")
     print(f"saved {len(items)} items ({new_count} new)")
     return 0

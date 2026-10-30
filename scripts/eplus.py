@@ -17,6 +17,7 @@ import urllib.robotparser
 BASE = "https://eplus.jp"
 LIST_PATH = "/sf/play/comedy"
 MAX_PAGES = 12
+LAST_NOTE = ""  # 直近の取得結果のメモ（data/status.json に書く）
 UA = "Mozilla/5.0 (compatible; WarautaBot/1.0; +https://github.com/junnn665/oshikatsu) Python-urllib"
 
 ITEM_RE = re.compile(r'<a class="ticket-item[^"]*" href="(/sf/detail/[^"]+)">(.*?)</a>', re.S)
@@ -85,8 +86,10 @@ def parse_page(page: str, today: dt.date) -> list[dict]:
 
 
 def fetch(today: dt.date) -> list[dict]:
+    global LAST_NOTE
     if not allowed():
-        print("[eplus] robots.txt で許可されていないので読みません")
+        LAST_NOTE = "robots.txt で許可されていないので読みません"
+        print("[eplus] " + LAST_NOTE)
         return []
     first = _get(BASE + LIST_PATH)
     pages = {int(p) for p in PAGE_RE.findall(first)}
@@ -98,5 +101,6 @@ def fetch(today: dt.date) -> list[dict]:
             rows.extend(parse_page(_get(f"{BASE}{LIST_PATH}/p{n}"), today))
         except Exception as e:
             print(f"[eplus] p{n}: {e}")
-    print(f"[eplus] {len(rows)} 公演（{last}ページ）")
+    LAST_NOTE = f"{len(rows)} 公演（{last}ページ, 1ページ目 {len(first)} 文字, 件数表示 {re.findall(r'(\d+)件中', first)[:1]}）"
+    print("[eplus] " + LAST_NOTE)
     return rows
