@@ -95,12 +95,18 @@ def fetch(today: dt.date) -> list[dict]:
     pages = {int(p) for p in PAGE_RE.findall(first)}
     last = min(max(pages) if pages else 1, MAX_PAGES)
     rows = parse_page(first, today)
+    errors = []
     for n in range(2, last + 1):
-        time.sleep(1)
+        time.sleep(2)
         try:
-            rows.extend(parse_page(_get(f"{BASE}{LIST_PATH}/p{n}"), today))
+            page = _get(f"{BASE}{LIST_PATH}/p{n}")
+            got = parse_page(page, today)
+            if not got:
+                errors.append(f"p{n}: 0件 ({len(page)} 文字)")
+            rows.extend(got)
         except Exception as e:
+            errors.append(f"p{n}: {type(e).__name__}: {e}")
             print(f"[eplus] p{n}: {e}")
-    LAST_NOTE = f"{len(rows)} 公演（{last}ページ, 1ページ目 {len(first)} 文字, 件数表示 {re.findall(r'(\d+)件中', first)[:1]}）"
+    LAST_NOTE = f"{len(rows)} 公演（{last}ページ, 1ページ目 {len(first)} 文字, 件数表示 {re.findall(r'(\d+)件中', first)[:1]}）" + (" / " + " / ".join(errors[:3]) if errors else "")
     print("[eplus] " + LAST_NOTE)
     return rows
