@@ -4,7 +4,7 @@
   <g transform="rotate(-8 256 256)">
     <g clip-path="url(#t)">
       <rect x="66" y="146" width="212" height="220" fill="#FFB800"/>
-      <rect x="278" y="146" width="168" height="220" fill="#3D5AFE"/>
+      <rect x="278" y="146" width="168" height="220" fill="#FF2E88"/>
     </g>
     <line x1="278" y1="172" x2="278" y2="340" stroke="#1D1A33" stroke-width="6" stroke-dasharray="12 10" stroke-linecap="round"/>
     <circle cx="278" cy="146" r="20" fill="#1D1A33"/>
