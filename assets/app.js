@@ -17,7 +17,8 @@
   var PAGE = 24;
   var DAY = 86400000;
 
-  var state = { genre: 'all', type: 'all', area: '', q: '', oshiOnly: false, savedOnly: false, shown: PAGE };
+  var state = { genre: 'all', type: 'all', area: '', q: '', oshiOnly: false, savedOnly: false, shown: PAGE, tixOpen: true, tixShown: 10 };
+  var WEEK = ['日', '月', '火', '水', '木', '金', '土'];
   var data = { items: [], oshi: { geinin: [], artist: [] } };
   var $ = function (id) { return document.getElementById(id); };
 
@@ -119,6 +120,7 @@
     });
     rows.sort(function (a, b) { return a.days - b.days; });
     $('soon-count').textContent = rows.length ? rows.length + '件' : '';
+    $('soon-sec').hidden = !rows.length;
     $('soon').innerHTML = rows.length ? rows.slice(0, 24).map(function (r) {
       var iso = r.dl ? r.it.deadline : r.it.sale_start;
       return '<a class="soon-card is-' + esc(r.it.genre) + '" href="' + esc(r.it.link) + '" target="_blank" rel="noopener">' +
@@ -171,9 +173,46 @@
     }).join('') : '<p class="note">下の推しリストに芸人を追加すると、ここから FANY の公演を探せます。</p>';
   }
 
+  // e+ のお笑いチケット
+  function renderTickets(oshiList) {
+    var show = state.genre !== 'artist' && (data.tickets || []).length > 0;
+    $('tix').hidden = !show;
+    if (!show) return;
+    var list = data.tickets.filter(function (t) {
+      if (state.tixOpen && t.status !== '受付中' && t.status !== '受付前') return false;
+      if (state.area && (t.areas || []).indexOf(state.area) < 0) return false;
+      if (state.oshiOnly && !oshiHits(t, oshiList).length) return false;
+      if (state.q) {
+        var hay = (t.title + ' ' + (t.venues || []).join(' ')).toLowerCase();
+        var words = state.q.toLowerCase().split(/[\s　]+/).filter(Boolean);
+        for (var i = 0; i < words.length; i++) if (hay.indexOf(words[i]) < 0) return false;
+      }
+      return true;
+    });
+    // 推しの公演を先に
+    list.sort(function (a, b) {
+      return (oshiHits(b, oshiList).length > 0) - (oshiHits(a, oshiList).length > 0);
+    });
+    $('tix-count').textContent = list.length + '公演';
+    $('tix-open').setAttribute('aria-pressed', state.tixOpen ? 'true' : 'false');
+    $('tix-list').innerHTML = list.length ? list.slice(0, state.tixShown).map(function (t) {
+      var d = t.dates && t.dates[0] ? parseDay(t.dates[0]) : null;
+      var date = d ? '<b>' + (d.getMonth() + 1) + '/' + d.getDate() + '</b><small>' + WEEK[d.getDay()] +
+        (t.dates.length > 1 ? ' ほか' + (t.dates.length - 1) + '回' : '') + '</small>' : '<b>－</b>';
+      var cls = t.status === '受付中' ? ' is-open' : t.status === '受付前' ? ' is-soon' : '';
+      return '<li class="tix-row' + (oshiHits(t, oshiList).length ? ' is-oshi' : '') + '"><a href="' + esc(t.link) + '" target="_blank" rel="noopener">' +
+        '<span class="tix-date">' + date + '</span>' +
+        '<span class="tix-main"><p class="tix-title">' + esc(t.title) + '</p>' +
+        '<span class="tix-venue">' + esc((t.label ? t.label + '・' : '') + (t.venues || []).join(' / ')) + '</span></span>' +
+        '<span class="tix-status' + cls + '">' + esc(t.status || '詳細') + '</span></a></li>';
+    }).join('') : '<li class="tix-row"><p class="empty" style="padding:16px">条件に合う公演がありません。</p></li>';
+    $('tix-more').hidden = list.length <= state.tixShown;
+  }
+
   function render() {
     var oshiList = oshiAll();
     renderFany(oshiList);
+    renderTickets(oshiList);
     document.querySelectorAll('.genre-btn').forEach(function (b) {
       b.setAttribute('aria-pressed', b.dataset.genre === state.genre ? 'true' : 'false');
     });
@@ -191,7 +230,7 @@
     $('more').hidden = list.length <= state.shown;
   }
 
-  function reset() { state.shown = PAGE; render(); }
+  function reset() { state.shown = PAGE; state.tixShown = 10; render(); }
 
   function setup() {
     $('type-chips').innerHTML = TYPES.map(function (t) {
@@ -210,6 +249,8 @@
     $('oshi-only').addEventListener('click', function () { state.oshiOnly = !state.oshiOnly; reset(); });
     $('saved-only').addEventListener('click', function () { state.savedOnly = !state.savedOnly; reset(); });
     $('more').addEventListener('click', function () { state.shown += PAGE; render(); });
+    $('tix-more').addEventListener('click', function () { state.tixShown += 20; render(); });
+    $('tix-open').addEventListener('click', function () { state.tixOpen = !state.tixOpen; state.tixShown = 10; render(); });
 
     $('cards').addEventListener('click', function (e) {
       var b = e.target.closest('[data-save]'); if (!b) return;
@@ -253,7 +294,7 @@
 
   function fillAreas() {
     var counts = {};
-    data.items.forEach(function (it) { (it.areas || []).forEach(function (a) { counts[a] = (counts[a] || 0) + 1; }); });
+    data.items.concat(data.tickets || []).forEach(function (it) { (it.areas || []).forEach(function (a) { counts[a] = (counts[a] || 0) + 1; }); });
     var order = ['北海道', '東北', '関東', '東海', '北陸・甲信越', '関西', '中国・四国', '九州・沖縄', '配信'];
     $('area').innerHTML = '<option value="">全国</option>' + order.filter(function (a) { return counts[a]; }).map(function (a) {
       return '<option value="' + a + '">' + a + '（' + counts[a] + '）</option>';

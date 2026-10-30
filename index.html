@@ -51,7 +51,20 @@
     <div class="fany-list" id="fany-list"></div>
   </section>
 
-  <section aria-labelledby="soon-title">
+  <section class="tix" id="tix" aria-labelledby="tix-title" hidden>
+    <div class="sec-head">
+      <h2 id="tix-title" class="sec-title">お笑いライブのチケット</h2>
+      <span class="sec-sub" id="tix-count"></span>
+    </div>
+    <div class="tix-tools">
+      <button class="toggle" id="tix-open" aria-pressed="true">受付中だけ</button>
+      <span class="tix-src">e+（イープラス）の販売中・販売予定の公演</span>
+    </div>
+    <ul class="tix-list" id="tix-list"></ul>
+    <button class="more more-sub" id="tix-more" hidden>もっと見る</button>
+  </section>
+
+  <section id="soon-sec" aria-labelledby="soon-title">
     <div class="sec-head">
       <h2 id="soon-title" class="sec-title">申込がもうすぐ</h2>
       <span class="sec-sub" id="soon-count"></span>

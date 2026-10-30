@@ -25,6 +25,8 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
+import eplus  # e+ のお笑いチケット一覧（scripts/eplus.py）
+
 ROOT = Path(__file__).resolve().parent.parent
 DATA_FILE = ROOT / "data" / "live.json"
 STATUS_FILE = ROOT / "data" / "status.json"
@@ -92,6 +94,13 @@ QUERIES = [
 ]
 
 PRTIMES_FEED = "https://prtimes.jp/index.rdf"
+
+# 公式メディアの RSS（そのまま全部見る。ジャンルは固定）
+DIRECT_FEEDS = [
+    ("https://magazine.fany.lol/feed/", "geinin", "FANY Magazine"),
+    ("https://natalie.mu/owarai/feed/news", "geinin", "お笑いナタリー"),
+    ("https://natalie.mu/music/feed/news", "artist", "音楽ナタリー"),
+]
 
 # ---------------------------------------------------------------------------
 # 判定ルール
@@ -256,11 +265,18 @@ JUNK_PATTERNS = [
 ]
 
 
-def is_wanted(title: str) -> bool:
+# 公式メディアの記事だけは、出演者発表などの言葉でも載せる
+TRUSTED_EXTRA_WORDS = ["出演者", "ラインナップ", "イベント", "大会", "追加出演", "ゲスト"]
+
+
+def is_wanted(title: str, trusted: bool = False) -> bool:
+    """trusted は、お笑い・音楽専門の公式メディアの記事（ジャンルの言葉が無くても載せる）。"""
     if any(p.search(title) for p in JUNK_PATTERNS):
         return False
     if any(w in title for w in NOT_WANTED_WORDS):
         return False
+    if trusted:
+        return any(w in title for w in LIVE_WORDS + TRUSTED_EXTRA_WORDS)
     if not any(w in title for w in LIVE_WORDS):
         return False
     # ジャンルの手がかり（芸人・音楽の言葉、または推しの名前）がひとつは欲しい
@@ -358,13 +374,20 @@ def unwrap_bing_link(link: str) -> str:
 
 
 def parse_rss(xml_bytes: bytes, provider: str) -> list[dict]:
+    """RSS（<item>）と Atom（<entry>）の両方を読む。"""
     root = ET.fromstring(xml_bytes)
     out = []
     for it in root.iter():
-        if it.tag.split("}")[-1] != "item":
+        if it.tag.split("}")[-1] not in ("item", "entry"):
             continue
         title = clean(child_text(it, "title"))
         link = (child_text(it, "link") or "").strip()
+        if not link:
+            for ln in child_nodes(it, "link"):
+                if ln.get("href") and ln.get("rel", "alternate") == "alternate":
+                    link = ln.get("href").strip()
+                    break
+        summary = clean(child_text(it, "description") or child_text(it, "summary"))[:240]
         if not title or not link:
             continue
         source = clean(child_text(it, "source") or child_text(it, "Source") or child_text(it, "creator"))
@@ -378,8 +401,10 @@ def parse_rss(xml_bytes: bytes, provider: str) -> list[dict]:
             title = title[: -len(" - " + source)].strip()
         if provider == "prtimes" and not source:
             source = "PR TIMES"
-        published = parse_date(child_text(it, "pubDate") or child_text(it, "date"))
-        out.append({"title": title, "link": link, "source": source, "image": image, "published": published})
+        published = parse_date(child_text(it, "pubDate") or child_text(it, "date")
+                               or child_text(it, "published") or child_text(it, "updated"))
+        out.append({"title": title, "link": link, "source": source, "image": image,
+                    "published": published, "summary": summary})
     return out
 
 
@@ -400,10 +425,17 @@ def collect() -> tuple[list[dict], int]:
         jobs.append(("bing", bing_url(q), genre))
         jobs.append(("google", google_url(q), genre))
     jobs.append(("prtimes", PRTIMES_FEED, "artist"))
+    for url, genre, name in DIRECT_FEEDS:
+        jobs.append(("feed:" + name, url, genre))
 
     def work(job):
         provider, url, genre = job
         body, _ = http_get(url)
+        if provider.startswith("feed:"):
+            rows = parse_rss(body, "feed")
+            for r in rows:
+                r.update(default_genre=genre, provider="feed", source=provider[5:], force_genre=genre)
+            return rows
         rows = parse_rss(body, provider)
         for r in rows:
             r.update(default_genre=genre, provider=provider)
@@ -520,11 +552,12 @@ def still_useful(it: dict) -> bool:
 
 def enrich(it: dict, default_genre: str, published: dt.datetime) -> dict:
     title = it["title"]
-    it["genre"] = detect_genre(title, default_genre)
+    text = title + " " + (it.get("summary") or "")   # 日付・エリアは要約からも拾う
+    it["genre"] = it.get("force_genre") or detect_genre(title, default_genre)
     it["type"] = detect_type(title)
-    it["areas"] = detect_areas(title)
-    it["oshi"] = oshi_in(title)
-    it.update(extract_dates(title, published))
+    it["areas"] = detect_areas(text)
+    it["oshi"] = oshi_in(text)
+    it.update(extract_dates(text, published))
     return it
 
 
@@ -554,17 +587,18 @@ def build(raw: list[dict], existing: list[dict]) -> list[dict]:
     cutoff_keep = NOW - dt.timedelta(days=KEEP_DAYS)
     for it in existing:
         d = parse_date(it.get("published"))
-        if not d or any(b in it["link"] for b in BLOCKED_LINKS) or not is_wanted(it["title"]):
+        if not d or any(b in it["link"] for b in BLOCKED_LINKS) or not is_wanted(it["title"], bool(it.get("force_genre"))):
             continue
         if d >= cutoff_keep or still_useful(it):
             # 推しリストや判定ルールを変えたときに、前の記事にも反映する
             add(enrich(it, it.get("genre", "artist"), d))
 
     cutoff_new = NOW - dt.timedelta(days=INGEST_DAYS)
-    order = {"bing": 0, "prtimes": 1, "google": 2}  # 写真付き（Bing）を優先して残す
+    # 公式メディアの直リンク → 写真付き（Bing）の順に優先して残す
+    order = {"feed": 0, "bing": 1, "prtimes": 2, "google": 3}
     for r in sorted(raw, key=lambda r: order.get(r["provider"], 9)):
         title = r["title"]
-        if not is_wanted(title) or any(b in r["link"] for b in BLOCKED_LINKS):
+        if not is_wanted(title, bool(r.get("force_genre"))) or any(b in r["link"] for b in BLOCKED_LINKS):
             continue
         published = r["published"] or NOW
         if published < cutoff_new or published > NOW + dt.timedelta(hours=1):
@@ -579,18 +613,68 @@ def build(raw: list[dict], existing: list[dict]) -> list[dict]:
             "published": published.astimezone(JST).isoformat(timespec="seconds"),
             "provider": r["provider"],
             "added": NOW.astimezone(JST).isoformat(timespec="seconds"),
+            "summary": r.get("summary") or "",
+            "force_genre": r.get("force_genre"),
         }, r["default_genre"], published))
 
     out = sorted(items.values(), key=lambda it: it["published"], reverse=True)
     return out[:MAX_ITEMS]
 
 
+# ---------------------------------------------------------------------------
+# e+ のお笑いチケット（同じ公演名の回はひとつにまとめる）
+# ---------------------------------------------------------------------------
+STATUS_ORDER = {"受付中": 0, "受付前": 1}
+
+
+def build_tickets(rows: list[dict]) -> list[dict]:
+    today = NOW.astimezone(JST).date().isoformat()
+    groups: dict[str, dict] = {}
+    for r in rows:
+        if r["date"] and r["date"] < today:
+            continue
+        base = re.sub(r"\s*[<＜][^>＞]*[>＞]\s*$", "", r["title"]).strip()
+        g = groups.get(base)
+        if not g:
+            g = groups[base] = {
+                "id": item_id(r["link"]), "title": base, "link": r["link"], "label": r["label"],
+                "dates": [], "venues": [], "status": r["status"], "online": r["online"],
+                "areas": [], "oshi": oshi_in(base),
+            }
+        if r["date"] and r["date"] not in g["dates"]:
+            g["dates"].append(r["date"])
+        if r["venue"] and r["venue"] not in g["venues"]:
+            g["venues"].append(r["venue"])
+        # 受付中の回があれば、そちらを代表にする
+        if STATUS_ORDER.get(r["status"], 9) < STATUS_ORDER.get(g["status"], 9):
+            g["status"], g["link"], g["label"] = r["status"], r["link"], r["label"]
+    for g in groups.values():
+        g["dates"].sort()
+        g["areas"] = detect_areas(" ".join(g["venues"]) + (" 配信" if g["online"] else ""))
+        g["venues"] = g["venues"][:4]
+    return sorted(groups.values(), key=lambda g: (g["dates"][0] if g["dates"] else "9999", g["title"]))
+
+
+def load_tickets() -> list[dict]:
+    try:
+        return json.loads(DATA_FILE.read_text("utf-8")).get("tickets", [])
+    except (OSError, ValueError):
+        return []
+
+
 def main() -> int:
     existing = load_existing()
+    try:
+        tickets = build_tickets(eplus.fetch(NOW.astimezone(JST).date()))
+    except Exception as e:
+        print(f"[warn] eplus: {e}", file=sys.stderr)
+        tickets = []
+    if not tickets:
+        tickets = load_tickets()  # 読めなかったときは前回の分を残す
     raw, errors = collect()
     if not raw and existing:
-        print("取得できなかったので前回のデータを残します")
-        return 0
+        print("ニュースを取得できなかったので前回のデータを残します")
+        raw = []
     items = build(raw, existing)
     add_images(items)
     new_count = sum(1 for it in items if it.get("added") == NOW.astimezone(JST).isoformat(timespec="seconds"))
@@ -598,10 +682,10 @@ def main() -> int:
     DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
     stamp = NOW.astimezone(JST).isoformat(timespec="seconds")
     DATA_FILE.write_text(json.dumps(
-        {"updated": stamp, "oshi": OSHI, "items": items}, ensure_ascii=False, indent=1), "utf-8")
+        {"updated": stamp, "oshi": OSHI, "items": items, "tickets": tickets}, ensure_ascii=False, indent=1), "utf-8")
     STATUS_FILE.write_text(json.dumps({
         "updated": stamp, "total": len(items), "new": new_count,
-        "raw": len(raw), "errors": errors,
+        "raw": len(raw), "errors": errors, "tickets": len(tickets),
     }, ensure_ascii=False, indent=1), "utf-8")
     print(f"saved {len(items)} items ({new_count} new)")
     return 0
