@@ -1,0 +1,595 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" id="sixapart-standard" xmlns:og="http://ogp.me/ns#" xmlns:mixi="http://mixi-platform.com/ns#">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<meta name="keywords" content="よしもと,吉本,吉本興業,お笑い,芸人,タレント,ケータイよしもと,ブログ" />
+<meta name="description" content="吉本興業の最新ニュース、おすすめ情報をお届けします。芸人ニュースからイベント情報まで" />
+
+
+<link rel="stylesheet" href="http://news.yoshimoto.co.jp/styles.css" type="text/css" media="screen" />
+
+
+<link rel="alternate" type="application/atom+xml" title="「よしもとニュースセンター」のブログ記事 (Atom)" href="http://news.yoshimoto.co.jp/atom.xml" />
+
+
+<title>よしもとニュースセンター</title>
+<link rel="canonical" href="http://news.yoshimoto.co.jp/" />
+<link rel="start" href="http://news.yoshimoto.co.jp/" title="Home" />
+
+<link rel="alternate" media="handheld" href="http://news.yoshimoto.co.jp/.m/news/" />
+
+<meta property="og:title" content="よしもとニュースセンター" />
+<meta property="og:type" content="article" />
+<meta property="og:description" content="吉本興業の最新ニュース、おすすめ情報をお届けします。芸人ニュースからイベント情報まで" />
+<meta property="og:url" content="http://news.yoshimoto.co.jp/" />
+<!--<meta property="og:image" content="http://news.yoshimoto.co.jp/.shared-asp24/images/ogimage.png" /-->
+<meta property="og:site_name" content="よしもとニュースセンター" />
+
+<!-- include:/news/cojpheader.inc --><link rel="shortcut icon" href="http://www.yoshimoto.co.jp/img/favicon.ico" type="image/x-icon">
+
+<script type="text/javascript" src="http://www.yoshimoto.co.jp/js/common_gnav_news.js"></script>
+<script type="text/javascript" src="http://www.yoshimoto.co.jp/main/common/js/jquery.js"></script>
+<script type="text/javascript" src="http://www.yoshimoto.co.jp/main/common/js/contentParser.js"></script>
+<script type="text/javascript" src="http://www.yoshimoto.co.jp/js/common_banner.js" charset="utf-8"></script>
+<link href="http://www.yoshimoto.co.jp/main/common/css/base.css" rel="stylesheet" type="text/css" media="all" />
+<link href="http://www.yoshimoto.co.jp/main/css/index.css" rel="stylesheet" type="text/css" media="all" /><!-- /include:/news/cojpheader.inc -->
+
+<meta property="fb:pages" content="164063613632708" />
+</head>
+<!-- include:/news/COJP-body-header.inc --><script src="http://news.yoshimoto.co.jp/ext_system/js/link.js" type="text/javascript"></script>
+
+<noscript><p>当サイトではJavaScriptを使用しております。<br/>ご利用のブラウザのJavaScript設定を有効にしてご覧ください。</p></noscript>
+<script type="text/javascript">
+<!--
+header("nojquery");
+// -->
+</script><!-- /include:/news/COJP-body-header.inc -->
+
+<body class="layout-two-column-right">
+<script src="http://news.yoshimoto.co.jp/ext_system/js/link.js" type="text/javascript"></script>
+
+<div id="container">
+<div id="container-inner" class="pkg">
+
+<!-- banner -->
+<div id="banner">
+<div id="banner-inner" class="pkg">
+
+<h1 id="banner-header"><a href="http://news.yoshimoto.co.jp/" accesskey="1">よしもとニュースセンター</a></h1>
+<h2 id="banner-description">吉本興業の最新ニュース、おすすめ情報をお届けします。芸人ニュースからイベント情報まで</h2>
+</div>
+</div>
+
+<div id="pagebody">
+<div id="pagebody-inner" class="pkg">
+<div id="alpha">
+<!-- include:/news/tab.inc --><div class="tab"><a href="http://news.yoshimoto.co.jp/cat2190/" target="_top"><img src="http://news.yoshimoto.co.jp/2013img/tab001.png" alt="最新ニュース" border="0" /></a><a href="http://news.yoshimoto.co.jp/interview/" target="_top"><img src="http://news.yoshimoto.co.jp/2013img/tab004.png" alt="インタビュー" border="0" /></a><a href="http://news.yoshimoto.co.jp/report/" target="_top"><img src="http://news.yoshimoto.co.jp/2013img/tab002.png" alt="ライブレポート" border="0" /></a></div><!-- /include:/news/tab.inc -->
+<div id="alpha-inner" class="pkg">
+ <!-- include:/news/topList.inc --><!-- include:/news/topList1.inc --><div class="entry" style=" width:100%">
+<h3 class="entry-header">最新ニュース</h3>
+
+
+<div class="entry-content">
+<div class="entry-body">
+<div class="blog_box item" id="blog_box_53168981"  style="padding-top:10px; width:100%">
+<div style="float:left; width:320px;">
+2019年2月 4日 (月)
+<h3 style="font:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; font-weight:bold; color:#333; font-size:medium;">よしもとニュースセンターが「ラフ＆ピース ニュースマガジン」として新たにスタート</h3>
+<div style="font-size:small">よしもとニュースセンターは2019年2月4日（月）の投稿を最後に終了し、吉本興業の最新ニュースを届けるエンタメニュースメディア、「ラフ＆ピース ニュースマガジン」として新たにスタートすることとなりました。
+これかもら吉本興業の最新ニュースを届けるエンタメニュースメディアとして、お笑い好きも、そうでな...</div>
+</div>
+
+<div style="float:right; background-color:#FFF; border:solid 1px #CCCCCC; padding:4px">
+<a href="http://news.yoshimoto.co.jp/2019/02/entry90426.php" title="よしもとニュースセンターが「ラフ＆ピース ニュースマガジン」として新たにスタート">
+<img src="http://news.yoshimoto.co.jp/assets_c/2019/02/20190204145920-4d91c402dc206be0dad4f0434a7f0b92a25c0046-thumb-240xauto-407188.png" alt="よしもとニュースセンターが「ラフ＆ピース ニュースマガジン」として新たにスタート" /></a>
+</div>
+
+</div>
+
+<div style="text-align:right; margin:10px 0;">&gt;&gt;<a href="http://news.yoshimoto.co.jp/2019/02/entry90426.php">続きを読む</a></div>
+<!-- post footer links -->
+
+
+<p class="entry-footer-share entry-footer-share-buttons">
+
+
+</p>
+
+</div>
+</div>
+
+
+</div>
+
+<!-- /include:/news/topList1.inc -->
+<div class="entry" style=" width:100%">
+<h3 class="entry-header">ニュースTOPICS</h3>
+<div class="entry-content">
+<div class="entry-body">
+
+<div class="blog_box2 item"  style="padding-top:10px; padding-bottom:10px; width:100%; border-bottom:dotted 1px #CCC;">
+
+<div style="width:60px; height:60px; float:left; background-image:url(http://news.yoshimoto.co.jp/2013img/news.png); background-repeat:no-repeat; border:#ccc solid 1px; padding:2px; background-position:center;">
+<a href="http://news.yoshimoto.co.jp/2019/02/entry90420.php" title="初の明治座座長公演を目前に控える水谷千重子が水天宮の豆まきに参加！ 八公太郎は「アリーナー！」と絶叫しながら豆をまく!!"><img src="http://news.yoshimoto.co.jp/assets_c/2019/02/20190203205721-a5d33f75beaf977955343dbce3d53419b19bd805-thumb-80x80-407122.jpg" alt"初の明治座座長公演を目前に控える水谷千重子が水天宮の豆まきに参加！ 八公太郎は「アリーナー！」と絶叫しながら豆をまく!!" width="60px" /></a>
+</div>
+
+<div style="float:right; width:500px;">
+2019年2月 3日 (日)
+<h3 style="font:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; font-weight:bold; color:#333">
+<a href="http://news.yoshimoto.co.jp/2019/02/entry90420.php" title="初の明治座座長公演を目前に控える水谷千重子が水天宮の豆まきに参加！ 八公太郎は「アリーナー！」と絶叫しながら豆をまく!!">初の明治座座長公演を目前に控える水谷千重子が水天宮の豆まきに参加！ 八公太郎は「アリーナー！」と絶叫しながら豆をまく!!</a>
+</h3>
+</div>
+</div>
+
+<div class="blog_box2 item"  style="padding-top:10px; padding-bottom:10px; width:100%; border-bottom:dotted 1px #CCC;">
+
+<div style="width:60px; height:60px; float:left; background-image:url(http://news.yoshimoto.co.jp/2013img/news.png); background-repeat:no-repeat; border:#ccc solid 1px; padding:2px; background-position:center;">
+<a href="http://news.yoshimoto.co.jp/2019/02/entry90419.php" title="コロチキ、岡崎朋美も「おもてなし研修」に参加！　埼玉県の都市ボランティア説明会・基本研修"><img src="http://news.yoshimoto.co.jp/assets_c/2019/02/20190203175741-9cae6e213de56b459f8cf3388ccbf0114bbbf838-thumb-80x80-407064.jpeg" alt"コロチキ、岡崎朋美も「おもてなし研修」に参加！　埼玉県の都市ボランティア説明会・基本研修" width="60px" /></a>
+</div>
+
+<div style="float:right; width:500px;">
+2019年2月 3日 (日)
+<h3 style="font:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; font-weight:bold; color:#333">
+<a href="http://news.yoshimoto.co.jp/2019/02/entry90419.php" title="コロチキ、岡崎朋美も「おもてなし研修」に参加！　埼玉県の都市ボランティア説明会・基本研修">コロチキ、岡崎朋美も「おもてなし研修」に参加！　埼玉県の都市ボランティア説明会・基本研修</a>
+</h3>
+</div>
+</div>
+
+<div class="blog_box2 item"  style="padding-top:10px; padding-bottom:10px; width:100%; border-bottom:dotted 1px #CCC;">
+
+<div style="width:60px; height:60px; float:left; background-image:url(http://news.yoshimoto.co.jp/2013img/news.png); background-repeat:no-repeat; border:#ccc solid 1px; padding:2px; background-position:center;">
+<a href="http://news.yoshimoto.co.jp/2019/02/entry90412.php" title="第26回ワン・ワールド・フェスティバルに「草の根大使」ペナルティ登場！　"><img src="http://news.yoshimoto.co.jp/assets_c/2019/02/20190203131640-bcee25f5cb17b80524c3a0df1b28ad6503d36629-thumb-80x80-406948.jpg" alt"第26回ワン・ワールド・フェスティバルに「草の根大使」ペナルティ登場！　" width="60px" /></a>
+</div>
+
+<div style="float:right; width:500px;">
+2019年2月 3日 (日)
+<h3 style="font:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; font-weight:bold; color:#333">
+<a href="http://news.yoshimoto.co.jp/2019/02/entry90412.php" title="第26回ワン・ワールド・フェスティバルに「草の根大使」ペナルティ登場！　">第26回ワン・ワールド・フェスティバルに「草の根大使」ペナルティ登場！　</a>
+</h3>
+</div>
+</div>
+
+<div class="blog_box2 item"  style="padding-top:10px; padding-bottom:10px; width:100%; border-bottom:dotted 1px #CCC;">
+
+<div style="width:60px; height:60px; float:left; background-image:url(http://news.yoshimoto.co.jp/2013img/news.png); background-repeat:no-repeat; border:#ccc solid 1px; padding:2px; background-position:center;">
+<a href="http://news.yoshimoto.co.jp/2019/02/entry90409.php" title="メガネも吹き飛ぶ迫力のステージと初握手会でファン熱狂！ 吉本坂46『泣かせてくれよ』発売記念スペシャルイベント"><img src="http://news.yoshimoto.co.jp/assets_c/2019/02/20190202220435-fe7a70e74d91bfd19b2ff8a1f0f243a277bbb5db-thumb-80x80-406877.jpg" alt"メガネも吹き飛ぶ迫力のステージと初握手会でファン熱狂！ 吉本坂46『泣かせてくれよ』発売記念スペシャルイベント" width="60px" /></a>
+</div>
+
+<div style="float:right; width:500px;">
+2019年2月 2日 (土)
+<h3 style="font:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; font-weight:bold; color:#333">
+<a href="http://news.yoshimoto.co.jp/2019/02/entry90409.php" title="メガネも吹き飛ぶ迫力のステージと初握手会でファン熱狂！ 吉本坂46『泣かせてくれよ』発売記念スペシャルイベント">メガネも吹き飛ぶ迫力のステージと初握手会でファン熱狂！ 吉本坂46『泣かせてくれよ』発売記念スペシャルイベント</a>
+</h3>
+</div>
+</div>
+
+<div class="blog_box2 item"  style="padding-top:10px; padding-bottom:10px; width:100%; border-bottom:dotted 1px #CCC;">
+
+<div style="width:60px; height:60px; float:left; background-image:url(http://news.yoshimoto.co.jp/2013img/news.png); background-repeat:no-repeat; border:#ccc solid 1px; padding:2px; background-position:center;">
+<a href="http://news.yoshimoto.co.jp/2019/02/entry90408.php" title="『シソンヌライブ［モノクロ］2019』を３月３日よりスタートさせるシソンヌへインタビュー！ じろう「昨年よりもっと笑いやすいネタにしたいなと」"><img src="http://news.yoshimoto.co.jp/assets_c/2019/02/20190202191911-4a985e408622e304c4e12ad7507a93aff496a142-thumb-80x80-406794.jpg" alt"『シソンヌライブ［モノクロ］2019』を３月３日よりスタートさせるシソンヌへインタビュー！ じろう「昨年よりもっと笑いやすいネタにしたいなと」" width="60px" /></a>
+</div>
+
+<div style="float:right; width:500px;">
+2019年2月 2日 (土)
+<h3 style="font:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; font-weight:bold; color:#333">
+<a href="http://news.yoshimoto.co.jp/2019/02/entry90408.php" title="『シソンヌライブ［モノクロ］2019』を３月３日よりスタートさせるシソンヌへインタビュー！ じろう「昨年よりもっと笑いやすいネタにしたいなと」">『シソンヌライブ［モノクロ］2019』を３月３日よりスタートさせるシソンヌへインタビュー！ じろう「昨年よりもっと笑いやすいネタにしたいなと」</a>
+</h3>
+</div>
+</div>
+
+<div class="blog_box2 item"  style="padding-top:10px; padding-bottom:10px; width:100%; border-bottom:dotted 1px #CCC;">
+
+<div style="width:60px; height:60px; float:left; background-image:url(http://news.yoshimoto.co.jp/2013img/news.png); background-repeat:no-repeat; border:#ccc solid 1px; padding:2px; background-position:center;">
+<a href="http://news.yoshimoto.co.jp/2019/02/entry90395.php" title="マルセイユ東名阪ツアー「INTENSITY」ポスタービジュアル解禁！！"><img src="http://news.yoshimoto.co.jp/assets_c/2019/02/20190201192243-179ce7b90b1fb40c31410145e4e718a8164388c6-thumb-80x80-406531.jpg" alt"マルセイユ東名阪ツアー「INTENSITY」ポスタービジュアル解禁！！" width="60px" /></a>
+</div>
+
+<div style="float:right; width:500px;">
+2019年2月 1日 (金)
+<h3 style="font:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; font-weight:bold; color:#333">
+<a href="http://news.yoshimoto.co.jp/2019/02/entry90395.php" title="マルセイユ東名阪ツアー「INTENSITY」ポスタービジュアル解禁！！">マルセイユ東名阪ツアー「INTENSITY」ポスタービジュアル解禁！！</a>
+</h3>
+</div>
+</div>
+
+<div class="blog_box2 item"  style="padding-top:10px; padding-bottom:10px; width:100%; border-bottom:dotted 1px #CCC;">
+
+<div style="width:60px; height:60px; float:left; background-image:url(http://news.yoshimoto.co.jp/2013img/news.png); background-repeat:no-repeat; border:#ccc solid 1px; padding:2px; background-position:center;">
+<a href="http://news.yoshimoto.co.jp/2019/02/entry90394.php" title="iPhone芸人・かじがや卓哉、ラフピー愛用者にiPhoneの便利な機能をレクチャー！"><img src="http://news.yoshimoto.co.jp/assets_c/2019/02/20190201195946-bff9be552850a13245e05705e0b4891b95150243-thumb-80x80-406699.jpeg" alt"iPhone芸人・かじがや卓哉、ラフピー愛用者にiPhoneの便利な機能をレクチャー！" width="60px" /></a>
+</div>
+
+<div style="float:right; width:500px;">
+2019年2月 1日 (金)
+<h3 style="font:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; font-weight:bold; color:#333">
+<a href="http://news.yoshimoto.co.jp/2019/02/entry90394.php" title="iPhone芸人・かじがや卓哉、ラフピー愛用者にiPhoneの便利な機能をレクチャー！">iPhone芸人・かじがや卓哉、ラフピー愛用者にiPhoneの便利な機能をレクチャー！</a>
+</h3>
+</div>
+</div>
+
+<div class="blog_box2 item"  style="padding-top:10px; padding-bottom:10px; width:100%; border-bottom:dotted 1px #CCC;">
+
+<div style="width:60px; height:60px; float:left; background-image:url(http://news.yoshimoto.co.jp/2013img/news.png); background-repeat:no-repeat; border:#ccc solid 1px; padding:2px; background-position:center;">
+<a href="http://news.yoshimoto.co.jp/2019/02/entry90392.php" title="天竺鼠・川原、ジャルジャルと独特なトークを繰り広げる！『Menomeri 海開きトーク ジャルジャル編』レポート"><img src="http://news.yoshimoto.co.jp/assets_c/2019/02/20190201194131-0fcd6b670c7ecd58a4fa26d10a7aaa817fdb4dd4-thumb-80x80-406631.jpg" alt"天竺鼠・川原、ジャルジャルと独特なトークを繰り広げる！『Menomeri 海開きトーク ジャルジャル編』レポート" width="60px" /></a>
+</div>
+
+<div style="float:right; width:500px;">
+2019年2月 1日 (金)
+<h3 style="font:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; font-weight:bold; color:#333">
+<a href="http://news.yoshimoto.co.jp/2019/02/entry90392.php" title="天竺鼠・川原、ジャルジャルと独特なトークを繰り広げる！『Menomeri 海開きトーク ジャルジャル編』レポート">天竺鼠・川原、ジャルジャルと独特なトークを繰り広げる！『Menomeri 海開きトーク ジャルジャル編』レポート</a>
+</h3>
+</div>
+</div>
+
+<div class="blog_box2 item"  style="padding-top:10px; padding-bottom:10px; width:100%; border-bottom:dotted 1px #CCC;">
+
+<div style="width:60px; height:60px; float:left; background-image:url(http://news.yoshimoto.co.jp/2013img/news.png); background-repeat:no-repeat; border:#ccc solid 1px; padding:2px; background-position:center;">
+<a href="http://news.yoshimoto.co.jp/2019/02/entry90391.php" title="大阪発・COOL JAPANの魅力をギュッと詰め込んだ豪華レビューショー「KEREN」制作発表会見開催！アンバサダー就任のあの大スター！ペリー・キーも登壇"><img src="http://news.yoshimoto.co.jp/assets_c/2019/02/20190201193652-94b36391ac2d6511f1e48ed17ef993e2269688dd-thumb-80x80-406618.jpg" alt"大阪発・COOL JAPANの魅力をギュッと詰め込んだ豪華レビューショー「KEREN」制作発表会見開催！アンバサダー就任のあの大スター！ペリー・キーも登壇" width="60px" /></a>
+</div>
+
+<div style="float:right; width:500px;">
+2019年2月 1日 (金)
+<h3 style="font:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; font-weight:bold; color:#333">
+<a href="http://news.yoshimoto.co.jp/2019/02/entry90391.php" title="大阪発・COOL JAPANの魅力をギュッと詰め込んだ豪華レビューショー「KEREN」制作発表会見開催！アンバサダー就任のあの大スター！ペリー・キーも登壇">大阪発・COOL JAPANの魅力をギュッと詰め込んだ豪華レビューショー「KEREN」制作発表会見開催！アンバサダー就任のあの大スター！ペリー・キーも登壇</a>
+</h3>
+</div>
+</div>
+
+<div class="blog_box2 item"  style="padding-top:10px; padding-bottom:10px; width:100%; border-bottom:dotted 1px #CCC;">
+
+<div style="width:60px; height:60px; float:left; background-image:url(http://news.yoshimoto.co.jp/2013img/news.png); background-repeat:no-repeat; border:#ccc solid 1px; padding:2px; background-position:center;">
+<a href="http://news.yoshimoto.co.jp/2019/02/entry90382.php" title="尼神インターがいちご園モデルの座を賭けて対決！　いちご狩りとよしもと寄席セットプラン＆いちご狩りバスツアー発表記者会見  "><img src="http://news.yoshimoto.co.jp/assets_c/2019/02/20190201171746-c240e29579ae428a63772e1f03e15f862b0f76c8-thumb-80x80-406433.jpeg" alt"尼神インターがいちご園モデルの座を賭けて対決！　いちご狩りとよしもと寄席セットプラン＆いちご狩りバスツアー発表記者会見  " width="60px" /></a>
+</div>
+
+<div style="float:right; width:500px;">
+2019年2月 1日 (金)
+<h3 style="font:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; font-weight:bold; color:#333">
+<a href="http://news.yoshimoto.co.jp/2019/02/entry90382.php" title="尼神インターがいちご園モデルの座を賭けて対決！　いちご狩りとよしもと寄席セットプラン＆いちご狩りバスツアー発表記者会見  ">尼神インターがいちご園モデルの座を賭けて対決！　いちご狩りとよしもと寄席セットプラン＆いちご狩りバスツアー発表記者会見  </a>
+</h3>
+</div>
+</div>
+
+<div class="blog_box2 item"  style="padding-top:10px; padding-bottom:10px; width:100%; border-bottom:dotted 1px #CCC;">
+
+<div style="width:60px; height:60px; float:left; background-image:url(http://news.yoshimoto.co.jp/2013img/news.png); background-repeat:no-repeat; border:#ccc solid 1px; padding:2px; background-position:center;">
+<a href="http://news.yoshimoto.co.jp/2019/02/entry90375.php" title="佐藤太一郎がクラウドファンディング達成！子育て支援特別公演『グッド・コマーシャル』上演"><img src="http://news.yoshimoto.co.jp/assets_c/2019/02/20190201161259-c4e81e0525710dc94c27b3d2f7d26112c1003d78-thumb-80x80-406339.jpg" alt"佐藤太一郎がクラウドファンディング達成！子育て支援特別公演『グッド・コマーシャル』上演" width="60px" /></a>
+</div>
+
+<div style="float:right; width:500px;">
+2019年2月 1日 (金)
+<h3 style="font:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; font-weight:bold; color:#333">
+<a href="http://news.yoshimoto.co.jp/2019/02/entry90375.php" title="佐藤太一郎がクラウドファンディング達成！子育て支援特別公演『グッド・コマーシャル』上演">佐藤太一郎がクラウドファンディング達成！子育て支援特別公演『グッド・コマーシャル』上演</a>
+</h3>
+</div>
+</div>
+
+<div class="blog_box2 item"  style="padding-top:10px; padding-bottom:10px; width:100%; border-bottom:dotted 1px #CCC;">
+
+<div style="width:60px; height:60px; float:left; background-image:url(http://news.yoshimoto.co.jp/2013img/news.png); background-repeat:no-repeat; border:#ccc solid 1px; padding:2px; background-position:center;">
+<a href="http://news.yoshimoto.co.jp/2019/02/entry90360.php" title="インターハイ優勝経験のある寺田克也コーチとキクチウソツカナイ。の『かけっこ教室』in新宿区立淀橋第四小学校　開催！"><img src="http://news.yoshimoto.co.jp/assets_c/2019/02/20190201125252-facfab7416851ac100583252e0e297ecc8eeb7cc-thumb-80x80-406223.jpg" alt"インターハイ優勝経験のある寺田克也コーチとキクチウソツカナイ。の『かけっこ教室』in新宿区立淀橋第四小学校　開催！" width="60px" /></a>
+</div>
+
+<div style="float:right; width:500px;">
+2019年2月 1日 (金)
+<h3 style="font:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; font-weight:bold; color:#333">
+<a href="http://news.yoshimoto.co.jp/2019/02/entry90360.php" title="インターハイ優勝経験のある寺田克也コーチとキクチウソツカナイ。の『かけっこ教室』in新宿区立淀橋第四小学校　開催！">インターハイ優勝経験のある寺田克也コーチとキクチウソツカナイ。の『かけっこ教室』in新宿区立淀橋第四小学校　開催！</a>
+</h3>
+</div>
+</div>
+
+<div class="blog_box2 item"  style="padding-top:10px; padding-bottom:10px; width:100%; border-bottom:dotted 1px #CCC;">
+
+<div style="width:60px; height:60px; float:left; background-image:url(http://news.yoshimoto.co.jp/2013img/news.png); background-repeat:no-repeat; border:#ccc solid 1px; padding:2px; background-position:center;">
+<a href="http://news.yoshimoto.co.jp/2019/02/entry90326.php" title="歩りえこ 【あゆみチャンネル】 本日開設でYouTuber デビュー!!"><img src="http://news.yoshimoto.co.jp/assets_c/2019/01/20190131160253-cfb527e4fa7c9305f9dbb93c89798a5f7c062e0a-thumb-80x80-405915.jpg" alt"歩りえこ 【あゆみチャンネル】 本日開設でYouTuber デビュー!!" width="60px" /></a>
+</div>
+
+<div style="float:right; width:500px;">
+2019年2月 1日 (金)
+<h3 style="font:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; font-weight:bold; color:#333">
+<a href="http://news.yoshimoto.co.jp/2019/02/entry90326.php" title="歩りえこ 【あゆみチャンネル】 本日開設でYouTuber デビュー!!">歩りえこ 【あゆみチャンネル】 本日開設でYouTuber デビュー!!</a>
+</h3>
+</div>
+</div>
+
+<div class="blog_box2 item"  style="padding-top:10px; padding-bottom:10px; width:100%; border-bottom:dotted 1px #CCC;">
+
+<div style="width:60px; height:60px; float:left; background-image:url(http://news.yoshimoto.co.jp/2013img/news.png); background-repeat:no-repeat; border:#ccc solid 1px; padding:2px; background-position:center;">
+<a href="http://news.yoshimoto.co.jp/2019/01/entry90351.php" title="トレンディエンジェル、おかずクラブが"SDGs漫才"を披露！「日経SDGsフォーラム×『就活NEXT 未来を変える会社2020年版』特別セミナー」内「よしもと×SDGsステージ」"><img src="http://news.yoshimoto.co.jp/assets_c/2019/01/20190131225114-676c791abb93f6b98dbc7334435f998ec81cba16-thumb-80x80-406159.jpg" alt"トレンディエンジェル、おかずクラブが"SDGs漫才"を披露！「日経SDGsフォーラム×『就活NEXT 未来を変える会社2020年版』特別セミナー」内「よしもと×SDGsステージ」" width="60px" /></a>
+</div>
+
+<div style="float:right; width:500px;">
+2019年1月31日 (木)
+<h3 style="font:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; font-weight:bold; color:#333">
+<a href="http://news.yoshimoto.co.jp/2019/01/entry90351.php" title="トレンディエンジェル、おかずクラブが"SDGs漫才"を披露！「日経SDGsフォーラム×『就活NEXT 未来を変える会社2020年版』特別セミナー」内「よしもと×SDGsステージ」">トレンディエンジェル、おかずクラブが"SDGs漫才"を披露！「日経SDGsフォーラム×『就活NEXT 未来を変える会社2020年版』特別セミナー」内「よしもと×SDGsステージ」</a>
+</h3>
+</div>
+</div>
+
+<div class="blog_box2 item"  style="padding-top:10px; padding-bottom:10px; width:100%; border-bottom:dotted 1px #CCC;">
+
+<div style="width:60px; height:60px; float:left; background-image:url(http://news.yoshimoto.co.jp/2013img/news.png); background-repeat:no-repeat; border:#ccc solid 1px; padding:2px; background-position:center;">
+<a href="http://news.yoshimoto.co.jp/2019/01/entry90332.php" title=" よしすぽ　よしもとが笑いで教えるスポーツ教室　～特上ウォーキングのすすめ～"><img src="http://news.yoshimoto.co.jp/assets_c/2019/01/20190131173013-563e98b27035518619863f17b7ce8fe350aebcf6-thumb-80x80-405985.jpg" alt" よしすぽ　よしもとが笑いで教えるスポーツ教室　～特上ウォーキングのすすめ～" width="60px" /></a>
+</div>
+
+<div style="float:right; width:500px;">
+2019年1月31日 (木)
+<h3 style="font:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; font-weight:bold; color:#333">
+<a href="http://news.yoshimoto.co.jp/2019/01/entry90332.php" title=" よしすぽ　よしもとが笑いで教えるスポーツ教室　～特上ウォーキングのすすめ～"> よしすぽ　よしもとが笑いで教えるスポーツ教室　～特上ウォーキングのすすめ～</a>
+</h3>
+</div>
+</div>
+
+<div class="blog_box2 item"  style="padding-top:10px; padding-bottom:10px; width:100%; border-bottom:dotted 1px #CCC;">
+
+<div style="width:60px; height:60px; float:left; background-image:url(http://news.yoshimoto.co.jp/2013img/news.png); background-repeat:no-repeat; border:#ccc solid 1px; padding:2px; background-position:center;">
+<a href="http://news.yoshimoto.co.jp/2019/01/entry90323.php" title="2月7日(木)映画「Bの戦場」舞台挨拶付きプレミア上映会 開催決定"><img src="http://news.yoshimoto.co.jp/assets_c/2019/02/20190201104741-a4841d5e95956c347439b872f126ad3b14582338-thumb-80x80-406182.jpg" alt"2月7日(木)映画「Bの戦場」舞台挨拶付きプレミア上映会 開催決定" width="60px" /></a>
+</div>
+
+<div style="float:right; width:500px;">
+2019年1月31日 (木)
+<h3 style="font:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; font-weight:bold; color:#333">
+<a href="http://news.yoshimoto.co.jp/2019/01/entry90323.php" title="2月7日(木)映画「Bの戦場」舞台挨拶付きプレミア上映会 開催決定">2月7日(木)映画「Bの戦場」舞台挨拶付きプレミア上映会 開催決定</a>
+</h3>
+</div>
+</div>
+
+<div class="blog_box2 item"  style="padding-top:10px; padding-bottom:10px; width:100%; border-bottom:dotted 1px #CCC;">
+
+<div style="width:60px; height:60px; float:left; background-image:url(http://news.yoshimoto.co.jp/2013img/news.png); background-repeat:no-repeat; border:#ccc solid 1px; padding:2px; background-position:center;">
+<a href="http://news.yoshimoto.co.jp/2019/01/entry90315.php" title="間寛平とFUJIWARA・原西によるサルとゴリラの対決が実現!?「キリン×よしもと みんなの運動部」が発足！"><img src="http://news.yoshimoto.co.jp/assets_c/2019/01/20190131141720-46ffa893d7fda7c0aff17759f85c385a9d0fb37f-thumb-80x80-405880.jpg" alt"間寛平とFUJIWARA・原西によるサルとゴリラの対決が実現!?「キリン×よしもと みんなの運動部」が発足！" width="60px" /></a>
+</div>
+
+<div style="float:right; width:500px;">
+2019年1月31日 (木)
+<h3 style="font:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; font-weight:bold; color:#333">
+<a href="http://news.yoshimoto.co.jp/2019/01/entry90315.php" title="間寛平とFUJIWARA・原西によるサルとゴリラの対決が実現!?「キリン×よしもと みんなの運動部」が発足！">間寛平とFUJIWARA・原西によるサルとゴリラの対決が実現!?「キリン×よしもと みんなの運動部」が発足！</a>
+</h3>
+</div>
+</div>
+
+<div class="blog_box2 item"  style="padding-top:10px; padding-bottom:10px; width:100%; border-bottom:dotted 1px #CCC;">
+
+<div style="width:60px; height:60px; float:left; background-image:url(http://news.yoshimoto.co.jp/2013img/news.png); background-repeat:no-repeat; border:#ccc solid 1px; padding:2px; background-position:center;">
+<a href="http://news.yoshimoto.co.jp/2019/01/entry90240.php" title="「ヒューマンステージ・イン・キョウト2019」で、 銀シャリ、ネイビーズアフロらと「人権」を笑って学ぶ！"><img src="http://news.yoshimoto.co.jp/assets_c/2019/01/20190129121953-86a159818d1bebaca2a6fdf78adf0012302b2df7-thumb-80x80-405342.jpg" alt"「ヒューマンステージ・イン・キョウト2019」で、 銀シャリ、ネイビーズアフロらと「人権」を笑って学ぶ！" width="60px" /></a>
+</div>
+
+<div style="float:right; width:500px;">
+2019年1月31日 (木)
+<h3 style="font:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; font-weight:bold; color:#333">
+<a href="http://news.yoshimoto.co.jp/2019/01/entry90240.php" title="「ヒューマンステージ・イン・キョウト2019」で、 銀シャリ、ネイビーズアフロらと「人権」を笑って学ぶ！">「ヒューマンステージ・イン・キョウト2019」で、 銀シャリ、ネイビーズアフロらと「人権」を笑って学ぶ！</a>
+</h3>
+</div>
+</div>
+
+<div class="blog_box2 item"  style="padding-top:10px; padding-bottom:10px; width:100%; border-bottom:dotted 1px #CCC;">
+
+<div style="width:60px; height:60px; float:left; background-image:url(http://news.yoshimoto.co.jp/2013img/news.png); background-repeat:no-repeat; border:#ccc solid 1px; padding:2px; background-position:center;">
+<a href="http://news.yoshimoto.co.jp/2019/01/entry90305.php" title="アキナがMCのオーディション番組『マンモスター+』からメンズパフォーマンス集団誕生！"><img src="http://news.yoshimoto.co.jp/assets_c/2019/01/20190131105824-f47d1d224c2fca993f99577909fa5924546bd4f4-thumb-80x80-405743.jpg" alt"アキナがMCのオーディション番組『マンモスター+』からメンズパフォーマンス集団誕生！" width="60px" /></a>
+</div>
+
+<div style="float:right; width:500px;">
+2019年1月31日 (木)
+<h3 style="font:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; font-weight:bold; color:#333">
+<a href="http://news.yoshimoto.co.jp/2019/01/entry90305.php" title="アキナがMCのオーディション番組『マンモスター+』からメンズパフォーマンス集団誕生！">アキナがMCのオーディション番組『マンモスター+』からメンズパフォーマンス集団誕生！</a>
+</h3>
+</div>
+</div>
+
+<div class="blog_box2 item"  style="padding-top:10px; padding-bottom:10px; width:100%; border-bottom:dotted 1px #CCC;">
+
+<div style="width:60px; height:60px; float:left; background-image:url(http://news.yoshimoto.co.jp/2013img/news.png); background-repeat:no-repeat; border:#ccc solid 1px; padding:2px; background-position:center;">
+<a href="http://news.yoshimoto.co.jp/2019/01/entry90300.php" title="霜降り明星、NSC東京24期生へコンビとしての在り方について熱く語る！"><img src="http://news.yoshimoto.co.jp/assets_c/2019/01/20190130233504-02138661662ad9ecb4396b51575682b675d58622-thumb-80x80-405675.jpg" alt"霜降り明星、NSC東京24期生へコンビとしての在り方について熱く語る！" width="60px" /></a>
+</div>
+
+<div style="float:right; width:500px;">
+2019年1月30日 (水)
+<h3 style="font:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; font-weight:bold; color:#333">
+<a href="http://news.yoshimoto.co.jp/2019/01/entry90300.php" title="霜降り明星、NSC東京24期生へコンビとしての在り方について熱く語る！">霜降り明星、NSC東京24期生へコンビとしての在り方について熱く語る！</a>
+</h3>
+</div>
+</div>
+
+<div class="blog_box2 item"  style="padding-top:10px; padding-bottom:10px; width:100%; border-bottom:dotted 1px #CCC;">
+
+<div style="width:60px; height:60px; float:left; background-image:url(http://news.yoshimoto.co.jp/2013img/news.png); background-repeat:no-repeat; border:#ccc solid 1px; padding:2px; background-position:center;">
+<a href="http://news.yoshimoto.co.jp/2019/01/entry90293.php" title="「参地直笑 祭 in 西淀川区」で桂文枝が創作落語「しあわせのアイランド」をお披露目！"><img src="http://news.yoshimoto.co.jp/assets_c/2019/01/20190130181826-2133b56f17f7d511b9ee1d609896761db6dba642-thumb-80x80-405609.jpg" alt"「参地直笑 祭 in 西淀川区」で桂文枝が創作落語「しあわせのアイランド」をお披露目！" width="60px" /></a>
+</div>
+
+<div style="float:right; width:500px;">
+2019年1月30日 (水)
+<h3 style="font:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; font-weight:bold; color:#333">
+<a href="http://news.yoshimoto.co.jp/2019/01/entry90293.php" title="「参地直笑 祭 in 西淀川区」で桂文枝が創作落語「しあわせのアイランド」をお披露目！">「参地直笑 祭 in 西淀川区」で桂文枝が創作落語「しあわせのアイランド」をお披露目！</a>
+</h3>
+</div>
+</div>
+
+<div class="blog_box2 item"  style="padding-top:10px; padding-bottom:10px; width:100%; border-bottom:dotted 1px #CCC;">
+
+<div style="width:60px; height:60px; float:left; background-image:url(http://news.yoshimoto.co.jp/2013img/news.png); background-repeat:no-repeat; border:#ccc solid 1px; padding:2px; background-position:center;">
+<a href="http://news.yoshimoto.co.jp/2019/01/entry90290.php" title="ジャルジャル、「バレンタインジャンボ宝くじ」発売記念イベントで学生時代のほろ苦いバレンタインエピソードを語る！"><img src="http://news.yoshimoto.co.jp/assets_c/2019/01/20190130164700-d0339e9598fbaa87b64954fe842f105d4a876805-thumb-80x80-405538.jpeg" alt"ジャルジャル、「バレンタインジャンボ宝くじ」発売記念イベントで学生時代のほろ苦いバレンタインエピソードを語る！" width="60px" /></a>
+</div>
+
+<div style="float:right; width:500px;">
+2019年1月30日 (水)
+<h3 style="font:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; font-weight:bold; color:#333">
+<a href="http://news.yoshimoto.co.jp/2019/01/entry90290.php" title="ジャルジャル、「バレンタインジャンボ宝くじ」発売記念イベントで学生時代のほろ苦いバレンタインエピソードを語る！">ジャルジャル、「バレンタインジャンボ宝くじ」発売記念イベントで学生時代のほろ苦いバレンタインエピソードを語る！</a>
+</h3>
+</div>
+</div>
+
+<div class="blog_box2 item"  style="padding-top:10px; padding-bottom:10px; width:100%; border-bottom:dotted 1px #CCC;">
+
+<div style="width:60px; height:60px; float:left; background-image:url(http://news.yoshimoto.co.jp/2013img/news.png); background-repeat:no-repeat; border:#ccc solid 1px; padding:2px; background-position:center;">
+<a href="http://news.yoshimoto.co.jp/2019/01/entry90289.php" title="福岡の伝説的ローカル番組『福岡人志、』遂にDVD化！　パンクブーブー・黒瀬、DVD発売記念インタビュー"><img src="http://news.yoshimoto.co.jp/assets_c/2019/01/20190130163309-251b1359e9059db9a8a23659f9ac257cc37898bc-thumb-80x80-405506.jpg" alt"福岡の伝説的ローカル番組『福岡人志、』遂にDVD化！　パンクブーブー・黒瀬、DVD発売記念インタビュー" width="60px" /></a>
+</div>
+
+<div style="float:right; width:500px;">
+2019年1月30日 (水)
+<h3 style="font:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; font-weight:bold; color:#333">
+<a href="http://news.yoshimoto.co.jp/2019/01/entry90289.php" title="福岡の伝説的ローカル番組『福岡人志、』遂にDVD化！　パンクブーブー・黒瀬、DVD発売記念インタビュー">福岡の伝説的ローカル番組『福岡人志、』遂にDVD化！　パンクブーブー・黒瀬、DVD発売記念インタビュー</a>
+</h3>
+</div>
+</div>
+
+<div class="blog_box2 item"  style="padding-top:10px; padding-bottom:10px; width:100%; border-bottom:dotted 1px #CCC;">
+
+<div style="width:60px; height:60px; float:left; background-image:url(http://news.yoshimoto.co.jp/2013img/news.png); background-repeat:no-repeat; border:#ccc solid 1px; padding:2px; background-position:center;">
+<a href="http://news.yoshimoto.co.jp/2019/01/entry90287.php" title="芸能生活15周年　風水芸人出雲阿国がミュージシャン デビュー！！"><img src="http://news.yoshimoto.co.jp/assets_c/2019/01/20190130151740-eb5d32b11f14055bcac062fd609550b7b6ed1dfb-thumb-80x80-405486.jpg" alt"芸能生活15周年　風水芸人出雲阿国がミュージシャン デビュー！！" width="60px" /></a>
+</div>
+
+<div style="float:right; width:500px;">
+2019年1月30日 (水)
+<h3 style="font:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; font-weight:bold; color:#333">
+<a href="http://news.yoshimoto.co.jp/2019/01/entry90287.php" title="芸能生活15周年　風水芸人出雲阿国がミュージシャン デビュー！！">芸能生活15周年　風水芸人出雲阿国がミュージシャン デビュー！！</a>
+</h3>
+</div>
+</div>
+
+<div class="blog_box2 item"  style="padding-top:10px; padding-bottom:10px; width:100%; border-bottom:dotted 1px #CCC;">
+
+<div style="width:60px; height:60px; float:left; background-image:url(http://news.yoshimoto.co.jp/2013img/news.png); background-repeat:no-repeat; border:#ccc solid 1px; padding:2px; background-position:center;">
+<a href="http://news.yoshimoto.co.jp/2019/01/entry90281.php" title="チュート・徳井のルーツは冴羽獠にあった!?『劇場版シティーハンター〈新宿プライベート・アイズ〉』完成披露舞台挨拶"><img src="http://news.yoshimoto.co.jp/assets_c/2019/01/20190130053214-4f762161fbaa413359442078cdabe5eef62e8117-thumb-80x80-405458.jpg" alt"チュート・徳井のルーツは冴羽獠にあった!?『劇場版シティーハンター〈新宿プライベート・アイズ〉』完成披露舞台挨拶" width="60px" /></a>
+</div>
+
+<div style="float:right; width:500px;">
+2019年1月30日 (水)
+<h3 style="font:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; font-weight:bold; color:#333">
+<a href="http://news.yoshimoto.co.jp/2019/01/entry90281.php" title="チュート・徳井のルーツは冴羽獠にあった!?『劇場版シティーハンター〈新宿プライベート・アイズ〉』完成披露舞台挨拶">チュート・徳井のルーツは冴羽獠にあった!?『劇場版シティーハンター〈新宿プライベート・アイズ〉』完成披露舞台挨拶</a>
+</h3>
+</div>
+</div>
+
+<div style="text-align:right; margin:10px 0;">&gt;&gt;<a href="http://news.yoshimoto.co.jp/cat2190/">もっとみる</a></div>
+
+
+</div>
+</div>
+</div>
+
+<!-- /include:/news/topList.inc -->
+</div>
+</div>
+<div id="beta">
+<div id="beta-inner" class="pkg">
+<div class="module-search module">
+  <h2 class="module-header">キーワード検索</h2>
+  <div class="module-content">
+    <form method="get" action="http://news.yoshimoto.co.jp/mt/mt-search.cgi" class="clearfix">
+      <input type="text" name="search" value="" />
+      <input type="hidden" name="IncludeBlogs" value="151,168,170,171,228,229,236" />
+      <input type="hidden" name="blog_id" value="151" />
+      <input type="hidden" name="limit" value="20" />
+      <input type="submit" value="検索" />
+    </form>
+  </div>
+</div>
+<!-- include:/news/sidebar.inc --><!-- sidebar -->
+<!-- include:/news/rightbanner.inc -->
+    <script type="text/javascript">
+    <!--
+    banner();
+    // -->
+    </script>
+    <!-- //rightClmn -->
+<!-- /include:/news/rightbanner.inc -->
+<div class="module-archives module">
+<h2 class="module-header"><a href="http://news.yoshimoto.co.jp/archives.php">アーカイブ</a></h2>
+<div class="module-content">
+<ul class="module-list">
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/2019/01/">
+2019年1月</a></li>
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/2018/12/">
+2018年12月</a></li>
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/2018/11/">
+2018年11月</a></li>
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/2018/10/">
+2018年10月</a></li>
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/2018/09/">
+2018年9月</a></li>
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/2018/08/">
+2018年8月</a></li>
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/2018/07/">
+2018年7月</a></li>
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/2018/06/">
+2018年6月</a></li>
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/2018/05/">
+2018年5月</a></li>
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/2018/04/">
+2018年4月</a></li>
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/2018/03/">
+2018年3月</a></li>
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/2018/02/">
+2018年2月</a></li>
+<li class="module-list-item"><a href="/news2015/">2015年〜</a></li>
+<li class="module-list-item"><a href="/news2014/">2014年〜</a></li>
+<li class="module-list-item"><a href="/news2013/">2013年〜</a></li>
+<li class="module-list-item"><a href="/news2012/">2012年〜</a></li>
+<li class="module-list-item"><a href="/news2011/">2011年〜</a></li>
+<li class="module-list-item"><a href="/news2010/">2010年〜</a></li>
+</ul>
+</div>
+</div>
+<div class="module-categories module">
+<h2 class="module-header"><a href="http://news.yoshimoto.co.jp/archives.php">カテゴリ</a></h2>
+<div class="module-content">
+<ul class="module-list">
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/cat4508/">映画会見・舞台挨拶</a></li>
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/postyoshimoto/">ｲﾝﾀﾋﾞｭｰ_ポストよしもと</a></li>
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/nishiumeda-gekijo/">ｲﾝﾀﾋﾞｭｰ_よしもと西梅田劇場</a></li>
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/okinawakagetsu/">ｲﾝﾀﾋﾞｭｰ_よしもと沖縄花月</a></li>
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/manzaigekijyo/">ｲﾝﾀﾋﾞｭｰ_よしもと漫才劇場</a></li>
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/ngk/">ｲﾝﾀﾋﾞｭｰ_なんばグランド花月</a></li>
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/interview-5up/">ｲﾝﾀﾋﾞｭｰ_5upよしもと</a></li>
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/gion/">ｲﾝﾀﾋﾞｭｰ_よしもと祇園花月</a></li>
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/lumine/">ｲﾝﾀﾋﾞｭｰ_ルミネtheよしもと</a></li>
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/jimbocho/">ｲﾝﾀﾋﾞｭｰ_神保町花月</a></li>
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/mugendai/">ｲﾝﾀﾋﾞｭｰ_ヨシモト∞ホール</a></li>
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/asakusa/">ｲﾝﾀﾋﾞｭｰ_浅草花月</a></li>
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/makuhari/">ｲﾝﾀﾋﾞｭｰ_よしもと幕張ｲｵﾝﾓｰﾙ</a></li>
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/zaza/">ｲﾝﾀﾋﾞｭｰ_道頓堀ZAZAよしもとライブ</a></li>
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/numazu/">ｲﾝﾀﾋﾞｭｰ_沼津ラクーンよしもと劇場</a></li>
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/omiya/">ｲﾝﾀﾋﾞｭｰ_大宮ラクーンよしもと劇場</a></li>
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/cat2204/">その他</a></li>
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/other/">other</a></li>
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/webpc/">ケータイ・WEB・PC</a></li>
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/cat2191/">記者会見</a></li>
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/cat2190/">最新ニュース</a></li>
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/5up/">5up</a></li>
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/report/">ライブレポート</a></li>
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/interview/">インタビュー</a></li>
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/cat2176/">出産</a></li>
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/cat2175/">メルマガ</a></li>
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/cddvd/">出版・CD・DVD・グッズ</a></li>
+<li class="module-list-item"><a href="http://news.yoshimoto.co.jp/cat2172/">劇場・イベント</a></li>
+</ul>
+</div>
+</div>
+<div class="module-syndicate module">
+<div class="module-content">
+<a href="http://news.yoshimoto.co.jp/index.rdf">RSS（XML）フィード</a>
+</div>
+</div>
+<!-- /include:/news/sidebar.inc -->
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<!-- include:/news/cojpfootbar.inc -->
+<div id="footbar">
+<p><a href="http://www.yoshimoto.co.jp/main/contents/index.html"><img src="http://www.yoshimoto.co.jp/main/img/footbar_btn.png" width="196" height="42" title="全コンテンツ一覧" class="btn" /></a></p>
+<!-- //footbar --></div>
+<div id="footer">
+<script type="text/javascript">
+<!--
+footer();
+// -->
+</script>
+</div><!-- /include:/news/cojpfootbar.inc -->
+
+
+
+</body>
+</html>

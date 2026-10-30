@@ -1,0 +1,2929 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+>
+
+	<channel>
+		<title>FANY Magazine</title>
+		<atom:link href="https://magazine.fany.lol/feed/" rel="self" type="application/rss+xml" />
+		<link>https://magazine.fany.lol</link>
+		<description>ライブやテレビ番組情報のほか、読み応えのあるインタビュー、オリジナル企画、芸人連載など、ここでしか読めない記事が詰まっています。</description>
+		<lastBuildDate>Fri, 30 Oct 2026 11:14:45 +0000</lastBuildDate>
+		<language>ja</language>
+		<sy:updatePeriod>
+			hourly		</sy:updatePeriod>
+		<sy:updateFrequency>
+			1		</sy:updateFrequency>
+		
+
+<image>
+	<url>https://magazine.fany.lol/wp-content/uploads/2024/12/cropped-favicon512-32x32.png</url>
+	<title>FANY Magazine</title>
+	<link>https://magazine.fany.lol</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+		<item>
+			<title>進化し続ける王道、24年目の到達点。ティーアップによる『漫才攻め』がなんばグランド花月にて2027年も開催決定!</title>
+			<link>https://magazine.fany.lol/293946/</link>
+						<pubDate>Fri, 30 Oct 2026 11:14:42 +0000			</pubDate>
+			<dc:creator>
+				<![CDATA[岩﨑直哉]]>
+			</dc:creator>
+					<category><![CDATA[お知らせ]]></category>
+		<category><![CDATA[ニュース]]></category>
+		<category><![CDATA[ティーアップ]]></category>
+		<category><![CDATA[なんばグランド花月]]></category>
+
+			<guid isPermaLink="false">https://magazine.fany.lol/?p=293946</guid>
+						<image>
+				<url>https://magazine.fany.lol/wp-content/uploads/2026/10/M2023-4.jpg</url>
+			</image>
+			<enclosure url="https://magazine.fany.lol/wp-content/uploads/2026/10/M2023-4.jpg" type="image/jpeg" />
+									<description>
+				<![CDATA[ティーアップ恒例の年に一度の単独ライブ「ティーアップ 漫才攻め」を、2027年2月19日（金）になんばグランド花月にて開催！　今回で24回目を迎える「ティーアップ 漫才攻め24」をお届けします。研ぎ澄まされたしゃべくり漫才と、長年の経験を重ねることで生まれる絶妙な掛け合い…]]>
+			</description>
+											<content:encoded>
+				<![CDATA[
+					
+<p>ティーアップ恒例の年に一度の単独ライブ「ティーアップ 漫才攻め」を、2027年2月19日（金）になんばグランド花月にて開催！　今回で24回目を迎える「ティーアップ 漫才攻め24」をお届けします。<br>研ぎ澄まされたしゃべくり漫才と、長年の経験を重ねることで生まれる絶妙な掛け合いで、なんばグランド花月を爆笑の渦に巻き込みます。</p>
+
+
+
+<h2 class="wp-block-heading">王道から新ネタまで！ ティーアップの真骨頂を味わう“一夜限りの漫才攻め”</h2>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="2480" height="3508" src="https://magazine.fany.lol/wp-content/uploads/2026/10/282bf7ac165fbc42b2ed49fde9660b6b.jpg" alt="出典: FANY マガジン" class="wp-image-295044" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/282bf7ac165fbc42b2ed49fde9660b6b.jpg 2480w, https://magazine.fany.lol/wp-content/uploads/2026/10/282bf7ac165fbc42b2ed49fde9660b6b-1600x2263.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/282bf7ac165fbc42b2ed49fde9660b6b-800x1132.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/282bf7ac165fbc42b2ed49fde9660b6b-350x495.jpg 350w" sizes="(max-width: 2480px) 100vw, 2480px" /></figure>
+
+
+
+<p>王道の漫才はもちろん、この日しか見られない渾身の新ネタまで、“漫才攻め”のタイトルにふさわしく、攻めの姿勢を貫くティーアップの真骨頂を余すことなく披露します。<br>チケットは10月31日（土）10:00より一般発売開始！<br>一年に一度の特別な一夜。ベテランならではの安定感と、尽きることのない笑いへの挑戦を、ぜひ劇場でご体感ください。</p>
+
+
+
+<h2 class="wp-block-heading">ティーアップ　コメント</h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="400" height="400" src="https://magazine.fany.lol/wp-content/uploads/2026/10/8b15beac4ac15ca9569fe34367bbee66-1.jpg" alt="出典: FANY マガジン" class="wp-image-293949" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/8b15beac4ac15ca9569fe34367bbee66-1.jpg 400w, https://magazine.fany.lol/wp-content/uploads/2026/10/8b15beac4ac15ca9569fe34367bbee66-1-350x350.jpg 350w" sizes="(max-width: 400px) 100vw, 400px" /></figure>
+
+
+
+<p><strong>前田勝</strong><br>ティーアップの漫才攻めも、今回で24回目！<br>いつも応援してくれて、ほんまにありがとう！<br>今回も思いっきり笑っていってな！</p>
+
+
+
+<p><strong>長谷川宏</strong><br>このイベントを始めた頃は35歳。<br>2時間の漫才なんてへっちゃらでこなして、そのあと打ち上げでガンガンお酒を飲んでも翌日は仕事に支障はございませんでしたが、最近は漫才中に足をつるようなことが起こりだし&#8230;(笑)<br>前々日あたりから体調を整え、このイベントに挑むようにしています。<br>体調を万全にして、漫才攻めを通じて皆さんと楽しい2時間を過ごせればと思いますので、ぜひ足をお運びください。</p>
+
+
+
+<h3 class="wp-block-heading">公演概要</h3>
+
+
+
+<p><strong>ティーアップ 漫才攻め24<br></strong>日時：2027年2月19日（金）開場18:30／開演19:00<br>会場：なんばグランド花月<br>出演：ティーアップ<br>料金：前売 3,500円／当日 4,000円<br>チケット販売：FANYチケット・チケットぴあ・ローソンチケット<br>チケット発売：10月31日（土）10:00</p>
+
+
+
+
+
+
+
+
+<p></p>
+				]]>
+			</content:encoded>
+																	</item>
+				<item>
+			<title>東から、ニューヨーク・ドンデコルテ・エバース、西からはシルク・黒帯・豪快キャプテンらが大集結『新春ラフフェスin森ノ宮2027』開催決定!</title>
+			<link>https://magazine.fany.lol/294997/</link>
+						<pubDate>Fri, 30 Oct 2026 11:00:00 +0000			</pubDate>
+			<dc:creator>
+				<![CDATA[粟田里咲]]>
+			</dc:creator>
+					<category><![CDATA[お知らせ]]></category>
+		<category><![CDATA[ニュース]]></category>
+		<category><![CDATA[9番街レトロ]]></category>
+		<category><![CDATA[エバース]]></category>
+		<category><![CDATA[シルク]]></category>
+		<category><![CDATA[ニューヨーク]]></category>
+		<category><![CDATA[ヒューマン中村]]></category>
+		<category><![CDATA[ラフフェス]]></category>
+		<category><![CDATA[レインボー]]></category>
+		<category><![CDATA[黒帯]]></category>
+
+			<guid isPermaLink="false">https://magazine.fany.lol/?p=294997</guid>
+						<image>
+				<url>https://magazine.fany.lol/wp-content/uploads/2026/10/89ff19b70d3eb0a6e546a763b61e01b6.png</url>
+			</image>
+			<enclosure url="https://magazine.fany.lol/wp-content/uploads/2026/10/89ff19b70d3eb0a6e546a763b61e01b6.png" type="image/jpeg" />
+									<description>
+				<![CDATA[よしもとがお届けする笑いの祭典『ラフフェス』。2027年11月、COOL JAPAN PARK OSAKA TTホールにて『新春ラフフェスin森ノ宮2027』が開催されることが決定しました。 よしもと芸人をはじめ、事務所の垣根を超えた芸人たちによるここでしか見られないコラ…]]>
+			</description>
+											<content:encoded>
+				<![CDATA[
+					
+<p>よしもとがお届けする笑いの祭典『ラフフェス』。2027年11月、COOL JAPAN PARK OSAKA TTホールにて『新春ラフフェスin森ノ宮2027』が開催されることが決定しました。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="4000" height="2250" src="https://magazine.fany.lol/wp-content/uploads/2026/10/laughfes_KV_fix_HD.jpg" alt="出典: FANY マガジン" class="wp-image-295001" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/laughfes_KV_fix_HD.jpg 4000w, https://magazine.fany.lol/wp-content/uploads/2026/10/laughfes_KV_fix_HD-1600x900.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/laughfes_KV_fix_HD-800x450.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/laughfes_KV_fix_HD-350x197.jpg 350w" sizes="(max-width: 4000px) 100vw, 4000px" /></figure>
+
+
+
+<p>よしもと芸人をはじめ、事務所の垣根を超えた芸人たちによるここでしか見られないコラボ企画やおもしろライブが盛りだくさんの「ラフフェス」！</p>
+
+
+
+<p>2回目の開催となるエバース・町田による『しゃ奉行町田～全国行脚出発式～』や、シルク率いる美容部がラフフェスについに登場『よしもと美容部inラフフェス』、お笑い×謎解きイベント『芸人とともに謎を解き明かせ！？～地球侵略計画を阻止せよ！編～』など人気企画はもちろん、東阪の同期の初ツーマンライブ『ニューヨーク×黒帯「黒ヨーク」』や、人気芸人による親子で楽しめる寄席の『新春初笑いスペシャル！親子で笑おう！わくわくキッズお笑いライブ！』、さらにM-1ツアーで食べ損ねた“豚まん”を食べるライブ『あの日、老祥記が食べたくて、、』など、東西の芸人が集結し、それぞれの個性と魅力が詰まった公演をお届けします。</p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">公演ラインナップ</h2>
+
+
+
+<p>■<strong>ニューヨーク×黒帯「黒ヨーク」</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1920" height="1080" src="https://magazine.fany.lol/wp-content/uploads/2026/10/1a7aee4055d198f17e9cbe22b1c8f740.jpg" alt="出典: FANY マガジン" class="wp-image-295017" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/1a7aee4055d198f17e9cbe22b1c8f740.jpg 1920w, https://magazine.fany.lol/wp-content/uploads/2026/10/1a7aee4055d198f17e9cbe22b1c8f740-1600x900.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/1a7aee4055d198f17e9cbe22b1c8f740-800x450.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/1a7aee4055d198f17e9cbe22b1c8f740-350x197.jpg 350w" sizes="(max-width: 1920px) 100vw, 1920px" /></figure>
+
+
+
+<p>東京と大阪、それぞれの地で独自のお笑いを磨いてきた、東阪の同期ニューヨーク×黒帯の初ツーマンライブ。<br>２組のネタとヒリつく？コーナーをご覧ください！</p>
+
+
+
+<p>＜公演概要＞<br>日時：1月9日（土）10：30開場／11：00開演<br>料金：前売3,500円／当日4,000円／配信2,000円<br>出演：黒帯、ニューヨーク</p>
+
+
+
+<p><strong>＜黒帯・てらうち　コメント＞<br></strong>ニューヨークの天下取りまで秒読みです。ニューヨークの隣には我々がいます。よろしくお願いします。</p>
+
+
+
+<p><strong>＜黒帯・大西　コメント＞ <br></strong>今ニューヨークとツーマンできるということは芸人としてかなりのステータスです。登り詰めました<strong>。</strong></p>
+
+
+
+<p></p>
+
+
+
+<p>■<strong>エバース軍団関西支部をつくる会</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1920" height="1080" src="https://magazine.fany.lol/wp-content/uploads/2026/10/df93b7f6f420d60fcdcb463e596a2a67.jpg" alt="出典: FANY マガジン" class="wp-image-295019" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/df93b7f6f420d60fcdcb463e596a2a67.jpg 1920w, https://magazine.fany.lol/wp-content/uploads/2026/10/df93b7f6f420d60fcdcb463e596a2a67-1600x900.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/df93b7f6f420d60fcdcb463e596a2a67-800x450.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/df93b7f6f420d60fcdcb463e596a2a67-350x197.jpg 350w" sizes="(max-width: 1920px) 100vw, 1920px" /></figure>
+
+
+
+<p>エバース軍団関西支部がついに発足？！　エバースにゆかりのある関西の注目メンバーが大集結！<br>果たしてこの中から、関西支部の初期メンバーに選ばれるのは誰なのか！？　軍団結成の瞬間をお見逃しなく！</p>
+
+
+
+<p>＜公演概要＞<br>日時：1月9日（土）13：30開場／14：00開演<br>料金：前売3,000円／当日3,500円／配信2,000円<br>出演：エバース、ぎょうぶ、三遊間、九ノ段、シカノシンプ<br>MC：アイラブ地球 コウノ・オブ・ザ・イヤー</p>
+
+
+
+<p><strong>＜エバース・佐々木　コメント><br></strong>町田にハマるやつは誰なのか？　乞うご期待！</p>
+
+
+
+<p><strong>＜エバース・町田　コメント＞<br></strong>西から攻めます。</p>
+
+
+
+<p></p>
+
+
+
+<p>■<strong>しゃ奉行町田～全国行脚出発式～</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1920" height="1080" src="https://magazine.fany.lol/wp-content/uploads/2026/10/76e5e407d6ddc8225fb260879a732e20.jpg" alt="出典: FANY マガジン" class="wp-image-295029" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/76e5e407d6ddc8225fb260879a732e20.jpg 1920w, https://magazine.fany.lol/wp-content/uploads/2026/10/76e5e407d6ddc8225fb260879a732e20-1600x900.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/76e5e407d6ddc8225fb260879a732e20-800x450.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/76e5e407d6ddc8225fb260879a732e20-350x197.jpg 350w" sizes="(max-width: 1920px) 100vw, 1920px" /></figure>
+
+
+
+<p>大好評につき第二弾開催決定！　しゃぶしゃぶをこよなく愛するエバース・町田が、仲良しの芸人仲間をゲストに迎えて漫才＆しゃぶしゃぶコーナーをお届け！　鍋の湯気と笑い声があふれる、あったかライブをお楽しみください！<br>※お客様へのしゃぶしゃぶの提供はございません。</p>
+
+
+
+<p>＜公演概要＞<br>日時：1月9日（土）16：30開場／17：00開演<br>料金：前売3,500円／当日4,000円／配信2,000円<br>出演：エバース、カベポスター、ダブルヒガシ、ヨネダ2000　ほか</p>
+
+
+
+<p><strong>＜エバース・町田　コメント＞<br></strong>全国？　出発式？</p>
+
+
+
+<p></p>
+
+
+
+<p>■<strong>京極風斗の悪口言ってきた奴全員倒すライブin大阪</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1920" height="1080" src="https://magazine.fany.lol/wp-content/uploads/2026/10/a039d38f588473b1bd12cfd64619b3f8.png" alt="出典: FANY マガジン" class="wp-image-295037" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/a039d38f588473b1bd12cfd64619b3f8.png 1920w, https://magazine.fany.lol/wp-content/uploads/2026/10/a039d38f588473b1bd12cfd64619b3f8-1600x900.png 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/a039d38f588473b1bd12cfd64619b3f8-800x450.png 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/a039d38f588473b1bd12cfd64619b3f8-350x197.png 350w" sizes="(max-width: 1920px) 100vw, 1920px" /></figure>
+
+
+
+<p>渋谷よしもと漫才劇場で開催された超ストイックライブが大阪に！？<br>今まで悪口（特に陰口）を言ってきた奴らとお笑いタイマン対決！<br>京極風斗が実力で黙らせる――！？</p>
+
+
+
+<p>＜公演概要＞<br>日時：1月9日（土）19：45開場／20：15開演<br>料金：前売3,500円／当日4,000円／配信2,000円<br>出演：9番街レトロ・京極風斗<br>　　　金属バット・友保、エバース・佐々木、めぞん・吉野、大王　ほか<br>MC：ロジャー沖縄</p>
+
+
+
+<p><strong>＜9番街レトロ・京極　コメント＞<br></strong>前回はほぼ全員をボコボコに倒しまして、せっかく気分が良かったのに、どうやら大阪にも悪口を言っている奴がいるらしいので、わざわざ赴いて倒してあげることにしました。あと、前回倒されたのに懲りずにごちゃごちゃ言ってる奴も東京から引っ張り出してもう一回シバきます。待っとけよアホ共。特に友保。</p>
+
+
+
+<p></p>
+
+
+
+<p>■<strong>新春初笑いスペシャル！親子で笑おう！わくわくキッズお笑いライブ！</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1920" height="1080" src="https://magazine.fany.lol/wp-content/uploads/2026/10/3eef76899c422b6e6e81dd713cff1a79.jpg" alt="出典: FANY マガジン" class="wp-image-295038" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/3eef76899c422b6e6e81dd713cff1a79.jpg 1920w, https://magazine.fany.lol/wp-content/uploads/2026/10/3eef76899c422b6e6e81dd713cff1a79-1600x900.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/3eef76899c422b6e6e81dd713cff1a79-800x450.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/3eef76899c422b6e6e81dd713cff1a79-350x197.jpg 350w" sizes="(max-width: 1920px) 100vw, 1920px" /></figure>
+
+
+
+<p>大人気芸人がラフフェスに集結！<br>こども向けのネタによる爆笑ステージ、親子で存分に楽しめる催しが盛りだくさん！<br>会場内で声を出しても大丈夫◎年始の思い出に是非ご来場ください！！</p>
+
+
+
+<p>＜公演概要＞<br>日時：1月10日（日）10：30開場／11：00開演<br>料金：前売3,000円／当日3,500円／配信2,000円<br>出演：ツートライブ、レインボー、ドンデコルテ、バッテリィズ、ヨネダ2000　ほか</p>
+
+
+
+<p></p>
+
+
+
+<p>■<strong>よしもと美容部inラフフェス</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1920" height="1080" src="https://magazine.fany.lol/wp-content/uploads/2026/10/15196ff2127952da531d3dc47d1f1ced.jpg" alt="出典: FANY マガジン" class="wp-image-295039" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/15196ff2127952da531d3dc47d1f1ced.jpg 1920w, https://magazine.fany.lol/wp-content/uploads/2026/10/15196ff2127952da531d3dc47d1f1ced-1600x900.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/15196ff2127952da531d3dc47d1f1ced-800x450.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/15196ff2127952da531d3dc47d1f1ced-350x197.jpg 350w" sizes="(max-width: 1920px) 100vw, 1920px" /></figure>
+
+
+
+<p>よしもと美容部がラフフェスに登場！<br>美意識高めの芸人たちが本気で語る美容の秘訣やおすすめアイテムを、笑いたっぷりでお届けします。</p>
+
+
+
+<p>＜公演概要＞<br>日時：1月10日（日）13：30開場／14：00開演<br>料金：前売3,500円／当日4,000円<br>出演：シルク、レインボー 池田、祇園 木﨑、桜井雅斗（吉本新喜劇）、天才ピアニスト、豪快キャプテン 山下ギャンブルゴリラ、爛々 萌々、小嶋花梨、 CRAZY COCO　ほか<br>MC：ザ・プラン9 浅越ゴエ</p>
+
+
+
+<p><strong>＜シルク＞</strong><br>よしもと美容部結成1周年。楽しく役立つ美容情報満載で絶対損はさせません！　ぜひ遊びに来てください！</p>
+
+
+
+<p></p>
+
+
+
+<p>■<strong>笑う門には福来る！新春開運ネタライブ2027</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1920" height="1080" src="https://magazine.fany.lol/wp-content/uploads/2026/10/3f90cfcd4ad72e63091aebeb6b5ab9f9.png" alt="出典: FANY マガジン" class="wp-image-295040" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/3f90cfcd4ad72e63091aebeb6b5ab9f9.png 1920w, https://magazine.fany.lol/wp-content/uploads/2026/10/3f90cfcd4ad72e63091aebeb6b5ab9f9-1600x900.png 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/3f90cfcd4ad72e63091aebeb6b5ab9f9-800x450.png 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/3f90cfcd4ad72e63091aebeb6b5ab9f9-350x197.png 350w" sizes="(max-width: 1920px) 100vw, 1920px" /></figure>
+
+
+
+<p>ネタあり占いありの90分！　このライブを見れば1年幸せに過ごせること間違いなし！</p>
+
+
+
+<p>＜公演概要＞<br>日時：1月11日（月・祝）10：30開場／11：00開演<br>料金：前売3,500円／当日4,000円／配信2,000円<br>出演：Dr.ハインリッヒ、金属バット、ミキ、ドンデコルテ、バッテリィズ　ほか</p>
+
+
+
+<p></p>
+
+
+
+<p>■<strong>あの日、老祥記が食べたくて、、</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1920" height="1080" src="https://magazine.fany.lol/wp-content/uploads/2026/10/ab0559374da9c678785d175dd0b4f256.jpg" alt="出典: FANY マガジン" class="wp-image-295041" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/ab0559374da9c678785d175dd0b4f256.jpg 1920w, https://magazine.fany.lol/wp-content/uploads/2026/10/ab0559374da9c678785d175dd0b4f256-1600x900.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/ab0559374da9c678785d175dd0b4f256-800x450.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/ab0559374da9c678785d175dd0b4f256-350x197.jpg 350w" sizes="(max-width: 1920px) 100vw, 1920px" /></figure>
+
+
+
+<p>Ⅿ-1ツアーファイナル神戸公演にて集まった漫才戦士たちが、とても楽しみにしていた老祥記の豚まん。<br>当日スタッフがかけつけたものの、、売り切れの為、食すことができず後悔が残る、、。<br>今度こそ、老祥記の豚まんを食べるべく集まった、あの日のⅯ-1ツアーの漫才戦士達による、豚まんのためのライブ！<br>株式会社老祥記の全面協力！</p>
+
+
+
+<p>＜公演概要＞<br>日時：1月11日（月・祝）13：45開場／14：15開演<br>料金：前売3,000円／当日3,500円／配信2,000円<br>出演：ミキ、豪快キャプテン、カベポスター、例えば炎、カナメストーン（マセキ芸能社）　ほか<br>特別協賛：株式会社老祥記</p>
+
+
+
+<p></p>
+
+
+
+<p>■<strong>芸人とともに謎を解き明かせ！？～地球侵略計画を阻止せよ！編～</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1920" height="1080" src="https://magazine.fany.lol/wp-content/uploads/2026/10/66275a784adea94cc1d96076b0b1bbea.png" alt="出典: FANY マガジン" class="wp-image-295042" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/66275a784adea94cc1d96076b0b1bbea.png 1920w, https://magazine.fany.lol/wp-content/uploads/2026/10/66275a784adea94cc1d96076b0b1bbea-1600x900.png 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/66275a784adea94cc1d96076b0b1bbea-800x450.png 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/66275a784adea94cc1d96076b0b1bbea-350x197.png 350w" sizes="(max-width: 1920px) 100vw, 1920px" /></figure>
+
+
+
+<p>爆笑と歓声に包まれる、ごく普通のお笑いライブ会場。<br>すべてのネタが終わり、大盛況のままイベント終了……となるはずだった。</p>
+
+
+
+<p>しかしその瞬間、不気味な警報音が鳴り響き、劇場の全扉が完全ロックされてしまう！<br>ざわつく芸人と観客たちの前に突如姿を現したのは、なんと地球侵略を企む宇宙人たち。<br>彼らは武力で制圧するのではなく、「地球人の知能を測り、自分たちを超える知能があれば侵略を諦める」という奇妙な実験のためにやってきたのだ。<br>宇宙人から突きつけられるのは、一癖も二癖もある理不尽かつ高難易度（？）な「試練」の数々。<br>会場内に仕掛けられた謎を解き、芸人特有の「笑いのひらめき」と観客の「頭脳」を結集して、宇宙人の知能テストを攻略せよ！</p>
+
+
+
+<p>芸人と観客は力を合わせ、実験室と化した劇場から脱出し、地球侵略を阻止することができるのか！？</p>
+
+
+
+<p>＜公演概要＞<br>日時：1月11日（月・祝）17：30開場／18：00開演<br>料金：前売4,000円／当日4,500円<br>出演：ヒューマン中村<br>ゲスト：金属バット ほか<br>謎制作：クロネコキューブ（株式会社IKUSA）</p>
+
+
+
+<p><strong>＜ヒューマン中村＞<br></strong>謎解きかお笑い、どちらかだけでも好きなら楽しめます！　親しみやすい謎から解きごたえのある大謎まであるし、ネタも見れるし、謎解きコーナーは面白さはもちろん、普段のお笑いライブでは味わえないカタルシスが味わえます！　ぜひ会場に来てくださいー！　来ないとあなたの家に行きます。</p>
+
+
+
+<p></p>
+
+
+
+<p><strong>＜チケット情報＞</strong><br>〇FANY抽選先行受付<br>受付期間：10月31日（土）11：00～11月4日（水）11：00　<br>チケット販売：FANYチケット<br>※クレジットカード決済のみ<br>〇一般発売<br>発売日時：11月7日（土）10：00<br>チケット販売：FANYチケット、FANYオンラインチケット</p>
+
+
+
+
+
+
+
+
+<h3 class="wp-block-heading">公演概要</h3>
+
+
+
+<p><strong>新春ラフフェスin森ノ宮2027</strong><br>日時：2027年1月9日（土）～11日（月・祝）<br>会場：COOL JAPAN PARK OSAKA TTホール<br>（大阪市中央区大阪城3-6）<br>主催・企画制作：吉本興業</p>
+
+
+
+
+
+				]]>
+			</content:encoded>
+																	</item>
+				<item>
+			<title>ジャルジャルら14組追加!『DAIBAKUSHOW 2026』出演回発表＆最終先行も</title>
+			<link>https://magazine.fany.lol/294761/</link>
+						<pubDate>Fri, 30 Oct 2026 10:00:00 +0000			</pubDate>
+			<dc:creator>
+				<![CDATA[奥平]]>
+			</dc:creator>
+					<category><![CDATA[お知らせ]]></category>
+		<category><![CDATA[ニュース]]></category>
+		<category><![CDATA[FANY]]></category>
+		<category><![CDATA[NON STYLE]]></category>
+		<category><![CDATA[アインシュタイン]]></category>
+		<category><![CDATA[エバース]]></category>
+		<category><![CDATA[オズワルド]]></category>
+		<category><![CDATA[ガクテンソク]]></category>
+		<category><![CDATA[かまいたち]]></category>
+		<category><![CDATA[ギャロップ]]></category>
+		<category><![CDATA[ぐろう]]></category>
+		<category><![CDATA[コットン]]></category>
+		<category><![CDATA[さや香]]></category>
+		<category><![CDATA[サルゴリラ]]></category>
+		<category><![CDATA[ジェラードン]]></category>
+		<category><![CDATA[ジャルジャル]]></category>
+		<category><![CDATA[ゼロカラン]]></category>
+		<category><![CDATA[タカアンドトシ]]></category>
+		<category><![CDATA[たくろう]]></category>
+		<category><![CDATA[チュートリアル]]></category>
+		<category><![CDATA[チョコレートプラネット]]></category>
+		<category><![CDATA[テンダラー]]></category>
+		<category><![CDATA[トット]]></category>
+		<category><![CDATA[ドンデコルテ]]></category>
+		<category><![CDATA[ななまがり]]></category>
+		<category><![CDATA[ニッポンの社長]]></category>
+		<category><![CDATA[ニューヨーク]]></category>
+		<category><![CDATA[ビスケットブラザーズ]]></category>
+		<category><![CDATA[マヂカルラブリー]]></category>
+		<category><![CDATA[マユリカ]]></category>
+		<category><![CDATA[ミキ]]></category>
+		<category><![CDATA[ミルクボーイ]]></category>
+		<category><![CDATA[ヨネダ2000]]></category>
+		<category><![CDATA[ロングコートダディ]]></category>
+		<category><![CDATA[中川家]]></category>
+		<category><![CDATA[今井らいぱち]]></category>
+		<category><![CDATA[佐久間一行]]></category>
+		<category><![CDATA[例えば炎]]></category>
+		<category><![CDATA[囲碁将棋]]></category>
+		<category><![CDATA[海原やすよ ともこ]]></category>
+		<category><![CDATA[滝音]]></category>
+		<category><![CDATA[空気階段]]></category>
+		<category><![CDATA[笑い飯]]></category>
+		<category><![CDATA[紅しょうが]]></category>
+		<category><![CDATA[蛙亭]]></category>
+		<category><![CDATA[見取り図]]></category>
+		<category><![CDATA[豪快キャプテン]]></category>
+		<category><![CDATA[金属バット]]></category>
+		<category><![CDATA[金魚番長]]></category>
+		<category><![CDATA[銀シャリ]]></category>
+		<category><![CDATA[霜降り明星]]></category>
+
+			<guid isPermaLink="false">https://magazine.fany.lol/?p=294761</guid>
+						<image>
+				<url>https://magazine.fany.lol/wp-content/uploads/2026/10/5ad89a5fd89d54cbae8cab3629c5ad0f-2.png</url>
+			</image>
+			<enclosure url="https://magazine.fany.lol/wp-content/uploads/2026/10/5ad89a5fd89d54cbae8cab3629c5ad0f-2.png" type="image/jpeg" />
+									<description>
+				<![CDATA[2026年12月30日（水）に東京ガーデンシアターで開催されるお笑いフェス『YOSHIMOTO presents DAIBAKUSHOW 2026』の追加出演者14組、および第一部・第二部の出演ラインナップが発表されました。 豪華14組の出演者が追加！ 第一部・第二部をあ…]]>
+			</description>
+											<content:encoded>
+				<![CDATA[
+					
+<p>2026年12月30日（水）に東京ガーデンシアターで開催されるお笑いフェス『YOSHIMOTO presents DAIBAKUSHOW 2026』の追加出演者14組、および第一部・第二部の出演ラインナップが発表されました。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1667" height="3021" src="https://magazine.fany.lol/wp-content/uploads/2026/10/91e238f4a187e65cf021ca5e89820fb8.jpg" alt="出典: FANY マガジン" class="wp-image-294888" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/91e238f4a187e65cf021ca5e89820fb8.jpg 1667w, https://magazine.fany.lol/wp-content/uploads/2026/10/91e238f4a187e65cf021ca5e89820fb8-1600x2900.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/91e238f4a187e65cf021ca5e89820fb8-800x1450.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/91e238f4a187e65cf021ca5e89820fb8-350x634.jpg 350w" sizes="(max-width: 1667px) 100vw, 1667px" /></figure>
+
+
+
+<h2 class="wp-block-heading">豪華14組の出演者が追加！</h2>
+
+
+
+<p>第一部・第二部をあわせて総勢60組超のネタが披露される年の瀬恒例の大型ネタフェス『YOSHIMOTO presents DAIBAKUSHOW 2026』。新たに、ジャルジャル、チュートリアル、サルゴリラ、ビスケットブラザーズ、紅しょうが、豪快キャプテン、コットンなどの出演が決定しました。今後の追加出演者や最新情報についても、随時発表される予定です。</p>
+
+
+
+<p>チケットは10月31日（土）11:00よりFANYチケットにて最終先行受付がスタートし、一般発売は11月21日（土）10:00から開始します。年の瀬恒例、賞レースの王者や人気芸人が集結する大型お笑いフェス。第一部・第二部合わせて総勢60組超のネタで、笑顔あふれる年越しをお届けします！</p>
+
+
+
+<h3 class="wp-block-heading">公演概要</h3>
+
+
+
+<p><strong>YOSHIMOTO presents 『DAIBAKUSHOW 2026』 </strong></p>
+
+
+
+<p>【日時】2026年12月30日（水）<br>・第一部 開場9:00／開演10:00／終演14:30（予定）<br>・第二部 開場15:30／開演16:30／終演21:00（予定）<br>【会場】東京ガーデンシアター（東京都江東区有明2丁目1-6）<br>【主催・企画・制作】吉本興業株式会社／株式会社よしもとブロードエンタテインメント </p>
+
+
+
+<p><strong>▼出演者</strong><br>【第一部】<br>海原やすよ ともこ、アインシュタイン、囲碁将棋、今井らいぱち、蛙亭、ガクテンソク、かまいたち、金魚番長、空気階段、豪快キャプテン、さや香、ジャルジャル、滝音、例えば炎、チョコレートプラネット、テンダラー、トット、ドンデコルテ、ニッポンの社長、NON STYLE、紅しょうが、マヂカルラブリー、ミルクボーイ、笑い飯 and more!! </p>
+
+
+
+<p>【第二部】<br>中川家、エバース、オズワルド、ギャロップ、銀シャリ、金属バット、ぐろう、コットン、佐久間一行、サルゴリラ、ジェラードン、霜降り明星、ゼロカラン、タカアンドトシ、たくろう、チュートリアル、ななまがり、ニューヨーク、ビスケットブラザーズ、マユリカ、ミキ、見取り図、ヨネダ2000、ロングコートダディ and more!!<br>※出演者は変更になる可能性がございます。ご了承ください。</p>
+
+
+
+<p><strong>▼ チケット情報（全席指定）</strong><br>・超ぶっ通し券 22,500円（税込）<br>※最速先行、プレイガイド先行のみで販売。最終先行・一般発売での取り扱いはございません。<br>・ぶっ通し券 20,000円（税込）<br>※一般発売での取り扱いはございません。<br>・各回指定券（第一部指定席・第二部指定席） 10,000円（税込） </p>
+
+
+
+<p><strong>【チケット販売スケジュール】</strong><br>・最終先行（ぶっ通し券、各回指定席／FANYチケット、プレイガイド）<br>受付期間：10月31日（土）11:00～11月9日（月）11:00<br>・一般発売（各回指定席／FANYチケット、プレイガイド）<br>受付期間：11月21日（土）10:00～</p>
+
+
+
+
+
+				]]>
+			</content:encoded>
+																	</item>
+				<item>
+			<title>メンバーのオーケストラ歌ネタ全国ツアー! 11月2日チケット受付開始</title>
+			<link>https://magazine.fany.lol/294926/</link>
+						<pubDate>Fri, 30 Oct 2026 09:00:00 +0000			</pubDate>
+			<dc:creator>
+				<![CDATA[中村礼]]>
+			</dc:creator>
+					<category><![CDATA[お知らせ]]></category>
+		<category><![CDATA[ニュース]]></category>
+		<category><![CDATA[メンバー]]></category>
+
+			<guid isPermaLink="false">https://magazine.fany.lol/?p=294926</guid>
+						<image>
+				<url>https://magazine.fany.lol/wp-content/uploads/2026/10/d579156347064000a04d8d8435ceefef.png</url>
+			</image>
+			<enclosure url="https://magazine.fany.lol/wp-content/uploads/2026/10/d579156347064000a04d8d8435ceefef.png" type="image/jpeg" />
+									<description>
+				<![CDATA[広島よしもと所属のお笑いコンビ・メンバー（山口提樹、潮圭太）による単独ライブ全国ツアー『Member&#8217;s Concert ～メンバーがオーケストラの生演奏で歌ネタをやるライブ～ JAPAN TOUR』のチケット先行受付が、2026年11月2日（月）から開始され…]]>
+			</description>
+											<content:encoded>
+				<![CDATA[
+					
+<p id="p-rc_9179256438990d5e-36">広島よしもと所属のお笑いコンビ・メンバー（山口提樹、潮圭太）による単独ライブ全国ツアー『Member&#8217;s Concert ～メンバーがオーケストラの生演奏で歌ネタをやるライブ～ JAPAN TOUR』のチケット先行受付が、2026年11月2日（月）から開始されます<sup></sup>。</p>
+
+
+
+<h2 class="wp-block-heading">オーケストラ生演奏で歌ネタを披露 </h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="2480" height="3508" src="https://magazine.fany.lol/wp-content/uploads/2026/10/member2.jpg" alt="出典: FANY マガジン" class="wp-image-294935" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/member2.jpg 2480w, https://magazine.fany.lol/wp-content/uploads/2026/10/member2-1600x2263.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/member2-800x1132.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/member2-350x495.jpg 350w" sizes="(max-width: 2480px) 100vw, 2480px" /></figure>
+
+
+
+<p>本ツアーは、オーケストラの生演奏に合わせて歌ネタやコントを披露する独自の試みです。2023年に開催されたライブ『Member&#8217;s Concert』は、YouTubeでのアーカイブ動画が400万回以上再生されるなど、大きな反響を呼びました。話題を集めたステージがさらに規模を拡大し、お笑いと音楽を掛け合わせた新しいエンターテインメントをお届けします。メンバーにとっては芸歴20年の集大成となるライブです。</p>
+
+
+
+<p id="p-rc_9179256438990d5e-38">ツアー開催に向けたクラウドファンディングでは、開始約12時間で目標の600万円を達成し、最終的に1,900万円を超える支援が集まりました<sup></sup>。公演は2027年1月より東京、北海道、福岡、愛知、大阪、広島の順で開催されます<sup></sup>。</p>
+
+
+
+<p id="p-rc_9179256438990d5e-39">チケット先行受付は抽選となり、11月2日（月）からメンバーのファンクラブ「MEMBER SUPPORTER&#8217;S CLUB」会員の受付がスタートし、11月9日（月）からはFANY抽選先行の受付が開始されます<sup></sup>。一般発売は11月17日（火）を予定しています<sup></sup>。なお、千秋楽の広島公演はオンライン配信も実施されます<sup></sup>。</p>
+
+
+
+<h2 class="wp-block-heading">メンバー コメント </h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="400" height="400" src="https://magazine.fany.lol/wp-content/uploads/2026/10/84d4d69d55cda9979463714992c1fbf6.jpg" alt="出典: FANY マガジン" class="wp-image-294927" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/84d4d69d55cda9979463714992c1fbf6.jpg 400w, https://magazine.fany.lol/wp-content/uploads/2026/10/84d4d69d55cda9979463714992c1fbf6-350x350.jpg 350w" sizes="(max-width: 400px) 100vw, 400px" /></figure>
+
+
+
+<p><strong>山口提樹</strong></p>
+
+
+
+<p>クラファンに参加していただいた皆様のおかげで開催が決定しました！　ありがとうございます！<br>お笑いライブが好きな方も音楽のライブが好きな方も大人も 子供も楽しめるものを作るので老若男女に来ていただきたいです！</p>
+
+
+
+<p></p>
+
+
+
+<p id="p-rc_9179256438990d5e-41"><strong>潮圭太 </strong></p>
+
+
+
+<p id="p-rc_9179256438990d5e-41">芸歴20周年を迎え、かねてからの夢だった全国ツアーを皆様のご協力のおかげで 開催出来ることになりました。<br>お笑いとオーケストラを同時に楽しめるライブとなっておりますので、ぜひとも足をお運びください。</p>
+
+
+
+<p></p>
+
+
+
+<h3 class="wp-block-heading">公演概要 </h3>
+
+
+
+<p><strong>『Member&#8217;s Concert ～メンバーがオーケストラの生演奏で歌ネタをやるライブ～ JAPAN TOUR』</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1920" height="1080" src="https://magazine.fany.lol/wp-content/uploads/2026/10/ce50fc4ef9173b04e9cb1dcb61e79b87.jpg" alt="出典: FANY マガジン" class="wp-image-294930" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/ce50fc4ef9173b04e9cb1dcb61e79b87.jpg 1920w, https://magazine.fany.lol/wp-content/uploads/2026/10/ce50fc4ef9173b04e9cb1dcb61e79b87-1600x900.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/ce50fc4ef9173b04e9cb1dcb61e79b87-800x450.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/ce50fc4ef9173b04e9cb1dcb61e79b87-350x197.jpg 350w" sizes="(max-width: 1920px) 100vw, 1920px" /></figure>
+
+
+
+<p id="p-rc_9179256438990d5e-43">出演：メンバー（山口提樹、潮圭太）、オーケストラ奏者 </p>
+
+
+
+<p id="p-rc_9179256438990d5e-44">料金（税込）： 前売：5,500円 当日：6,000円 配信：2,000円 <br>※ツアー共通 <br>※広島公演のみ配信あり</p>
+
+
+
+<p id="p-rc_9179256438990d5e-45">公演日程：およそ90分公演予定）：<br> ・東京公演 日時：2027年1月31日（日）開場 15:00／開演 16:00 会場：なかのZERO 大ホール<br>・北海道公演 日時：2027年2月11日（木・祝）開場 15:00／開演 16:00 会場：北広島市芸術文化ホール 花ホール<br>・福岡公演 日時：2027年2月13日（土）開場 15:00／開演 16:00 会場：福岡市民ホール 中ホール<br>・愛知公演 日時：2027年3月5日（金）開場 18:30／開演 19:30 会場：名古屋市青少年文化センター（アートピアホール）<br>・大阪公演 日時：2027年3月13日（土）開場 15:00／開演 16:00 会場：COOL JAPAN PARK OSAKA WWホール<br>・広島公演（配信あり） 日時：2027年4月17日（土）開場 15:00／開演 16:00 会場：JMSアステールプラザ 大ホール</p>
+
+
+
+<p id="p-rc_9179256438990d5e-51">チケット販売スケジュール： </p>
+
+
+
+<p id="p-rc_9179256438990d5e-52">＜MEMBER SUPPORTER&#8217;S CLUB抽選先行＞ <br>受付期間：11月2日（月）11:00～11月5日（木）11:00 <br>当落発表：11月7日（土）18:00</p>
+
+
+
+<p id="p-rc_9179256438990d5e-53">＜FANY抽選先行＞ <br>受付期間：11月9日（月）11:00～11月11日（水）11:00 <br>当落発表：11月13日（金）18:00</p>
+
+
+
+<p id="p-rc_9179256438990d5e-54">＜一般発売＞（FANY・チケットぴあ・ローソンチケット） <br>発売日時：11月17日（火）10:00～ </p>
+
+
+
+
+
+
+
+
+<p id="p-rc_9179256438990d5e-55"></p>
+				]]>
+			</content:encoded>
+																	</item>
+				<item>
+			<title>INI 音楽アワード『MTV VMAJ 2026』にて「Best Asia Group」を受賞!</title>
+			<link>https://magazine.fany.lol/294971/</link>
+						<pubDate>Fri, 30 Oct 2026 07:41:29 +0000			</pubDate>
+			<dc:creator>
+				<![CDATA[岩瀬正真]]>
+			</dc:creator>
+					<category><![CDATA[ニュース]]></category>
+		<category><![CDATA[レポート]]></category>
+		<category><![CDATA[INI]]></category>
+
+			<guid isPermaLink="false">https://magazine.fany.lol/?p=294971</guid>
+						<image>
+				<url>https://magazine.fany.lol/wp-content/uploads/2026/10/5d11f275230f1f3aa4d60d64fbb8c74c.jpg</url>
+			</image>
+			<enclosure url="https://magazine.fany.lol/wp-content/uploads/2026/10/5d11f275230f1f3aa4d60d64fbb8c74c.jpg" type="image/jpeg" />
+									<description>
+				<![CDATA[グローバルボーイズグループINIが、10月29日（木）に東京・東京ドームにて開催された音楽アワード『MTV VMAJ 2026』に出演しました。 2年連続での出演となったINIは、アジアを代表するグループに贈られる「Best Asia Group（最優秀アジア…]]>
+			</description>
+											<content:encoded>
+				<![CDATA[
+					
+<p>グローバルボーイズグループINIが、10月29日（木）に東京・東京ドームにて開催された音楽アワード『MTV VMAJ 2026』に出演しました。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="6048" height="4032" src="https://magazine.fany.lol/wp-content/uploads/2026/10/7504f2f9bf671b8225547ca8f9fd876f.jpg" alt="出典: FANY マガジン" class="wp-image-294972" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/7504f2f9bf671b8225547ca8f9fd876f.jpg 6048w, https://magazine.fany.lol/wp-content/uploads/2026/10/7504f2f9bf671b8225547ca8f9fd876f-1600x1067.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/7504f2f9bf671b8225547ca8f9fd876f-800x533.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/7504f2f9bf671b8225547ca8f9fd876f-350x233.jpg 350w" sizes="(max-width: 6048px) 100vw, 6048px" /><figcaption class="wp-element-caption">©LAPONE ENTERTAINMENT</figcaption></figure>
+
+
+
+<p>2年連続での出演となったINIは、アジアを代表するグループに贈られる「Best Asia Group（最優秀アジアグループ賞）」を受賞。ミラーのパーツをあしらったきらびやかなスーツスタイルで登壇すると会場からは歓声が巻き起こり、MCのヒコロヒーからトロフィーを受け取った田島将吾は嬉しそうな表情を見せます。リーダーの木村柾哉は受賞の喜びやファンの皆さんへの感謝を伝え、アジアをはじめとした海外のファンの声について聞かれた西洸人は「僕たちもたくさんのパワーをいただいているので、もっともっと頑張ろうと思います! 」と力強く語りました。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="3000" height="2000" src="https://magazine.fany.lol/wp-content/uploads/2026/10/64cd59b6789621d7c2da8056b80f3bfa.jpg" alt="出典: FANY マガジン" class="wp-image-294973" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/64cd59b6789621d7c2da8056b80f3bfa.jpg 3000w, https://magazine.fany.lol/wp-content/uploads/2026/10/64cd59b6789621d7c2da8056b80f3bfa-1600x1067.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/64cd59b6789621d7c2da8056b80f3bfa-800x533.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/64cd59b6789621d7c2da8056b80f3bfa-350x233.jpg 350w" sizes="(max-width: 3000px) 100vw, 3000px" /><figcaption class="wp-element-caption">©LAPONE ENTERTAINMENT</figcaption></figure>
+
+
+
+<p>INIのステージは、9TH SINGLE『ANTHEM』から「BEYOND THE SKY」で幕開け。藤牧京介のアカペラで曲が始まり、東京ドームいっぱいに強く伸びやかな歌声が響き渡ります。アジア競技大会・アジアパラ競技大会「Aichi-Nagoya 2026」応援ソングでもある本楽曲。フラッグを掲げたダンサーも登場し、センターステージや花道、メインステージを使ってドームならではのスケール感で観客を圧倒しました。情熱的なロックアンセムを闘志を燃やすように歌いあげ、魂のこもったパフォーマンスで会場のボルテージを一気に高めると、続いて披露したのは同作のタイトル曲「You Know What To Do」。5周年を迎えたINIが青春世代に贈る応援歌のようなアンセムで、クラップからリズムよく曲が始まると、ダンサーとともに迫力あるパフォーマンスを繰り広げていきます。メンバー同士も時折目線を合わせながら笑顔を見せ、ラストは総勢30人が一列に並ぶ圧巻のラインダンスでステージを締めくくりました。なお、『MTV VMAJ 2026』の模様は11月15日（日）19:30より、MTVで放送・TELASAで配信されます。</p>
+
+
+
+<p>9月から自身初の東阪ドームツアーを開催中で、大型音楽イベントにも多数出演しているINI。5周年という節目を迎えてさらに結束力が高まり、圧倒的なライブパフォーマンス力やINI独自の音楽性で、音楽シーンに確かな存在感を示しています。 今回披露した2曲が収録されている『ANTHEM』は初週売上82.3万枚を記録しており、ますます勢いを増すINIに今後もご注目ください。</p>
+
+
+
+
+
+
+
+
+<p></p>
+				]]>
+			</content:encoded>
+																	</item>
+				<item>
+			<title>JO1 ⾳楽アワード『MTV VMAJ 2026』にて「Best Dance &#038; Vocal Group Video」受賞! 川尻蓮が演出! 東京ドームで迫⼒パフォーマンス</title>
+			<link>https://magazine.fany.lol/294933/</link>
+						<pubDate>Fri, 30 Oct 2026 07:34:51 +0000			</pubDate>
+			<dc:creator>
+				<![CDATA[岩瀬正真]]>
+			</dc:creator>
+					<category><![CDATA[ニュース]]></category>
+		<category><![CDATA[レポート]]></category>
+		<category><![CDATA[JO1]]></category>
+
+			<guid isPermaLink="false">https://magazine.fany.lol/?p=294933</guid>
+						<image>
+				<url>https://magazine.fany.lol/wp-content/uploads/2026/10/1029_JO1_VMAJ-1.jpeg</url>
+			</image>
+			<enclosure url="https://magazine.fany.lol/wp-content/uploads/2026/10/1029_JO1_VMAJ-1.jpeg" type="image/jpeg" />
+									<description>
+				<![CDATA[グローバルボーイズグループ JO1が、10⽉29⽇（⽊）に東京ドームにて開催された⾳楽アワード『MTV VMAJ 2026』に出演。昨年リリースされた「BE CLASSIC」が「Best Dance &#38; Vocal Group Video」を受賞しました。 授賞式…]]>
+			</description>
+											<content:encoded>
+				<![CDATA[
+					
+<p>グローバルボーイズグループ JO1が、10⽉29⽇（⽊）に東京ドームにて開催された⾳楽アワード『MTV VMAJ 2026』に出演。昨年リリースされた「BE CLASSIC」が「Best Dance &amp; Vocal Group Video」を受賞しました。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="2339" height="1559" src="https://magazine.fany.lol/wp-content/uploads/2026/10/1029_JO1_VMAJ.jpeg" alt="出典: FANY マガジン" class="wp-image-294947" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/1029_JO1_VMAJ.jpeg 2339w, https://magazine.fany.lol/wp-content/uploads/2026/10/1029_JO1_VMAJ-1600x1066.jpeg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/1029_JO1_VMAJ-800x533.jpeg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/1029_JO1_VMAJ-350x233.jpeg 350w" sizes="(max-width: 2339px) 100vw, 2339px" /><figcaption class="wp-element-caption">©LAPONE ENTERTAINMENT</figcaption></figure>
+
+
+
+<p>授賞式では「Best Dance &amp; Vocal Group Video」として名前が呼ばれると、会場から⼤きな歓声と拍⼿が巻き起こります。河野純喜はこのあとのステージに向け「今⽇はいただいた時間を僕たちの単独ライブのように、熱いパフォーマンスでかましたいと思います! 」と宣⾔。</p>
+
+
+
+<p>ステージは受賞曲「BE CLASSIC」と11⽉18⽇（⽔）にリリースを控える11TH SINGLE『AAO』のタイトル曲「IGNITE」をパフォーマンス。さらに、このステージの演出をメンバーの川尻蓮が担当しました。これまでライブやフェスなどさまざまな舞台で観客を魅了してきた「BE CLASSIC」。クラシカルで芸術的な美しさの中に、受賞したMUSIC VIDEOでも表現されている不気味さを併せ持つ本楽曲。シンクロしたダンスと気迫あふれる表情で観客を惹きつけました。アウトロはメンバーそれぞれのスキルが際⽴つ、このステージならではのダンスブレイクを繰り広げていきます。メンバーが横⼀列に並ぶとクラシカルなムードから⼀転、情熱的なロックサウンドと疾⾛感あふれる「IGNITE」へと続いていきます。この楽曲は現在放送中のTVアニメ『東京リベンジャーズ』三天戦争編のオープニング主題歌として書き下ろされた⼀曲。作詞にも参加した河野が歌い出し、⼤きな炎が上がると、会場の熱気は⼀気に⾼まります。⽬まぐるしく変わるフォーメーションと激しいダンスでもボルテージをさらに⾼め、迫⼒あふれるパフォーマンスで会場を圧倒しました。なお、「MTV VMAJ 2026」の模様は、11⽉15⽇（⽇）19:30より、MTVで放送・TELASAで配信されます。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="3000" height="2000" src="https://magazine.fany.lol/wp-content/uploads/2026/10/014a47aca3b26f3bddcfb03814fc15c7.jpg" alt="出典: FANY マガジン" class="wp-image-294967" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/014a47aca3b26f3bddcfb03814fc15c7.jpg 3000w, https://magazine.fany.lol/wp-content/uploads/2026/10/014a47aca3b26f3bddcfb03814fc15c7-1600x1067.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/014a47aca3b26f3bddcfb03814fc15c7-800x533.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/014a47aca3b26f3bddcfb03814fc15c7-350x233.jpg 350w" sizes="(max-width: 3000px) 100vw, 3000px" /><figcaption class="wp-element-caption">©LAPONE ENTERTAINMENT</figcaption></figure>
+
+
+
+<p>JO1は10⽉2⽇（⾦）にかねてより⽬標に掲げていた全⽶デビューを果たし、⽶Billboardアルバムセールスチャートで7位を獲得。総合チャート「Billboard 200」にも初ランクインしました。勢いそのままに、 11⽉18⽇（⽔）には11TH SINGLE『AAO』をリリース予定。歌やダンス、ラップなど多彩なスキルに加え、豊かな表現⼒やステージングを武器に国内外で活躍の場を広げています。</p>
+
+
+
+
+
+
+
+
+<p></p>
+				]]>
+			</content:encoded>
+																	</item>
+				<item>
+			<title>9番街レトロ京極とヨネダ2000誠の『おさんぽジャポン』初ポップアップが新宿で開催!</title>
+			<link>https://magazine.fany.lol/294780/</link>
+						<pubDate>Fri, 30 Oct 2026 04:00:00 +0000			</pubDate>
+			<dc:creator>
+				<![CDATA[西尾彰記]]>
+			</dc:creator>
+					<category><![CDATA[お知らせ]]></category>
+		<category><![CDATA[ニュース]]></category>
+		<category><![CDATA[9番街レトロ]]></category>
+		<category><![CDATA[ヨネダ2000]]></category>
+		<category><![CDATA[京極風斗]]></category>
+		<category><![CDATA[誠]]></category>
+
+			<guid isPermaLink="false">https://magazine.fany.lol/?p=294780</guid>
+						<image>
+				<url>https://magazine.fany.lol/wp-content/uploads/2026/10/a11b4bb3ba448d1fa402ac3dc62cc91f-9.png</url>
+			</image>
+			<enclosure url="https://magazine.fany.lol/wp-content/uploads/2026/10/a11b4bb3ba448d1fa402ac3dc62cc91f-9.png" type="image/jpeg" />
+									<description>
+				<![CDATA[9番街レトロ・京極風斗とヨネダ2000・誠が出演する人気YouTubeチャンネル『おさんぽジャポン』初となるポップアップショップ『おさんぽジャポン POP UP SHOP』が、2026年11月26日（木）から12月8日（火）まで、新宿マルイ メン 8階にて期間限定で開催さ…]]>
+			</description>
+											<content:encoded>
+				<![CDATA[
+					
+<p>9番街レトロ・京極風斗とヨネダ2000・誠が出演する人気YouTubeチャンネル『おさんぽジャポン』初となるポップアップショップ『おさんぽジャポン POP UP SHOP』が、2026年11月26日（木）から12月8日（火）まで、新宿マルイ メン 8階にて期間限定で開催されます。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1080" height="1920" src="https://magazine.fany.lol/wp-content/uploads/2026/10/56aaf6c825a6f4bd1a61bdfa1594867c.jpg" alt="出典: FANY マガジン" class="wp-image-294781" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/56aaf6c825a6f4bd1a61bdfa1594867c.jpg 1080w, https://magazine.fany.lol/wp-content/uploads/2026/10/56aaf6c825a6f4bd1a61bdfa1594867c-800x1422.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/56aaf6c825a6f4bd1a61bdfa1594867c-350x622.jpg 350w" sizes="(max-width: 1080px) 100vw, 1080px" /></figure>
+
+
+
+<h2 class="wp-block-heading">世界観を再現した空間展示や限定オリジナルグッズも</h2>
+
+
+
+<p id="p-rc_b59ea52328a89726-114">登録者数11万人を突破した『おさんぽジャポン』は、京極風斗と誠がさまざまな街を気ままに散歩する人気YouTubeチャンネル<sup></sup>。</p>
+
+
+
+<p id="p-rc_b59ea52328a89726-115">本イベントでは、動画内でおなじみの名場面や街歩きの世界観を再現した空間展示をはじめ、今回のために描き下ろし・撮り下ろした限定オリジナルグッズの販売、購入者限定のノベルティ配布など、ファン必見の企画が多数用意されています<sup></sup>。</p>
+
+
+
+<h2 class="wp-block-heading">本人コメント</h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="400" height="400" src="https://magazine.fany.lol/wp-content/uploads/2026/10/e4b7c12a23264081e23be2ad2fe22d3b.jpg" alt="出典: FANY マガジン" class="wp-image-294782" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/e4b7c12a23264081e23be2ad2fe22d3b.jpg 400w, https://magazine.fany.lol/wp-content/uploads/2026/10/e4b7c12a23264081e23be2ad2fe22d3b-350x350.jpg 350w" sizes="(max-width: 400px) 100vw, 400px" /></figure>
+
+
+
+<p><strong>9番街レトロ・京極風斗 </strong></p>
+
+
+
+<p>もう全員に歩いていただきます。馬車馬のように歩いていただきます。<br>私自身もウォークライフバランスという言葉を捨てます。歩いて歩いて歩いて歩いて歩いて参ります。</p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="400" height="400" src="https://magazine.fany.lol/wp-content/uploads/2026/10/bc48041d81d40bd8794e80669323a4fc.jpg" alt="出典: FANY マガジン" class="wp-image-294783" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/bc48041d81d40bd8794e80669323a4fc.jpg 400w, https://magazine.fany.lol/wp-content/uploads/2026/10/bc48041d81d40bd8794e80669323a4fc-350x350.jpg 350w" sizes="(max-width: 400px) 100vw, 400px" /></figure>
+
+
+
+<p><strong>ヨネダ2000・誠</strong></p>
+
+
+
+<p>おさんぽジャポンのポップアップございます。“おさんぽジャポンのポップアップ”15分の3がぽの文書。<br>ほ。<br>ぽの◯が下に落ちたかと思おました？　大丈夫です。ほ&amp;。です。<br>だからぜひ、楽しんでください♪♪♪</p>
+
+
+
+<p></p>
+
+
+
+<h3 class="wp-block-heading">おさんぽジャポン POP UP SHOP 概要</h3>
+
+
+
+<p>・開催期間：2026年11月26日（木）～12月8日（火）<br>・開催場所：新宿マルイ メン 8階 イベントスペース（東京都新宿区新宿5-16-4）<br>・営業時間：11:00～19:00（予定）<br>・入場料：無料 ※混雑状況により、整理券の配布や入場制限を実施する場合があります。</p>
+
+
+
+
+
+				]]>
+			</content:encoded>
+																	</item>
+				<item>
+			<title>ぼる塾・酒寄希望が初の小説を発売! 24時間営業ファミレス舞台の群像劇</title>
+			<link>https://magazine.fany.lol/294774/</link>
+						<pubDate>Fri, 30 Oct 2026 03:00:00 +0000			</pubDate>
+			<dc:creator>
+				<![CDATA[西尾彰記]]>
+			</dc:creator>
+					<category><![CDATA[お知らせ]]></category>
+		<category><![CDATA[ニュース]]></category>
+		<category><![CDATA[ぼる塾]]></category>
+		<category><![CDATA[田辺智加]]></category>
+		<category><![CDATA[酒寄希望]]></category>
+
+			<guid isPermaLink="false">https://magazine.fany.lol/?p=294774</guid>
+						<image>
+				<url>https://magazine.fany.lol/wp-content/uploads/2026/10/a11b4bb3ba448d1fa402ac3dc62cc91f-10.png</url>
+			</image>
+			<enclosure url="https://magazine.fany.lol/wp-content/uploads/2026/10/a11b4bb3ba448d1fa402ac3dc62cc91f-10.png" type="image/jpeg" />
+									<description>
+				<![CDATA[ぼる塾・酒寄希望の初となる小説作品『時をかけるファミレス』が、小学館より2026年12月2日（水）に発売されることが決定しました。2026年10月30日（金）より、全国書店およびAmazonにて予約受付を開始します。 これまで数々のエッセイ作品で鋭い観察眼と文筆力を高く評…]]>
+			</description>
+											<content:encoded>
+				<![CDATA[
+					
+<p>ぼる塾・酒寄希望の初となる小説作品『時をかけるファミレス』が、小学館より2026年12月2日（水）に発売されることが決定しました。2026年10月30日（金）より、全国書店およびAmazonにて予約受付を開始します。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1673" height="2419" src="https://magazine.fany.lol/wp-content/uploads/2026/10/867fff791e4822992561b5bc3f2eddd8.jpeg" alt="出典: FANY マガジン" class="wp-image-294837" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/867fff791e4822992561b5bc3f2eddd8.jpeg 1673w, https://magazine.fany.lol/wp-content/uploads/2026/10/867fff791e4822992561b5bc3f2eddd8-1600x2313.jpeg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/867fff791e4822992561b5bc3f2eddd8-800x1157.jpeg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/867fff791e4822992561b5bc3f2eddd8-350x506.jpeg 350w" sizes="(max-width: 1673px) 100vw, 1673px" /></figure>
+
+
+
+<p>これまで数々のエッセイ作品で鋭い観察眼と文筆力を高く評価されてきた酒寄が、満を持して「小説」の執筆に初挑戦します。</p>
+
+
+
+<p>本作は、24時間営業のファミリーレストラン【Ta・ベーナ】を舞台に、朝9時から翌朝8時まで1時間ごとに訪れる客を描いた24編の連作短編集です。「スパイの女子大生」や「深夜3時のゾンビ対策会議」など、変で愛おしい人々が織りなす、笑えて心が軽くなる群像劇となっています。日常のふとした瞬間をすくい上げる独自のセンスと、軽妙な会話劇が光る注目の作品です。</p>
+
+
+
+<p>なお、執筆期間中には第二子の妊娠・出産を経験。慌ただしく変化する日々と格闘しながら、出産直前の臨月きわきわまで机に向かってペンを握りつづけました。酒寄本人が「この小説はもうひとつの新たな大切な家族」と称するほど、思い入れの詰まったデビュー作となっています。</p>
+
+
+
+<p>また、出版を記念したイベントが2026年12月6日（日）に本屋B&amp;B（下北沢）にて開催されることも決定しました。イベントにはゲストとして、同じくぼる塾の田辺智加も登場します。参加申し込みは、2026年10月31日（土）12:00より受付開始です。</p>
+
+
+
+<h2 class="wp-block-heading">本人コメント</h2>
+
+
+
+<p><strong>ぼる塾・酒寄希望</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="400" height="400" src="https://magazine.fany.lol/wp-content/uploads/2026/10/6d6dfa7e62f554e0ddedf18be7f02553.jpg" alt="出典: FANY マガジン" class="wp-image-294776" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/6d6dfa7e62f554e0ddedf18be7f02553.jpg 400w, https://magazine.fany.lol/wp-content/uploads/2026/10/6d6dfa7e62f554e0ddedf18be7f02553-350x350.jpg 350w" sizes="(max-width: 400px) 100vw, 400px" /></figure>
+
+
+
+<p>このたび、『小説』という新しいジャンルに挑戦させていただきました。そして書いている途中で第二子の妊娠が発覚するというサプライズがありました。肉体だけではなく、わたしの内側も変化し、それでも変わらない部分もあり、この瞬間にしか書けない物語が完成しました。モットーである優しくありたいとはしゃぎたいをつめ込んだファミレスです。愉快な登場人物達とお店でお待ちしています！</p>
+
+
+
+<h3 class="wp-block-heading">書籍概要</h3>
+
+
+
+<p><strong>『時をかけるファミレス』<br></strong>著者：酒寄希望（ぼる塾）<br>発売日：2026年12月2日（水）<br>定価：1,980円（税込）<br>発行：株式会社小学館<br>ページ数：336ページ</p>
+
+
+
+
+
+
+
+
+<h3 class="wp-block-heading">イベント概要</h3>
+
+
+
+<p>出版記念イベント<br>日時：2026年12月6日（日）11:30～<br>場所：本屋B&amp;B（下北沢）<br>出演：酒寄希望（ぼる塾）、ゲスト 田辺智加（ぼる塾）<br>参加申し込み開始：2026年10月31日（土）12:00～</p>
+
+
+
+
+
+				]]>
+			</content:encoded>
+																	</item>
+				<item>
+			<title>はんにゃ.川島が「第56回がん予防道民大会」で熱弁! プロポーズ当日のガン告知、セカンドオピニオンの重要性、そして今伝えたい「病気は怖いことじゃない」の意味</title>
+			<link>https://magazine.fany.lol/294544/</link>
+						<pubDate>Thu, 29 Oct 2026 09:30:00 +0000			</pubDate>
+			<dc:creator>
+				<![CDATA[中村礼]]>
+			</dc:creator>
+					<category><![CDATA[ニュース]]></category>
+		<category><![CDATA[レポート]]></category>
+		<category><![CDATA[はんにゃ.]]></category>
+		<category><![CDATA[川島章良]]></category>
+
+			<guid isPermaLink="false">https://magazine.fany.lol/?p=294544</guid>
+						<image>
+				<url>https://magazine.fany.lol/wp-content/uploads/2026/10/cfa8b3e1fa50b36f2dba85e72feba21e-3.png</url>
+			</image>
+			<enclosure url="https://magazine.fany.lol/wp-content/uploads/2026/10/cfa8b3e1fa50b36f2dba85e72feba21e-3.png" type="image/jpeg" />
+									<description>
+				<![CDATA[お笑いコンビ・はんにゃ.の川島章良が、2026年10月23日（金）に北海道の旭川市で開催された「第56回がん予防道民大会」に登壇しました。 今回の健康講話の演題は『がん経験者だからこそ話せる「まさか…。32歳でガン告知～家族に支えられた僕～」』。若くして腎臓がんを経験した…]]>
+			</description>
+											<content:encoded>
+				<![CDATA[
+					
+<p>お笑いコンビ・はんにゃ.の川島章良が、2026年10月23日（金）に北海道の旭川市で開催された「第56回がん予防道民大会」に登壇しました。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="4193" height="2798" src="https://magazine.fany.lol/wp-content/uploads/2026/10/07f717ae143326c938a9ad386144d95a.jpg" alt="出典: FANY マガジン" class="wp-image-294555" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/07f717ae143326c938a9ad386144d95a.jpg 4193w, https://magazine.fany.lol/wp-content/uploads/2026/10/07f717ae143326c938a9ad386144d95a-1600x1068.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/07f717ae143326c938a9ad386144d95a-800x534.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/07f717ae143326c938a9ad386144d95a-350x234.jpg 350w" sizes="(max-width: 4193px) 100vw, 4193px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<p>今回の健康講話の演題は『がん経験者だからこそ話せる「まさか…。32歳でガン告知～家族に支えられた僕～」』。若くして腎臓がんを経験した川島が、約50分間みっちりと自身の体験談や闘病を支えた家族への感謝、そして早期発見・検診の重要性を笑いと感動を交えて語り尽くし、集まった多くの来場者の胸を打ちました。<br>本記事では、熱気にあふれた当日の講演の様子を詳しくレポートします！</p>
+
+
+
+<h2 class="wp-block-heading">旭川に響いた笑顔と真剣な言葉！「第56回がん予防道民大会」</h2>
+
+
+
+<p>地域の健康意識を高め、がんの予防や早期発見の大切さを伝えるために開催されている「がん予防道民大会」。第56回目となる今回は旭川市民文化会館で開催され、会場には多くの道民が駆けつけました。<br>客席には幅広い年代の参加者に加え、若い学生たちの姿も目立ちました。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="5568" height="3712" src="https://magazine.fany.lol/wp-content/uploads/2026/10/e60fc4102d29e6683edb06ff1167078e.jpg" alt="出典: FANY マガジン" class="wp-image-294558" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/e60fc4102d29e6683edb06ff1167078e.jpg 5568w, https://magazine.fany.lol/wp-content/uploads/2026/10/e60fc4102d29e6683edb06ff1167078e-1600x1067.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/e60fc4102d29e6683edb06ff1167078e-800x533.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/e60fc4102d29e6683edb06ff1167078e-350x233.jpg 350w" sizes="(max-width: 5568px) 100vw, 5568px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<p>温かい拍手に包まれてステージに登場した川島は、冒頭からお馴染みの明るいキャラクターと巧みなトークで会場の緊張をほぐします。「お笑い芸人として、今日は笑いもしっかり届けつつ、僕の体験から皆さんの健康を守るヒントを持ち帰っていただければ」と呼びかけ、和やかな雰囲気の中で濃密な50分間の講演がスタートしました。</p>
+
+
+
+<h2 class="wp-block-heading">「なんでマネージャーも……？」プロポーズ当日に届いたあまりにも思いがけない告知</h2>
+
+
+
+<p>当時、風邪すらほとんどひいたことがなく、健康には絶対的な自信を持っていた川島。しかし、結婚を目前に控えていた時期、パートナー（のちの妻・なつきさん）に勧められて軽い気持ちで受けた健康診断で再検査となってしまいます。<br>後日、医師から「結果が出たので、ご家族とマネージャーと一緒に来てください」と連絡が入りました。「なんでマネージャーも呼ばれるんだろう……？」と胸騒ぎを覚えたその日は、まさにのちの妻・なつきさんにプロポーズをしようと決めていた大切な日でした。<br>突然の連絡に不安になり、すぐに電話を折り返し「結果を今教えてください」と伝えると、「結論からお伝えすると、腎臓がんの疑いがあります」と絶望的な言葉が。<br>温泉旅行の部屋でサプライズのプレゼントを用意し、お風呂に行った彼女の帰りを部屋で待っていた矢先に告げられた「腎臓がんの疑いがある」という言葉。人生の絶頂から一気に地獄へ突き落とされたような、あまりにも大きな衝撃でした。</p>
+
+
+
+<h2 class="wp-block-heading">絶望の中で救われたなつきさんの言葉と、非公表を選んだ葛藤</h2>
+
+
+
+<p>「なんでいまなんだよ……」と頭が真っ白になり、スマホで「腎臓がん 生存率」と検索すると悲観的な情報がずらりと並ぶスマホの画面。部屋に戻ってきたなつきさんに、こらえきれず「腎臓がんかもしれない」と打ち明けました。<br>そこで返ってきたのは、予想外の言葉でした。<br>「よかったじゃん。きっと、お腹にいる子ががんを見つけてくれたんだよ」<br>早い段階でがんが見つかったことを前向きに捉えてくれたその言葉に、真っ暗な海の底から一気に引き上げられたような救いを感じたと川島は振り返ります。パートナーのがんの発覚にショックを受けるのかと思いきや、ポジティブな言葉が返ってきたことが嬉しかったと。<br>しかし当時、お笑い芸人としての苦悩もありました。「重い病気を抱えている芸人が面白いことを言っても、視聴者の皆さんが笑えなくなってしまうのではないか」という葛藤から、当時はがんの事実を世間に公表せず、静かに治療へと向かう道を選びました。</p>
+
+
+
+<h2 class="wp-block-heading">セカンドオピニオンの重要性</h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="5568" height="3712" src="https://magazine.fany.lol/wp-content/uploads/2026/10/7598a7378a7e9d6f19f3c4446be42e1e.jpg" alt="出典: FANY マガジン" class="wp-image-294559" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/7598a7378a7e9d6f19f3c4446be42e1e.jpg 5568w, https://magazine.fany.lol/wp-content/uploads/2026/10/7598a7378a7e9d6f19f3c4446be42e1e-1600x1067.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/7598a7378a7e9d6f19f3c4446be42e1e-800x533.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/7598a7378a7e9d6f19f3c4446be42e1e-350x233.jpg 350w" sizes="(max-width: 5568px) 100vw, 5568px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<p>ステージでは、自身の経験から「セカンドオピニオンの大切さ」についても熱く語られました。<br>最初に告げられた診断から、周囲の勧めもあり複数の病院で診察を受けた川島。「名医であっても絶対に見落としがないとは限らない。複数の意見が揃うことで、より安心して治療や手術に臨める」と、早期発見・診断における情報の重要性を強く訴えました。</p>
+
+
+
+<h2 class="wp-block-heading">笑うとお腹に激痛が……！術後の苦労と、お見舞い中に感じた「人の優しさ」</h2>
+
+
+
+<p>その後、腎臓の摘出手術（開腹手術）を受けた川島。しかし、待っていたのは術後の過酷な痛みでした。<br>お腹を大きく切開しているため、歩く、立つ、そして少しでも笑うと傷口に激痛が走る状態。そんな苦しい入院生活の中、川島を元気づけようとお見舞いに訪れたのが、事情を知る家族やなつきさんでした。<br>しかし、痛みに耐え、傷口をかばう川島を家族やなつきさんはこれでもかと笑わせてきます。「笑わせないでくれ！」と激痛に悶絶しながらも、川島は「お腹は本当に痛かったけれど、自分を元気づけようとしてくれるみんなの優しさに触れて、すごく幸せな時間でした」と、当時を温かい笑顔で振り返りました。</p>
+
+
+
+<h2 class="wp-block-heading">「病気は決して怖いことじゃない」世代を超えて届いた熱いメッセージ</h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="5568" height="3712" src="https://magazine.fany.lol/wp-content/uploads/2026/10/9d4dbab0aac5d7281250fd796181d7ba.jpg" alt="出典: FANY マガジン" class="wp-image-294560" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/9d4dbab0aac5d7281250fd796181d7ba.jpg 5568w, https://magazine.fany.lol/wp-content/uploads/2026/10/9d4dbab0aac5d7281250fd796181d7ba-1600x1067.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/9d4dbab0aac5d7281250fd796181d7ba-800x533.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/9d4dbab0aac5d7281250fd796181d7ba-350x233.jpg 350w" sizes="(max-width: 5568px) 100vw, 5568px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<p>闘病中、日常で漢字の「癌」という字を見るだけでも圧が強すぎて不安が募ったというエピソードも明かしつつ、周囲の支えと適切な治療によって川島は見事にがんを克服。<br>「早期発見できたからこそ、こうして今もステージに立ち、皆さんに笑顔を届けることができています。しっかりと定期検診を受けて早期発見できれば、病気は決して怖いことじゃないんです」講演の終盤、川島は会場に集まった参加者に向けて温かくも力強いメッセージを送りました。<br>「仕事や日々の忙しさを理由に、検診を後回しにしてしまう気持ちはとてもよく分かります。でも、自分の体と向き合う数時間が、自分自身だけでなく大切な家族の未来を守ることにつながります。病気を怖がらずに、どうか『自分は大丈夫』と思わずに、定期的に検診を受けてください」<br>ユーモアを交えた等身大の言葉は、川島の全盛期の活躍を直接知らないような若い世代の学生たちの心にもしっかりと届き、会場全体が深く頷きながら聞き入っている姿が印象的でした。<br><br>50分間みっちりと語られた笑いと感動、そして何よりも健康への意識を改めさせるきっかけとなった今回の川島章良の講演。<br>がん予防や早期発見は、年代を問わず自分や大切な家族のための取り組みです。「まさか」が訪れる前に、そして必要以上に病気を怖がることなく、まずは一度検診に足を運んでみること——川島の熱い想いは、世代を超えて会場に集まった道民一人ひとりの心にしっかりと刻まれたことでしょう。</p>
+				]]>
+			</content:encoded>
+																	</item>
+				<item>
+			<title>ベストスコア60台が集結! ココリコ遠藤チームと大西ライオンチームが激突</title>
+			<link>https://magazine.fany.lol/294629/</link>
+						<pubDate>Thu, 29 Oct 2026 08:00:00 +0000			</pubDate>
+			<dc:creator>
+				<![CDATA[中村礼]]>
+			</dc:creator>
+					<category><![CDATA[お知らせ]]></category>
+		<category><![CDATA[ニュース]]></category>
+		<category><![CDATA[BSよしもと]]></category>
+		<category><![CDATA[ココリコ]]></category>
+		<category><![CDATA[タキノルイ]]></category>
+		<category><![CDATA[ちぇす]]></category>
+		<category><![CDATA[はんにゃ.]]></category>
+		<category><![CDATA[例えば炎]]></category>
+		<category><![CDATA[兼光タカシ]]></category>
+		<category><![CDATA[大西ライオン]]></category>
+		<category><![CDATA[川島章良]]></category>
+		<category><![CDATA[若松弘樹]]></category>
+		<category><![CDATA[遠藤章造]]></category>
+
+			<guid isPermaLink="false">https://magazine.fany.lol/?p=294629</guid>
+						<image>
+				<url>https://magazine.fany.lol/wp-content/uploads/2026/10/f4205a7fc8c643dc3b86b8c5b1e653d7-3.png</url>
+			</image>
+			<enclosure url="https://magazine.fany.lol/wp-content/uploads/2026/10/f4205a7fc8c643dc3b86b8c5b1e653d7-3.png" type="image/jpeg" />
+									<description>
+				<![CDATA[優勝賞金100万円を懸け、芸人たちが真剣なゴルフ勝負を繰り広げる『GG.LEAGUE2026 presented by TETRIX』の「#4」が、10月31日（土）にBSよしもとで放送されます。今週の放送からは、ココリコ・遠藤章造率いる遠藤チームと、大西ライオンチームが…]]>
+			</description>
+											<content:encoded>
+				<![CDATA[
+					
+<p id="p-rc_873574a3e2f7b3d6-30">優勝賞金100万円を懸け、芸人たちが真剣なゴルフ勝負を繰り広げる『GG.LEAGUE2026 presented by TETRIX』の「#4」が、10月31日（土）にBSよしもとで放送されます。今週の放送からは、ココリコ・遠藤章造率いる遠藤チームと、大西ライオンチームが激突します！ ともに優勝候補の呼び声が高く、超ハイレベルな戦いが期待されます。また、BSよしもと公式YouTubeチャンネルでのアーカイブ配信も大反響を呼んでおり、再生回数は#1が60万回、#2が35万回を突破。ゴルフファンを中心に大きな盛り上がりを見せています。</p>
+
+
+
+
+
+
+
+
+
+<p></p>
+
+
+
+
+<h2 class="wp-block-heading">プロ級の腕前を持つゴルフ芸人の実力とは？</h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1920" height="1080" src="https://magazine.fany.lol/wp-content/uploads/2026/10/f344b9432e7cd68430e27b4749d44cfc.png" alt="出典: FANY マガジン" class="wp-image-294632" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/f344b9432e7cd68430e27b4749d44cfc.png 1920w, https://magazine.fany.lol/wp-content/uploads/2026/10/f344b9432e7cd68430e27b4749d44cfc-1600x900.png 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/f344b9432e7cd68430e27b4749d44cfc-800x450.png 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/f344b9432e7cd68430e27b4749d44cfc-350x197.png 350w" sizes="(max-width: 1920px) 100vw, 1920px" /></figure>
+
+
+
+<p id="p-rc_873574a3e2f7b3d6-32">今回、大西ライオンチームから出場するのは、大西ライオン、はんにゃ.・川島章良、例えば炎・タキノルイの3人。</p>
+
+
+
+<p id="p-rc_873574a3e2f7b3d6-32"> オープニングでは、タイでプロとゴルフ合宿をしているという“ガチゴルフ芸人”の大西ライオンが、練習の様子を紹介。「マジでアプローチだけの1日があります」と語り、みんなを笑わせます。大西ライオン自身のベストスコアは69。さらに、同じチームのタキノルイもベストスコア69だといい、大西ライオンは自信満々です。 </p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1920" height="1080" src="https://magazine.fany.lol/wp-content/uploads/2026/10/022b0144b49802a4acf1f144d5e3f34d.png" alt="出典: FANY マガジン" class="wp-image-294633" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/022b0144b49802a4acf1f144d5e3f34d.png 1920w, https://magazine.fany.lol/wp-content/uploads/2026/10/022b0144b49802a4acf1f144d5e3f34d-1600x900.png 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/022b0144b49802a4acf1f144d5e3f34d-800x450.png 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/022b0144b49802a4acf1f144d5e3f34d-350x197.png 350w" sizes="(max-width: 1920px) 100vw, 1920px" /></figure>
+
+
+
+<p id="p-rc_873574a3e2f7b3d6-32">一方、遠藤チームからは、ココリコ・遠藤章造、兼光タカシ、ちぇす・若松弘樹の3人が参戦。秋田住みます芸人として活動する若松弘樹も、中学時代にゴルフを始めた実力者で、ベストスコアは69。両チームあわせて、ベストスコアが60台の芸人が3人もそろいました。</p>
+
+
+
+<h2 class="wp-block-heading">320ヤードの豪打に、7メートルのロングパット！</h2>
+
+
+
+<p id="p-rc_873574a3e2f7b3d6-34">さっそく勝負がスタート！ 1ホール目は、全員がティーショットを打ち、ベストボールを選択する「ティーショットだけベストボール対決」です。遠藤チームは3人ともフェアウェイの真ん中を捉え、なかでも若松弘樹は320ヤードを飛ばして実力を見せつけます。 </p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1920" height="1080" src="https://magazine.fany.lol/wp-content/uploads/2026/10/051a58a907b09a0d1488fcb9a2e156e3.png" alt="出典: FANY マガジン" class="wp-image-294634" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/051a58a907b09a0d1488fcb9a2e156e3.png 1920w, https://magazine.fany.lol/wp-content/uploads/2026/10/051a58a907b09a0d1488fcb9a2e156e3-1600x900.png 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/051a58a907b09a0d1488fcb9a2e156e3-800x450.png 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/051a58a907b09a0d1488fcb9a2e156e3-350x197.png 350w" sizes="(max-width: 1920px) 100vw, 1920px" /></figure>
+
+
+
+<p id="p-rc_873574a3e2f7b3d6-34">対する大西ライオンチームは、ティーショットでは遠藤チームに及ばないものの、そこから見事なアプローチを披露。さらに、7メートルのパットを沈める場面も飛び出します。1ホール目から繰り広げられる好プレーの応酬に、遠藤章造も「うわ、オモシ☐！」と血がたぎった様子。 </p>
+
+
+
+<p id="p-rc_873574a3e2f7b3d6-34">先に主導権を握るのは、遠藤チームか、大西ライオンチームか。ゴルフ好きの方も、そうでない方も、好プレーと笑いが詰まった熱戦をお見逃しなく！</p>
+
+
+
+<h3 class="wp-block-heading">番組概要</h3>
+
+
+
+<p id="p-rc_873574a3e2f7b3d6-36"><strong>『GG.LEAGUE2026 presented by TETRIX』 </strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1920" height="1080" src="https://magazine.fany.lol/wp-content/uploads/2026/10/07f1b971f694df81f892c7b6111c637a.png" alt="出典: FANY マガジン" class="wp-image-294631" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/07f1b971f694df81f892c7b6111c637a.png 1920w, https://magazine.fany.lol/wp-content/uploads/2026/10/07f1b971f694df81f892c7b6111c637a-1600x900.png 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/07f1b971f694df81f892c7b6111c637a-800x450.png 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/07f1b971f694df81f892c7b6111c637a-350x197.png 350w" sizes="(max-width: 1920px) 100vw, 1920px" /></figure>
+
+
+
+<p id="p-rc_873574a3e2f7b3d6-36">放送チャンネル：BSよしもと（BS265ch） </p>
+
+
+
+<p id="p-rc_873574a3e2f7b3d6-36">放送日時：2026年10月31日（土）17:00〜17:30 </p>
+
+
+
+<p id="p-rc_873574a3e2f7b3d6-36">出演者：ココリコ・遠藤章造、兼光タカシ、ちぇす・若松弘樹、大西ライオン、はんにゃ.・川島章良、例えば炎・タキノルイ </p>
+
+
+
+<p id="p-rc_873574a3e2f7b3d6-36">視聴方法： <br>【TV】BS265ch（無料放送） </p>
+
+
+
+
+
+
+
+
+<p id="p-rc_873574a3e2f7b3d6-36"></p>
+				]]>
+			</content:encoded>
+																	</item>
+				<item>
+			<title>東京×大阪×福岡の人気芸人が集結! 太宰てつのインスタ人気の裏にヨネダ2000の先輩愛「いつかツーマンを」</title>
+			<link>https://magazine.fany.lol/294447/</link>
+						<pubDate>Thu, 29 Oct 2026 07:00:00 +0000			</pubDate>
+			<dc:creator>
+				<![CDATA[小泉耕平]]>
+			</dc:creator>
+					<category><![CDATA[ニュース]]></category>
+		<category><![CDATA[レポート]]></category>
+		<category><![CDATA[エバース]]></category>
+		<category><![CDATA[よしもと福岡 大和証券劇場]]></category>
+		<category><![CDATA[ヨネダ2000]]></category>
+		<category><![CDATA[太宰]]></category>
+		<category><![CDATA[華山]]></category>
+
+			<guid isPermaLink="false">https://magazine.fany.lol/?p=294447</guid>
+						<image>
+				<url>https://magazine.fany.lol/wp-content/uploads/2026/10/9841645d8621e55a005d8c72135a3928.png</url>
+			</image>
+			<enclosure url="https://magazine.fany.lol/wp-content/uploads/2026/10/9841645d8621e55a005d8c72135a3928.png" type="image/jpeg" />
+									<description>
+				<![CDATA[大阪・東京・福岡が拠点の人気芸人が集まった特別公演『西も東も福来る～華山×エバース×ヨネダ2000×太宰～』が、10月23日（金）によしもと福岡 大和証券劇場で開催されました。大阪から華山（やすい、にこらす）、東京からエバース（佐々木隆史、町田和樹）とヨネダ2000（誠、…]]>
+			</description>
+											<content:encoded>
+				<![CDATA[
+					
+<p>大阪・東京・福岡が拠点の人気芸人が集まった特別公演『西も東も福来る～華山×エバース×ヨネダ2000×太宰～』が、10月23日（金）によしもと福岡 大和証券劇場で開催されました。大阪から華山（やすい、にこらす）、東京からエバース（佐々木隆史、町田和樹）とヨネダ2000（誠、愛）、福岡から太宰・てつが登場！　公演終了後には、実は以前から親交が深いというヨネダ2000の2人と太宰・てつに、共演の感想や先輩・後輩愛が感じられる交流エピソードを聞きました。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="5568" height="3712" src="https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_9152.jpg" alt="出典: FANY マガジン" class="wp-image-294818" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_9152.jpg 5568w, https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_9152-1600x1067.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_9152-800x533.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_9152-350x233.jpg 350w" sizes="(max-width: 5568px) 100vw, 5568px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>東西の芸人が福岡に集結！ </strong></h2>
+
+
+
+<p>公演のMCを務めたのは、地元・福岡を拠点に活動する太宰・てつ。今回は東京、大阪、福岡の芸人が一緒に公演をするという初の試みで、なかでも華山の2人は福岡のステージが4年ぶりという話に、客席から驚きの声が上がります。</p>
+
+
+
+<p>すんなりネタに突入するかと思いきや、それぞれが自由にボケ始め、気づけばボケの応酬に。まさに東から西から、“笑いの福”がやってくる幕開けとなりました。</p>
+
+
+
+<p>ネタのトップバッターは太宰。今回は相方のあやむが不在のため、てつが渾身のピン芸を披露しました。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="5568" height="3712" src="https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_8929.jpg" alt="出典: FANY マガジン" class="wp-image-294817" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_8929.jpg 5568w, https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_8929-1600x1067.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_8929-800x533.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_8929-350x233.jpg 350w" sizes="(max-width: 5568px) 100vw, 5568px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<p>続くエバースは、2人の個性が光る漫才を披露。町田が次々とイジられる展開に、客席は大爆笑！</p>
+
+
+
+<p>ヨネダ2000は、一度耳にしたら忘れられないような、クセになるフレーズを盛り込んだネタで会場を沸かせました。</p>
+
+
+
+<p>ラストの華山は、やすいのボケに、にこらすがたたみかけるようにツッコむテンポのよい漫才を披露。独特の掛け合いで観客を引き込みました。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="5568" height="3712" src="https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_9038.jpg" alt="出典: FANY マガジン" class="wp-image-294819" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_9038.jpg 5568w, https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_9038-1600x1067.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_9038-800x533.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_9038-350x233.jpg 350w" sizes="(max-width: 5568px) 100vw, 5568px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<p>後半は、出演者によるゲームコーナーへ。開始前から小道具を使ってボケ始める誠に、ほかの芸人たちも次々と便乗。ゲームが始まる前から、舞台上はボケまつりとなりました。</p>
+
+
+
+<p>初めての組み合わせとは思えない息の合ったやり取りや、クイズに真剣に取り組む姿など、ネタとはひと味違った芸人たちの一面が見られました。</p>
+
+
+
+<h2 class="wp-block-heading">太宰・てつの念願が<strong>「やっと叶った」</strong></h2>
+
+
+
+<p>公演終了後、ヨネダ2000の誠と愛、太宰・てつに話を聞きました。</p>
+
+
+
+<p>大阪・東京・福岡の芸人が集まった今回の公演について、てつは「心のどこかで求めていたものではある」と語ります。これまでも東京や大阪の芸人が福岡を訪れる機会がありましたが、福岡の芸人も加わったかたちの公演を望む声は以前からあったとのこと。待ち望んでいた機会に、てつは「やっと叶ったみたいなところはありますね」と、感慨深げでした。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1477" height="1108" src="https://magazine.fany.lol/wp-content/uploads/2026/10/S__14082159_0.jpg" alt="出典: FANY マガジン" class="wp-image-294820" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/S__14082159_0.jpg 1477w, https://magazine.fany.lol/wp-content/uploads/2026/10/S__14082159_0-800x600.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/S__14082159_0-350x263.jpg 350w" sizes="(max-width: 1477px) 100vw, 1477px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<p>一方、ヨネダ2000の2人によると、福岡を訪れた際には地元の芸人からおいしい飲食店を教えてもらい、一緒に食事をすることもあるのだとか。活動拠点は離れていても、芸人同士の交流は意外と盛んなようです。</p>
+
+
+
+<p>実際、ヨネダ2000と太宰は、以前から親交のある間柄。今回のてつのリラックスした様子にも、2人は親しみを感じていたようでした。</p>
+
+
+
+<p>そんなてつが今回の舞台で感じたのは、共演した先輩芸人たちの実力です。オープニングから繰り広げられたギャグの応酬にも、大きな刺激を受けたそうで、「めちゃくちゃ勉強させてもらいました」と語りました。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1477" height="1108" src="https://magazine.fany.lol/wp-content/uploads/2026/10/S__14082093_0.jpg" alt="出典: FANY マガジン" class="wp-image-294821" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/S__14082093_0.jpg 1477w, https://magazine.fany.lol/wp-content/uploads/2026/10/S__14082093_0-800x600.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/S__14082093_0-350x263.jpg 350w" sizes="(max-width: 1477px) 100vw, 1477px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>Instagram大バズりの裏に誠のアドバイス</strong></h2>
+
+
+
+<p>今回のインタビューで飛び出したのが、ヨネダ2000とてつの意外な交流エピソード。きっかけの一つは「服」でした。</p>
+
+
+
+<p>以前、てつが着ていた服を気に入ったことから、ヨネダ2000との間で服装が話題になったそう。ところが、次に会ったときにてつが別の服を着ていると、「あの服じゃないとしゃべらない」と言われてしまったのだとか。もちろん、これは親しい間柄ならではの冗談で、3人の距離の近さが伝わってきました。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1477" height="1108" src="https://magazine.fany.lol/wp-content/uploads/2026/10/S__14082126_0.jpg" alt="出典: FANY マガジン" class="wp-image-294823" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/S__14082126_0.jpg 1477w, https://magazine.fany.lol/wp-content/uploads/2026/10/S__14082126_0-800x600.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/S__14082126_0-350x263.jpg 350w" sizes="(max-width: 1477px) 100vw, 1477px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<p>そして話題は最近、大きな反響を呼んでいるてつのInstagramへ。</p>
+
+
+
+<p>「1回でいいからバズってみたい」という思いから、動画投稿を続けてきたてつ。ラグビー経験者ということもあり、当初はラグビーに関する動画を投稿していましたが、なかなか反響が得られず、先輩芸人から「芸人なんだからボケたほうがいい」とアドバイスされたことをきっかけに、笑いを取り入れた動画へ方向転換しました。</p>
+
+
+
+<p>その結果、「絶対に〇〇なもの1選」シリーズなどの投稿が注目を集めるようになったのです。</p>
+
+
+
+<p>実は、そんなてつの動画に、ブレイク前から注目していたのが、誠でした。まだ初期の段階にInstagramで偶然、流れてきたてつの動画を見つけた誠は、「これ続けてほしい」と感じたとのこと。そこで誠は、てつにLINEで動画のスクリーンショットを送り、感想を伝えていたといいます。</p>
+
+
+
+<p>てつによると、その後、投稿への「いいね」が一気に増え始めたのだとか。いまでは誠もてつのInstagramをフォローし、新しい投稿を楽しみにしているそうです。</p>
+
+
+
+<h2 class="wp-block-heading">「最近、角度甘くなってない？」</h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1477" height="1108" src="https://magazine.fany.lol/wp-content/uploads/2026/10/S__14082102_0.jpg" alt="出典: FANY マガジン" class="wp-image-294822" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/S__14082102_0.jpg 1477w, https://magazine.fany.lol/wp-content/uploads/2026/10/S__14082102_0-800x600.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/S__14082102_0-350x263.jpg 350w" sizes="(max-width: 1477px) 100vw, 1477px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<p>一方、愛はてつの動画について、「最近、角度甘くなってない？」とまさかの撮影アングルへの指摘。てつが動画を撮影する際のカメラの角度が、以前と少し変わってきていることが気になっていたようです。</p>
+
+
+
+<p>上からカメラをのぞき込む撮影の角度や、てつの顔の見え方まで細かくチェックしているという愛。その指摘に、てつも撮影方法を見直すことを約束し、ヨネダ2000の2人がここまで自分の動画を見てくれていることに驚きながら、感謝を伝えていました。</p>
+
+
+
+<p>最後に、今後また一緒に舞台に立つなら何をしてみたいか聞いてみると、「ツーマンライブ」という答えが出てきました。ネタだけでなく、トークやコーナーも盛り込んだ公演を、いつか一緒にできたら──3人はそんな話で盛り上がります。</p>
+
+
+
+<p>ヨネダ2000の2人に太宰の魅力を尋ねると、返ってきたのは「2人とも、いい意味でナルシスト」という意外な評価。服の着こなしや、ちょっとした振る舞いに自分らしさを出そうとするところが、2人の魅力なのだとか。そんな太宰の姿を、ヨネダ2000は面白がりながらも温かく見守っている──そんな関係性が、インタビューから伝わってきました。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1477" height="1108" src="https://magazine.fany.lol/wp-content/uploads/2026/10/S__14082149_0.jpg" alt="出典: FANY マガジン" class="wp-image-294824" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/S__14082149_0.jpg 1477w, https://magazine.fany.lol/wp-content/uploads/2026/10/S__14082149_0-800x600.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/S__14082149_0-350x263.jpg 350w" sizes="(max-width: 1477px) 100vw, 1477px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<h3 class="wp-block-heading">配信概要</h3>
+
+
+
+<p><strong>西も東も福来る～華山×エバース×ヨネダ2000×太宰～</strong></p>
+
+
+
+<p>※販売は10/30（金）12:00まで<br>※見逃し配信期間は10/30（金）23:59まで</p>
+
+
+
+<p>FANY Online Ticket：<a href="https://online-ticket.yoshimoto.co.jp/" target="_blank" rel="noreferrer noopener">https://online-ticket.yoshimoto.co.jp/</a></p>
+
+
+
+<p>FANY IDメンバーは最大24時間、FANY IDプレミアムメンバーは最大72時間視聴可能です。</p>
+				]]>
+			</content:encoded>
+																	</item>
+				<item>
+			<title>【祝】ホテル・橋本が結婚を発表!</title>
+			<link>https://magazine.fany.lol/294740/</link>
+						<pubDate>Thu, 29 Oct 2026 04:00:00 +0000			</pubDate>
+			<dc:creator>
+				<![CDATA[森田萌花]]>
+			</dc:creator>
+					<category><![CDATA[ニュース]]></category>
+		<category><![CDATA[報告]]></category>
+		<category><![CDATA[橋本大祐]]></category>
+
+			<guid isPermaLink="false">https://magazine.fany.lol/?p=294740</guid>
+						<image>
+				<url>https://magazine.fany.lol/wp-content/uploads/2026/10/ca88118dd59ff86abe5cc798c2cdca53.png</url>
+			</image>
+			<enclosure url="https://magazine.fany.lol/wp-content/uploads/2026/10/ca88118dd59ff86abe5cc798c2cdca53.png" type="image/jpeg" />
+									<description>
+				<![CDATA[10月29日（木）、ホテル・橋本が自身のSNSで結婚したことを発表しました。 橋本は29日、自身のXとInstagramを更新し、ファンや関係者に結婚を報告しました。 おめでとうございます！]]>
+			</description>
+											<content:encoded>
+				<![CDATA[
+					
+<p>10月29日（木）、ホテル・橋本が自身のSNSで結婚したことを発表しました。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="400" height="400" src="https://magazine.fany.lol/wp-content/uploads/2026/10/6756c559cee682c20ac560871744bc5a.jpg" alt="出典: FANY マガジン" class="wp-image-294742" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/6756c559cee682c20ac560871744bc5a.jpg 400w, https://magazine.fany.lol/wp-content/uploads/2026/10/6756c559cee682c20ac560871744bc5a-350x350.jpg 350w" sizes="(max-width: 400px) 100vw, 400px" /></figure>
+
+
+
+<p>橋本は29日、自身のXとInstagramを更新し、ファンや関係者に結婚を報告しました。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="750" height="843" src="https://magazine.fany.lol/wp-content/uploads/2026/10/image-7.png" alt="出典: FANY マガジン" class="wp-image-294814" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/image-7.png 750w, https://magazine.fany.lol/wp-content/uploads/2026/10/image-7-350x393.png 350w" sizes="(max-width: 750px) 100vw, 750px" /></figure>
+
+
+
+<div class="wp-block-theme-box">
+<p>俺の名前は橋本大祐。<br>今日10月29日で35歳を迎えた、大阪で「ホテル」というコンビを組むお笑い芸人。</p>
+
+
+
+<p>ひょんなことから素敵な女性と出会い、トントン拍子に結婚。<br>そして2日後のハロウィンには、人生最大のイベント「結婚式」が開幕する――。<br>あぁ全く、波乱万丈で最高に幸せな毎日だぜ！</p>
+
+
+
+<p>というわけで結婚しました！<br>これからは守るべき人のためにも、まずは劇場入り目指して、相方の森本と頑張っていきます！<br>応援よろしくお願いします！</p>
+</div>
+
+
+
+<p>おめでとうございます！</p>
+				]]>
+			</content:encoded>
+																	</item>
+				<item>
+			<title>2027年の初笑い！東京で“最高の寄席”をお届け！「東京グランド花月」2027年1月1日～3日品川・ステラボールにて開催！</title>
+			<link>https://magazine.fany.lol/294789/</link>
+						<pubDate>Thu, 29 Oct 2026 03:00:00 +0000			</pubDate>
+			<dc:creator>
+				<![CDATA[萬代征矢]]>
+			</dc:creator>
+					<category><![CDATA[お知らせ]]></category>
+		<category><![CDATA[ニュース]]></category>
+		<category><![CDATA[NON STYLE]]></category>
+		<category><![CDATA[エバース]]></category>
+		<category><![CDATA[ガクテンソク]]></category>
+		<category><![CDATA[ガベジ]]></category>
+		<category><![CDATA[ザぼんち]]></category>
+		<category><![CDATA[ジェラードン]]></category>
+		<category><![CDATA[ジャルジャル]]></category>
+		<category><![CDATA[たくろう]]></category>
+		<category><![CDATA[トット]]></category>
+		<category><![CDATA[ドンデコルテ]]></category>
+		<category><![CDATA[パンクブーブー]]></category>
+		<category><![CDATA[ミキ]]></category>
+		<category><![CDATA[もりやすバンバンビガロ]]></category>
+		<category><![CDATA[ラニーノーズ]]></category>
+		<category><![CDATA[レイチェル]]></category>
+		<category><![CDATA[レインボー]]></category>
+		<category><![CDATA[ロングコートダディ]]></category>
+		<category><![CDATA[中川家]]></category>
+		<category><![CDATA[中田カウス]]></category>
+		<category><![CDATA[佐久間一行]]></category>
+		<category><![CDATA[吉本新喜劇]]></category>
+		<category><![CDATA[囲碁将棋]]></category>
+		<category><![CDATA[小林ゆう]]></category>
+		<category><![CDATA[島田珠代]]></category>
+		<category><![CDATA[川畑泰史]]></category>
+		<category><![CDATA[桂三度]]></category>
+		<category><![CDATA[桂文枝]]></category>
+		<category><![CDATA[烏川耕一]]></category>
+		<category><![CDATA[笑い飯]]></category>
+		<category><![CDATA[紅しょうが]]></category>
+		<category><![CDATA[蛙亭]]></category>
+		<category><![CDATA[酒井藍]]></category>
+		<category><![CDATA[銀シャリ]]></category>
+
+			<guid isPermaLink="false">https://magazine.fany.lol/?p=294789</guid>
+						<image>
+				<url>https://magazine.fany.lol/wp-content/uploads/2026/10/9bce85c533f8329f0caf312f2096bbd8.png</url>
+			</image>
+			<enclosure url="https://magazine.fany.lol/wp-content/uploads/2026/10/9bce85c533f8329f0caf312f2096bbd8.png" type="image/jpeg" />
+									<description>
+				<![CDATA[2027年1月1日(金・祝)から3日(日)の3日間、品川・ステラボールにて、よしもとの珠玉の笑いを楽しめる『東京グランド花月』を開催することが決定しました。 最高峰の寄席を東京で堪能！ よしもと114年の歴史を紡ぐ看板寄席“グランド花月”の東京公演は、漫才、落語、コントか…]]>
+			</description>
+											<content:encoded>
+				<![CDATA[
+					
+<p>2027年1月1日(金・祝)から3日(日)の3日間、品川・ステラボールにて、よしもとの珠玉の笑いを楽しめる『東京グランド花月』を開催することが決定しました。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="2551" height="3579" src="https://magazine.fany.lol/wp-content/uploads/2026/10/7079071d95a28152abcaa3a0eee58e18.jpg" alt="出典: FANY マガジン" class="wp-image-294792" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/7079071d95a28152abcaa3a0eee58e18.jpg 2551w, https://magazine.fany.lol/wp-content/uploads/2026/10/7079071d95a28152abcaa3a0eee58e18-1600x2245.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/7079071d95a28152abcaa3a0eee58e18-800x1122.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/7079071d95a28152abcaa3a0eee58e18-350x491.jpg 350w" sizes="(max-width: 2551px) 100vw, 2551px" /></figure>
+
+
+
+<h2 class="wp-block-heading">最高峰の寄席を東京で堪能！</h2>
+
+
+
+<p>よしもと114年の歴史を紡ぐ看板寄席“グランド花月”の東京公演は、漫才、落語、コントから吉本新喜劇まで、多彩な笑いが勢ぞろいする寄席公演です。</p>
+
+
+
+<p>今回は東京で初となるお正月開催として、3日間・全8公演をお届けします。お笑いの本場・大阪屈指の実力を誇るベテラン勢をはじめ、テレビでもおなじみの人気芸人、各賞レースを制した実力派、そしていま勢いに乗る若手芸人まで、新年の幕開けにふさわしいオールスターが品川に大集結します。</p>
+
+
+
+<p>2027年のスタートを華やかに彩る、ここでしか味わえない笑いと興奮が盛りだくさんの本公演。ご家族やご友人と一緒に、新春の初笑いをぜひ『東京グランド花月』でお楽しみください。</p>
+
+
+
+<p>なお、10月31日(土)11:00より、FANYチケットにて先行受付を開始します。</p>
+
+
+
+<h3 class="wp-block-heading">公演概要</h3>
+
+
+
+<p>【公演名】東京グランド花⽉<br>【開催日程】2027年1⽉1⽇（金・祝）～3⽇（日）<br>【会場】品川・ステラボール(港区高輪4-10-30 品川プリンスホテルマクセルアクアパーク品川内)<br>【主催・企画・制作】吉本興業株式会社</p>
+
+
+
+<p><strong>◆公演スケジュール・出演者◆</strong>　※出演者は都合により変更になる可能性がございます。予めご了承ください。</p>
+
+
+
+<p><strong>1月1日（金・祝）</strong><br>①15:00開場／15:30開演／17:30終演<br>②18:00開場／18:30開演／20:30終演<br>＜出演者＞<br>桂文枝、中川家、佐久間一行、NON STYLE(①のみ)、囲碁将棋(②のみ)、ガクテンソク、紅しょうが、たくろう、ガベジほか</p>
+
+
+
+<p><strong>1月2日（土）</strong><br>① 9:30開場／10:00開演／12:00終演<br>②13:00開場／13:30開演／15:30終演<br>③16:30開場／17:00開演／19:00終演<br>＜出演者＞<br>笑い飯、ザ・ぼんち、桂三度、銀シャリ、ジェラードン、ロングコートダディ、ドンデコルテほか</p>
+
+
+
+<p><strong>1月3日（日）</strong><br>① 9:30開場／10:00開演／12:00終演<br>②13:00開場／13:30開演／15:30終演<br>③16:30開場／17:00開演／19:00終演<br>＜出演者＞<br>中田カウス漫才のDENDO、ジャルジャル、パンクブーブー、もりやすバンバンビガロ、トット、ミキ、蛙亭(①②のみ)、ラニーノーズ、レインボー(③のみ)、エバース</p>
+
+
+
+<p>＜吉本新喜劇＞※全公演共通<br>座長：酒井藍<br>川畑泰史、島田珠代、烏川耕一、レイチェル、小林ゆう、ほか</p>
+
+
+
+
+
+
+
+
+<p></p>
+
+
+
+<p>◆チケット情報◆<br>【料金】指定席前売6,000円／当⽇6,500円<br>【チケット販売】FANYチケット、チケットぴあ、ローソンチケット、アソビュー！</p>
+
+
+
+<p>・FANYチケット先行受付<br>受付期間：10⽉31⽇（土）11:00～11⽉4⽇（水）11:00<br>当落発表：11⽉6⽇（金）18:00</p>
+
+
+
+<p>・プレイガイド先行受付（チケットぴあ、ローソンチケット） ※決済方法：即時決済のみ<br>受付期間：11⽉7⽇（土）11:00～11⽉10⽇（火）11:00<br>当落発表：11⽉13⽇（金）18:00</p>
+
+
+
+<p>・一般発売（FANYチケット、チケットぴあ、ローソンチケット、アソビュー！）<br>11⽉14⽇（土）10:00～</p>
+
+
+
+<h3 class="wp-block-heading">注意事項</h3>
+
+
+
+<p>※５歳以上は有料。４歳以下はひざ上のみ無料、但し、お席が必要な場合は有料。<br>※ビデオ・カメラ、または携帯電話等での録音・録画・撮影・配信禁止。<br>※出演者は変更する場合がございますので予めご了承ください。尚、変更にともなう払戻はございません。<br>※各公演で出演者・開演時間が異なります。ご注意ください。<br>※車椅子をご利用の方は、チケットご購入前に「FANYチケット問合せダイヤル」までお問合せください。</p>
+				]]>
+			</content:encoded>
+																	</item>
+				<item>
+			<title>ニューヨーク屋敷のゴルフ番組で鬼越・金ちゃんが激怒!? ベトナムロケ最終回</title>
+			<link>https://magazine.fany.lol/293895/</link>
+						<pubDate>Thu, 29 Oct 2026 01:30:00 +0000			</pubDate>
+			<dc:creator>
+				<![CDATA[中村礼]]>
+			</dc:creator>
+					<category><![CDATA[お知らせ]]></category>
+		<category><![CDATA[ニュース]]></category>
+		<category><![CDATA[デニス]]></category>
+		<category><![CDATA[ニューヨーク]]></category>
+		<category><![CDATA[鬼越トマホーク]]></category>
+
+			<guid isPermaLink="false">https://magazine.fany.lol/?p=293895</guid>
+						<image>
+				<url>https://magazine.fany.lol/wp-content/uploads/2026/10/ec63b0efa3782db84377d0e71181fcad-4.png</url>
+			</image>
+			<enclosure url="https://magazine.fany.lol/wp-content/uploads/2026/10/ec63b0efa3782db84377d0e71181fcad-4.png" type="image/jpeg" />
+									<description>
+				<![CDATA[10月31日（土）、BSよしもとにてニューヨーク・屋敷裕政の冠番組『ニューヨーク屋敷のゴルフ交友録』第15回が放送されます。今回は、同期の鬼越トマホーク・金ちゃん、デニス・松下宣夫とのベトナムロケの最終回。タンソンニャットゴルフ場でのラウンドはいよいよ終盤を迎えます。 松…]]>
+			</description>
+											<content:encoded>
+				<![CDATA[
+					
+<p>10月31日（土）、BSよしもとにてニューヨーク・屋敷裕政の冠番組『ニューヨーク屋敷のゴルフ交友録』第15回が放送されます。今回は、同期の鬼越トマホーク・金ちゃん、デニス・松下宣夫とのベトナムロケの最終回。タンソンニャットゴルフ場でのラウンドはいよいよ終盤を迎えます。</p>
+
+
+
+<h2 class="wp-block-heading">松下はキャディーとすっかり仲良しに！</h2>
+
+
+
+<p>6ホールを終えた時点で、屋敷が+16、金ちゃんが+22、松下が+27と、引き続き苦戦する3人。屋敷は「スコアのことは一回忘れましょう」と呼びかけます。 絶不調のプレーが放送されることを気にする金ちゃん。屋敷から、BSよしもとはなんばグランド花月のロビーでも流れると聞かされると、「マジで嫌だわ。師匠に観られたくないもん」と苦悶の表情を浮かべます。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1280" height="720" src="https://magazine.fany.lol/wp-content/uploads/2026/10/49483a632192e80565e23f223c844bff.png" alt="出典: FANY マガジン" class="wp-image-293905" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/49483a632192e80565e23f223c844bff.png 1280w, https://magazine.fany.lol/wp-content/uploads/2026/10/49483a632192e80565e23f223c844bff-800x450.png 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/49483a632192e80565e23f223c844bff-350x197.png 350w" sizes="(max-width: 1280px) 100vw, 1280px" /></figure>
+
+
+
+<p>一方、前回キャディーのブンさんと仲良くなった松下は、「ノブとブンでノブン！」と一発ギャグまで開発して上機嫌。すっかり息の合った2人に、屋敷は「ブンも含めて調子に乗んなよ」とツッコミを入れます。</p>
+
+
+
+<h2 class="wp-block-heading">最終ホールで事件が！？</h2>
+
+
+
+<p>迎えた最終ホールでは、屋敷と松下が金ちゃんを無視するいじりをしたり、3人でトークを楽しんだりと、同期3人らしいにぎやかなラウンドとなります。屋敷は「やっと俺ららしさが出てきたな」と話し、さらに「やっぱ3人でおると楽しいな。こういう感じが良かったよ」と楽しさを口にします。 </p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1280" height="720" src="https://magazine.fany.lol/wp-content/uploads/2026/10/de6bc520f5959c53b970ed31d5423675.png" alt="出典: FANY マガジン" class="wp-image-293908" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/de6bc520f5959c53b970ed31d5423675.png 1280w, https://magazine.fany.lol/wp-content/uploads/2026/10/de6bc520f5959c53b970ed31d5423675-800x450.png 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/de6bc520f5959c53b970ed31d5423675-350x197.png 350w" sizes="(max-width: 1280px) 100vw, 1280px" /></figure>
+
+
+
+<p>しかし、ラウンド中にあることがきっかけで金ちゃんが屋敷と松下に激怒し、帽子を地面にたたきつける場面も。いったい3人の間に何があったのでしょうか。 </p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1280" height="720" src="https://magazine.fany.lol/wp-content/uploads/2026/10/2561eb5846375a41d219a27cd66da194-1.png" alt="出典: FANY マガジン" class="wp-image-293909" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/2561eb5846375a41d219a27cd66da194-1.png 1280w, https://magazine.fany.lol/wp-content/uploads/2026/10/2561eb5846375a41d219a27cd66da194-1-800x450.png 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/2561eb5846375a41d219a27cd66da194-1-350x197.png 350w" sizes="(max-width: 1280px) 100vw, 1280px" /></figure>
+
+
+
+<p>番組初の海外ゴルフは、最後までドタバタの展開に。ベトナムロケの最終回を、ぜひお楽しみください。</p>
+
+
+
+<h3 class="wp-block-heading">番組概要</h3>
+
+
+
+<p><strong>『ニューヨーク屋敷のゴルフ交友録』 </strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1280" height="720" src="https://magazine.fany.lol/wp-content/uploads/2026/10/f57f9b1192df1d8d86208eca1eb6fe62-1.png" alt="出典: FANY マガジン" class="wp-image-293901" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/f57f9b1192df1d8d86208eca1eb6fe62-1.png 1280w, https://magazine.fany.lol/wp-content/uploads/2026/10/f57f9b1192df1d8d86208eca1eb6fe62-1-800x450.png 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/f57f9b1192df1d8d86208eca1eb6fe62-1-350x197.png 350w" sizes="(max-width: 1280px) 100vw, 1280px" /></figure>
+
+
+
+<p>放送局：BSよしもと（BS265ch） <br>放送日時：2026年10月31日（土）10:30〜11:00<br>出演者：ニューヨーク・屋敷裕政、鬼越トマホーク・金ちゃん、デニス・松下宣夫<br>視聴方法： <br>・TV：BS265ch（無料放送）</p>
+
+
+
+
+
+				]]>
+			</content:encoded>
+																	</item>
+				<item>
+			<title>国連加盟“70周年”記念ステージにココリコ田中登場! 国連機関を学びながら不安顔「僕らのコンビ名って大丈夫ですか?」【グローバルフェスタ JAPAN2026】</title>
+			<link>https://magazine.fany.lol/294433/</link>
+						<pubDate>Wed, 28 Oct 2026 09:30:00 +0000			</pubDate>
+			<dc:creator>
+				<![CDATA[富岡]]>
+			</dc:creator>
+					<category><![CDATA[ニュース]]></category>
+		<category><![CDATA[レポート]]></category>
+		<category><![CDATA[ココリコ]]></category>
+		<category><![CDATA[田中直樹]]></category>
+
+			<guid isPermaLink="false">https://magazine.fany.lol/?p=294433</guid>
+						<image>
+				<url>https://magazine.fany.lol/wp-content/uploads/2026/10/PA180229_2thumb.jpg</url>
+			</image>
+			<enclosure url="https://magazine.fany.lol/wp-content/uploads/2026/10/PA180229_2thumb.jpg" type="image/jpeg" />
+									<description>
+				<![CDATA[国内最大級の国際協力イベント『グローバルフェスタ JAPAN2026』が10月17日（土）、18日（日）の2日間、東京・新宿住友ビル三角広場と新宿中央公園で開催されました。2日目には、国連加盟70周年記念ステージにココリコ・田中直樹がゲスト出演。田中は、国連に関するクイズ…]]>
+			</description>
+											<content:encoded>
+				<![CDATA[
+					
+<p>国内最大級の国際協力イベント『グローバルフェスタ JAPAN2026』が10月17日（土）、18日（日）の2日間、東京・新宿住友ビル三角広場と新宿中央公園で開催されました。2日目には、国連加盟70周年記念ステージにココリコ・田中直樹がゲスト出演。田中は、国連に関するクイズを通して来場者と一緒に国際協力について楽しく学びました。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1920" height="1440" src="https://magazine.fany.lol/wp-content/uploads/2026/10/PA180395.jpeg" alt="出典: FANY マガジン" class="wp-image-294728" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/PA180395.jpeg 1920w, https://magazine.fany.lol/wp-content/uploads/2026/10/PA180395-1600x1200.jpeg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/PA180395-800x600.jpeg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/PA180395-350x263.jpeg 350w" sizes="(max-width: 1920px) 100vw, 1920px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">「ちょうど国連のことを学びたいと思っていた」!?</h2>
+
+
+
+<p>『グローバルフェスタJAPAN』は、外務省、国際協力機構（JICA）、国際協力NGOセンター（JANIC）が共催するイベントです。各種NGO・NPOをはじめ、国際機関、大使館、学生団体、企業などが参加し、国際協力やSDGs（持続可能な開発目標）への理解を深めるさまざまなプログラムを実施します。</p>
+
+
+
+<p>第35回目を迎えた今回は、昨年に引き続き、対面形式とオンライン形式を両立したハイブリッド形式で開催。新宿住友ビル三角広場と、新宿中央公園ファンモアタイムひろばの会場では、ステージイベントや出店ブース、体験ワークショップや世界のキッチンカーなどが出展されました。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="6000" height="4000" src="https://magazine.fany.lol/wp-content/uploads/2026/10/IMG_3907.jpg" alt="出典: FANY マガジン" class="wp-image-294437" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/IMG_3907.jpg 6000w, https://magazine.fany.lol/wp-content/uploads/2026/10/IMG_3907-1600x1067.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/IMG_3907-800x533.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/IMG_3907-350x233.jpg 350w" sizes="(max-width: 6000px) 100vw, 6000px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<p>2日目のステージイベント『ココリコ田中さんと学ぶ！日本×国連クイズショウ☆』は、外務省国連課プロデュースによる“国連加盟70周年記念ステージ”です。登場したココリコ・田中は、「ちょうど国連のことを学びたいと思ってたんです（笑）」と話して会場を和ませます。</p>
+
+
+
+<p>最初のテーマは「国連外交の舞台裏」。今年4月に入省したばかりの外務省国連課の樋口優未さんが、ニューヨークにある国連本部や、そこで行われる国連総会などを紹介しながらクイズが出題されます。</p>
+
+
+
+<p>「世界中の国々が集まる国連本部で先月行われた、各国の首脳や外相が一挙に集まる特別な1週間のことを何というでしょう？」といった問題が出されるなか、樋口さんは、初めての海外出張で外交の最前線を間近で経験することができたエピソードを披露し、「チーム力」こそが日本の国連外交の強みだと感じたと話します。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1920" height="1440" src="https://magazine.fany.lol/wp-content/uploads/2026/10/PA180259.jpeg" alt="出典: FANY マガジン" class="wp-image-294438" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/PA180259.jpeg 1920w, https://magazine.fany.lol/wp-content/uploads/2026/10/PA180259-1600x1200.jpeg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/PA180259-800x600.jpeg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/PA180259-350x263.jpeg 350w" sizes="(max-width: 1920px) 100vw, 1920px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">「僕らの日常にそんなに深くかかわっていたなんて…」</h2>
+
+
+
+<p>「国連とはどんな組織なのか」というテーマでは、国連広報センターの根本かおる所長が登場。田中は以前、根本所長とSDGs関連で対談の仕事をしたことがあるそうです。</p>
+
+
+
+<p>根本所長は「ここまで“SDGs”という言葉が浸透しているのは、おそらく日本が世界一だと思います」と言いながら、「“SDGs”という言葉が一人歩きしちゃって、SDGsは国連が決めたことだということは意外と知られていないので、今日は知って帰ってもらいたい」と呼びかけました。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1920" height="1440" src="https://magazine.fany.lol/wp-content/uploads/2026/10/PA180288.jpeg" alt="出典: FANY マガジン" class="wp-image-294439" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/PA180288.jpeg 1920w, https://magazine.fany.lol/wp-content/uploads/2026/10/PA180288-1600x1200.jpeg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/PA180288-800x600.jpeg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/PA180288-350x263.jpeg 350w" sizes="(max-width: 1920px) 100vw, 1920px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<p>「国連は“みんななかよく”話し合う場」と話す根本所長。そこで「“みんななかよく”を広めるため、今年の国連総会ハイレベルウィークに参加したキャラクターは？」というクイズが出題されます。</p>
+
+
+
+<p>「ピカチュウ」や「くまモン」といったさまざまな回答が出ますが、正解は「ハローキティ」。根本所長は「各国の首脳なんかも『あ、キティちゃん！』と言いながらセルフィーを撮っていたので、すごい人気だなぁと思いました」と振り返ります。</p>
+
+
+
+<p>田中も「先月、タイとカンボジアにお仕事で行ったんですけど、キティちゃんのTシャツを着ている人をよく見かけました」と、キティちゃんのワールドワイドな人気を実感したエピソードを披露しました。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1920" height="1440" src="https://magazine.fany.lol/wp-content/uploads/2026/10/PA180300.jpeg" alt="出典: FANY マガジン" class="wp-image-294440" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/PA180300.jpeg 1920w, https://magazine.fany.lol/wp-content/uploads/2026/10/PA180300-1600x1200.jpeg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/PA180300-800x600.jpeg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/PA180300-350x263.jpeg 350w" sizes="(max-width: 1920px) 100vw, 1920px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<p>このほか、海外でも日本の携帯電話が使えたり、海外に荷物が送付できたりするのも、国連の機関がルールを定めているからであることを紹介。田中は「知りませんでした！　僕らの日常にそんなに深くかかわっていたなんて……。めちゃくちゃお世話になってるんですね」と感心していました。</p>
+
+
+
+<h2 class="wp-block-heading">ココリコのコンビ名は著作権侵害！？</h2>
+
+
+
+<p>最後のテーマ「国連機関で働く日本人」で登場したのは、国連難民高等弁務官事務所（UNHCR）駐日事務所の阿阪奈美副代表、国際通貨基金（IMF）アジア太平洋地域事務所の寺井浩介広報官、世界知的所有権機関（WIPO・ワイポ）日本事務所の築城明優アソシエートプログラムオフィサーという3人。</p>
+
+
+
+<p>UNHCRは難民問題に取り組む国連機関。さっそく「世界中で紛争や暴力により故郷から逃れた人々の数は？」という3択クイズが出されます。</p>
+
+
+
+<p>正解は……「1億人以上」。日本の人口に匹敵する人数の人々が難民になっているという事実に、田中も思わず絶句です。阿阪氏は「そんな難民たちを継続的に支援し、難民ではなく『国民』として尊厳のある生活を再建でき、国の復興に貢献できるようになれば、こんなに嬉しいことはない」と語り、田中も深くうなずきました。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1920" height="1440" src="https://magazine.fany.lol/wp-content/uploads/2026/10/PA180326.jpeg" alt="出典: FANY マガジン" class="wp-image-294441" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/PA180326.jpeg 1920w, https://magazine.fany.lol/wp-content/uploads/2026/10/PA180326-1600x1200.jpeg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/PA180326-800x600.jpeg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/PA180326-350x263.jpeg 350w" sizes="(max-width: 1920px) 100vw, 1920px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<p>寺井氏は、IMFが191カ国の加盟国からなる国際機関で、加盟国が持続的な成長と繁栄を実現するための取り組みを行っていることを紹介。そして「サーベイランス」「金融支援」「能力開発」という3本柱の活動について、次のように説明しました。</p>
+
+
+
+<p>「具体的に言うと、世界中の国々の経済を監視して、どうやったら成長できるかを考えたり、経済危機が起きた国に各国から支援してもらったお金を貸すという信用組合のようなシステムもあるんです」</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1920" height="1440" src="https://magazine.fany.lol/wp-content/uploads/2026/10/PA180338.jpeg" alt="出典: FANY マガジン" class="wp-image-294442" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/PA180338.jpeg 1920w, https://magazine.fany.lol/wp-content/uploads/2026/10/PA180338-1600x1200.jpeg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/PA180338-800x600.jpeg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/PA180338-350x263.jpeg 350w" sizes="(max-width: 1920px) 100vw, 1920px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<p>これを聞いた田中は、「これは吉本興業も負けてません」と語り始めます。そして、吉本興業が芸人にお金を貸すシステムについて説明。給料天引きで返済するのですが、相方のココリコ・遠藤章造が借りすぎて、「あるとき月の給料が天引きされて25円だったことがあります」と明かして会場は笑いに包まれました。</p>
+
+
+
+<p>あまり聞き慣れないWIPOは、著作権や特許権、商標権などの知的財産を専門にした国際機関で、世界中の人がこうした制度で権利を守れるように活動しています。</p>
+
+
+
+<p>築城氏が「ココリコ」というコンビ名やネタの台本が知的財産制度で守られていると説明すると、田中は「え〜っ、スベったネタの台本なんて、僕すぐ捨てますよ！　守ってもらう必要ないですよ（笑）」と話して笑わせました。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1920" height="1440" src="https://magazine.fany.lol/wp-content/uploads/2026/10/PA180344.jpeg" alt="出典: FANY マガジン" class="wp-image-294443" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/PA180344.jpeg 1920w, https://magazine.fany.lol/wp-content/uploads/2026/10/PA180344-1600x1200.jpeg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/PA180344-800x600.jpeg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/PA180344-350x263.jpeg 350w" sizes="(max-width: 1920px) 100vw, 1920px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<p>さらに「そもそも“ココリコ”って喫茶店の名前からとってるんですよ。それ、大丈夫ですか？　僕、ヤバイことしてますかね？」と、コンビ名を決めたエピソードを披露。そして、「これから僕がテレビに出なくなったら、なんかあったと思ってください」と話して笑いを誘いました。</p>
+
+
+
+<p></p>
+				]]>
+			</content:encoded>
+																	</item>
+				<item>
+			<title>RGが“ODAあるある”熱唱、こがけんは特製カレーに“ウーマイガ～”!? 身近な国際協力を楽しく学ぶ【グローバルフェスタJAPAN2026】</title>
+			<link>https://magazine.fany.lol/294365/</link>
+						<pubDate>Wed, 28 Oct 2026 09:15:00 +0000			</pubDate>
+			<dc:creator>
+				<![CDATA[富岡]]>
+			</dc:creator>
+					<category><![CDATA[ニュース]]></category>
+		<category><![CDATA[レポート]]></category>
+		<category><![CDATA[RG]]></category>
+		<category><![CDATA[こがけん]]></category>
+		<category><![CDATA[レイザーラモン]]></category>
+
+			<guid isPermaLink="false">https://magazine.fany.lol/?p=294365</guid>
+						<image>
+				<url>https://magazine.fany.lol/wp-content/uploads/2026/10/IMG_3499_2thumb.jpg</url>
+			</image>
+			<enclosure url="https://magazine.fany.lol/wp-content/uploads/2026/10/IMG_3499_2thumb.jpg" type="image/jpeg" />
+									<description>
+				<![CDATA[国内最大級の国際協力イベント『グローバルフェスタJAPAN2026』が10月17日（土）、18日（日）の2日間、東京・新宿住友ビル三角広場と新宿中央公園で開催されました。35回目となる今年は、「世界とつながる、わたしの暮らし。共に創る未来」をテーマに、さまざまなプログラム…]]>
+			</description>
+											<content:encoded>
+				<![CDATA[
+					
+<p>国内最大級の国際協力イベント『グローバルフェスタJAPAN2026』が10月17日（土）、18日（日）の2日間、東京・新宿住友ビル三角広場と新宿中央公園で開催されました。35回目となる今年は、「世界とつながる、わたしの暮らし。共に創る未来」をテーマに、さまざまなプログラムを実施。初日のステージにはレイザーラモン・RGやこがけんが登場し、歌や食を通じて国際協力の大切さを学びました。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="6000" height="4000" src="https://magazine.fany.lol/wp-content/uploads/2026/10/IMG_3499.jpg" alt="出典: FANY マガジン" class="wp-image-294367" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/IMG_3499.jpg 6000w, https://magazine.fany.lol/wp-content/uploads/2026/10/IMG_3499-1600x1067.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/IMG_3499-800x533.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/IMG_3499-350x233.jpg 350w" sizes="(max-width: 6000px) 100vw, 6000px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a>　ODAマン🄫DLE</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">RG「ODAあるある歌うしかない！」</h2>
+
+
+
+<p>『グローバルフェスタJAPAN』は、外務省、国際協力機構（JICA）、国際協力NGOセンター（JANIC）が共催するイベントです。各種NGO・NPOをはじめ、国際機関、大使館、学生団体、企業などが参加し、国際協力やSDGs（持続可能な開発目標）への理解を深めるさまざまなプログラムを実施します。</p>
+
+
+
+<p>オープニングセレモニーでは、生稲晃子外務大臣政務官が挨拶に立ち、「国際協力に貢献してみたいと感じていただける方がいれば、このうえない喜びです」と語りました。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="6000" height="4000" src="https://magazine.fany.lol/wp-content/uploads/2026/10/IMG_3463.jpg" alt="出典: FANY マガジン" class="wp-image-294368" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/IMG_3463.jpg 6000w, https://magazine.fany.lol/wp-content/uploads/2026/10/IMG_3463-1600x1067.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/IMG_3463-800x533.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/IMG_3463-350x233.jpg 350w" sizes="(max-width: 6000px) 100vw, 6000px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<p>続いて登場したレイザーラモン・RGは、外務省のODA広報キャラクター“ODAマン”から政府開発援助（ODA）について学びます。ODAとは、開発途上国での道路や橋の整備、医療・教育の支援、災害対策などを通じ、現地の人々が自分たちの力で暮らしを良くしていけるよう支える取り組みです。</p>
+
+
+
+<p>ODAマンは、日本が開発途上国を支援する一方で、私たちの暮らしも海外から届く食べ物や衣服などに支えられていると解説。だからこそ、各国の平和や安定した発展が、私たちの暮らしを守ることにもつながると伝えました。</p>
+
+
+
+<p>RGは最後に「ODAあるある歌うしかない！」と宣言。『アメイジング・グレイス』のフレーズにのせて、ウラ声を響かせながら「ODAのあるある言うよ♪　話がめちゃくちゃデカいけど、実は生活に密着したことしがち♪」と歌い上げ、会場を笑いで包みました。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="6000" height="4000" src="https://magazine.fany.lol/wp-content/uploads/2026/10/IMG_3622.jpg" alt="出典: FANY マガジン" class="wp-image-294369" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/IMG_3622.jpg 6000w, https://magazine.fany.lol/wp-content/uploads/2026/10/IMG_3622-1600x1067.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/IMG_3622-800x533.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/IMG_3622-350x233.jpg 350w" sizes="(max-width: 6000px) 100vw, 6000px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">こがけんが特製「ODAカレー」を絶賛！</h2>
+
+
+
+<p>昼のステージでは、「世界を旅して、カレーを味わう！～食とODA～」を実施。登場したのは、5年間の板前経験があり、カレーに一家言を持つこがけんです。</p>
+
+
+
+<p>まずは、『地球の歩き方』の由良暁世編集長が世界各地のカレーや食文化を紹介。インドのスパイスが大航海時代を経て世界に広がり、イギリスで生まれたカレー粉が日本にも伝わった歴史を解説しました。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="6000" height="4000" src="https://magazine.fany.lol/wp-content/uploads/2026/10/IMG_3775.jpg" alt="出典: FANY マガジン" class="wp-image-294370" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/IMG_3775.jpg 6000w, https://magazine.fany.lol/wp-content/uploads/2026/10/IMG_3775-1600x1067.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/IMG_3775-800x533.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/IMG_3775-350x233.jpg 350w" sizes="(max-width: 6000px) 100vw, 6000px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<p>そして登場したのが、特製の「ODAカレー」です。具材として、日本のODAと深いかかわりがあるチリ産のサーモンや、モーリタニア産のタコ、インドネシア産のマグロが使われています。お米は、アジアの稲とアフリカの稲を掛け合わせた「ネリカ米」です。</p>
+
+
+
+<p>さっそく試食したこがけんは、「ウーマイガ～」と持ちギャグを披露！　そして「すごく旨味が凝縮されてます」と絶賛しました。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="6000" height="4000" src="https://magazine.fany.lol/wp-content/uploads/2026/10/IMG_3829.jpg" alt="出典: FANY マガジン" class="wp-image-294371" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/IMG_3829.jpg 6000w, https://magazine.fany.lol/wp-content/uploads/2026/10/IMG_3829-1600x1067.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/IMG_3829-800x533.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/IMG_3829-350x233.jpg 350w" sizes="(max-width: 6000px) 100vw, 6000px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<p>最後にこがけんは「僕は、もともとODAのアルファベットの方と一緒にユニットを組んで漫才をやっていたので」と、おいでやす小田に触れつつ、「馴染みのある食を通じてODAを知ることができてよかった」と、笑顔で語りました。</p>
+
+
+
+<p></p>
+				]]>
+			</content:encoded>
+																	</item>
+				<item>
+			<title>ドンデコルテ・渡辺銀次監修『銀のネギ油』発売! プロ絶賛の味を家庭で再現</title>
+			<link>https://magazine.fany.lol/294706/</link>
+						<pubDate>Wed, 28 Oct 2026 06:00:00 +0000			</pubDate>
+			<dc:creator>
+				<![CDATA[船迫愛純]]>
+			</dc:creator>
+					<category><![CDATA[お知らせ]]></category>
+		<category><![CDATA[ニュース]]></category>
+		<category><![CDATA[ドンデコルテ]]></category>
+		<category><![CDATA[渡辺銀次]]></category>
+
+			<guid isPermaLink="false">https://magazine.fany.lol/?p=294706</guid>
+						<image>
+				<url>https://magazine.fany.lol/wp-content/uploads/2026/10/ca0e939beff917277a57e1f5bf145159.png</url>
+			</image>
+			<enclosure url="https://magazine.fany.lol/wp-content/uploads/2026/10/ca0e939beff917277a57e1f5bf145159.png" type="image/jpeg" />
+									<description>
+				<![CDATA[ドンデコルテの渡辺銀次が監修を手がけた万能調味料『銀のネギ油』が、2026年11月7日（土）より発売されます。一般発売に先駆け、10月28日（水）より「たくろう万博オフィシャルオンラインストア」および各ECサイトにて予約受付が開始されました。 芸人仲間が大絶賛した「銀次チ…]]>
+			</description>
+											<content:encoded>
+				<![CDATA[
+					
+<p>ドンデコルテの渡辺銀次が監修を手がけた万能調味料『銀のネギ油』が、2026年11月7日（土）より発売されます。一般発売に先駆け、10月28日（水）より「たくろう万博オフィシャルオンラインストア」および各ECサイトにて予約受付が開始されました。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1241" height="1754" src="https://magazine.fany.lol/wp-content/uploads/2026/10/4a5a14b4d964ffc167dfc17a7b487e9f.jpg" alt="出典: FANY マガジン" class="wp-image-294710" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/4a5a14b4d964ffc167dfc17a7b487e9f.jpg 1241w, https://magazine.fany.lol/wp-content/uploads/2026/10/4a5a14b4d964ffc167dfc17a7b487e9f-800x1131.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/4a5a14b4d964ffc167dfc17a7b487e9f-350x495.jpg 350w" sizes="(max-width: 1241px) 100vw, 1241px" /></figure>
+
+
+
+<h2 class="wp-block-heading">芸人仲間が大絶賛した「銀次チャーハン」の核を完全再現</h2>
+
+
+
+<p id="p-rc_cd61b4c8d7bd64ef-212">本商品は、YouTubeチャンネル『それいけ益々荘』や『FANY :D』のショート料理動画『どん底MESHI』で話題を呼び、芸人仲間の間で「プロより旨い」と絶賛された「銀次チャーハン」の核となる自家製ネギ油を再現したものです。</p>
+
+
+
+<p id="p-rc_cd61b4c8d7bd64ef-213">創業120余年の歴史を誇る太田油脂株式会社の協力のもと、手間ひまのかかる手作り製法を完全再現しました<sup></sup>。着色料・香料・保存料を一切使用せず、素材本来の圧倒的な香ばしさと旨味を閉じ込めた極上の逸品に仕上がっています<sup></sup>。</p>
+
+
+
+<p id="p-rc_cd61b4c8d7bd64ef-214">蓋を開けた瞬間から広がる芳醇な香りは、チャーハンや炒め物はもちろん、ラーメンの追油、冷奴、餃子、パスタ、スープ、さらには卵かけご飯やサラダまで、かけるだけ・和えるだけで料理のコクを一段引き上げます<sup></sup>。</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img decoding="async" width="1912" height="2308" src="https://magazine.fany.lol/wp-content/uploads/2026/10/978b28196983f65213284febf632ddcb.jpg" alt="出典: FANY マガジン" class="wp-image-294711" style="aspect-ratio:1;object-fit:cover;width:450px" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/978b28196983f65213284febf632ddcb.jpg 1912w, https://magazine.fany.lol/wp-content/uploads/2026/10/978b28196983f65213284febf632ddcb-1600x1931.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/978b28196983f65213284febf632ddcb-800x966.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/978b28196983f65213284febf632ddcb-350x422.jpg 350w" sizes="(max-width: 1912px) 100vw, 1912px" /></figure>
+
+
+
+<p id="p-rc_cd61b4c8d7bd64ef-215">一般発売に先駆け、10月28日（水）より予約受付を開始します。</p>
+
+
+
+<p id="p-rc_cd61b4c8d7bd64ef-215">「たくろう万博オフィシャルオンラインストア」でも先行予約を受付中。11月7日（土）、8日（日）に万博記念公園（大阪府吹田市）で開催される『たくろう万博』の会場内にて、11月7日（土）限定で行われる「渡辺銀次本人手渡し特典会」への参加権が付いた商品を、特別価格かつ数量限定で販売します。なお、同イベント会場内でも両日ともに特別価格での数量限定販売が実施されます。</p>
+
+
+
+<p id="p-rc_cd61b4c8d7bd64ef-215">また、各ECサイトでのセット購入者限定特典として、ネギ油を使ったレシピと本人直筆メッセージカード（プリント）をプレゼントします。</p>
+
+
+
+<h2 class="wp-block-heading">渡辺銀次　コメント</h2>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img decoding="async" width="1080" height="1080" src="https://magazine.fany.lol/wp-content/uploads/2026/10/fd07b58eb0dbc495f38e77dfca7ee62b-4.png" alt="出典: FANY マガジン" class="wp-image-294713" style="width:450px" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/fd07b58eb0dbc495f38e77dfca7ee62b-4.png 1080w, https://magazine.fany.lol/wp-content/uploads/2026/10/fd07b58eb0dbc495f38e77dfca7ee62b-4-800x800.png 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/fd07b58eb0dbc495f38e77dfca7ee62b-4-350x350.png 350w" sizes="(max-width: 1080px) 100vw, 1080px" /></figure>
+
+
+
+<p>私が料理において重要視するのは、海鮮・動物・野菜、この三つの旨みのバランスです。海鮮や動物性の旨みは具材や出汁でも加えやすいですが、野菜の旨みは淡いものが多いため満足いくものになりづらいんです。</p>
+
+
+
+<p>そんな物足りなさを一撃で解消してくれるのがこのネギ油です。パンチの効いた野菜のうまみを凝縮させました。</p>
+
+
+
+<p>強烈な香りと強烈な存在感を持ちながら、他の食材や調味料とも容易に協調し、和洋中どの料理にも使える万能性まで兼ね備えています。自信を持ってみなさんにおすすめします。</p>
+
+
+
+<h3 class="wp-block-heading">商品概要</h3>
+
+
+
+<p id="p-rc_cd61b4c8d7bd64ef-217"><strong>『ドンデコルテ銀次監修 銀のネギ油』 </strong></p>
+
+
+
+<p id="p-rc_cd61b4c8d7bd64ef-217">内容量：180g <br>価格：1,058円（税込） <br>発売日：2026年11月7日（土） <br>販売元：株式会社アイケイ <br>製造元：太田油脂株式会社</p>
+
+
+
+<p id="p-rc_cd61b4c8d7bd64ef-218"><strong>＜販売・受付スケジュール＞</strong></p>
+
+
+
+<p id="p-rc_cd61b4c8d7bd64ef-218">・各ECサイト予約受付（Amazon、Yahoo!ショッピングなど）：10月28日（水）～ <br>　※セット購入者限定特典：特製レシピ＆本人直筆メッセージカード（プリント） </p>
+
+
+
+<p id="p-rc_cd61b4c8d7bd64ef-218">・「たくろう万博オフィシャルオンラインストア」先行受付：10月28日（水）～ <br>　※限定特典：『たくろう万博』会場内にて、渡辺銀次本人手渡し特典会参加権（11月7日（土）限定） <br>　※対象商品・特別価格にて数量限定販売 </p>
+
+
+
+<p id="p-rc_cd61b4c8d7bd64ef-218">・特別販売：11月7日（土）・8日（日） <br>　『たくろう万博』（大阪府吹田市・万博記念公園）にて特別価格で数量限定販売 </p>
+
+
+
+<p id="p-rc_cd61b4c8d7bd64ef-218">・一般販売：11月7日（土）～ よしもとエンタメショップ、FANYモール、cheeky&#8217;s storeなど</p>
+
+
+
+
+
+
+
+
+<p id="p-rc_cd61b4c8d7bd64ef-219"></p>
+
+
+
+<p></p>
+				]]>
+			</content:encoded>
+																	</item>
+				<item>
+			<title>闘牛場で大迫力の力士の取組が見られる『大相撲うるま場所』立浪親方と二所ノ関親方がうるま市を表敬訪問</title>
+			<link>https://magazine.fany.lol/294614/</link>
+						<pubDate>Tue, 27 Oct 2026 11:00:00 +0000			</pubDate>
+			<dc:creator>
+				<![CDATA[裕生小原]]>
+			</dc:creator>
+					<category><![CDATA[ニュース]]></category>
+		<category><![CDATA[レポート]]></category>
+		<category><![CDATA[FANY]]></category>
+		<category><![CDATA[地方創生]]></category>
+
+			<guid isPermaLink="false">https://magazine.fany.lol/?p=294614</guid>
+						<image>
+				<url>https://magazine.fany.lol/wp-content/uploads/2026/10/e110fe4894a3a6370929d801176be06a.png</url>
+			</image>
+			<enclosure url="https://magazine.fany.lol/wp-content/uploads/2026/10/e110fe4894a3a6370929d801176be06a.png" type="image/jpeg" />
+									<description>
+				<![CDATA[沖縄県うるま市で12月19日（土）、20日（日）に開催される『令和８年冬巡業 大相撲うるま場所』に向けて、日本相撲協会の立浪親方（元小結・旭豊）と二所ノ関親方（元横綱・稀勢の里）による、うるま市役所への表敬訪問が10月23日（金）に行われました。 表敬訪問にはうるま市の佐…]]>
+			</description>
+											<content:encoded>
+				<![CDATA[
+					
+<p>沖縄県うるま市で12月19日（土）、20日（日）に開催される『令和８年冬巡業 大相撲うるま場所』に向けて、日本相撲協会の立浪親方（元小結・旭豊）と二所ノ関親方（元横綱・稀勢の里）による、うるま市役所への表敬訪問が10月23日（金）に行われました。</p>
+
+
+
+<p>表敬訪問にはうるま市の佐久川篤副市長、嘉手苅弘美教育長、うるま市相撲連盟神田洋一会長、沖縄県相撲連盟の普天間隆副会長、うるま市議会の下門勝議長と、比嘉直人前議長が出席し、両親方とあいさつを交わしました。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="2592" height="1728" src="https://magazine.fany.lol/wp-content/uploads/2026/10/86327ba189747f0c6043a54cada995de.jpg" alt="出典: FANY マガジン" class="wp-image-294615" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/86327ba189747f0c6043a54cada995de.jpg 2592w, https://magazine.fany.lol/wp-content/uploads/2026/10/86327ba189747f0c6043a54cada995de-1600x1067.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/86327ba189747f0c6043a54cada995de-800x533.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/86327ba189747f0c6043a54cada995de-350x233.jpg 350w" sizes="(max-width: 2592px) 100vw, 2592px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>会場の闘牛場に親方も太鼓判！</strong></h2>
+
+
+
+<p>『うるま場所』に出場を予定している横綱・豊昇龍の師匠、立浪親方は前日に視察した会場の闘牛場（石川多目的ドーム）について、「なかなか見やすくて、綺麗にするといい会場になると思います」と太鼓判。加えて「うるま市出身の美ノ海も頑張っていますし、九州場所も期待できると思う」と、うるま市出身で、沖縄県勢初の三役昇進が有力視される美ノ海関の活躍に触れました。（表敬訪問終了後の10月26日に九州場所の番付が発表となり、新小結に昇進）</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="2592" height="1728" src="https://magazine.fany.lol/wp-content/uploads/2026/10/2eaff992905a0aaec2b51d38d4e865b0.jpg" alt="出典: FANY マガジン" class="wp-image-294618" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/2eaff992905a0aaec2b51d38d4e865b0.jpg 2592w, https://magazine.fany.lol/wp-content/uploads/2026/10/2eaff992905a0aaec2b51d38d4e865b0-1600x1067.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/2eaff992905a0aaec2b51d38d4e865b0-800x533.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/2eaff992905a0aaec2b51d38d4e865b0-350x233.jpg 350w" sizes="(max-width: 2592px) 100vw, 2592px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<p>また、同じく横綱・大の里の師匠の二所ノ関親方は、巡業の準備を進める関係者に感謝を述べ、「本場所と巡業は違うものがあり、近くで力士の力強さを感じてもらいたい」と、力士と近くになれる巡業の見どころを添えてあいさつ。「少しでも相撲の魅力を伝えていきたい」と意気込みを語りました。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="2592" height="1728" src="https://magazine.fany.lol/wp-content/uploads/2026/10/f51723d179cfbaa5101ff5f223d4d93e.jpg" alt="出典: FANY マガジン" class="wp-image-294616" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/f51723d179cfbaa5101ff5f223d4d93e.jpg 2592w, https://magazine.fany.lol/wp-content/uploads/2026/10/f51723d179cfbaa5101ff5f223d4d93e-1600x1067.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/f51723d179cfbaa5101ff5f223d4d93e-800x533.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/f51723d179cfbaa5101ff5f223d4d93e-350x233.jpg 350w" sizes="(max-width: 2592px) 100vw, 2592px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>子どもたちに夢と感動を</strong></h2>
+
+
+
+<p>出張で不在の市長に代わり出席した佐久川副市長は、「うるま市としても最大限の力を発揮して、みなさんに満足いただけるような冬巡業にしたいと思います」と市をあげてのサポートを約束。うるま市の嘉手苅教育長は「大きな夢と感動を子どもたちが得ることになるので非常に喜んでおります」と、子どもたちが力士たちと直接触れ合う機会に感謝と期待を込めてあいさつしました。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="2592" height="1728" src="https://magazine.fany.lol/wp-content/uploads/2026/10/2c7547e54fb95beb0a07221ed61bec63.jpg" alt="出典: FANY マガジン" class="wp-image-294617" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/2c7547e54fb95beb0a07221ed61bec63.jpg 2592w, https://magazine.fany.lol/wp-content/uploads/2026/10/2c7547e54fb95beb0a07221ed61bec63-1600x1067.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/2c7547e54fb95beb0a07221ed61bec63-800x533.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/2c7547e54fb95beb0a07221ed61bec63-350x233.jpg 350w" sizes="(max-width: 2592px) 100vw, 2592px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<p>うるま市の相撲道場に通う子供たちが、活躍する美ノ海関の背中を追って日々稽古に励んでいると話すうるま市相撲連盟の神田会長は「子どもたちが間近で大相撲を見られることをうれしく思います」とあいさつ。沖縄県相撲連盟の普天間副会長も「ちびっ子に夢と希望を与えて大成功になることを願っています」と、レベルが上がってきている沖縄のちびっこ相撲のさらなる発展につながることを期待していました。</p>
+
+
+
+<p>うるま市議会の下門議長は、闘牛が名物のうるま市の闘牛場が会場になることは誇らしいと語り、「感動と夢をうるま市民に与えていただくことを期待しています」とあいさつ。『うるま場所』の誘致や開催実現に尽力した比嘉前議長は、立浪親方と二所ノ関親方の現役時代を振り返るなど大相撲ファンの一面を見せ、「相撲熱が最高潮に達しているタイミングで、『うるま場所』が開催されることを喜んでいます」と、美ノ海関の活躍でうるま市のみならず、沖縄中が盛り上がっているまたとないチャンスで開催される喜びを語りました。</p>
+
+
+
+<p>沖縄県出身力士として史上初となる新三役（小結）昇進を果たし、大きな歴史を塗り替えた美ノ海関。まさに最高のタイミングで故郷・うるま市へと凱旋を果たすことになり、地元ファンのみならず沖縄全土を巻き込んで熱狂と大歓声に包まれることは間違いありません。</p>
+
+
+
+<p>『令和８年冬巡業 大相撲うるま場所』は12月19日（土）、20日（日）に石川多目的ドームで開催。チケットは「FANYチケット」で発売中です。</p>
+
+
+
+
+
+
+
+
+<p><br><br><br><br></p>
+				]]>
+			</content:encoded>
+																	</item>
+				<item>
+			<title>チョコプラ＆Kengo.が歌うNHK『みんなのうた』10月～11月新曲「フライパンDJ!」10月28日配信へ</title>
+			<link>https://magazine.fany.lol/294649/</link>
+						<pubDate>Tue, 27 Oct 2026 09:00:00 +0000			</pubDate>
+			<dc:creator>
+				<![CDATA[重兼桃子]]>
+			</dc:creator>
+					<category><![CDATA[お知らせ]]></category>
+		<category><![CDATA[ニュース]]></category>
+		<category><![CDATA[チョコレートプラネット]]></category>
+
+			<guid isPermaLink="false">https://magazine.fany.lol/?p=294649</guid>
+						<image>
+				<url>https://magazine.fany.lol/wp-content/uploads/2026/10/28abcad73ba1c5fd2566a2375d170036.png</url>
+			</image>
+			<enclosure url="https://magazine.fany.lol/wp-content/uploads/2026/10/28abcad73ba1c5fd2566a2375d170036.png" type="image/jpeg" />
+									<description>
+				<![CDATA[お笑いコンビ・チョコレートプラネット（長田庄平、松尾駿）とシンガーソングライター・Kengo.が歌う、NHK『みんなのうた』2026年10〜11月新曲「フライパンDJ!」が、2026年10月28日（水）より各ストリーミングおよびダウンロードサービスにて順次配信されます。 …]]>
+			</description>
+											<content:encoded>
+				<![CDATA[
+					
+<p>お笑いコンビ・チョコレートプラネット（長田庄平、松尾駿）とシンガーソングライター・Kengo.が歌う、NHK『みんなのうた』2026年10〜11月新曲「フライパンDJ!」が、2026年10月28日（水）より各ストリーミングおよびダウンロードサービスにて順次配信されます。</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img decoding="async" width="3000" height="3000" src="https://magazine.fany.lol/wp-content/uploads/2026/10/ae9db0583c7ee9361ca443e420f5ee29.jpg" alt="出典: FANY マガジン" class="wp-image-294653" style="width:603px;height:auto" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/ae9db0583c7ee9361ca443e420f5ee29.jpg 3000w, https://magazine.fany.lol/wp-content/uploads/2026/10/ae9db0583c7ee9361ca443e420f5ee29-1600x1600.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/ae9db0583c7ee9361ca443e420f5ee29-800x800.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/ae9db0583c7ee9361ca443e420f5ee29-350x350.jpg 350w" sizes="(max-width: 3000px) 100vw, 3000px" /><figcaption class="wp-element-caption">©NHK／デコボーカル</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">料理と音楽が融合したポップなキッチンソング</h2>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img decoding="async" width="400" height="400" data-id="294654" src="https://magazine.fany.lol/wp-content/uploads/2026/10/496212c2411b0c739e593a206327019f-1.jpg" alt="出典: FANY マガジン" class="wp-image-294654" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/496212c2411b0c739e593a206327019f-1.jpg 400w, https://magazine.fany.lol/wp-content/uploads/2026/10/496212c2411b0c739e593a206327019f-1-350x350.jpg 350w" sizes="(max-width: 400px) 100vw, 400px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="2400" height="2400" data-id="294655" src="https://magazine.fany.lol/wp-content/uploads/2026/10/Kengo._ArtistPhoto.jpeg" alt="出典: FANY マガジン" class="wp-image-294655" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/Kengo._ArtistPhoto.jpeg 2400w, https://magazine.fany.lol/wp-content/uploads/2026/10/Kengo._ArtistPhoto-1600x1600.jpeg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/Kengo._ArtistPhoto-800x800.jpeg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/Kengo._ArtistPhoto-350x350.jpeg 350w" sizes="(max-width: 2400px) 100vw, 2400px" /></figure>
+</figure>
+
+
+
+<p id="p-rc_f1f9ea932d5066c8-21">「フライパンDJ!」は、Kengo.の書き下ろしによる、“料理”と“音楽”が融合したポップなキッチンソングです<sup></sup>。包丁が刻むビートやフライパンが奏でるサウンドが響き、ガス台をターンテーブルに見立てて、キッチンが熱狂のダンスフロアへと変わっていく様子が描かれています<sup></sup>。</p>
+
+
+
+<p id="p-rc_f1f9ea932d5066c8-22">歌唱を担当するのは、NHK『みんなのうた』初登場となるチョコレートプラネット（長田庄平、松尾駿）とKengo.の3人です<sup></sup>。伸びやかなボーカルの長田と個性あふれる表現力を持つ松尾が、Kengo.と強力なタッグを組みました<sup></sup>。</p>
+
+
+
+<p id="p-rc_f1f9ea932d5066c8-23">Kengo.とは、過去にチョコレートプラネットが発表した「指サック」をテーマにした楽曲の制作以来、約3年ぶりとなる待望の再コラボレーションとなります<sup></sup>。</p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">楽曲概要</h2>
+
+
+
+<p>「フライパンDJ!」 <br>アーティスト：チョコレートプラネット＆Kengo. <br>作詞・作曲：桐谷健吾 <br>配信日：2026年10月28日（水）0:00〜（各音楽配信サービスにて順次配信開始）<br></p>
+
+
+
+
+
+				]]>
+			</content:encoded>
+																	</item>
+				<item>
+			<title>空気階段・水川かたまり初主演舞台が上演中! 『春よ来い、マジで来い』ゲネプロレポート</title>
+			<link>https://magazine.fany.lol/294684/</link>
+						<pubDate>Tue, 27 Oct 2026 08:00:00 +0000			</pubDate>
+			<dc:creator>
+				<![CDATA[船迫愛純]]>
+			</dc:creator>
+					<category><![CDATA[ニュース]]></category>
+		<category><![CDATA[レポート]]></category>
+		<category><![CDATA[水川かたまり]]></category>
+		<category><![CDATA[空気階段]]></category>
+
+			<guid isPermaLink="false">https://magazine.fany.lol/?p=294684</guid>
+						<image>
+				<url>https://magazine.fany.lol/wp-content/uploads/2026/10/bff10ccbac6784d07cc5f488bacb6278.png</url>
+			</image>
+			<enclosure url="https://magazine.fany.lol/wp-content/uploads/2026/10/bff10ccbac6784d07cc5f488bacb6278.png" type="image/jpeg" />
+									<description>
+				<![CDATA[空気階段・水川かたまりが初舞台にして初主演を務める舞台『春よ来い、マジで来い』が、2026年10月23日（金）より東京建物 ぴあ シアターで上演されています。新劇場のオープニングシリーズのひとつとして上演される本作より、初日に先駆けておこなわれたゲネプロの様子をお届けしま…]]>
+			</description>
+											<content:encoded>
+				<![CDATA[
+					
+<p>空気階段・水川かたまりが初舞台にして初主演を務める舞台『春よ来い、マジで来い』が、2026年10月23日（金）より東京建物 ぴあ シアターで上演されています。新劇場のオープニングシリーズのひとつとして上演される本作より、初日に先駆けておこなわれたゲネプロの様子をお届けします。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="3504" height="2336" src="https://magazine.fany.lol/wp-content/uploads/2026/10/74_00630.jpg" alt="出典: FANY マガジン" class="wp-image-294686" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/74_00630.jpg 3504w, https://magazine.fany.lol/wp-content/uploads/2026/10/74_00630-1600x1067.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/74_00630-800x533.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/74_00630-350x233.jpg 350w" sizes="(max-width: 3504px) 100vw, 3504px" /><figcaption class="wp-element-caption">撮影：曳野若菜</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">哀愁と笑いが交錯する“ほろ苦い青春群像劇”</h2>
+
+
+
+<p id="p-rc_26e340860999f6d8-176">舞台は、公衆電話やガラケーなど平成の香りが色濃く残る、今から25年前の東京・阿佐ヶ谷<sup></sup>。“何者”かになりたくて、夢にすがりながら毎日を生きるアラサー男たちの日々を描いた青春群像劇です<sup></sup>。</p>
+
+
+
+<p id="p-rc_26e340860999f6d8-177">原作者の足立紳が「僕自身の、みみっちさをこれでもかと描いてみた小説」と表現するように、水川が演じる主人公・大山タカシは決して格好いい人物ではありません<sup></sup>。脚本家を目指しながら既存作品を模倣し、昔の恋に執着したかと思えば、女子大生との恋に一喜一憂します<sup></sup>。そんなどうしようもなさを持つタカシを、水川はどこか放っておけない人物として立ち上げました<sup></sup>。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="3504" height="2336" src="https://magazine.fany.lol/wp-content/uploads/2026/10/HARUKOI_PIC_katamari_solo.jpg" alt="出典: FANY マガジン" class="wp-image-294687" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/HARUKOI_PIC_katamari_solo.jpg 3504w, https://magazine.fany.lol/wp-content/uploads/2026/10/HARUKOI_PIC_katamari_solo-1600x1067.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/HARUKOI_PIC_katamari_solo-800x533.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/HARUKOI_PIC_katamari_solo-350x233.jpg 350w" sizes="(max-width: 3504px) 100vw, 3504px" /><figcaption class="wp-element-caption">撮影：曳野若菜</figcaption></figure>
+
+
+
+<p id="p-rc_26e340860999f6d8-178">書いた脚本が賞の一次審査すら通らず自らの才能のなさを嘆く佇まいや、10年付き合った恋人に別れを告げられて泣きすがる情けなさ、女子大生から脚本家であることを尊敬されて鼻につく表情を浮かべる姿など、格好悪さも卑屈さも、妙な自信もすべてをタカシというひとりの人間のなかに同居させています。　　</p>
+
+
+
+<p id="p-rc_26e340860999f6d8-179">映画監督デビューを目指す崎田役の宮下雄也ら共演者との掛け合いでは、コントで培ってきた絶妙な“間”を存分に発揮<sup></sup>。さりげない言い回しや声色で笑いを生み出す芝居心をみせる一方、物語の終盤、加藤夏希扮する恋人・ユキとの電話をきっかけに意を決する姿には切なさがにじみ、胸に残る余韻を生み出しました<sup></sup>。</p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img decoding="async" width="3504" height="2336" data-id="294690" src="https://magazine.fany.lol/wp-content/uploads/2026/10/HARUKOI_PIC_007.jpg" alt="出典: FANY マガジン" class="wp-image-294690" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/HARUKOI_PIC_007.jpg 3504w, https://magazine.fany.lol/wp-content/uploads/2026/10/HARUKOI_PIC_007-1600x1067.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/HARUKOI_PIC_007-800x533.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/HARUKOI_PIC_007-350x233.jpg 350w" sizes="(max-width: 3504px) 100vw, 3504px" /><figcaption class="wp-element-caption">撮影：曳野若菜</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="3504" height="2336" data-id="294693" src="https://magazine.fany.lol/wp-content/uploads/2026/10/HARUKOI_PIC_004.jpg" alt="出典: FANY マガジン" class="wp-image-294693" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/HARUKOI_PIC_004.jpg 3504w, https://magazine.fany.lol/wp-content/uploads/2026/10/HARUKOI_PIC_004-1600x1067.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/HARUKOI_PIC_004-800x533.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/HARUKOI_PIC_004-350x233.jpg 350w" sizes="(max-width: 3504px) 100vw, 3504px" /><figcaption class="wp-element-caption">撮影：曳野若菜</figcaption></figure>
+</figure>
+
+
+
+<p id="p-rc_26e340860999f6d8-180">劇中では、音楽と歌で物語を導くHONEBONEの演奏がタカシらの心の内をすくい上げ、ザ・ブロードサイド・フォーの『若者たち』が響く場面では、夢までの果てしない距離と、それでも前を向こうとする希望を鮮やかに浮かび上がらせます<sup></sup>。</p>
+
+
+
+<p id="p-rc_26e340860999f6d8-181">思い描いた未来にはなかなか届かず、どこか満ち足りない毎日を生きる若者たち<sup></sup>。それでも、格好悪く足掻き、迷い、ときには立ち止まりながら、自分なりの“何か”を求めて歩き続けます<sup></sup>。夢を叶えることだけが人生の正解ではないけれど、諦めきれない思いを捨てずに進んだ先に、自分だけの“春”が待っているのかもしれません……<sup></sup>。シュールな笑いのなかにほろ苦さと希望を忍ばせた彼らの青春を、ぜひ劇場で見届けてください<sup></sup>。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="3504" height="2336" src="https://magazine.fany.lol/wp-content/uploads/2026/10/HARUKOI_PIC_002.jpg" alt="出典: FANY マガジン" class="wp-image-294694" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/HARUKOI_PIC_002.jpg 3504w, https://magazine.fany.lol/wp-content/uploads/2026/10/HARUKOI_PIC_002-1600x1067.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/HARUKOI_PIC_002-800x533.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/HARUKOI_PIC_002-350x233.jpg 350w" sizes="(max-width: 3504px) 100vw, 3504px" /><figcaption class="wp-element-caption">撮影：曳野若菜</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">水川かたまり コメント</h2>
+
+
+
+<p>『春よ来い、マジで来い』開幕しました。</p>
+
+
+
+<p>「全部終わって、礼をして、一度ハケて、もう一度舞台に出てきて、礼をする」という一連を生まれて初めてやらせていただきました。これから私のことを見るときは、「全部終わって、礼をして、一度ハケて、もう一度舞台に出てきて、礼をしたことがある人だ」と思ってください。 </p>
+
+
+
+<p>最高のカンパニーでお迎えします。カンパニーという言葉は昨日覚えたので早速使います。</p>
+
+
+
+<h3 class="wp-block-heading">公演概要</h3>
+
+
+
+<p id="p-rc_26e340860999f6d8-185"><strong>舞台『春よ来い、マジで来い』 </strong><br>原作：足立紳（『春よ来い、マジで来い』キネマ旬報社刊） <br>脚本・演出：マギー <br>音楽と歌唱：HONEBONE <br>出演：水川かたまり（空気階段）、川床明日香、岩本蓮加（乃木坂46）、長村航希、東野良平、てっぺい右利き、多和田任益、宮下雄也、加藤夏希 <br>日程：2026年10月23日（金）～11月7日（土）<br>会場：東京建物 ぴあ シアター</p>
+
+
+
+<p id="p-rc_26e340860999f6d8-186"><strong>＜チケット料金（全席指定・税込）＞ </strong><br>・平日：S席 9,300円／A席 8,300円 <br>・土日祝：S席 10,300円／A席 9,300円 <br>・高校生以下：4,000円（枚数限定、当日引換券、一般発売のみ取扱、要身分証提示） </p>
+
+
+
+<p id="p-rc_26e340860999f6d8-187"><strong>＜アフタートーク開催回＞ </strong><br>①2026年10月27日（火）18:30開演：水川かたまり×マギー（ゲスト：空気階段・鈴木もぐら）<br>②2026年10月28日（水）18:30開演：川床明日香×岩本蓮加×加藤夏希 <br>③2026年10月29日（木）18:30開演：水川かたまり×長村航希×東野良平×てっぺい右利き×多和田任益<br>④2026年10月30日（金）13:30開演：水川かたまり×川床明日香×岩本蓮加×マギー<br>⑤2026年11月3日（火・祝）18:00開演：岩本蓮加×宮下雄也×てっぺい右利き（ゲスト：乃木坂46・伊藤理々杏<br>⑥2026年11月6日（金）18:30開演：宮下雄也×HONEBONE（ゲスト：かもめんたる・岩崎う大）</p>
+
+
+
+
+
+
+
+
+<p></p>
+				]]>
+			</content:encoded>
+																	</item>
+				<item>
+			<title>バッテリィズの夢「草野球イベント」が実現! “先発”エースの投球に監督も太鼓判「130キロ以上出るし、球種も投げ分ける本当にレベルの高いピッチャー」</title>
+			<link>https://magazine.fany.lol/294670/</link>
+						<pubDate>Tue, 27 Oct 2026 07:30:00 +0000			</pubDate>
+			<dc:creator>
+				<![CDATA[鈴木毅]]>
+			</dc:creator>
+					<category><![CDATA[ニュース]]></category>
+		<category><![CDATA[レポート]]></category>
+		<category><![CDATA[FANY]]></category>
+		<category><![CDATA[エバース]]></category>
+		<category><![CDATA[さや香]]></category>
+		<category><![CDATA[ニッポンの社長]]></category>
+		<category><![CDATA[バッテリィズ]]></category>
+
+			<guid isPermaLink="false">https://magazine.fany.lol/?p=294670</guid>
+						<image>
+				<url>https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_4253.jpg</url>
+			</image>
+			<enclosure url="https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_4253.jpg" type="image/jpeg" />
+									<description>
+				<![CDATA[バッテリィズ（エース、寺家）が主催する野球とお笑いのイベント『ホンキッキーズフェスティバル2027』が、来年2月20日（土）に東京・稲城市のジャイアンツタウンスタジアムで開催されます。それに先立ち、10月26日（月）に吉本興業東京本部で開催発表取材会が行われ、バッテリィズ…]]>
+			</description>
+											<content:encoded>
+				<![CDATA[
+					
+<p>バッテリィズ（エース、寺家）が主催する野球とお笑いのイベント『ホンキッキーズフェスティバル2027』が、来年2月20日（土）に東京・稲城市のジャイアンツタウンスタジアムで開催されます。それに先立ち、10月26日（月）に吉本興業東京本部で開催発表取材会が行われ、バッテリィズ、エバース・佐々木隆史、さや香・新山、ニッポンの社長・辻クラシック、東京ヤクルトスワローズ元監督の真中満氏が登壇。笑いを交えながら、イベントに向けた意気込みを語りました。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1920" height="1440" src="https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_4253.jpg" alt="出典: FANY マガジン" class="wp-image-294671" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_4253.jpg 1920w, https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_4253-1600x1200.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_4253-800x600.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_4253-350x263.jpg 350w" sizes="(max-width: 1920px) 100vw, 1920px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">草野球の盛り上がりを伝えたい！</h2>
+
+
+
+<p>ホンキッキーズは、バッテリィズを中心に野球好きの芸人たちが集まった草野球チームです。大阪の「上方ホンキッキーズ」に続き、2025年には東京版の「東京 スカパー！ホンキッキーズ」が誕生。真中氏が監督を務め、佐々木、新山、辻らが所属しています。</p>
+
+
+
+<p>寺家は今回のイベント開催について、「コンビを組んだと同時に草野球チームを作り、いつか売れたら草野球のイベントをやりたいと思っていたので、いよいよ満を持して」と説明。「草野球の盛り上がりを伝えて、子どもから大人まで楽しめるイベントにしたいと思います」と意気込みを語りました。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1920" height="1440" src="https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_3875.jpg" alt="出典: FANY マガジン" class="wp-image-294672" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_3875.jpg 1920w, https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_3875-1600x1200.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_3875-800x600.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_3875-350x263.jpg 350w" sizes="(max-width: 1920px) 100vw, 1920px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">芸人チームとプロ野球OBチームとの対戦も</h2>
+
+
+
+<p>メンバーたちも、イベントへの思いを語ります。この日、エバース・佐々木はフェスで販売されるニューエラとのコラボキャップを着用して登場。「オフシーズンではありますけど、体も仕上げていきたい」と、プレーへの意欲を見せます。しかし、その意欲とは裏腹に、直近の試合ではホンキッキーズが相手チームからノーヒットノーランを喫したことを明かし、笑いを誘いました。</p>
+
+
+
+<p>一方、さや香・新山は「ジャイアンツタウンスタジアムということで、敵地に乗り込んでいく」と、阪神ファンらしいコメント。また、イベントで少年少女向けの「野球教室」が開かれることにも触れ、「ここから未来のプロ野球選手を輩出したい」と大きな目標を掲げました。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1920" height="1440" src="https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_3776.jpg" alt="出典: FANY マガジン" class="wp-image-294675" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_3776.jpg 1920w, https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_3776-1600x1200.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_3776-800x600.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_3776-350x263.jpg 350w" sizes="(max-width: 1920px) 100vw, 1920px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1920" height="1440" src="https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_3784.jpg" alt="出典: FANY マガジン" class="wp-image-294676" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_3784.jpg 1920w, https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_3784-1600x1200.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_3784-800x600.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_3784-350x263.jpg 350w" sizes="(max-width: 1920px) 100vw, 1920px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<p>当日は、プロ野球OBのドリームチームとの「エキシビションマッチ」も行われ、エースが先発を務めることが紹介されました。そのエースの投球を、真中監督は高く評価。</p>
+
+
+
+<p>「おべんちゃらではなく、本当にコントロールもいい。ボールも130キロ以上出るし、フォークとかカットボールとか、いろんな球種も投げ分ける。本当にレベルの高いピッチャーだと思います」と期待を寄せました。</p>
+
+
+
+<p>先発を託されるエースも「芸人になって元プロ野球選手と戦うことが増えたんで、普通に楽しみです。どこまで通用するのか」と気合十分。対戦したい打者を聞かれると、元阪神のマット・マートン氏や、エースが打撃も評価している阪神・高橋遥人投手に加え、ドジャースの大谷翔平選手の名前も挙げ、「1回投げてみたい。どんだけ飛ばされるのか」と目を輝かせて語りました。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1920" height="1440" src="https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_4112.jpg" alt="出典: FANY マガジン" class="wp-image-294674" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_4112.jpg 1920w, https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_4112-1600x1200.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_4112-800x600.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_4112-350x263.jpg 350w" sizes="(max-width: 1920px) 100vw, 1920px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">真中監督が芸人に転身！？</h2>
+
+
+
+<p>さらに、イベントではバッテリィズが組んだ打順でネタを披露する「オーダー寄席」も開催され、野球好き以外も楽しめる内容となっています。</p>
+
+
+
+<p>どんなネタを用意するのかと聞かれると、ニッポンの社長・辻は、「相方がチームに所属していない芸人もいます。呼ぶのも申し訳ないから、全相方を真中さんで」と真中監督にムチャぶり！？</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1920" height="1440" src="https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_3924.jpg" alt="出典: FANY マガジン" class="wp-image-294673" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_3924.jpg 1920w, https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_3924-1600x1200.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_3924-800x600.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/DSC_3924-350x263.jpg 350w" sizes="(max-width: 1920px) 100vw, 1920px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<p>寺家が「（真中監督はエバースの）町田をやったあとに、（ニッポンの社長の）ケツさんをやらなあかん」と続けると、真中監督は「無理だよ。難しすぎるよ」と慌て顔。にぎやかな掛け合いが繰り広げられ、笑いの絶えない会見となりました。</p>
+
+
+
+<p>チケットの1次先行は、FANYチケットで10月26日（月）18:00から11月2日（月）11:00まで受け付け。一般発売は11月21日（土）10:00から、FANYチケット、チケットぴあ、ローソンチケットで開始されます。</p>
+
+
+
+
+
+
+
+
+<p></p>
+				]]>
+			</content:encoded>
+																	</item>
+				<item>
+			<title>よしもとアカデミー東京校で学園祭開催! 現役YCA生＆卒業生の企画ライブで人気芸人が躍動「この道を選んでよかったです」</title>
+			<link>https://magazine.fany.lol/294192/</link>
+						<pubDate>Tue, 27 Oct 2026 07:00:00 +0000			</pubDate>
+			<dc:creator>
+				<![CDATA[富岡]]>
+			</dc:creator>
+					<category><![CDATA[ニュース]]></category>
+		<category><![CDATA[レポート]]></category>
+		<category><![CDATA[9番街レトロ]]></category>
+		<category><![CDATA[NSC]]></category>
+		<category><![CDATA[YCA]]></category>
+		<category><![CDATA[カーネーション]]></category>
+		<category><![CDATA[カゲヤマ]]></category>
+		<category><![CDATA[カベポスター]]></category>
+		<category><![CDATA[ジョイマン]]></category>
+		<category><![CDATA[ツートライブ]]></category>
+		<category><![CDATA[マルセイユ]]></category>
+		<category><![CDATA[よしもとアカデミー]]></category>
+
+			<guid isPermaLink="false">https://magazine.fany.lol/?p=294192</guid>
+						<image>
+				<url>https://magazine.fany.lol/wp-content/uploads/2026/10/f21f79492ccc916fcbb51719efadc8e3.png</url>
+			</image>
+			<enclosure url="https://magazine.fany.lol/wp-content/uploads/2026/10/f21f79492ccc916fcbb51719efadc8e3.png" type="image/jpeg" />
+									<description>
+				<![CDATA[構成作家、マネージャー、ライブプロデューサー、動画クリエイター、脚本家など、多彩な職種を目指すエンターテインメントの未来を担う「オモシロイ」人材を育成する「よしもとクリエイティブアカデミー」東京校の学園祭が、10月13日（月）、14日（火）の2日間、東京・あうるすぽっとで…]]>
+			</description>
+											<content:encoded>
+				<![CDATA[
+					
+<p>構成作家、マネージャー、ライブプロデューサー、動画クリエイター、脚本家など、多彩な職種を目指すエンターテインメントの未来を担う「オモシロイ」人材を育成する「よしもとクリエイティブアカデミー」東京校の学園祭が、10月13日（月）、14日（火）の2日間、東京・あうるすぽっとで開催されました。<br>2日間全5公演のなかから、今回は2日目に開催された「YCA現役生が企画・制作したライブ」と「卒業した構成作家が企画したライブ」をピックアップ。多くの人気芸人らが出演した、この2本の模様をレポートします。</p>
+
+
+
+<figure class="wp-block-image size-メイン"><img decoding="async" width="800" height="533" src="https://magazine.fany.lol/wp-content/uploads/2026/10/5a65f88f42bdd6e74d8aa2e42c8ea32f-800x533.jpg" alt="出典: FANY マガジン" class="wp-image-294194" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/5a65f88f42bdd6e74d8aa2e42c8ea32f-800x533.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/5a65f88f42bdd6e74d8aa2e42c8ea32f-1600x1067.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/5a65f88f42bdd6e74d8aa2e42c8ea32f-350x233.jpg 350w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">ガケヤマ・タバやん。が大活躍！</h2>
+
+
+
+<p>現役のYCA生が企画・制作したライブは、題して『YCA生が本気で考えた「面白い」は、本当に面白いのか？～ネタとコーナーで検証する90分～』です。</p>
+
+
+
+<p>ジョイマン（高木晋哉、池谷和志）、カーネーション（岡下雅典、吉田結衣）、ツートライブ（たかのり、周平魂）、カゲヤマ（益田康平、タバやん。）、マルセイユ（別府貴之、津田康平）、カベポスター（浜田順平、永見大吾）、9番街レトロ（京極風斗、なかむらしゅん）という豪華メンバーが出演しました。</p>
+
+
+
+<figure class="wp-block-image size-メイン"><img decoding="async" width="800" height="533" src="https://magazine.fany.lol/wp-content/uploads/2026/10/DSC03882-1-800x533.jpg" alt="出典: FANY マガジン" class="wp-image-294592" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/DSC03882-1-800x533.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/DSC03882-1-1600x1067.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/DSC03882-1-350x233.jpg 350w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<p>MCを務めたのはマルセイユの2人。津田がオープニングVTRはもちろん、照明や音響、構成台本などすべてにこだわって作られたライブだと説明すると、別府も「夢いっぱいです！」とYCA生の熱意を称えました。</p>
+
+
+
+<p>ライブは前半と後半に分かれ、それぞれのブロックに出演する芸人たちがネタ披露後に、YCA生のグループが考えたコーナー企画に挑戦するという構成。前半ブロックはカベポスター、カゲヤマ、カーネーションが登場しました。</p>
+
+
+
+<figure class="wp-block-image size-メイン"><img decoding="async" width="800" height="533" src="https://magazine.fany.lol/wp-content/uploads/2026/10/4f689711e993f6908fec2f97d86d5086-800x533.jpg" alt="出典: FANY マガジン" class="wp-image-294195" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/4f689711e993f6908fec2f97d86d5086-800x533.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/4f689711e993f6908fec2f97d86d5086-1600x1067.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/4f689711e993f6908fec2f97d86d5086-350x233.jpg 350w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<p>最初のコーナー企画「走ってつなげ！ リレー大喜利!!」は、2つのチームに分かれ、1人ずつ劇場内を1周して再び舞台に戻って大喜利に挑戦。マルセイユ・別府の判定で「◯」が出たら次の走者にたすきを繋ぎ、早くゴールしたチームが勝利します。ただしリレーだけではなく、大喜利の回答も3人で繋いで完成させないといけません。</p>
+
+
+
+<p>カゲヤマ・タバやん。、カーネーションの2人による「タバやん。チーム」とカゲヤマ・益田、カベポスターの2人による「益田チーム」で対決。お題は「何かおかしい修学旅行。何がおかしい？」です。</p>
+
+
+
+<p>序盤はカベポスターの2人が早めにクリアして優勢だった益田チームですが、3人目の“カゲヤマ対決”ではまさかのドローに。第3走者のタバやん。がサドンデスを制し、タバやん。チームの逆転勝利でした。</p>
+
+
+
+<figure class="wp-block-image size-メイン"><img decoding="async" width="800" height="533" src="https://magazine.fany.lol/wp-content/uploads/2026/10/a64fc31548a72a41edc1673bbc9cad5f-800x533.jpg" alt="出典: FANY マガジン" class="wp-image-294197" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/a64fc31548a72a41edc1673bbc9cad5f-800x533.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/a64fc31548a72a41edc1673bbc9cad5f-1600x1067.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/a64fc31548a72a41edc1673bbc9cad5f-350x233.jpg 350w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">マルセイユの「もうええわ」に注目！？</h2>
+
+
+
+<p>続くコーナー企画は「ハロウィンだし、リーダーをミイラにしちゃえ！ トリックオアベットバトル！」。4つのお題に対して4つの答えの中から、それぞれのリーダーのものを選んで数字をベットします。</p>
+
+
+
+<p>当たれば、相手チームのリーダーをミイラ状態にするために包帯を巻く時間がプラス、間違うとマイナスに。最終的に自分のリーダーの包帯をはやく解いたチームが勝利です。4つの答えにはリーダーのカゲヤマの2人のほか、YCA生やマルセイユ・津田のものが紛れています。</p>
+
+
+
+<p>「マルセイユの尊敬できるところは？」というお題では、「圧倒的なテンポとツッコミのうまさ」「圧倒的な漫才」など漫才を褒める回答が続くなか、カーネーション・岡下が「みなさん、最後の（津田の）『もうええわ』は絶対に観て！」と注目ポイントをレクチャーして笑わせます。</p>
+
+
+
+<p>結局、両チームともリーダーの回答を当てられず、時間はマイナスに。包帯を巻く時間が10秒多かった益田チームが有利かと思われましたが、ここでもタバやん。の活躍で「チームタバやん。」が連勝をおさめました。</p>
+
+
+
+<figure class="wp-block-image size-メイン"><img decoding="async" width="800" height="533" src="https://magazine.fany.lol/wp-content/uploads/2026/10/2cb1da485726fb052e569c8ca30c8982-800x533.jpg" alt="出典: FANY マガジン" class="wp-image-294198" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/2cb1da485726fb052e569c8ca30c8982-800x533.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/2cb1da485726fb052e569c8ca30c8982-1600x1067.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/2cb1da485726fb052e569c8ca30c8982-350x233.jpg 350w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">嬉しくなったジョイマン・高木が大はしゃぎ！</h2>
+
+
+
+<p>後半ブロックには、9番街レトロ、ジョイマン、マルセイユ、ツートライブが登場。ネタ披露終了後、9番街レトロ、ジョイマン、ツートライブが、コーナー企画「跳んで絆を深めろ！ 大縄シャッフル297！」に挑戦しました。</p>
+
+
+
+<p>タイトルの「297」は、ツートライブのツー「2」、9番街レトロの「9」、ジョイマン・高木の「ななななー」にちなんで「7」から付けられたもの。全員で大縄跳びを跳びながら、「◯◯といえば？」というお題に対して答えを合わせて得点を重ね、297点到達に挑戦するというゲームです。</p>
+
+
+
+<p>が、297点には到底届かず……。久しぶりのコーナー企画に嬉しくなったジョイマン・高木が、この日披露したネタの一部を、お題の答えに入れ込んで盛り上げる一幕もありました。</p>
+
+
+
+<figure class="wp-block-image size-メイン"><img decoding="async" width="800" height="533" src="https://magazine.fany.lol/wp-content/uploads/2026/10/aad5b2fadbe021f1e544e4528f2ccb94-800x533.jpg" alt="出典: FANY マガジン" class="wp-image-294199" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/aad5b2fadbe021f1e544e4528f2ccb94-800x533.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/aad5b2fadbe021f1e544e4528f2ccb94-1600x1067.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/aad5b2fadbe021f1e544e4528f2ccb94-350x233.jpg 350w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<p>最後のコーナー企画は「ナイトクラブ★大喜利」です。ショーパブで働いていたマルセイユ・別府にインスピレーションを得て作られたこの企画は、面白いことが大好きな美女“別府ちゃん”を笑わせるために大喜利に挑戦。お題に対してキュンとする回答を出して、別府ちゃんに乾杯された芸人はダンスを披露します。</p>
+
+
+
+<p>「浮気がバレた時のとっさの一言」というお題で選ばれたのは、9番街レトロ・なかむらしゅん。ルールを忘れてしまったのか、踊るだけ踊って答えず、全員からツッコまれます。</p>
+
+
+
+<p>代わりに出たジョイマン・池谷は、「オレ……別班」という回答で見事クリア。個性あふれるコーナーを全力で盛り上げる芸人たちに、会場は大きな笑い声に包まれました。</p>
+
+
+
+<figure class="wp-block-image size-メイン"><img decoding="async" width="800" height="533" src="https://magazine.fany.lol/wp-content/uploads/2026/10/5f42b8ef6ec8d2824feac837025108e6-800x533.jpg" alt="出典: FANY マガジン" class="wp-image-294200" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/5f42b8ef6ec8d2824feac837025108e6-800x533.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/5f42b8ef6ec8d2824feac837025108e6-1600x1067.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/5f42b8ef6ec8d2824feac837025108e6-350x233.jpg 350w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<p>開演前から来場者を楽しませる工夫は、舞台上だけでなくロビー空間にも満ちていました。出演芸人たちの等身大パネルや各コンビのキャッチコピーが手書きで添えられた特製タイムテーブル、来場者が思いを書き込めるメッセージボードなど、会場のあちこちにYCA生の手作り装飾がずらり。</p>
+
+
+
+<p>生徒たちが知恵を絞って練り上げた企画の数々に実力派芸人たちが全力で応え、細やかなこだわりと熱意が随所に光る、充実の90分となりました。</p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-3 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-メイン"><img decoding="async" width="800" height="533" data-id="294595" src="https://magazine.fany.lol/wp-content/uploads/2026/10/DSC03917-1-800x533.jpg" alt="出典: FANY マガジン" class="wp-image-294595" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/DSC03917-1-800x533.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/DSC03917-1-1600x1067.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/DSC03917-1-350x233.jpg 350w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<figure class="wp-block-image size-メイン"><img decoding="async" width="800" height="533" data-id="294594" src="https://magazine.fany.lol/wp-content/uploads/2026/10/DSC03919-800x533.jpg" alt="出典: FANY マガジン" class="wp-image-294594" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/DSC03919-800x533.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/DSC03919-1600x1067.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/DSC03919-350x233.jpg 350w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+</figure>
+
+
+
+<figure class="wp-block-image size-メイン"><img decoding="async" width="800" height="533" src="https://magazine.fany.lol/wp-content/uploads/2026/10/3C4B7E8E-F3C9-4B41-9809-7BEB77D4C491-1-800x533.jpg" alt="出典: FANY マガジン" class="wp-image-294596" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/3C4B7E8E-F3C9-4B41-9809-7BEB77D4C491-1-800x533.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/3C4B7E8E-F3C9-4B41-9809-7BEB77D4C491-1-1600x1067.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/3C4B7E8E-F3C9-4B41-9809-7BEB77D4C491-1-350x233.jpg 350w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">「あのときやっておけば……と後悔するなら」</h2>
+
+
+
+<p>YCA卒業生の公演は、題して『NSC東京30期同期ライブ 出たいやつ、手挙げろ！～ネタとコーナーの75分～』。MCをNSC（吉本総合芸能学院）東京27期生のイワサキ（まんたろう、ビエラ・J・ダニエル）が務め、構成作家・木佐さんと同期の芸歴2年目となる12組の30期生たちが出演しました。</p>
+
+
+
+<p>コーナー企画「クラブでひとこと！」は、スクリーンのルーレットに「◯◯な◯◯」という上の句と下の句に分かれたお題が登場。「日本語が怪しいお母さん」というお題に、片言で「ワタシ、カイモノワスレタ～」と返して笑わせます。ほかにも「なんでもアピール！」のコーナーでは、芸人たちが得意の話術を披露して客席を沸かせました。</p>
+
+
+
+<figure class="wp-block-image size-メイン"><img decoding="async" width="800" height="533" src="https://magazine.fany.lol/wp-content/uploads/2026/10/e4f355c83ce194ab386ce96c36bca593-800x533.jpg" alt="出典: FANY マガジン" class="wp-image-294204" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/e4f355c83ce194ab386ce96c36bca593-800x533.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/e4f355c83ce194ab386ce96c36bca593-1600x1067.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/e4f355c83ce194ab386ce96c36bca593-350x233.jpg 350w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<p>ライブ終了後に、構成を担当した作家・木佐さんを直撃しました。</p>
+
+
+
+<p><strong>――YCAを卒業して、構成作家として2年目。現在はどんなお仕事をしているんですか？</strong></p>
+
+
+
+<p>いまはフリーで作家をしながら、ルミネ the よしもとの制作進行のアルバイトをしています。フリーの作家としては、吉本主催のライブの進行や、先輩芸人のコットンさんのYouTubeチャンネルチームに参加して構成を担当したり、『ラストコール』というYouTubeのキャバ嬢オーディション番組に作家として入ったりと、いろんな仕事をしています。</p>
+
+
+
+<p>学生のころからずっとお笑いが好きで、大学卒業後、好きなことを仕事にするか、大学で学んでいた栄養系の仕事に就くかで悩んで、栄養士を選びました。それはそれで楽しかったのですが、構成作家の夢が諦め切れず、「どうせやるならいまだ。いまがいちばん若い！」と仕事を辞めて上京し、YCAに入学しました。</p>
+
+
+
+<p>結果として、この道を選んでよかったです。いまいろんな経験をさせてもらっていますが、すごく楽しい毎日を送っています。それにYCAは吉本が運営している学校なので、私のようにライブの構成に携わりたいと思っている人には向いている学校なんじゃないかなとも思っています。</p>
+
+
+
+<figure class="wp-block-image size-メイン"><img decoding="async" width="800" height="533" src="https://magazine.fany.lol/wp-content/uploads/2026/10/f10c2043cde9c42c80fe521fe61e8fdd-800x533.jpg" alt="出典: FANY マガジン" class="wp-image-294202" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/f10c2043cde9c42c80fe521fe61e8fdd-800x533.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/f10c2043cde9c42c80fe521fe61e8fdd-1600x1067.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/f10c2043cde9c42c80fe521fe61e8fdd-350x233.jpg 350w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<p><strong>――今後はどんな仕事をしていきたいですか？</strong></p>
+
+
+
+<p>ルミネの進行をあと1年で卒業するので、ほかのところで作家業ができたらいいなと思っています。テレビのバラエティ番組の構成もいずれやってみたいんですが、劇場を観て育ったので、劇場でいろんなライブの構成をやりたいと言う思いがいちばん強いです。</p>
+
+
+
+<p>で、この人がついてるライブって面白いなと言ってもらえるようなものが作れるようになりたいですね。</p>
+
+
+
+<p><strong>――YCA入学を迷っている人たちにメッセージをください。</strong></p>
+
+
+
+<p>私は社会人を経験してからこの世界に入りました。もう少し早くやってもよかったのかなと思いますが、社会人として経験したことが、いまに活きているなとも思っています。少しでもやってみたい気持ちがあるなら、いま。いまがいちばん若いです！　あのときやっておけば……と後悔するなら、やっておいて損はないと思います。</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p><strong>■ よしもとクリエイティブアカデミー（YCA）とは？</strong> </p>
+
+
+
+<p>本公演を手がけた生徒たちが学ぶ「YCA」は、吉本興業が運営するエンタメスタッフの育成機関です。構成作家、マネージャー、ライブプロデューサー、動画クリエイター、脚本家など、未来のエンタメを仕掛ける即戦力を養成。企画立案からライブ制作・番組撮影・現場運営まで、1年間のリアルな現場体験を通して実践力を身につけます。</p>
+
+
+
+<p>よしもとクリエイティブアカデミー（YCA）は現在2027年度生徒を募集中。</p>
+
+
+
+
+
+
+
+
+<p></p>
+				]]>
+			</content:encoded>
+																	</item>
+				<item>
+			<title>黒帯単独ライブ「おもしろ関西人」東京・大阪にて開催決定！</title>
+			<link>https://magazine.fany.lol/294608/</link>
+						<pubDate>Tue, 27 Oct 2026 03:03:57 +0000			</pubDate>
+			<dc:creator>
+				<![CDATA[萬代征矢]]>
+			</dc:creator>
+					<category><![CDATA[お知らせ]]></category>
+		<category><![CDATA[ニュース]]></category>
+		<category><![CDATA[FANY]]></category>
+		<category><![CDATA[ルミネtheよしもと]]></category>
+		<category><![CDATA[黒帯]]></category>
+
+			<guid isPermaLink="false">https://magazine.fany.lol/?p=294608</guid>
+						<image>
+				<url>https://magazine.fany.lol/wp-content/uploads/2026/10/e92512132610dd098d357f2155bf891a-1.png</url>
+			</image>
+			<enclosure url="https://magazine.fany.lol/wp-content/uploads/2026/10/e92512132610dd098d357f2155bf891a-1.png" type="image/jpeg" />
+									<description>
+				<![CDATA[黒帯の単独ライブ「おもしろ関西人」を2026年12月3日(木)に大阪・よしもと漫才劇場、12月9日(水)に東京・ルミネtheよしもとにて開催することが決定しました。 「M-1グランプリ2025」で準決勝・敗者復活戦に、「THE SECOND～漫才トーナメント～2026」で…]]>
+			</description>
+											<content:encoded>
+				<![CDATA[
+					
+<p>黒帯の単独ライブ「おもしろ関西人」を2026年12月3日(木)に大阪・よしもと漫才劇場、12月9日(水)に東京・ルミネtheよしもとにて開催することが決定しました。</p>
+
+
+
+<p><br>「M-1グランプリ2025」で準決勝・敗者復活戦に、「THE SECOND～漫才トーナメント～2026」では決勝トーナメントに進出するなど、コンビでの活躍に加え、大西は関西テレビ「座王」で優勝、てらうちは芸人アイドルユニット「漫烈」リーダー兼プロデューサーと、個々の活躍も目覚ましい黒帯が、東京と大阪で単独ライブを行います。</p>
+
+
+
+<p><br>2026年に出来たネタの中から厳選した、黒帯による漫才傑作選をお届けします。<br>単独ライブは年1回のペースでよしもと漫才劇場にて実施しており、ルミネtheよしもとでは、2024年8月「ネタさぼってんじゃねえよ」以来、およそ２年ぶり３度目の実施となります。</p>
+
+
+
+<p></p>
+
+
+
+<p>10月25日(日)11:00よりFANYチケットにて先行受付開始しており、一般販売は11月5日(木)10:00となります</p>
+
+
+
+<p></p>
+
+
+
+<h3 class="wp-block-heading">本人コメント</h3>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="400" height="400" src="https://magazine.fany.lol/wp-content/uploads/2026/10/64fe77b007e266e806dc29f5a8c93f33.jpg" alt="出典: FANY マガジン" class="wp-image-294610" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/64fe77b007e266e806dc29f5a8c93f33.jpg 400w, https://magazine.fany.lol/wp-content/uploads/2026/10/64fe77b007e266e806dc29f5a8c93f33-350x350.jpg 350w" sizes="(max-width: 400px) 100vw, 400px" /></figure>
+
+
+
+<p><strong>黒帯・大西</strong></p>
+
+
+
+<p>わてらの漫才いっぱい見てや！<br>おおきにやで！</p>
+
+
+
+<p></p>
+
+
+
+<p><strong>黒帯・てらうち</strong></p>
+
+
+
+<p>今年なんやかんやで漫才めちゃくちゃ作りました。最高の漫才体験をさせて<br>あげよう！！</p>
+
+
+
+<p></p>
+
+
+
+<h3 class="wp-block-heading">公演概要</h3>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="2975" height="4210" src="https://magazine.fany.lol/wp-content/uploads/2026/10/2c6e2cef195471fecbb8bf66abd8d6e0.jpg" alt="出典: FANY マガジン" class="wp-image-294609" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/2c6e2cef195471fecbb8bf66abd8d6e0.jpg 2975w, https://magazine.fany.lol/wp-content/uploads/2026/10/2c6e2cef195471fecbb8bf66abd8d6e0-1600x2264.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/2c6e2cef195471fecbb8bf66abd8d6e0-800x1132.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/2c6e2cef195471fecbb8bf66abd8d6e0-350x495.jpg 350w" sizes="(max-width: 2975px) 100vw, 2975px" /></figure>
+
+
+
+<p><strong>【タイトル】黒帯単独ライブ「おもしろ関西人」</strong></p>
+
+
+
+<p>【大阪公演】<br>日程：12月3日（木）<br>時間：20:45開場／21:00開演／22:00 終演<br>場所：よしもと漫才劇場</p>
+
+
+
+<p>【東京公演】<br>日程：12月9日（水）<br>時間：20:10開場／20:30開演／21:45終演<br>場所：ルミネtheよしもと<br>【チケット情報】<br>料金：前売3,000円／当日3,500円／配信2,000円（東京のみ）<br></p>
+
+
+
+<p>先行受付：10月25日（日）11:00～10月28日（水）11:00<br>当落発表：10月29日（木）18:00頃<br>一般発売：11月5日（木）10:00<br>オンライン発売：11月10日（火）10:00</p>
+
+
+
+
+
+<p>【URL】<br>東阪共通URL：<a href="https://r.ticket.fany.lol/kuroobi-tandoku2026" target="_blank" rel="noreferrer noopener">https://r.ticket.fany.lol/kuroobi-tandoku2026</a><br>東京オンライン配信：<a href="https://onlineticket.yoshimoto.co.jp/products/lumine-26120920">https://onlineticket.yoshimoto.co.jp/products/lumine-26120920</a></p>
+
+
+
+
+
+<p></p>
+				]]>
+			</content:encoded>
+																	</item>
+				<item>
+			<title>祝・山形県初開催! 笑い飯と千鳥の「大喜利ライブ」はミスも瞬時にネタに変える“笑いの最高峰”だ!</title>
+			<link>https://magazine.fany.lol/294054/</link>
+						<pubDate>Tue, 27 Oct 2026 02:00:00 +0000			</pubDate>
+			<dc:creator>
+				<![CDATA[小泉耕平]]>
+			</dc:creator>
+					<category><![CDATA[ニュース]]></category>
+		<category><![CDATA[レポート]]></category>
+		<category><![CDATA[エリア]]></category>
+		<category><![CDATA[ソラシド]]></category>
+		<category><![CDATA[とろサーモン]]></category>
+		<category><![CDATA[バクコメ]]></category>
+		<category><![CDATA[バクコメ 半澤（執筆）]]></category>
+		<category><![CDATA[住みます芸人]]></category>
+		<category><![CDATA[千鳥]]></category>
+		<category><![CDATA[半澤弘貴]]></category>
+		<category><![CDATA[地方創生]]></category>
+		<category><![CDATA[笑い飯]]></category>
+
+			<guid isPermaLink="false">https://magazine.fany.lol/?p=294054</guid>
+						<image>
+				<url>https://magazine.fany.lol/wp-content/uploads/2026/10/ef91a085df44ea71937b581cbe5ea730-1.jpg</url>
+			</image>
+			<enclosure url="https://magazine.fany.lol/wp-content/uploads/2026/10/ef91a085df44ea71937b581cbe5ea730-1.jpg" type="image/jpeg" />
+									<description>
+				<![CDATA[笑い飯（西田幸治、哲夫）と千鳥（大悟、ノブ）による『笑い飯・千鳥の大喜利ライブin山形～さくらんぼテレビ開局30周年記念～』が、10月17日（土）に山形市のやまぎん県民ホール（山形県総合文化芸術館）で行われました。20年以上続く長寿イベントが、山形県初開催。とろサーモン（…]]>
+			</description>
+											<content:encoded>
+				<![CDATA[
+					
+<p>笑い飯（西田幸治、哲夫）と千鳥（大悟、ノブ）による『笑い飯・千鳥の大喜利ライブin山形～さくらんぼテレビ開局30周年記念～』が、10月17日（土）に山形市のやまぎん県民ホール（山形県総合文化芸術館）で行われました。20年以上続く長寿イベントが、山形県初開催。とろサーモン（村田秀亮、久保田かずのぶ）、山形県住みます芸人のソラシド（本坊元児、水口靖一郎）をゲストに迎え、会場が興奮に包まれました。その様子を宮城県住みます芸人で、芸人ライターとしても活動するバクコメ・半澤弘貴がお届けします。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1949" height="1299" src="https://magazine.fany.lol/wp-content/uploads/2026/10/d2495fbb54149910346acc47c767e13f-1.jpg" alt="出典: FANY マガジン" class="wp-image-294060" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/d2495fbb54149910346acc47c767e13f-1.jpg 1949w, https://magazine.fany.lol/wp-content/uploads/2026/10/d2495fbb54149910346acc47c767e13f-1-1600x1066.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/d2495fbb54149910346acc47c767e13f-1-800x533.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/d2495fbb54149910346acc47c767e13f-1-350x233.jpg 350w" sizes="(max-width: 1949px) 100vw, 1949px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">満員御礼の会場にノブ「お客さんが若くてよかった」</h2>
+
+
+
+<p>この公演は、笑い飯と千鳥が、毎回豪華ゲストを迎えて大喜利バトルを繰り広げる“至高の大喜利ライブ”。20年以上の歴史を持ちますが、今回が記念すべき山形県初開催となりました。</p>
+
+
+
+<p>チケットは即完売。超満員となった会場は開演前から熱気に満ちています。開演時間になって客席が暗くなり始めると、会場のボルテージが徐々に上がっていきました。</p>
+
+
+
+<p>オープニング映像のあと、まずはMCのノブが着物姿でステージに登場。客席を見て「お客さんが若くてよかった」と一言。さっそく、会場から笑いが起きていました。</p>
+
+
+
+<p>以前、徳島でこのイベントをやった際は、本当の「笑点」のライブだと勘違いされ、お客さんの8割がおじいさん、おばあさんで、ほぼスベって終わったこともあったそうです。「今日は大喜利や漫才もやりますので、楽しんでください」と挨拶すると、相方の大悟と笑い飯、ゲストのとろサーモンとソラシドを呼び込みました。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="5184" height="3888" src="https://magazine.fany.lol/wp-content/uploads/2026/10/P1010452.jpg" alt="出典: FANY マガジン" class="wp-image-294061" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/P1010452.jpg 5184w, https://magazine.fany.lol/wp-content/uploads/2026/10/P1010452-1600x1200.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/P1010452-800x600.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/P1010452-350x263.jpg 350w" sizes="(max-width: 5184px) 100vw, 5184px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<p>7人の大喜利メンバーたちは、カラフルな着物姿で赤いもうせん（和風のカーペット）が敷かれた高座に横一列に並び、まずはそれぞれが小噺でご挨拶。それぞれのキャラクターで会場を和やかにしたあとは、いよいよ大喜利のスタート！　山形にちなんだお題の大喜利にも挑戦しました。</p>
+
+
+
+<h2 class="wp-block-heading">ライブ中の名シーンを大喜利回答に反映</h2>
+
+
+
+<p>演芸コーナーでは、近年、このイベントで笑い飯、千鳥が漫才を披露することはなかったのですが、今回は2組ともネタを披露！　会場のお客さんから喜びの声が上がりました。とろサーモン、ソラシドも加えた4組の漫才に、客席は酔いしれていました。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="5184" height="3888" src="https://magazine.fany.lol/wp-content/uploads/2026/10/P1010496.jpg" alt="出典: FANY マガジン" class="wp-image-294062" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/P1010496.jpg 5184w, https://magazine.fany.lol/wp-content/uploads/2026/10/P1010496-1600x1200.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/P1010496-800x600.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/P1010496-350x263.jpg 350w" sizes="(max-width: 5184px) 100vw, 5184px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="5184" height="3888" src="https://magazine.fany.lol/wp-content/uploads/2026/10/P1010490.jpg" alt="出典: FANY マガジン" class="wp-image-294063" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/P1010490.jpg 5184w, https://magazine.fany.lol/wp-content/uploads/2026/10/P1010490-1600x1200.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/P1010490-800x600.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/P1010490-350x263.jpg 350w" sizes="(max-width: 5184px) 100vw, 5184px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<p>演芸コーナーのあとは再び大喜利コーナーです。“シチュエーション大喜利”では、私、半澤が役者として出演。哲夫さんのまさかの職人技に、自分でいうのもなんですが、半澤が“見事な融合”を見せて会場を沸かせました。</p>
+
+
+
+<p>最後の大喜利では、村田さんの天然ぶりが発揮された“ミス回答”も瞬時にネタとして活用されていく展開。いつの間にか、このライブの面白かったシーン、ちょっとスベッたシーンなどが大喜利の回答にも反映され、それぞれの個性が出たすばらしい大喜利に会場は大いに盛り上がりました。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="5184" height="3888" src="https://magazine.fany.lol/wp-content/uploads/2026/10/P1010508.jpg" alt="出典: FANY マガジン" class="wp-image-294064" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/P1010508.jpg 5184w, https://magazine.fany.lol/wp-content/uploads/2026/10/P1010508-1600x1200.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/P1010508-800x600.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/P1010508-350x263.jpg 350w" sizes="(max-width: 5184px) 100vw, 5184px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<p>ツッコミのノブさんのタイミングと、笑いの流れを作る名MCぶりもこの大喜利ライブの屋台骨となっており、ツッコむたびに笑いが発生してました。</p>
+
+
+
+<p>エンディングでは舞台に全員が集合。「またやりたいですね。どうもありがとうございました」というノブさんの挨拶で、笑いに満ちた2時間を超えるライブは幕を閉じました。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="5184" height="3888" src="https://magazine.fany.lol/wp-content/uploads/2026/10/P1010501.jpg" alt="出典: FANY マガジン" class="wp-image-294065" srcset="https://magazine.fany.lol/wp-content/uploads/2026/10/P1010501.jpg 5184w, https://magazine.fany.lol/wp-content/uploads/2026/10/P1010501-1600x1200.jpg 1600w, https://magazine.fany.lol/wp-content/uploads/2026/10/P1010501-800x600.jpg 800w, https://magazine.fany.lol/wp-content/uploads/2026/10/P1010501-350x263.jpg 350w" sizes="(max-width: 5184px) 100vw, 5184px" /><figcaption class="wp-element-caption">出典: <a href="https://magazine.fany.lol">FANY マガジン</a></figcaption></figure>
+
+
+
+<p>その場で発生する流れを短く面白い文章にまとめて回答する。これを大勢のお客さんの前で瞬時に判断して“笑い”を作っていく――そんな高度な技術を楽しみながら参加しているメンバーたち。このライブはまさに、現代のお笑いの最高峰に位置する“至高の大喜利ライブ”だと感じました。</p>
+
+
+
+<p>山形初開催ということですが、また山形そして東北での開催も待ち遠しいところです。これからも『笑い飯・千鳥の大喜利ライブ』からは目が離せません！</p>
+
+
+
+<p></p>
+				]]>
+			</content:encoded>
+																	</item>
+			</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/?utm_source=w3tc&utm_medium=footer_comment&utm_campaign=free_plugin
+
+Memcached (Page is feed)  を使用したページ キャッシュ
+
+Served from: magazine.fany.lol @ 2026-10-30 23:18:18 by W3 Total Cache
+-->

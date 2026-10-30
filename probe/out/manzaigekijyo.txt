@@ -1,0 +1,511 @@
+
+
+
+                                            
+
+
+
+
+
+                                                                                          
+                                                                      <!DOCTYPE html>
+<html lang="ja" itemscope itemtype="http://schema.org/WebPage">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>よしもと漫才劇場</title>
+  <meta name="description" content="お笑い界の未来を担う若手芸人のための劇場「よしもと漫才劇場」公式サイト。大阪の若手芸人を見るならココ！テレビでお馴染の人気者から売り出し中の若手まで様々な芸人が出演するお笑いステージを365日毎日開催中！">
+  <meta name="keywords" content="吉本興業,劇場,お笑い,漫才,コント,マンゲキ,極,翔">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <link rel="shortcut icon" href="https://manzaigekijyo.yoshimoto.co.jp/images/favicon.ico">
+  <link rel="start" href="https://manzaigekijyo.yoshimoto.co.jp/">
+  <link rel="canonical" href="https://manzaigekijyo.yoshimoto.co.jp/" />
+  <!-- Open Graph Protocol -->
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="ja_JP">
+  <meta property="og:title" content="よしもと漫才劇場">
+  <meta property="og:url" content="https://manzaigekijyo.yoshimoto.co.jp/">
+  <meta property="og:description" content="お笑い界の未来を担う若手芸人のための劇場「よしもと漫才劇場」公式サイト。大阪の若手芸人を見るならココ！テレビでお馴染の人気者から売り出し中の若手まで様々な芸人が出演するお笑いステージを365日毎日開催中！">
+  <meta property="og:site_name" content="よしもと漫才劇場">
+  <meta property="og:image" content="https://manzaigekijyo.yoshimoto.co.jp/.assets/%E5%A4%8F%E7%A5%AD%E3%82%8A%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%8F%E3%81%98.webp">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@movabletypenet">
+  <meta name="twitter:title" content="よしもと漫才劇場">
+  <meta name="twitter:description" content="お笑い界の未来を担う若手芸人のための劇場「よしもと漫才劇場」公式サイト。大阪の若手芸人を見るならココ！テレビでお馴染の人気者から売り出し中の若手まで様々な芸人が出演するお笑いステージを365日毎日開催中！">
+  <meta name="twitter:image" content="https://manzaigekijyo.yoshimoto.co.jp/.assets/%E5%A4%8F%E7%A5%AD%E3%82%8A%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%8F%E3%81%98.webp">
+  <!-- Microdata -->
+  <meta itemprop="description" content="お笑い界の未来を担う若手芸人のための劇場「よしもと漫才劇場」公式サイト。大阪の若手芸人を見るならココ！テレビでお馴染の人気者から売り出し中の若手まで様々な芸人が出演するお笑いステージを365日毎日開催中！">
+  <link itemprop="url" href="https://manzaigekijyo.yoshimoto.co.jp/">
+  <link itemprop="image" href="https://manzaigekijyo.yoshimoto.co.jp/.assets/%E5%A4%8F%E7%A5%AD%E3%82%8A%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%8F%E3%81%98.webp">
+  <link rel="stylesheet" href="/assets/fontawesome/css/all.min.css">
+  <link rel="stylesheet" href="/assets/owlcarousel/css/owl.carousel.min.css">
+  <link rel="stylesheet" href="/assets/css/style.css?202411271">
+<link rel="stylesheet" href="https://www.yoshimoto.co.jp/css/gdpr.css" media="all">
+  <script data-cookieconsent="ignore">
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag("consent", "default", {
+        ad_storage: "denied",
+        analytics_storage: "denied",
+        wait_for_update: 500,
+    });
+    gtag("set", "ads_data_redaction", true);
+</script> 
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PC3JV2Z');</script>
+<!-- End Google Tag Manager -->
+
+<link rel="stylesheet" href="https://www.yoshimoto.co.jp/css/gdpr.css" media="all">
+
+</head>
+
+<body class="home">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PC3JV2Z" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    <header class="site-header">
+    <h1 class="site-header-logo"><a href="/"><img src="/assets/images/common/site-header-logo.svg" alt="よしもと漫才劇場" width="252" height="40"></a></h1>
+    <a href="javascript:void(0)" class="site-header-toggle">menu</a>
+
+    <nav class="site-nav">
+      <ul>
+        
+
+                                      
+
+                                                                              <li><a href="/" class="ic-top"><span>トップ</span></a></li>
+<li><a href="/news/" class="ic-news"><span>お知らせ</span></a></li>
+<li><a href="/schedule/" class="ic-schedule"><span>スケジュール</span></a></li>
+<li><a href="/ticket/" class="ic-ticket"><span>チケット</span></a></li> 
+<li><a href="/about/" class="ic-about"><span>劇場案内</span></a></li>
+<li><a href="/event/" class="ic-event"><span>公演一覧</span></a></li>
+<li><a href="/online/" class="ic-online"><span>配信公演一覧</span></a></li>
+<li><a href="/profile/" class="ic-profile"><span>所属芸人一覧</span></a></li>
+<li><a href="/award/" class="ic-award"><span>賞レース情報</span></a></li>	  
+<li><a href="/goods/" class="ic-goods"><span>グッズ</span></a></li>
+<li><a href="/faq/" class="ic-faq"><span>よくある質問</span></a></li>
+
+      </ul>
+    </nav>
+
+    <div class="sec-social">
+      <ul>
+                    <li><a href="https://twitter.com/manzaigekijyo" target="_blank" rel="noopener"><img src="/assets/images/common/icon-twitter.svg" alt="Twitter"></a></li>
+            <li><a href="https://www.instagram.com/yoshimotomanzaigekijyo/" target="_blank" rel="noopener"><img src="/assets/images/common/icon-instagram.svg" alt="Instagram"></a></li>
+            <li><a href="https://page.line.me/?accountId=manzaigekijo&openerPlatform=webview&openerKey=webview%3AunifiedSearch#mst_challenge=CdzZfU1xNRvsKHIoqbqmId-xAVVCSaPW38D0bpg8_1II" target="_blank" rel="noopener"><img src="/assets/images/common/icon-line.svg" alt="Line"></a></li>
+            <li><a href="https://www.tiktok.com/@mangeki" target="_blank" rel="noopener"><img src="/assets/images/common/icon-tiktok.svg" alt="TikTok"></a></li>
+            <li><a href="https://www.youtube.com/c/manzaigekijo" target="_blank" rel="noopener"><img src="/assets/images/common/icon-youtube.svg" alt="YouTube"></a></li>
+			<li><a href="https://note.com/manzaigekijyo" target="_blank" rel="noopener"><img src="/assets/images/common/icon-note.svg" alt="note"></a></li>
+		
+
+      </ul>
+    </div>
+</header>
+
+
+
+  <main>
+    <input type="hidden" id="theater" value="manzaigekijyo">
+    <input type="hidden" id="venue" value="01">
+
+        <div class="sec-mv">
+      <div class="owl-carousel">
+                <div class="owl-slide"><a href="https://chance.fany.lol/lotteries/1436" target="_blank" rel="noopener" class="mv-image" style="background-image:url(https://manzaigekijyo.yoshimoto.co.jp/.assets/%E5%A4%8F%E7%A5%AD%E3%82%8A%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%8F%E3%81%98.webp)"></a></div>
+                <div class="owl-slide"><a href="https://magazine.fany.lol/294454/" target="_blank" rel="noopener" class="mv-image" style="background-image:url(https://manzaigekijyo.yoshimoto.co.jp/.assets/261024_%E3%80%8C%E7%AC%AC15%E5%9B%9E%E7%89%B9%E5%88%A5%E8%A8%98%E5%BF%B5%E9%96%A2%E8%A5%BF%E6%BC%94%E8%8A%B8%E3%81%97%E3%82%83%E3%81%B9%E3%81%8F%E3%82%8A%E8%A9%B1%E8%8A%B8%E5%A4%A7%E8%B3%9E%E3%80%8D_%E3%83%90%E3%83%8A%E3%83%BCB_01_0.jpg)"></a></div>
+                <div class="owl-slide"><a href="https://magazine.fany.lol/tag/abcowaraigp/" target="_blank" rel="noopener" class="mv-image" style="background-image:url(https://manzaigekijyo.yoshimoto.co.jp/.assets/260726_ABC%E3%81%8A%E7%AC%91%E3%81%84%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%97%E3%83%AA_bannerB_02.jpg)"></a></div>
+                <div class="owl-slide"><a href="https://mall.fany.lol/collections/allmangeki-tokyo?srsltid=AfmBOorLuF23H-c6BZUz2Zs-K_SmJW-3I_-rh68qnyQ67f-Dxb79Xn3_" target="_blank" rel="noopener" class="mv-image" style="background-image:url(https://manzaigekijyo.yoshimoto.co.jp/.assets/%E3%83%8F%E3%82%99%E3%83%8A%E3%83%BC.webp)"></a></div>
+                <div class="owl-slide"><a href="https://magazine.fany.lol/tag/the-second/" target="_blank" rel="noopener" class="mv-image" style="background-image:url(https://manzaigekijyo.yoshimoto.co.jp/.assets/S__139411551_0.jpg)"></a></div>
+                <div class="owl-slide"><a href="https://magazine.fany.lol/272761/" target="_blank" rel="noopener" class="mv-image" style="background-image:url(https://manzaigekijyo.yoshimoto.co.jp/.assets/260407_%E7%AC%AC61%E5%9B%9E%E4%B8%8A%E6%96%B9%E6%BC%AB%E6%89%8D%E5%A4%A7%E8%B3%9E_bannerB_01_0.jpg)"></a></div>
+                <div class="owl-slide"><a href="https://magazine.fany.lol/tag/r1gp2026/" target="_blank" rel="noopener" class="mv-image" style="background-image:url(https://manzaigekijyo.yoshimoto.co.jp/.assets/260321_R-1_bannerB_01.jpg)"></a></div>
+                <div class="owl-slide"><a href="https://magazine.fany.lol/270766/" target="_blank" rel="noopener" class="mv-image" style="background-image:url(https://manzaigekijyo.yoshimoto.co.jp/.assets/260320_NHK_bannerB_01_0.jpg)"></a></div>
+                <div class="owl-slide"><a href="https://magazine.fany.lol/268690/" target="_blank" rel="noopener" class="mv-image" style="background-image:url(https://manzaigekijyo.yoshimoto.co.jp/.assets/260301_ytv_bannerB_01_0.jpg)"></a></div>
+                <div class="owl-slide"><a href="https://magazine.fany.lol/tag/m12025/" target="_blank" rel="noopener" class="mv-image" style="background-image:url(https://manzaigekijyo.yoshimoto.co.jp/.assets/251221_M-1_bannerB_01_%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AA%E3%82%B9%E3%83%88%E8%B1%AA%E5%BF%AB%E3%82%AD%E3%83%A3%E3%83%97%E3%83%86%E3%83%B3.jpg)"></a></div>
+              </div>
+      <div class="owl-dots-container">
+        <div class="owl-dots-body">
+          <div class="owl-dots owl-dots-mv"></div>
+          <a href="javascript:void(0)" class="owl-dots-prev owl-dots-prev-mv"></a>
+          <a href="javascript:void(0)" class="owl-dots-next owl-dots-next-mv"></a>
+        </div>
+      </div>
+    </div>
+    
+    <div class="sec is-s">
+	  <div class="container" style="margin-bottom: 1em;">
+        <a href="https://twitter.com/manzaigekijyo" class="btn is-x" target="_blank"><span>当日券情報をチェック</span></a>
+      </div>		
+      <div class="container">
+        <a href="/schedule/" class="btn is-schedule"><span>スケジュール＆チケット</span></a>
+      </div>
+    </div>
+
+        <div class="sec is-s is-t0 sec-notice" id="notice">
+      <div class="container">
+        <div class="notice-body">
+          <div class="notice-title"><i class="fas fa-info-circle"></i> 重要なお知らせ</div>
+          <ul>
+                        <li><a href="https://manzaigekijyo.yoshimoto.co.jp/notice/present.html">所属タレントへのプレゼントについて</a></li>
+                        <li><a href="https://manzaigekijyo.yoshimoto.co.jp/notice/ryoukinkatitei.html">よしもと漫才劇場　観劇料金改定のお知らせ</a></li>
+                        <li><a href="https://manzaigekijyo.yoshimoto.co.jp/notice/flower.html">【フラワースタンド、バルーンスタンド等設置のご案内】</a></li>
+                      </ul>
+        </div>
+      </div>
+    </div>
+    
+        <div class="sec is-red sec-topics">
+      <div class="container">
+        <p class="sec-title-en">Topics</p>
+        <h2 class="sec-title">トピックス</h2>
+        <ul>
+                    <li>
+            
+            <a href="https://manzaigekijyo.yoshimoto.co.jp/2026/10/post.html">
+                                                        <div class="preload is-16by9" data-src="https://manzaigekijyo.yoshimoto.co.jp/.assets/thumbnail/10-11_%E5%85%AC%E6%BC%94%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB-640wi.jpg"></div>
+              <span class="news-meta">
+                <span class="news-date">2026年10月01日</span>
+                              </span>
+              <span class="news-title">10・11月公演スケジュール</span>
+            </a>
+          </li>
+                    <li>
+            
+            <a href="https://manzaigekijyo.yoshimoto.co.jp/2026/08/81314tokyo.html">
+                                                        <div class="preload is-16by9" data-src="https://manzaigekijyo.yoshimoto.co.jp/.assets/thumbnail/%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%9E%E3%83%B3%E3%82%B2%E3%82%ADTOKYO-%E9%85%8D%E4%BF%A1%EF%BC%81-%284%29-640wi.png"></div>
+              <span class="news-meta">
+                <span class="news-date">2026年8月04日</span>
+                <span class="news-category is-news">お知らせ</span>              </span>
+              <span class="news-title">【グッズ情報解禁！】8月13日(木)・14日(金)...</span>
+            </a>
+          </li>
+                    <li>
+            
+            <a href="https://manzaigekijyo.yoshimoto.co.jp/2026/07/2025-2.html">
+                                                        <div class="preload is-16by9" data-src="https://manzaigekijyo.yoshimoto.co.jp/.assets/thumbnail/%E5%90%8D%E7%A7%B0%E6%9C%AA%E8%A8%AD%E5%AE%9A%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3-%2819%29-640wi.jpg"></div>
+              <span class="news-meta">
+                <span class="news-date">2026年7月17日</span>
+                <span class="news-category is-news">お知らせ</span><span class="news-category is-mangekinatsumatsuri">マンゲキ夏祭り</span>              </span>
+              <span class="news-title">『マンゲキ夏祭り2026』チケット 絶賛販売中！！</span>
+            </a>
+          </li>
+                    <li>
+            
+            <a href="https://manzaigekijyo.yoshimoto.co.jp/2026/06/2026tokyo.html">
+                                                        <div class="preload is-16by9" data-src="https://manzaigekijyo.yoshimoto.co.jp/.assets/thumbnail/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E4%B8%8A%E9%83%A8%E7%94%A8-640wi.jpg"></div>
+              <span class="news-meta">
+                <span class="news-date">2026年6月23日</span>
+                <span class="news-category is-news">お知らせ</span>              </span>
+              <span class="news-title">【開催決定！】マンゲキカップ2026＆オールマンゲ...</span>
+            </a>
+          </li>
+                  </ul>
+        <div class="btns"><a href="/topics/" class="btn is-sub">トピックス一覧</a></div>
+      </div>
+    </div>
+    
+        <section class="sec sec-news" id="news">
+      <div class="container">
+        <p class="sec-title-en">Information</p>
+        <h2 class="sec-title">お知らせ</h2>
+        <ul>
+                    <li>
+            <a href="https://manzaigekijyo.yoshimoto.co.jp/2026/10/8-12.html">
+              <span class="news-meta">
+                <span class="news-date">2026年10月25日</span>
+                              </span>
+              <span class="news-title">12月スケジュールアップしました！</span>
+            </a>
+          </li>
+                    <li>
+            <a href="https://manzaigekijyo.yoshimoto.co.jp/2026/09/8-12.html">
+              <span class="news-meta">
+                <span class="news-date">2026年9月25日</span>
+                              </span>
+              <span class="news-title">11月スケジュールアップしました！</span>
+            </a>
+          </li>
+                    <li>
+            <a href="https://manzaigekijyo.yoshimoto.co.jp/2026/09/20259-7.html">
+              <span class="news-meta">
+                <span class="news-date">2026年9月13日</span>
+                <span class="news-category is-mangekinatsumatsuri">マンゲキ夏祭り</span>              </span>
+              <span class="news-title">ついに本日開幕！「マンゲキ夏祭り2026」！！</span>
+            </a>
+          </li>
+                    <li>
+            <a href="https://manzaigekijyo.yoshimoto.co.jp/2026/09/20259-6.html">
+              <span class="news-meta">
+                <span class="news-date">2026年9月12日</span>
+                <span class="news-category is-mangekinatsumatsuri">マンゲキ夏祭り</span>              </span>
+              <span class="news-title">「マンゲキ夏祭り2026」まであと1日！～オンラインくじで推しグッズをつかみとれ...</span>
+            </a>
+          </li>
+                    <li>
+            <a href="https://manzaigekijyo.yoshimoto.co.jp/2026/09/20259-5.html">
+              <span class="news-meta">
+                <span class="news-date">2026年9月11日</span>
+                <span class="news-category is-mangekinatsumatsuri">マンゲキ夏祭り</span>              </span>
+              <span class="news-title">「マンゲキ夏祭り2026」まであと2日！～オリジナルグッズ発売決定！！～</span>
+            </a>
+          </li>
+                  </ul>
+        <div class="btns"><a href="/news/" class="btn is-sub">お知らせ一覧</a></div>
+      </div>
+    </section>
+    
+    <section class="sec is-gray sec-ticket">
+      <div class="container">
+        <p class="sec-title-en">Ticket</p>
+        <h2 class="sec-title">チケット</h2>
+        <h3 class="sec-lead">チケットの購入方法はさまざま！<br class="inline-xs">はじめての購入でも安心！</h3>
+        <div class="ticket-list">
+          <ul>
+            <li>
+              <a href="/ticket/##web" class="btn is-blue">
+                <img src="/assets/images/common/icon-online-white.svg" alt=""><br>
+                WEBで購入
+              </a>
+            </li>
+            <li>
+              <a href="/ticket/##convenience-store" class="btn is-blue">
+                <img src="/assets/images/common/icon-convenience-white.svg" alt=""><br>
+                コンビニで購入
+              </a>
+            </li>
+<!--            <li>
+              <a href="/ticket/##tel" class="btn is-blue">
+                <img src="/assets/images/common/icon-phone-white.svg" alt=""><br>
+                電話で購入
+              </a>
+            </li>-->
+            <li>
+              <a href="/ticket/##counter" class="btn is-blue">
+                <img src="/assets/images/common/icon-about-white.svg" alt=""><br>
+                劇場窓口で購入
+              </a>
+            </li>
+            
+            <li>
+              <a href="https://online-ticket.yoshimoto.co.jp/" target="_blank" rel="noopener" class="btn is-pink is-online">
+                <img src="/assets/images/common/icon-online-white.svg" alt=""><br>
+                オンラインチケット
+              </a>
+            </li>
+            
+          </ul>
+
+        </div>
+        <div class="ticket-fany">
+          <dl>
+            <dt>
+              <img src="/assets/images/common/logo-fany-id.svg" alt="FANY ID"><br>
+              おもしろいをもっと一緒に
+            </dt>
+            <dd>
+              <p class="sec-lead">チケット・グッズ購入、メルマガ配信など様々なサービスが利用できます！</p>
+              <ul>
+                <li><a href="https://id.yoshimoto.co.jp/signup_intro.html" class="btn is-s" target="_blank" rel="noopener">新規会員登録(無料)</a></li>
+                <li><a href="https://id.yoshimoto.co.jp/" class="btn is-s is-gray" target="_blank" rel="noopener">ログイン</a></li>
+              </ul>
+            </dd>
+          </dl>
+        </div>
+      </div>
+    </section>
+
+    <section class="sec sec-flyer">
+			
+      <p class="sec-title-en">Event</p>
+      <h2 class="sec-title">公演</h2>
+			<div class="container sec is-s"><a href="https://manzaigekijyo.yoshimoto.co.jp/assets/pdf/monthly-schedule.webp" target="_blank"><img src="https://manzaigekijyo.yoshimoto.co.jp/assets/images/banner/banner-schedule.jpg" alt=""></a></div>
+      <div class="owl-container">
+        <div class="owl-carousel"></div>
+        <a href="javascript:void(0)" class="owl-prev"></a>
+        <a href="javascript:void(0)" class="owl-next"></a>
+      </div>
+      <div class="btns"><a href="/event/" class="btn is-sub">公演一覧</a></div>
+			<div class="container sec is-s" style="padding-bottom: 10px;"><a href="/online/" class="is-hover"><img src="https://manzaigekijyo.yoshimoto.co.jp/assets/images/banner/banner-online01.png" alt=""></a></div>
+			<div class="container sec is-s" style="padding-bottom: 10px;"><a href="https://ticket.fany.lol/search/event?keywords=Kiwami%E6%A5%B5%E3%83%91%E3%82%B9&from=&to=&prefectures=0&genre=0&search_type=form" class="is-hover" target="_blank"><img src="https://manzaigekijyo.yoshimoto.co.jp/assets/images/banner/banner-pass1.jpg" alt=""></a></div>			
+			<div class="container sec is-s" style="padding-top: 10px; padding-bottom: 10px;"><a href="/award/"><img src="https://manzaigekijyo.yoshimoto.co.jp/assets/images/banner/banner-award.jpg" alt=""></a></div>		
+    </section>
+
+    <div class="sec sec-btns">
+      <div class="container">
+        <ul class="btns">
+          <li><!--<a href="/profile/" class="btn is-profile"><p><span>所属芸人一覧</span></p></a>--><a href="/profile/" class=""><img src="https://manzaigekijyo.yoshimoto.co.jp/assets/images/top/btn-img01.jpg"></a></li>
+          <li><!--<a href="/about/" class="btn is-about"><p><span>劇場案内</span></p></a>--><a href="/about/" class=""><img src="https://manzaigekijyo.yoshimoto.co.jp/assets/images/top/btn-img02.jpg"></a></li>
+        </ul>
+      </div>
+    </div>
+
+
+    <section class="sec is-t0 sec-access" id="access">
+      <div class="container">
+        <p class="sec-title-en">Access</p>
+        <h2 class="sec-title">アクセス</h2>
+        <div class="access-map"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3281.60265306266!2d135.5010140510797!3d34.66473649255475!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e76ba447e0f1%3A0x2868e0551ab1bec9!2z44KI44GX44KC44Go5ryr5omN5YqH5aC0!5e0!3m2!1sja!2sjp!4v1638666819553!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe></div>
+        <p class="access-address">
+          〒542‐0075 大阪市中央区難波千日前12-7 YES･NAMBAビル5F<br>
+          TEL：<a href="tel:06-6646-0365">06-6646-0365</a> (受付時間12:00～22:00)
+        </p>
+      </div>
+    </section>
+
+    <div class="sec is-gray sec-schedule-top">
+      <div class="container">
+        <p class="sec-lead">公演情報のチェック、<br class="inline-xs">チケットの購入はこちらから</p>
+        <a href="/schedule/" class="btn is-schedule"><span>スケジュール＆チケット</span></a>
+      </div>
+    </div>
+
+    <div class="sec">
+      <div class="sec-social">
+        <div class="container">
+          <ul>
+                        <li><a href="https://twitter.com/manzaigekijyo" target="_blank" rel="noopener"><img src="/assets/images/common/icon-twitter.svg" alt="Twitter"></a></li>
+            <li><a href="https://www.instagram.com/yoshimotomanzaigekijyo/" target="_blank" rel="noopener"><img src="/assets/images/common/icon-instagram.svg" alt="Instagram"></a></li>
+            <li><a href="https://page.line.me/?accountId=manzaigekijo&openerPlatform=webview&openerKey=webview%3AunifiedSearch#mst_challenge=CdzZfU1xNRvsKHIoqbqmId-xAVVCSaPW38D0bpg8_1II" target="_blank" rel="noopener"><img src="/assets/images/common/icon-line.svg" alt="Line"></a></li>
+            <li><a href="https://www.tiktok.com/@mangeki" target="_blank" rel="noopener"><img src="/assets/images/common/icon-tiktok.svg" alt="TikTok"></a></li>
+            <li><a href="https://www.youtube.com/c/manzaigekijo" target="_blank" rel="noopener"><img src="/assets/images/common/icon-youtube.svg" alt="YouTube"></a></li>
+			<li><a href="https://note.com/manzaigekijyo" target="_blank" rel="noopener"><img src="/assets/images/common/icon-note.svg" alt="note"></a></li>
+		
+
+          </ul>
+        </div>
+      </div>
+
+            <div class="sec-banner container">
+        <ul>
+                    <li>
+                        <a href="https://www.yoshimoto.co.jp/morinomiya_manzaigekijyo/" target="_blank">
+                          <img src="https://manzaigekijyo.yoshimoto.co.jp/.assets/20211217234945-1d0033bc8206796cd6c2d16352bba34382a78b85-13494747-%281%29.jpg" alt="森ノ宮バナー">
+                        </a>
+                      </li>
+                    <li>
+                        <a href="https://note.com/manzaigekijyo/m/m426c7149fee3" target="_blank">
+                          <img src="https://manzaigekijyo.yoshimoto.co.jp/.assets/20211217234945-1d0033bc8206796cd6c2d16352bba34382a78b85-8f0ec7da.jpg" alt="番組出演情報">
+                        </a>
+                      </li>
+                    <li>
+                        <a href="https://manzaigekijyo.yoshimoto.co.jp/2021/10/post-50.html" target="_blank">
+                          <img src="https://manzaigekijyo.yoshimoto.co.jp/.assets/20180829144638-25cdfefedf44fda6291663c33d91f87642936b42.jpg" alt="車いすでご来場のお客様へ">
+                        </a>
+                      </li>
+                    <li>
+                        <a href="https://www.yoshimoto.co.jp/kamigatamanzaikyokai/" target="_blank">
+                          <img src="https://manzaigekijyo.yoshimoto.co.jp/.assets/20150408172146-281caadebdf77c3750e77f56fd4d5b89adb89794.jpg" alt="上方漫才協会">
+                        </a>
+                      </li>
+                            </ul>
+      </div>
+          </div>
+  </main>
+
+    <footer class="site-footer">
+        <!--
+    <div class="site-footer-btns">
+      <a href="https://yoshimoto.funity.jp/kglist/?kw=%E2%88%9E%E3%83%9B%E3%83%BC%E3%83%AB" class="btn is-s" target="_blank">この劇場のオンライン配信を見る</a>
+      <a href="javascript:void(0)" class="site-footer-btns-close"></a>
+    </div>
+    -->
+        <ul>
+      <li><a href="/" class="ic-top">トップ</a></li>
+      <li><a href="/news/" class="ic-news">お知らせ</a></li>
+      <li><a href="/schedule/" class="ic-schedule">スケジュール</a></li>
+      <li><a href="/ticket/" class="ic-ticket">チケット</a></li>
+      <li><a href="/about/" class="ic-about">劇場案内</a></li>
+    </ul>
+  </footer>
+
+  <a href="#" class="gototop"></a>
+  <!-- Cookie popup-->
+<div class="cookie-consent">
+ <div class="cookie-text">当サイトでは、サービスの品質向上・利便性向上を目的としてお客様のクッキーを取得しています。また、取得したクッキーをお客様の個人情報と紐付けて管理・利用する場合がございます。以上の事項について同意の上、当サイトをご利用ください。詳しくは当社グループの<a class="cokie-policy-url" href="#" onclick="return:false;">プライバシーポリシー</a>をご確認ください。</div>
+ <div class="cookie-disagree">閉じる</div>
+ <div class="cookie-agree">同意の上、閉じる</div>
+</div>
+<script src="https://www.yoshimoto.co.jp/js/gdpr.js"></script> 
+<!-- Cookie END -->
+<footer class="common-footer">
+  <div class="container is-wide">
+    <nav class="common-footer-nav">
+      <ul>
+              <li><a href="https://www.yoshimoto.co.jp/gekijyo/list.html" rel="noopener">劇場一覧</a></li>
+        <li><a href="/faq/">よくある質問</a></li>
+      <li><a href="https://ticket.fany.lol/faq" target="_blank" rel="noopener">チケットに関するお問い合わせ</a></li>
+      </ul>
+      <ul>
+        <li><a href="https://id.yoshimoto.co.jp/s/privacy.html" target="_blank" rel="noopener">プライバシーポリシー</a></li>
+        <li><a href="https://www.yoshimoto.co.jp/corp/declaration.html" target="_blank" rel="noopener">反社会的勢力排除宣言</a></li>
+        <li><a href="https://www.yoshimoto.co.jp/corp/policy.html" target="_blank" rel="noopener">チケット販売および観劇約款</a></li>
+        <li><a href="https://recruit.yoshimoto.co.jp/" target="_blank" rel="noopener">採用情報</a></li>
+      </ul>
+      <p class="common-footer-copyright">
+        <a href="https://www.yoshimoto.co.jp/" target="_blank" rel="noopener">&copy;YOSHIMOTO KOGYO, All Rights Reserved</a>
+      </p>
+    </nav>
+  </div>
+</footer>
+    
+                                                                                                
+  
+                                                                                                                                                                                    
+  <div class="site-header-menu">
+    <ul>
+      
+
+                                      
+
+                                                                              <li><a href="/" class="ic-top"><span>トップ</span></a></li>
+<li><a href="/news/" class="ic-news"><span>お知らせ</span></a></li>
+<li><a href="/schedule/" class="ic-schedule"><span>スケジュール</span></a></li>
+<li><a href="/ticket/" class="ic-ticket"><span>チケット</span></a></li> 
+<li><a href="/about/" class="ic-about"><span>劇場案内</span></a></li>
+<li><a href="/event/" class="ic-event"><span>公演一覧</span></a></li>
+<li><a href="/online/" class="ic-online"><span>配信公演一覧</span></a></li>
+<li><a href="/profile/" class="ic-profile"><span>所属芸人一覧</span></a></li>
+<li><a href="/award/" class="ic-award"><span>賞レース情報</span></a></li>	  
+<li><a href="/goods/" class="ic-goods"><span>グッズ</span></a></li>
+<li><a href="/faq/" class="ic-faq"><span>よくある質問</span></a></li>
+
+    </ul>
+
+    <div class="sec-social">
+      <div class="container">
+        <ul>
+                      <li><a href="https://twitter.com/manzaigekijyo" target="_blank" rel="noopener"><img src="/assets/images/common/icon-twitter.svg" alt="Twitter"></a></li>
+            <li><a href="https://www.instagram.com/yoshimotomanzaigekijyo/" target="_blank" rel="noopener"><img src="/assets/images/common/icon-instagram.svg" alt="Instagram"></a></li>
+            <li><a href="https://page.line.me/?accountId=manzaigekijo&openerPlatform=webview&openerKey=webview%3AunifiedSearch#mst_challenge=CdzZfU1xNRvsKHIoqbqmId-xAVVCSaPW38D0bpg8_1II" target="_blank" rel="noopener"><img src="/assets/images/common/icon-line.svg" alt="Line"></a></li>
+            <li><a href="https://www.tiktok.com/@mangeki" target="_blank" rel="noopener"><img src="/assets/images/common/icon-tiktok.svg" alt="TikTok"></a></li>
+            <li><a href="https://www.youtube.com/c/manzaigekijo" target="_blank" rel="noopener"><img src="/assets/images/common/icon-youtube.svg" alt="YouTube"></a></li>
+			<li><a href="https://note.com/manzaigekijyo" target="_blank" rel="noopener"><img src="/assets/images/common/icon-note.svg" alt="note"></a></li>
+		
+
+        </ul>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="event-modal-bg"></div>
+  <div class="event-modal-wrap">
+    <a href="javascript:void(0)" class="event-modal-close"></a>
+    <div class="event-modal-body">
+      <div class="event-modal-content"></div>
+    </div>
+  </div>
+
+  <script src="/assets/js/jquery-3.6.0.min.js"></script>
+  <script src="/assets/js/jquery.inview.min.js"></script>
+  <script src="/assets/owlcarousel/js/owl.carousel.min.js"></script>
+  <script src="/assets/js/moment.js"></script>
+  <script src="/assets/js/common.js?202411271"></script>
+  <script src="/assets/js/top_api.js?202411271"></script>
+</body>
+</html>

@@ -1,0 +1,546 @@
+
+
+
+                              
+
+
+
+
+
+                                                                              
+                                                                  <!DOCTYPE html>
+<html lang="ja" itemscope itemtype="http://schema.org/WebPage">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>なんばグランド花月</title>
+  <meta name="description" content="大阪・難波にある吉本興業が運営する劇場サイト。漫才・落語・新喜劇を年中無休で笑いを届けます！">
+  <meta name="keywords" content="吉本興業,劇場,お笑い,漫才,コント,新喜劇,笑いの殿堂,なんば,大阪">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <link rel="shortcut icon" href="https://ngk.yoshimoto.co.jp/images/favicon.ico">
+  <link rel="start" href="https://ngk.yoshimoto.co.jp/">
+  <link rel="canonical" href="https://ngk.yoshimoto.co.jp/" />
+  <!-- Open Graph Protocol -->
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="ja_JP">
+  <meta property="og:title" content="なんばグランド花月">
+  <meta property="og:url" content="https://ngk.yoshimoto.co.jp/">
+  <meta property="og:description" content="大阪・難波にある吉本興業が運営する劇場サイト。漫才・落語・新喜劇を年中無休で笑いを届けます！">
+  <meta property="og:site_name" content="なんばグランド花月">
+  <meta property="og:image" content="https://ngk.yoshimoto.co.jp/.assets/16%E9%9D%A2%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC1027%EF%BD%9EHP.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@movabletypenet">
+  <meta name="twitter:title" content="なんばグランド花月">
+  <meta name="twitter:description" content="大阪・難波にある吉本興業が運営する劇場サイト。漫才・落語・新喜劇を年中無休で笑いを届けます！">
+  <meta name="twitter:image" content="https://ngk.yoshimoto.co.jp/.assets/16%E9%9D%A2%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC1027%EF%BD%9EHP.jpg">
+  <!-- Microdata -->
+  <meta itemprop="description" content="大阪・難波にある吉本興業が運営する劇場サイト。漫才・落語・新喜劇を年中無休で笑いを届けます！">
+  <link itemprop="url" href="https://ngk.yoshimoto.co.jp/">
+  <link itemprop="image" href="https://ngk.yoshimoto.co.jp/.assets/16%E9%9D%A2%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC1027%EF%BD%9EHP.jpg">
+  <link rel="stylesheet" href="/assets/fontawesome/css/all.min.css">
+  <link rel="stylesheet" href="/assets/owlcarousel/css/owl.carousel.min.css">
+  <link rel="stylesheet" href="/assets/css/style.css?202412181">
+<link rel="stylesheet" href="https://www.yoshimoto.co.jp/css/gdpr.css" media="all">
+  <link rel="stylesheet" href="https://www.yoshimoto.co.jp/css/gdpr.css" media="all">
+
+<script data-cookieconsent="ignore">
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag("consent", "default", {
+        ad_storage: "denied",
+        analytics_storage: "denied",
+        wait_for_update: 500,
+    });
+    gtag("set", "ads_data_redaction", true);
+</script> 
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PC3JV2Z');</script>
+<!-- End Google Tag Manager -->
+
+</head>
+
+<body class="home">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PC3JV2Z" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    <header class="site-header">
+    <h1 class="site-header-logo"><a href="/"><img src="/assets/images/common/site-header-logo.svg" alt="なんばグランド花月" width="252" height="40"></a></h1>
+    <a href="javascript:void(0)" class="site-header-toggle">menu</a>
+
+    <nav class="site-nav">
+      <ul>
+        
+
+
+                              
+<li><a href="/" class="ic-top"><span>トップ</span></a></li>
+<li><a href="/for-visitor/" class="ic-visitor"><span>はじめての方へ</span></a></li>
+<li><a href="/news/" class="ic-news"><span>お知らせ</span></a></li>
+<li><a href="/schedule/" class="ic-schedule"><span>スケジュール</span></a></li>
+<li><a href="/ticket/" class="ic-ticket"><span>チケット</span></a></li>
+<li><a href="/about/" class="ic-about"><span>劇場・ショップ案内</span></a></li>
+<li><a href="/event/" class="ic-event"><span>特別公演</span></a></li>
+<li><a href="/pick-up-event/" class="ic-pick-up-event"><span>5ヵ月以上先公演</span></a></li>
+<li><a href="/online/" class="ic-online"><span>オンライン配信公演</span></a></li>	  
+<li><a href="/faq/" class="ic-faq"><span>よくある質問</span></a></li>
+
+      </ul>
+    </nav>
+
+    <div class="sec-social">
+      <ul>
+                    <li><a href="https://twitter.com/namba_g_kagetsu" target="_blank" rel="noopener"><img src="/assets/images/common/icon-twitter.svg" alt="Twitter"></a></li>
+            <li><a href="https://www.instagram.com/nambagrandkagetsu/" target="_blank" rel="noopener"><img src="/assets/images/common/icon-instagram.svg" alt="Instagram"></a></li>
+            <!--
+            <li><a href="" target="_blank"><img src="/assets/images/common/icon-line.svg" alt="Line"></a></li>
+            <li><a href="" target="_blank"><img src="/assets/images/common/icon-tiktok.svg" alt="TikTok"></a></li>
+            -->
+            <li><a href="https://www.youtube.com/channel/UCK_LkiWWn_jxTsdtYU9TK5w" target="_blank" rel="noopener"><img src="/assets/images/common/icon-youtube.svg" alt="YouTube"></a></li>
+
+      </ul>
+    </div>
+</header>
+
+
+
+  <main>
+    <input type="hidden" id="theater" value="ngk">
+    <input type="hidden" id="venue" value="01">
+
+        <div class="sec-mv">
+      <div class="owl-carousel">
+                <div class="owl-slide"><a href="https://x.com/namba_g_kagetsu?utm_source=ngk_web&utm_medium=banner&utm_campaign=ngk_x_todayticket" target="_blank" rel="noopener" class="mv-image" style="background-image:url(https://ngk.yoshimoto.co.jp/.assets/16%E9%9D%A2%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC1027%EF%BD%9EHP.jpg)"></a></div>
+                <div class="owl-slide"><a href="https://ticket.fany.lol/search/event?keywords=%E3%81%AA%E3%82%93%E3%81%B0%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E8%8A%B1%E6%9C%88%E3%80%80%E6%9C%AC%E5%85%AC%E6%BC%94%E3%80%80%EF%BC%94%E5%9B%9E%E7%9B%AE&from=&to=&prefectures=0&genre=0&search_type=form" target="_blank" rel="noopener" class="mv-image" style="background-image:url(https://ngk.yoshimoto.co.jp/.assets/%E3%81%8A%E5%AD%90%E6%A7%98%E5%89%B2_%E3%83%90%E3%83%8A%E3%83%BC.jpg)"></a></div>
+                <div class="owl-slide"><div class="mv-image" style="background-image:url(https://ngk.yoshimoto.co.jp/.assets/HP%E3%83%88%E3%83%83%E3%83%97-%E8%A5%BF%E5%B7%9D%E3%81%8D%E3%82%88%E3%81%97%E2%91%A1.jpg)"></div></div>
+                <div class="owl-slide"><div class="mv-image" style="background-image:url(https://ngk.yoshimoto.co.jp/.assets/HP%E3%83%88%E3%83%83%E3%83%97-%E3%82%AA%E3%83%BC%E3%83%AB%E9%98%AA%E7%A5%9E%E3%83%BB%E5%B7%A8%E4%BA%BA%E2%91%A1.jpg)"></div></div>
+                <div class="owl-slide"><div class="mv-image" style="background-image:url(https://ngk.yoshimoto.co.jp/.assets/HP%E3%83%88%E3%83%83%E3%83%97-%E4%B8%AD%E5%B7%9D%E5%AE%B6.jpg)"></div></div>
+                <div class="owl-slide"><div class="mv-image" style="background-image:url(https://ngk.yoshimoto.co.jp/.assets/HP%E3%83%88%E3%83%83%E3%83%97-%E3%82%84%E3%81%99%E3%81%A8%E3%82%82.jpg)"></div></div>
+                <div class="owl-slide"><div class="mv-image" style="background-image:url(https://ngk.yoshimoto.co.jp/.assets/HP%E3%83%88%E3%83%83%E3%83%97-%E3%81%8B%E3%81%BE%E3%81%84%E3%81%9F%E3%81%A1.jpg)"></div></div>
+                <div class="owl-slide"><div class="mv-image" style="background-image:url(https://ngk.yoshimoto.co.jp/.assets/HP%E3%83%88%E3%83%83%E3%83%97-%E3%82%B8%E3%83%A3%E3%83%AB%E3%82%B8%E3%83%A3%E3%83%AB%E2%91%A1.jpg)"></div></div>
+                <div class="owl-slide"><div class="mv-image" style="background-image:url(https://ngk.yoshimoto.co.jp/.assets/HP%E3%83%88%E3%83%83%E3%83%97-%E7%AC%91%E3%81%84%E9%A3%AF.jpg)"></div></div>
+                <div class="owl-slide"><div class="mv-image" style="background-image:url(https://ngk.yoshimoto.co.jp/.assets/HP%E3%83%88%E3%83%83%E3%83%97_%E9%99%A3%E5%86%85%E6%99%BA%E5%89%87.jpg)"></div></div>
+                <div class="owl-slide"><div class="mv-image" style="background-image:url(https://ngk.yoshimoto.co.jp/.assets/HP%E3%83%88%E3%83%83%E3%83%97-%E3%83%80%E3%82%A4%E3%82%A2%E3%83%B3.jpg)"></div></div>
+                <div class="owl-slide"><a href="https://yoshimoto.funity.jp/calendar/ngk/" target="_blank" rel="noopener" class="mv-image" style="background-image:url(https://ngk.yoshimoto.co.jp/.assets/%E6%96%B0%E5%96%9C%E5%8A%87%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC1027-%E9%85%92%E4%BA%95-HP.jpg)"></a></div>
+                <div class="owl-slide"><a href="https://ngk.yoshimoto.co.jp/2026/09/post-146-1.html" target="_blank" rel="noopener" class="mv-image" style="background-image:url(https://ngk.yoshimoto.co.jp/.assets/19%E6%99%82%E3%83%A9%E3%82%A4%E3%83%96_11%E6%9C%88%E5%85%A8%E4%BD%93_HP%E3%83%88%E3%83%83%E3%83%97-d31db515.jpg)"></a></div>
+                <div class="owl-slide"><a href="https://ngk.yoshimoto.co.jp/2026/10/post-146.html" target="_blank" rel="noopener" class="mv-image" style="background-image:url(https://ngk.yoshimoto.co.jp/.assets/19%E6%99%82%E3%83%A9%E3%82%A4%E3%83%96_12%E6%9C%88%E5%85%A8%E4%BD%93_HP%E3%83%88%E3%83%83%E3%83%97.jpg)"></a></div>
+              </div>
+      <div class="owl-dots-container">
+        <div class="owl-dots-body">
+          <div class="owl-dots owl-dots-mv"></div>
+          <a href="javascript:void(0)" class="owl-dots-prev owl-dots-prev-mv"></a>
+          <a href="javascript:void(0)" class="owl-dots-next owl-dots-next-mv"></a>
+        </div>
+      </div>
+    </div>
+    
+    <div class="sec is-s">
+      <div class="container" style="margin-bottom: 1em;">
+        <a href="https://x.com/namba_g_kagetsu?utm_source=ngk_web&utm_medium=banner&utm_campaign=ngk_x_todayticket" class="btn is-x" target="_blank"><span>当日券情報をチェック</span></a>
+      </div>		
+      <div class="container">
+        <a href="/schedule/" class="btn is-schedule"><span>スケジュール＆チケット</span></a>
+      </div>
+    </div>
+
+        <div class="sec is-s is-t0 sec-notice" id="notice">
+      <div class="container">
+        <div class="notice-body">
+          <div class="notice-title"><i class="fas fa-info-circle"></i> 重要なお知らせ</div>
+          <ul>
+                        <li><a href="https://ngk.yoshimoto.co.jp/notice/fanysait.html">2025年1月25日(土)よりFANY チケット新サイトオープン</a></li>
+                        <li><a href="https://ngk.yoshimoto.co.jp/notice/tarepure.html">所属タレントへのプレゼントについて</a></li>
+                        <li><a href="https://ngk.yoshimoto.co.jp/notice/notice02.html">反社会的勢力排除宣言</a></li>
+                        <li><a href="https://ngk.yoshimoto.co.jp/notice/kaitei.html">吉本興業常設劇場　観劇料金改定のお知らせ</a></li>
+                        <li><a href="https://ngk.yoshimoto.co.jp/notice/kanwa.html">劇場における感染予防対策ガイドライン緩和に関して</a></li>
+                      </ul>
+        </div>
+      </div>
+    </div>
+    
+        <div class="sec is-red sec-topics">
+      <div class="container">
+        <p class="sec-title-en">Topics</p>
+        <h2 class="sec-title">トピックス</h2>
+        <ul>
+                    <li>
+            
+            <a href="https://ngk.yoshimoto.co.jp/2026/10/10.html">
+                                                        <div class="preload is-16by9" data-src="https://ngk.yoshimoto.co.jp/.assets/thumbnail/%E3%83%88%E3%83%94%E3%83%83%E3%82%AF%E3%82%B5%E3%83%A0%E3%83%8D-8a2f7898c-640wi.jpg"></div>
+              <span class="news-meta">
+                <span class="news-date">2026年10月24日</span>
+                              </span>
+              <span class="news-title">1月本公演 発売情報</span>
+            </a>
+          </li>
+                    <li>
+            
+            <a href="https://ngk.yoshimoto.co.jp/2026/10/post-129.html">
+                                                        <div class="preload is-16by9" data-src="https://ngk.yoshimoto.co.jp/.assets/thumbnail/%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB36_Tavola36_Brunch_Buffet-640wi.webp"></div>
+              <span class="news-meta">
+                <span class="news-date">2026年10月02日</span>
+                <span class="news-category is-news">お知らせ</span>              </span>
+              <span class="news-title">「スイスホテル南海大阪」お食事付観賞チケット 発売...</span>
+            </a>
+          </li>
+                    <li>
+            
+            <a href="https://ngk.yoshimoto.co.jp/2026/09/10.html">
+                                                        <div class="preload is-16by9" data-src="https://ngk.yoshimoto.co.jp/.assets/thumbnail/%E3%83%88%E3%83%94%E3%83%83%E3%82%AF%E3%82%B5%E3%83%A0%E3%83%8D-7e5d6502-640wi.jpg"></div>
+              <span class="news-meta">
+                <span class="news-date">2026年9月24日</span>
+                              </span>
+              <span class="news-title">12月本公演 発売情報</span>
+            </a>
+          </li>
+                    <li>
+            
+            <a href="https://ngk.yoshimoto.co.jp/2026/08/39-2.html">
+                                                        <div class="preload is-16by9" data-src="https://ngk.yoshimoto.co.jp/.assets/thumbnail/39%E5%91%A8%E5%B9%B4CP_%E3%83%90%E3%83%8A%E3%83%BC-640wi.jpg"></div>
+              <span class="news-meta">
+                <span class="news-date">2026年8月24日</span>
+                              </span>
+              <span class="news-title">なんばグランド花月 おかげさまで39周年 豪華スペ...</span>
+            </a>
+          </li>
+                  </ul>
+        <div class="btns"><a href="/topics/" class="btn is-sub">トピックス一覧</a></div>
+      </div>
+    </div>
+    
+        <section class="sec sec-news" id="news">
+      <div class="container">
+        <p class="sec-title-en">Information</p>
+        <h2 class="sec-title">お知らせ</h2>
+        <ul>
+                    <li>
+            <a href="https://ngk.yoshimoto.co.jp/2026/10/1030.html">
+              <span class="news-meta">
+                <span class="news-date">2026年10月30日</span>
+                <span class="news-category is-owabi">お詫び</span>              </span>
+              <span class="news-title">10/30（金） ビスケットブラザーズ 休演のお知らせ</span>
+            </a>
+          </li>
+                    <li>
+            <a href="https://ngk.yoshimoto.co.jp/2026/10/1018-1-2.html">
+              <span class="news-meta">
+                <span class="news-date">2026年10月28日</span>
+                <span class="news-category is-owabi">お詫び</span>              </span>
+              <span class="news-title">11/4（水） しゃかりき 休演のお知らせ</span>
+            </a>
+          </li>
+                    <li>
+            <a href="https://ngk.yoshimoto.co.jp/2026/10/109-3.html">
+              <span class="news-meta">
+                <span class="news-date">2026年10月28日</span>
+                <span class="news-category is-owabi">お詫び</span>              </span>
+              <span class="news-title"> シャンプーハット 休演のお知らせ</span>
+            </a>
+          </li>
+                    <li>
+            <a href="https://ngk.yoshimoto.co.jp/2026/10/109-2.html">
+              <span class="news-meta">
+                <span class="news-date">2026年10月28日</span>
+                <span class="news-category is-owabi">お詫び</span>              </span>
+              <span class="news-title">10/28（水）たくろう　休演のお知らせ</span>
+            </a>
+          </li>
+                    <li>
+            <a href="https://ngk.yoshimoto.co.jp/2026/10/109-1.html">
+              <span class="news-meta">
+                <span class="news-date">2026年10月24日</span>
+                <span class="news-category is-owabi">お詫び</span>              </span>
+              <span class="news-title">10/24（土）本公演④回目　木村祐一　休演のお知らせ</span>
+            </a>
+          </li>
+                  </ul>
+        <div class="btns"><a href="/news/" class="btn is-sub">お知らせ一覧</a></div>
+      </div>
+    </section>
+    
+    <section class="sec is-gray sec-ticket">
+      <div class="container">
+        <p class="sec-title-en">Ticket</p>
+        <h2 class="sec-title">チケット</h2>
+        <h3 class="sec-lead">チケットの購入方法はさまざま！<br class="inline-xs">はじめての購入でも安心！</h3>
+        <div class="ticket-list">
+          <ul>
+            <li>
+              <a href="/ticket/##web" class="btn is-blue">
+                <img src="/assets/images/common/icon-online-white.svg" alt=""><br>
+                WEBで購入
+              </a>
+            </li>
+            <li>
+              <a href="/ticket/##convenience-store" class="btn is-blue">
+                <img src="/assets/images/common/icon-convenience-white.svg" alt=""><br>
+                コンビニで購入
+              </a>
+            </li>
+            <li>
+              <a href="/ticket/##tel" class="btn is-blue">
+                <img src="/assets/images/common/icon-phone-white.svg" alt=""><br>
+                電話で購入
+              </a>
+            </li>
+            <li>
+              <a href="/ticket/##counter" class="btn is-blue">
+                <img src="/assets/images/common/icon-about-white.svg" alt=""><br>
+                劇場窓口で購入
+              </a>
+            </li>
+            <!--
+            <li>
+              <a href="https://online-ticket.yoshimoto.co.jp/" target="_blank" rel="noopener" class="btn is-pink is-online">
+                <img src="/assets/images/common/icon-online-white.svg" alt=""><br>
+                オンラインチケット
+              </a>
+            </li>
+            -->
+          </ul>
+
+        </div>
+        <div class="ticket-fany">
+          <dl>
+            <dt>
+              <img src="/assets/images/common/logo-fany-id.svg" alt="FANY ID"><br>
+              おもしろいをもっと一緒に
+            </dt>
+            <dd>
+              <p class="sec-lead">チケット・グッズ購入、メルマガ配信など様々なサービスが利用できます！</p>
+              <ul>
+                <li><a href="https://id.yoshimoto.co.jp/signup_intro.html" class="btn is-s" target="_blank" rel="noopener">新規会員登録(無料)</a></li>
+                <li><a href="https://id.yoshimoto.co.jp/" class="btn is-s is-gray" target="_blank" rel="noopener">ログイン</a></li>
+              </ul>
+            </dd>
+          </dl>
+        </div>
+      </div>
+    </section>
+
+    <section class="sec sec-flyer">
+      <p class="sec-title-en">Event</p>
+      <h2 class="sec-title">公演</h2>
+
+      <div class="owl-container">
+        <div class="owl-carousel"></div>
+        <a href="javascript:void(0)" class="owl-prev"></a>
+        <a href="javascript:void(0)" class="owl-next"></a>
+      </div>
+      <div class="btns"><a href="/event/" class="btn is-sub">公演一覧</a></div>
+    </section>
+
+	<div class="container sec is-s">
+      <div class="container">
+              <p class="sec-title-en">ONLINE TICKET</p>
+        <h2 class="sec-title">オンライン配信チケット</h2>
+      </div>
+	　
+      <div class="container">
+        <a href="/online/" class="btn is-online"><span>オンライン配信チケット一覧</span></a>
+      </div>
+    </div>	
+		
+    <div class="sec sec-btns">
+      <div class="container">
+        <ul class="btns">
+        	<li><a href="/for-visitor/" class="btn is-visitor"><p><span>はじめてガイド</span></p></a></li>
+          <li><a href="/about/" class="btn is-about"><p><span>劇場・ショップ案内</span></p></a></li>
+        </ul>
+      </div>
+    </div>
+
+    <section class="sec is-t0 sec-access" id="access">
+      <div class="container">
+        <p class="sec-title-en">Access</p>
+        <h2 class="sec-title">アクセス</h2>
+        <div class="access-map"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3281.5925612137908!2d135.50146691521627!3d34.66499129263754!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e76ba92f02e7%3A0x195e2eacccd22e5!2z44Gq44KT44Gw44Kw44Op44Oz44OJ6Iqx5pyI!5e0!3m2!1sja!2sjp!4v1639124998038!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe></div>
+        <p class="access-address">
+          〒542-0075 大阪市中央区難波千日前11番6号<br>
+          TEL：<a href="tel:06-6641-0888">06-6641-0888</a><br>
+		受付時間：[平日］10:00～18:00　［土・日・祝］9:00～18:00
+        </p>
+      </div>
+    </section>
+
+    <div class="sec is-gray sec-schedule-top">
+      <div class="container">
+        <p class="sec-lead">公演情報のチェック、<br class="inline-xs">チケットの購入はこちらから</p>
+        <a href="/schedule/" class="btn is-schedule"><span>スケジュール＆チケット</span></a>
+      </div>
+    </div>
+
+    <div class="sec">
+      <div class="sec-social">
+        <div class="container">
+          <ul>
+                        <li><a href="https://twitter.com/namba_g_kagetsu" target="_blank" rel="noopener"><img src="/assets/images/common/icon-twitter.svg" alt="Twitter"></a></li>
+            <li><a href="https://www.instagram.com/nambagrandkagetsu/" target="_blank" rel="noopener"><img src="/assets/images/common/icon-instagram.svg" alt="Instagram"></a></li>
+            <!--
+            <li><a href="" target="_blank"><img src="/assets/images/common/icon-line.svg" alt="Line"></a></li>
+            <li><a href="" target="_blank"><img src="/assets/images/common/icon-tiktok.svg" alt="TikTok"></a></li>
+            -->
+            <li><a href="https://www.youtube.com/channel/UCK_LkiWWn_jxTsdtYU9TK5w" target="_blank" rel="noopener"><img src="/assets/images/common/icon-youtube.svg" alt="YouTube"></a></li>
+
+          </ul>
+        </div>
+      </div>
+
+	<div class="container sec is-s" style="
+    text-align: center;"><a href="https://www.ajinomoto.co.jp/" target="_blank" class=""><img src="https://ngk.yoshimoto.co.jp/assets/images/banner/bnr_ajinomoto.jpg" alt="" style="max-width: 300px;"></a></div>	  
+		  
+            <div class="sec-banner container">
+        <ul>
+                    <li>
+                        <a href="http://www.yoshimoto.co.jp/shinkigeki/" target="_blank">
+                          <img src="https://ngk.yoshimoto.co.jp/.assets/bnr_shinkigeki-a18ec6eb.jpg" alt="吉本新喜劇">
+                        </a>
+                      </li>
+                    <li>
+                        <a href="https://www.sunnokai.com/" target="_blank">
+                          <img src="https://ngk.yoshimoto.co.jp/.assets/%E5%90%89%E6%9C%AC%E6%96%B0%E5%96%9C%E5%8A%87%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%AF%E3%83%A9%E3%83%96_%E3%83%90%E3%83%8A%E3%83%BC.jpg" alt="すんの会">
+                        </a>
+                      </li>
+                    <li>
+                        <a href="https://www.youtube.com/channel/UC-szAyFh01xdAQlZxw10qkg/" target="_blank">
+                          <img src="https://ngk.yoshimoto.co.jp/.assets/20150721174119-b1f0745e050de518f1d35241e2aea184139f059c-d141b6dd.jpg" alt="YOUTUBE吉本新喜劇チャンネル">
+                        </a>
+                      </li>
+                    <li>
+                        <a href="https://ngk.yoshimoto.co.jp/ticket/#group" target="_blank">
+                          <img src="https://ngk.yoshimoto.co.jp/.assets/20201006134339-00a4de0afbb06857891831df5a9320bd93809a62-c90ef944.jpg" alt="団体予約・下見のご案内">
+                        </a>
+                      </li>
+                    <li>
+                        <a href="https://ngk.yoshimoto.co.jp/2026/10/post-129.html" target="_blank">
+                          <img src="https://ngk.yoshimoto.co.jp/.assets/20181004112348-81d709a0c5d1e219d3b5ef41fc4fc9473f8e4f49-1d062a78.jpg" alt="スイスホテル南海大阪">
+                        </a>
+                      </li>
+                    <li>
+                        <a href="https://ngk.yoshimoto.co.jp/for-wheelchair-user/" target="_blank">
+                          <img src="https://ngk.yoshimoto.co.jp/.assets/20180817134704-a46da3d97982bfbdf7e9bb317d70f976a2d31f51-74c4f803.jpg" alt="車いすでご来場のお客様へ">
+                        </a>
+                      </li>
+                    <li>
+                        <a href="https://ameblo.jp/nambagrandkagetsu/theme-10110222233.html" target="_blank">
+                          <img src="https://ngk.yoshimoto.co.jp/.assets/bnr_dentoukougei-ad22c6f1.jpg" alt="伝統故意芸看板">
+                        </a>
+                      </li>
+                    <li>
+                        <a href="https://manzaiworkshop.yoshimoto.co.jp/" target="_blank">
+                          <img src="https://ngk.yoshimoto.co.jp/.assets/%E6%BC%AB%E6%89%8D%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97_%E3%83%90%E3%83%8A%E3%83%BC02-5c188961.jpg" alt="漫才ワークショップ">
+                        </a>
+                      </li>
+                            </ul>
+      </div>
+          </div>
+  </main>
+
+    <footer class="site-footer">
+        <!--
+    <div class="site-footer-btns">
+      <a href="https://yoshimoto.funity.jp/kglist/?kw=%E2%88%9E%E3%83%9B%E3%83%BC%E3%83%AB" class="btn is-s" target="_blank">この劇場のオンライン配信を見る</a>
+      <a href="javascript:void(0)" class="site-footer-btns-close"></a>
+    </div>
+    -->
+        <ul>
+      <li><a href="/" class="ic-top">トップ</a></li>
+      <li><a href="/news/" class="ic-news">お知らせ</a></li>
+      <li><a href="/schedule/" class="ic-schedule">スケジュール</a></li>
+      <li><a href="/ticket/" class="ic-ticket">チケット</a></li>
+      <li><a href="/about/" class="ic-about">劇場案内</a></li>
+    </ul>
+  </footer>
+
+  <a href="#" class="gototop"></a>
+  <!-- Cookie popup-->
+<div class="cookie-consent">
+ <div class="cookie-text">当サイトでは、サービスの品質向上・利便性向上を目的としてお客様のクッキーを取得しています。また、取得したクッキーをお客様の個人情報と紐付けて管理・利用する場合がございます。以上の事項について同意の上、当サイトをご利用ください。詳しくは当社グループの<a class="cokie-policy-url" href="#" onclick="returen:false;">プライバシーポリシー</a>をご確認ください。</div>
+ <div class="cookie-disagree">閉じる</div>
+ <div class="cookie-agree">同意の上、閉じる</div>
+</div>
+<script src="https://www.yoshimoto.co.jp/js/gdpr.js"></script> 
+<!-- Cookie END -->
+<footer class="common-footer">
+  <div class="container is-wide">
+    <nav class="common-footer-nav">
+      <ul>
+              <li><a href="https://www.yoshimoto.co.jp/gekijyo/list.html" rel="noopener">劇場一覧</a></li>
+        <li><a href="/faq/">よくある質問</a></li>
+      <li><a href="https://ticket.fany.lol/faq" target="_blank" rel="noopener">チケットに関するお問い合わせ</a></li>
+      </ul>
+      <ul>
+        <li><a href="https://id.yoshimoto.co.jp/s/privacy.html" target="_blank" rel="noopener">プライバシーポリシー</a></li>
+        <li><a href="https://www.yoshimoto.co.jp/corp/declaration.html" target="_blank" rel="noopener">反社会的勢力排除宣言</a></li>
+        <li><a href="https://www.yoshimoto.co.jp/corp/policy.html" target="_blank" rel="noopener">チケット販売および観劇約款</a></li>
+        <li><a href="https://recruit.yoshimoto.co.jp/" target="_blank" rel="noopener">採用情報</a></li>
+      </ul>
+      <p class="common-footer-copyright">
+        <a href="https://www.yoshimoto.co.jp/" target="_blank" rel="noopener">&copy;YOSHIMOTO KOGYO, All Rights Reserved</a>
+      </p>
+    </nav>
+  </div>
+</footer>
+    
+                                                                
+  
+                                                                                                                                                        
+  <div class="site-header-menu">
+    <ul>
+      
+
+
+                              
+<li><a href="/" class="ic-top"><span>トップ</span></a></li>
+<li><a href="/for-visitor/" class="ic-visitor"><span>はじめての方へ</span></a></li>
+<li><a href="/news/" class="ic-news"><span>お知らせ</span></a></li>
+<li><a href="/schedule/" class="ic-schedule"><span>スケジュール</span></a></li>
+<li><a href="/ticket/" class="ic-ticket"><span>チケット</span></a></li>
+<li><a href="/about/" class="ic-about"><span>劇場・ショップ案内</span></a></li>
+<li><a href="/event/" class="ic-event"><span>特別公演</span></a></li>
+<li><a href="/pick-up-event/" class="ic-pick-up-event"><span>5ヵ月以上先公演</span></a></li>
+<li><a href="/online/" class="ic-online"><span>オンライン配信公演</span></a></li>	  
+<li><a href="/faq/" class="ic-faq"><span>よくある質問</span></a></li>
+
+    </ul>
+
+    <div class="sec-social">
+      <div class="container">
+        <ul>
+                      <li><a href="https://twitter.com/namba_g_kagetsu" target="_blank" rel="noopener"><img src="/assets/images/common/icon-twitter.svg" alt="Twitter"></a></li>
+            <li><a href="https://www.instagram.com/nambagrandkagetsu/" target="_blank" rel="noopener"><img src="/assets/images/common/icon-instagram.svg" alt="Instagram"></a></li>
+            <!--
+            <li><a href="" target="_blank"><img src="/assets/images/common/icon-line.svg" alt="Line"></a></li>
+            <li><a href="" target="_blank"><img src="/assets/images/common/icon-tiktok.svg" alt="TikTok"></a></li>
+            -->
+            <li><a href="https://www.youtube.com/channel/UCK_LkiWWn_jxTsdtYU9TK5w" target="_blank" rel="noopener"><img src="/assets/images/common/icon-youtube.svg" alt="YouTube"></a></li>
+
+        </ul>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="event-modal-bg"></div>
+  <div class="event-modal-wrap">
+    <a href="javascript:void(0)" class="event-modal-close"></a>
+    <div class="event-modal-body">
+      <div class="event-modal-content"></div>
+    </div>
+  </div>
+  <script src="/assets/js/jquery-3.6.0.min.js"></script>
+  <script src="/assets/js/jquery.inview.min.js"></script>
+  <script src="/assets/owlcarousel/js/owl.carousel.min.js"></script>
+  <script src="/assets/js/moment.js"></script>
+  <script src="/assets/js/common.js?202412181"></script>
+  <script src="/assets/js/top_api.js?202412181"></script>
+
+</body>
+</html>

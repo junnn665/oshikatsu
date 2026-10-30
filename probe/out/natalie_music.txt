@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
+    <title>音楽ナタリー - 最新ニュース</title>
+    <link rel="alternate" href="https://natalie.mu/music"></link>
+    <id>https://natalie.mu/music</id>
+            <updated>2026-10-30T23:10:08+09:00</updated>
+        <author>
+        <name>音楽ナタリー</name>
+        <author_email>info@natalie.mu</author_email>
+    </author>
+            <entry>
+            <title>18歳のアーティスト・Maya「LOST10」主題歌MV公開、初のCDシングルリリース</title>
+            <link rel="alternate" href="https://natalie.mu/music/news/696062"></link>
+            <updated>2026-10-30T23:00:00+09:00</updated>
+            <author>
+                <name>音楽ナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>696062</id>
+            <summary type="html">Mayaの最新曲「LOST」のミュージックビデオがYouTubeで公開された。</summary>
+        </entry>
+            <entry>
+            <title>「STARフェス」の模様を地上波放送　＝LOVE、NCT DREAM、INI、ME:I、CUTIE STREETら出演</title>
+            <link rel="alternate" href="https://natalie.mu/music/news/696061"></link>
+            <updated>2026-10-30T22:13:00+09:00</updated>
+            <author>
+                <name>音楽ナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>696061</id>
+            <summary type="html">音楽番組「STAR」発のライブイベント「STARフェス」の模様が、明日10月31日13:30よりフジテレビで放送される。</summary>
+        </entry>
+            <entry>
+            <title>ACIDMANが“重く、深く、美しい”ライブ＆アコースティックツアー開催、結成30周年を記念して</title>
+            <link rel="alternate" href="https://natalie.mu/music/news/696059"></link>
+            <updated>2026-10-30T22:10:00+09:00</updated>
+            <author>
+                <name>音楽ナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>696059</id>
+            <summary type="html">ACIDMANの結成30周年記念企画の第1弾としてワンマンライブ「ACIDMAN ONE-MAN LIVE &quot;deep&quot;」が2027年2月18日に東京・Kanadevia Hallで行われ、第2弾としてアコースティックツアー「ACIDMAN LIVE TOUR &quot;Second line &amp; Acoustic collection III&quot;」が2027年5月から7月まで実施される。</summary>
+        </entry>
+            <entry>
+            <title>綾小路翔の音楽番組「夜のスジガネスタジオ」でTHE ALFEE、LAUGHIN&#039; NOSE、民謡クルセイダーズ、Lienelらがライブパフォーマンス</title>
+            <link rel="alternate" href="https://natalie.mu/music/news/696056"></link>
+            <updated>2026-10-30T21:30:00+09:00</updated>
+            <author>
+                <name>音楽ナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>696056</id>
+            <summary type="html">綾小路翔（氣志團）がMCおよび全面プロデュースを務める音楽番組「夜のスジガネスタジオ2026」が明日10月31日にフジテレビTWO ドラマ・アニメ / フジテレビTWOsmartで放送・配信される。</summary>
+        </entry>
+            <entry>
+            <title>さとみ、歌ってみたツアー開催　活動10周年を記念して</title>
+            <link rel="alternate" href="https://natalie.mu/music/news/696054"></link>
+            <updated>2026-10-30T21:00:00+09:00</updated>
+            <author>
+                <name>音楽ナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>696054</id>
+            <summary type="html">さとみのZeppツアー「SATOMI UTATTEMITA TOUR 10th」が12月から2027年1月にかけて開催される。</summary>
+        </entry>
+            <entry>
+            <title>OddRe:が1stアルバムリリース、LIQUIDROOMで初披露した「AXEL」先行配信</title>
+            <link rel="alternate" href="https://natalie.mu/music/news/696052"></link>
+            <updated>2026-10-30T21:00:00+09:00</updated>
+            <author>
+                <name>音楽ナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>696052</id>
+            <summary type="html">OddRe:の1stアルバム「OddRe:」が2027年1月6日にリリースされる。</summary>
+        </entry>
+            <entry>
+            <title>乃木坂46最新アンダー曲は「編集」、アンダーライブは日本武道館2DAYSで</title>
+            <link rel="alternate" href="https://natalie.mu/music/news/696051"></link>
+            <updated>2026-10-30T21:00:00+09:00</updated>
+            <author>
+                <name>音楽ナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>696051</id>
+            <summary type="html">乃木坂46が12月2日にリリースする43rdシングル「君ロス」に収録される、アンダーメンバーによる新曲のタイトルが「編集」に決定した。</summary>
+        </entry>
+            <entry>
+            <title>Kroi、ぴあアリーナMMワンマン映像をYouTubeで全編公開</title>
+            <link rel="alternate" href="https://natalie.mu/music/news/696050"></link>
+            <updated>2026-10-30T21:00:00+09:00</updated>
+            <author>
+                <name>音楽ナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>696050</id>
+            <summary type="html">Kroiが2025年2月に神奈川・ぴあアリーナMMで行った公演「Kroi Live Tour 2024-2025 “Unspoil” at ぴあアリーナMM」の全編映像がYouTubeにて期間限定で公開された。</summary>
+        </entry>
+            <entry>
+            <title>TOMOO史上最速BPMの「バースデイ」MV公開、“無条件の生の肯定”を表現</title>
+            <link rel="alternate" href="https://natalie.mu/music/news/696047"></link>
+            <updated>2026-10-30T21:00:00+09:00</updated>
+            <author>
+                <name>音楽ナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>696047</id>
+            <summary type="html">TOMOOの最新曲「バースデイ」のミュージックビデオがYouTubeで公開された。</summary>
+        </entry>
+            <entry>
+            <title>時速36kmが結成10周年記念ライブ、記念日には仲川慎之介による弾き語りワンマンも</title>
+            <link rel="alternate" href="https://natalie.mu/music/news/696046"></link>
+            <updated>2026-10-30T21:00:00+09:00</updated>
+            <author>
+                <name>音楽ナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>696046</id>
+            <summary type="html">時速36kmがファンクラブ限定ライブ「ULTRA RENDEZVOUS」を12月2日に東京・下北沢Daisy Barで開催する。</summary>
+        </entry>
+            <entry>
+            <title>[NOiD]イベントひさびさ開催、出演者はこの3組</title>
+            <link rel="alternate" href="https://natalie.mu/music/news/696045"></link>
+            <updated>2026-10-30T21:00:00+09:00</updated>
+            <author>
+                <name>音楽ナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>696045</id>
+            <summary type="html">ライブイベント「[NOiD]」が、2027年1月14日に東京・shibuya eggmanで開催されることが決定した。</summary>
+        </entry>
+            <entry>
+            <title>mona（CV：夏川椎菜）×CHiCO with HoneyWorksコラボ曲配信、MVでは2人が原宿デートへ</title>
+            <link rel="alternate" href="https://natalie.mu/music/news/696043"></link>
+            <updated>2026-10-30T21:00:00+09:00</updated>
+            <author>
+                <name>音楽ナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>696043</id>
+            <summary type="html">mona（CV：夏川椎菜）とCHiCO with HoneyWorksがコラボレーションシングル「原宿deいちご☆オレ」を本日10月30日に配信リリースした。これにあわせてYouTubeおよびニコニコ動画でミュージックビデオが公開された。</summary>
+        </entry>
+            <entry>
+            <title>食べ物、飲み物、おもちゃまで赤一色！Lienelが「愛のダバダ」にちなんだASMRに挑戦</title>
+            <link rel="alternate" href="https://natalie.mu/music/news/696021"></link>
+            <updated>2026-10-30T21:00:00+09:00</updated>
+            <author>
+                <name>音楽ナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>696021</id>
+            <summary type="html">Lienel初のASMR企画の動画がグループのYouTube公式チャンネルにて公開された。</summary>
+        </entry>
+            <entry>
+            <title>女王蜂アヴちゃん聖誕祭を今年も開催、サブタイトルは「COSMIC GAL」</title>
+            <link rel="alternate" href="https://natalie.mu/music/news/695935"></link>
+            <updated>2026-10-30T21:00:00+09:00</updated>
+            <author>
+                <name>音楽ナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>695935</id>
+            <summary type="html">女王蜂が毎年アヴちゃん（Vo）の誕生日に開催している単独公演「アヴちゃん聖誕祭」が、12月25日に東京・Zepp DiverCity（TOKYO）で行われることが決定した。</summary>
+        </entry>
+            <entry>
+            <title>INORANが年明けに教会ライブ、ソロ30周年イヤーの幕開け飾る</title>
+            <link rel="alternate" href="https://natalie.mu/music/news/695933"></link>
+            <updated>2026-10-30T21:00:00+09:00</updated>
+            <author>
+                <name>音楽ナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>695933</id>
+            <summary type="html">INORAN（LUNA SEA）が、2027年1月8日に東京・キリスト品川教会 グローリア・チャペルでアコースティックライブ「INORAN SOLO 30th Anniversary Premium New Year Live 2027 at 品川教会 グローリア・チャペル」を開催する。</summary>
+        </entry>
+            <entry>
+            <title>M!LK山中柔太朗、初のソロイベント「The セミナー」開催</title>
+            <link rel="alternate" href="https://natalie.mu/music/news/696049"></link>
+            <updated>2026-10-30T20:23:00+09:00</updated>
+            <author>
+                <name>音楽ナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>696049</id>
+            <summary type="html">山中柔太朗のYouTubeチャンネル「劇場版 じゅうたろう」発のイベント「劇場版 じゅうたろう『The セミナー』」が2027年2月16日に東京・東京ガーデンシアターで開催される。</summary>
+        </entry>
+            <entry>
+            <title>森七菜、2022年の楽曲「Lovlog」ミュージックビデオ公開　作詞作曲はkiki vivi lily</title>
+            <link rel="alternate" href="https://natalie.mu/music/news/696044"></link>
+            <updated>2026-10-30T20:00:00+09:00</updated>
+            <author>
+                <name>音楽ナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>696044</id>
+            <summary type="html">森七菜の楽曲「Lovlog」のミュージックビデオがYouTubeで公開された。</summary>
+        </entry>
+            <entry>
+            <title>みきとPトリビュートライブに天月、めいちゃん、Gero、伊東歌詞太郎、りぶ、Reolら</title>
+            <link rel="alternate" href="https://natalie.mu/music/news/696041"></link>
+            <updated>2026-10-30T20:00:00+09:00</updated>
+            <author>
+                <name>音楽ナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>696041</id>
+            <summary type="html">みきとPのトリビュートライブ「MIKITOP Tribute Live &quot;MIKIROCK PARTY&quot;」が、2027年2月10、11日に東京・東京ガーデンシアターで開催される。</summary>
+        </entry>
+            <entry>
+            <title>Adoがアニメ「デモンズ・クレスト」オープニングテーマをリリース</title>
+            <link rel="alternate" href="https://natalie.mu/music/news/696039"></link>
+            <updated>2026-10-30T20:00:00+09:00</updated>
+            <author>
+                <name>音楽ナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>696039</id>
+            <summary type="html">Adoの新曲「シンカ」が11月6日に配信リリースされる。</summary>
+        </entry>
+            <entry>
+            <title>Meg Bonus、初のホールワンマン映像を全編公開</title>
+            <link rel="alternate" href="https://natalie.mu/music/news/696036"></link>
+            <updated>2026-10-30T20:00:00+09:00</updated>
+            <author>
+                <name>音楽ナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>696036</id>
+            <summary type="html">Meg Bonusが4月に行った東京・大手町三井ホール公演「Meg Bonus &quot;TO THE YOU (ME) I MET BEFORE&quot;」のライブ映像全編がYouTubeで期間限定公開された。</summary>
+        </entry>
+            <entry>
+            <title>スパフル星野晴海、堀内結流、松本勇輝の「カタリー」YouTubeでもう一度</title>
+            <link rel="alternate" href="https://natalie.mu/music/news/696022"></link>
+            <updated>2026-10-30T20:00:00+09:00</updated>
+            <author>
+                <name>音楽ナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>696022</id>
+            <summary type="html">「THE SUPER FRUIT 星野晴海、堀内結流、松本勇輝の『カタリー』」の音声コンテンツが音楽ナタリーのYouTubeチャンネルにて公開された。</summary>
+        </entry>
+            <entry>
+            <title>ArtLed初のリアルイベントに新東京＆えんどあ。</title>
+            <link rel="alternate" href="https://natalie.mu/music/news/695998"></link>
+            <updated>2026-10-30T20:00:00+09:00</updated>
+            <author>
+                <name>音楽ナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>695998</id>
+            <summary type="html">アーティストプロモーションブランド・ArtLed初のリアルイベント「deLtrA」が2027年1月8日に東京・ADRIFTで開催される。</summary>
+        </entry>
+            <entry>
+            <title>秦基博、NHKドラマ「青の花 器の森」主題歌MV公開　“欠片と欠片の恋の始まり”描く</title>
+            <link rel="alternate" href="https://natalie.mu/music/news/695977"></link>
+            <updated>2026-10-30T20:00:00+09:00</updated>
+            <author>
+                <name>音楽ナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>695977</id>
+            <summary type="html">秦基博の新曲「フラグメンツ」のミュージックビデオがYouTubeで公開された。</summary>
+        </entry>
+            <entry>
+            <title>10-FEETとG-FREAK FACTORYがツーマンツアー、ファイナルは異例の“2本武道館”</title>
+            <link rel="alternate" href="https://natalie.mu/music/news/696035"></link>
+            <updated>2026-10-30T19:46:00+09:00</updated>
+            <author>
+                <name>音楽ナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>696035</id>
+            <summary type="html">10-FEETとG-FREAK FACTORYが、2027年4月に東京・日本武道館でそれぞれワンマンライブを開催することが決定した。</summary>
+        </entry>
+            <entry>
+            <title>EBiDANの15周年記念ライブがBlu-ray化、シャッフルユニットや「Yes! 東京」のパフォーマンスなど盛りだくさんな1枚</title>
+            <link rel="alternate" href="https://natalie.mu/music/news/696000"></link>
+            <updated>2026-10-30T19:11:00+09:00</updated>
+            <author>
+                <name>音楽ナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>696000</id>
+            <summary type="html">EBiDANのライブBlu-ray「EBiDAN THE LIVE 2026 15th Anniversary」が2月10日にリリースされる。</summary>
+        </entry>
+            <entry>
+            <title>福岡・親不孝通りのヒップホップクルーPRIDE MONSTER FAMILIA、13年ぶりアルバム発売</title>
+            <link rel="alternate" href="https://natalie.mu/music/news/695989"></link>
+            <updated>2026-10-30T19:00:00+09:00</updated>
+            <author>
+                <name>音楽ナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>695989</id>
+            <summary type="html">福岡・天神の親不孝通りを拠点に活動するヒップホップグループ・PRIDE MONSTER FAMILIAが、13年ぶりとなるニューアルバム「P-MASSACRE」を12月16日にリリースする。</summary>
+        </entry>
+            <entry>
+            <title>今夜「バズリズム02」ご当地フェス特集で西川貴教に密着　Lienel、倉木麻衣、T.N.T、CIRRAも出演</title>
+            <link rel="alternate" href="https://natalie.mu/music/news/696014"></link>
+            <updated>2026-10-30T18:56:00+09:00</updated>
+            <author>
+                <name>音楽ナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>696014</id>
+            <summary type="html">本日10月30日深夜に日本テレビ系で放送される「バズリズム02」に、T.M.Revolution、倉木麻衣、T.N.T、CIRRA、Lienelが出演する。</summary>
+        </entry>
+            <entry>
+            <title>中山莉子プリンセス26歳、ファンへの愛あふれた生誕祭　親友・わーすた三品瑠香と念願コラボ</title>
+            <link rel="alternate" href="https://natalie.mu/music/news/695340"></link>
+            <updated>2026-10-30T18:31:00+09:00</updated>
+            <author>
+                <name>音楽ナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>695340</id>
+            <summary type="html">私立恵比寿中学の中山莉子が、自身の誕生日10月28日を2日後に控えた10月26日に東京・Zepp DiverCity（TOKYO）でバースデーソロライブ「中山莉子の生誕祭。」を行った。彼女がこのタイトルでソロライブを開催するのは、2016年の初開催から数えて11回目。大勢のえびちゅうファミリー（私立恵比寿中学ファンの呼称）に囲まれて、ひと足早く誕生日を祝った。</summary>
+        </entry>
+            <entry>
+            <title>再生数急上昇ソング定点観測 （2026年10月5週目） MAZZEL、触れない距離にこそ浮かび上がる愛 / IVEが描くヒーロー像には優雅さと破壊力が共存 / きゃりーぱみゅぱみゅは15年経っても型破り</title>
+            <link rel="alternate" href="https://natalie.mu/music/column/695968"></link>
+            <updated>2026-10-30T18:30:00+09:00</updated>
+            <author>
+                <name>音楽ナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>695968</id>
+            <summary type="html">YouTubeでの視聴回数チャートや、ストリーミングサービスでの再生数が伸びている楽曲を観測し、今何が注目されているのかを解説する週イチ連載「再生数急上昇ソング定点観測」。今週はYouTubeで10月16日から10月22日にかけて集計されたミュージックビデオランキングの中から要注目トピックをピックアップします。</summary>
+        </entry>
+            <entry>
+            <title>Sugar Houseが本日解散</title>
+            <link rel="alternate" href="https://natalie.mu/music/news/696026"></link>
+            <updated>2026-10-30T18:15:00+09:00</updated>
+            <author>
+                <name>音楽ナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>696026</id>
+            <summary type="html">Sugar Houseが各SNS公式アカウントにて、本日10月30日をもって解散したことをアナウンスした。</summary>
+        </entry>
+    </feed>

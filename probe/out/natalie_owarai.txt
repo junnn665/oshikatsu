@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
+    <title>お笑いナタリー - 最新ニュース</title>
+    <link rel="alternate" href="https://natalie.mu/owarai"></link>
+    <id>https://natalie.mu/owarai</id>
+            <updated>2026-10-30T23:11:29+09:00</updated>
+        <author>
+        <name>お笑いナタリー</name>
+        <author_email>info@natalie.mu</author_email>
+    </author>
+            <entry>
+            <title>「おかべろ」10周年SPでフット後藤＆麒麟・川島の歴史を解剖、“じゃない方”時代の苦悩も</title>
+            <link rel="alternate" href="https://natalie.mu/owarai/news/695984"></link>
+            <updated>2026-10-30T19:30:00+09:00</updated>
+            <author>
+                <name>お笑いナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>695984</id>
+            <summary type="html">10月31日（土）と11月7日（土）に放送される「おかべろ」（カンテレ）にフットボールアワー後藤、麒麟・川島がゲスト出演する。</summary>
+        </entry>
+            <entry>
+            <title>「DAIBAKUSHOW」出演者14組追加、第1部・第2部の出演ラインナップ発表</title>
+            <link rel="alternate" href="https://natalie.mu/owarai/news/696037"></link>
+            <updated>2026-10-30T19:13:00+09:00</updated>
+            <author>
+                <name>お笑いナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>696037</id>
+            <summary type="html">12月30日（水）に東京ガーデンシアターで開催される、吉本興業のネタの祭典「YOSHIMOTO presents 『DAIBAKUSHOW 2026』」の追加出演者14組と、第1部・第2部の出演ラインナップが発表された。</summary>
+        </entry>
+            <entry>
+            <title>大阪・森ノ宮で新春お笑いフェス、ニューヨーク×黒帯「黒ヨーク」など9公演</title>
+            <link rel="alternate" href="https://natalie.mu/owarai/news/696030"></link>
+            <updated>2026-10-30T19:04:00+09:00</updated>
+            <author>
+                <name>お笑いナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>696030</id>
+            <summary type="html">3日間でライブを9公演展開するお笑いフェス「新春ラフフェスin森ノ宮2027」が2027年1月9日（土）から11日（月・祝）まで大阪・COOL JAPAN PARK OSAKA TTホールで開催される。</summary>
+        </entry>
+            <entry>
+            <title>やさしいズ・タイ「超超超、超超超、超超超超超難問王決定戦」LINE CUBE SHIBUYAで開催</title>
+            <link rel="alternate" href="https://natalie.mu/owarai/news/696033"></link>
+            <updated>2026-10-30T18:50:00+09:00</updated>
+            <author>
+                <name>お笑いナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>696033</id>
+            <summary type="html">「やさしいズ タイpresents 『超超超、超超超、超超超超超難問王決定戦超同期超集結』 in LINE CUBE SHIBUYA」が来年1月10日（日）に東京・LINE CUBE SHIBUYAで開催される。</summary>
+        </entry>
+            <entry>
+            <title>バッテリィズ、兵庫・三田市ガラス工芸館で万華鏡作り</title>
+            <link rel="alternate" href="https://natalie.mu/owarai/news/696020"></link>
+            <updated>2026-10-30T18:13:00+09:00</updated>
+            <author>
+                <name>お笑いナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>696020</id>
+            <summary type="html">10月31日（土）放送の「フットマップ」（カンテレ）にバッテリィズがゲスト出演し、フットボールアワー、舘山聖奈アナウンサーと共に兵庫県の宝塚・三田・丹波篠山エリアを旅する。</summary>
+        </entry>
+            <entry>
+            <title>高木払い、渋谷PARCOの入場無料パーティーで友川カズキやSoichi Teradaと共演</title>
+            <link rel="alternate" href="https://natalie.mu/owarai/news/696008"></link>
+            <updated>2026-10-30T17:41:00+09:00</updated>
+            <author>
+                <name>お笑いナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>696008</id>
+            <summary type="html">来月11月23日（月・祝）に東京・渋谷PARCOの10F「PBOX STND」で開催される入場無料イベント「field 2026」に高木払いが出演する。</summary>
+        </entry>
+            <entry>
+            <title>テツandトモの年賀状＆ぽち袋が登場、もう2027年なのなんでだろう</title>
+            <link rel="alternate" href="https://natalie.mu/owarai/news/696003"></link>
+            <updated>2026-10-30T17:25:00+09:00</updated>
+            <author>
+                <name>お笑いナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>696003</id>
+            <summary type="html">テツandトモの「テツandトモ ボイス付年賀状パック」「テツandトモ なんでだろうぽち袋」が11月2日に発売される。</summary>
+        </entry>
+            <entry>
+            <title>山里×バカリ「ゼツメツちゃん」くっきー！、小宮、永見がパネラー　新山がリポーター</title>
+            <link rel="alternate" href="https://natalie.mu/owarai/news/695955"></link>
+            <updated>2026-10-30T17:00:00+09:00</updated>
+            <author>
+                <name>お笑いナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>695955</id>
+            <summary type="html">「山里・バカリのクイズ！ゼツメツちゃん」（ABCテレビ）と題した番組が11月4日（水）に放送され、南海キャンディーズ山里がMC、バカリズムがパネラーを務めるのは既報の通り。このたびゲストパネラーとして野性爆弾くっきー！、三四郎・小宮、カベポスター永見、リポーターとしてさや香・新山が登場することが発表された。</summary>
+        </entry>
+            <entry>
+            <title>9番街レトロ京極＆ヨネダ2000誠「おさんぽジャポン」のポップアップ開催</title>
+            <link rel="alternate" href="https://natalie.mu/owarai/news/695956"></link>
+            <updated>2026-10-30T14:40:00+09:00</updated>
+            <author>
+                <name>お笑いナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>695956</id>
+            <summary type="html">9番街レトロ京極とヨネダ2000誠のYouTubeチャンネル「おさんぽジャポン」のポップアップ「おさんぽジャポン POP UP SHOP」が11月26日（木）から12月8日（火）まで東京・新宿マルイ メン8F イベントスペースで開催される。</summary>
+        </entry>
+            <entry>
+            <title>大久保佳代子の登山番組「山に抱かれたい」NHKで放送、名峰・御嶽山へ　2014年の噴火の記憶も辿る</title>
+            <link rel="alternate" href="https://natalie.mu/owarai/news/695809"></link>
+            <updated>2026-10-30T14:30:00+09:00</updated>
+            <author>
+                <name>お笑いナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>695809</id>
+            <summary type="html">大久保佳代子が名峰・御嶽山を登る「大久保佳代子の 山に抱かれたい 御嶽山」（NHK総合、中部7県）が11月8日（日）に放送される。2年前の富士登山をきっかけに山の魅力に目覚めた55歳の大久保が、登山家の三戸呂拓也と共に一泊二日の山行に挑戦。雨の中スタートし、紅葉や雲海、信仰の歴史、そして噴火の記憶と向き合いながら標高3067mの最高峰・剣ヶ峰を目指す。</summary>
+        </entry>
+            <entry>
+            <title>ぼる塾・酒寄の短編小説集「時をかけるファミレス」発売　出版イベントに相方田辺も出演</title>
+            <link rel="alternate" href="https://natalie.mu/owarai/news/695939"></link>
+            <updated>2026-10-30T14:20:00+09:00</updated>
+            <author>
+                <name>お笑いナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>695939</id>
+            <summary type="html">ぼる塾・酒寄の小説を収めた新刊「時をかけるファミレス」（小学館）が12月2日に刊行される。本日10月30日に予約受付が開始された。これは24時間営業のファミレスを舞台とした24編の短編小説集。これまで数々のエッセイ作品を発表してきた酒寄だが、小説集の刊行は今回が初となる。</summary>
+        </entry>
+            <entry>
+            <title>ラランド「生きものたちの性」OPイベント登場、サーヤ「ニシダにそっくりな生き物がたくさん」</title>
+            <link rel="alternate" href="https://natalie.mu/owarai/news/695906"></link>
+            <updated>2026-10-30T13:42:00+09:00</updated>
+            <author>
+                <name>お笑いナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>695906</id>
+            <summary type="html">東京・国立科学博物館の特別展「生きものたちの性」のオープニングイベントが本日10月30日に実施され、アンバサダーを務めるラランドが出席した。</summary>
+        </entry>
+            <entry>
+            <title>東京03飯塚が大好きな後輩2人とやりたいことを持ち寄る、“口外禁止”ラジオがイベント化</title>
+            <link rel="alternate" href="https://natalie.mu/owarai/news/695872"></link>
+            <updated>2026-10-30T12:58:00+09:00</updated>
+            <author>
+                <name>お笑いナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>695872</id>
+            <summary type="html">東京03飯塚、岡野陽一、ザ・マミィ林田のトーク＆企画イベント「町屋茶房イベント～いつもは口外禁止だけど～」が11月12日（木）に東京・TOKYO FMホールで開催される。</summary>
+        </entry>
+            <entry>
+            <title>アインシュタインがビールに合うおつまみ作り、「芸人知恵袋」で企業のお悩み解決</title>
+            <link rel="alternate" href="https://natalie.mu/owarai/news/695854"></link>
+            <updated>2026-10-30T12:00:00+09:00</updated>
+            <author>
+                <name>お笑いナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>695854</id>
+            <summary type="html">10月31日（土）放送の「芸人知恵袋 ～御社の悩み、一旦お聞かせください～」（カンテレ）にアインシュタイン、かが屋、森脇健児が出演する。同番組は、出演者がさまざまな企業に潜入し、知恵を絞って社員の悩みの解決を目指すロケバラエティ。ナレーションはもう中学生が担当する。</summary>
+        </entry>
+            <entry>
+            <title>空前メテオ、フランツ、ドラマ☆麺が“次世代M-1王者候補”対決</title>
+            <link rel="alternate" href="https://natalie.mu/owarai/news/695895"></link>
+            <updated>2026-10-30T10:57:00+09:00</updated>
+            <author>
+                <name>お笑いナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>695895</id>
+            <summary type="html">本日10月30日（金）深夜放送のくりぃむしちゅー有田MC「アリタチャンピオン²」（TBS系）は「次世代M-1チャンピオン候補対決」の第2弾。空前メテオ、フランツ、ドラマ☆麺が漫才バトルを繰り広げる。</summary>
+        </entry>
+            <entry>
+            <title>ザ・マミィ、今野浩喜ら出演　YouTubeで新コント番組「今日も、会社はコントだ」</title>
+            <link rel="alternate" href="https://natalie.mu/owarai/news/695843"></link>
+            <updated>2026-10-30T10:00:00+09:00</updated>
+            <author>
+                <name>お笑いナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>695843</id>
+            <summary type="html">新コント番組「今日も、会社はコントだ ～働くひとたちの、“ちょっとおかしな”日常～」が本日10月30日（金）18時にYouTubeで配信開始される。これは株式会社アトラエが立ち上げたYouTubeチャンネル「会社員ズ」発の番組。ザ・マミィ、今野浩喜らが会社員を演じる。</summary>
+        </entry>
+            <entry>
+            <title>矢部浩之のラジオ新番組、毎週土曜に放送決定　ナイナイのときとは違う“オモテ”の姿を発信</title>
+            <link rel="alternate" href="https://natalie.mu/owarai/news/695866"></link>
+            <updated>2026-10-30T03:00:00+09:00</updated>
+            <author>
+                <name>お笑いナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>695866</id>
+            <summary type="html">「ナインティナイン矢部浩之 オモテのラジオ」（ニッポン放送）が12月12日（土）にスタートする。10月29日深夜の放送をもって「ナインティナインのオールナイトニッポン」を卒業した矢部の新番組だ。プロ野球中継がない2027年3月までの期間限定で放送される。</summary>
+        </entry>
+            <entry>
+            <title>カカロニすがや初の著書、ブラジルから北中米まで4大会連続ワールドカップ自腹観戦の軌跡</title>
+            <link rel="alternate" href="https://natalie.mu/owarai/news/695850"></link>
+            <updated>2026-10-29T18:52:00+09:00</updated>
+            <author>
+                <name>お笑いナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>695850</id>
+            <summary type="html">カカロニすがやの著書「カカロニすがやのW杯共闘旅 2014-2026自腹観戦記」（KADOKAWA）が12月21日に発売される。</summary>
+        </entry>
+            <entry>
+            <title>フースーヤ谷口がブルーアイライン引いて「anan」登場、この感じだったら七味とかもかけたくない</title>
+            <link rel="alternate" href="https://natalie.mu/owarai/news/695845"></link>
+            <updated>2026-10-29T18:40:00+09:00</updated>
+            <author>
+                <name>お笑いナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>695845</id>
+            <summary type="html">フースーヤ谷口が「anan」（マガジンハウス）のビューティー企画「美ジュ-1グランプリ」に登場。10月28日発売の「anan」2517号にその姿が掲載された。</summary>
+        </entry>
+            <entry>
+            <title>今年も「ガキ使」で笑い飯の関西弁検定、陣内智則が初参加</title>
+            <link rel="alternate" href="https://natalie.mu/owarai/news/695825"></link>
+            <updated>2026-10-29T18:11:00+09:00</updated>
+            <author>
+                <name>お笑いナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>695825</id>
+            <summary type="html">11月1日（日）放送の「ダウンタウンのガキの使いやあらへんで！」（日本テレビ系）で「笑い飯の関西弁検定」の第4弾が展開される。</summary>
+        </entry>
+            <entry>
+            <title>「ytv漫才新人賞」第16回大会が開催決定、予選ROUND1の審査員にニッポンの社長・辻</title>
+            <link rel="alternate" href="https://natalie.mu/owarai/news/695770"></link>
+            <updated>2026-10-29T18:00:00+09:00</updated>
+            <author>
+                <name>お笑いナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>695770</id>
+            <summary type="html">読売テレビによる漫才賞レース「ytv漫才新人賞」の第16回大会が開催されることが決定した。予選の「ROUND1」が来月11月7日（土）に放送される。</summary>
+        </entry>
+            <entry>
+            <title>ブラマヨ小杉が町中華の知られざる絶品メニュー堪能、狩野英孝は職人技に挑戦</title>
+            <link rel="alternate" href="https://natalie.mu/owarai/news/695831"></link>
+            <updated>2026-10-29T17:39:00+09:00</updated>
+            <author>
+                <name>お笑いナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>695831</id>
+            <summary type="html">明日10月30日（金）放送の「マツコ＆有吉 かりそめ天国 2時間スペシャル」（テレビ朝日系）に、ブラックマヨネーズ小杉、狩野英孝がVTR出演する。小杉は都内の有名町中華を巡り、看板メニューの陰に隠れた知られざる絶品メニューを調査。赤坂では常連客に愛される「韮乾湯麺」、目黒では「もやしあんかけ麺」、本駒込では「トマト麺」を堪能する。</summary>
+        </entry>
+            <entry>
+            <title>狩野英孝「バイオハザード」30周年展にグッと来る「楽しさと感動を取りこぼさないように」</title>
+            <link rel="alternate" href="https://natalie.mu/owarai/news/695815"></link>
+            <updated>2026-10-29T16:18:00+09:00</updated>
+            <author>
+                <name>お笑いナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>695815</id>
+            <summary type="html">本日10月29日、人気ゲームシリーズ「バイオハザード」の30周年を記念した展覧会「THE WORLD OF BIOHAZARD 30周年展」のプレス発表会が都内で行われ、「バイオハザード」ファンの狩野英孝がゲストとして登壇した。</summary>
+        </entry>
+            <entry>
+            <title>山田花子、島田珠代、すっちー、酒井藍ら「新喜劇座員総選挙」上位メンバーのアクスタ登場</title>
+            <link rel="alternate" href="https://natalie.mu/owarai/news/695802"></link>
+            <updated>2026-10-29T15:39:00+09:00</updated>
+            <author>
+                <name>お笑いナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>695802</id>
+            <summary type="html">明日10月30日（金）に大阪・なんばグランド花月で行われる「吉本新喜劇まつり2026～選ばれし30＋1の座員たち～」で山田花子、島田珠代、すっちー、酒井藍、清水けんじ、五十嵐サキ、小寺真理、アキのアクリルスタンド、ポストカード、ランダムステッカーが販売される。</summary>
+        </entry>
+            <entry>
+            <title>滝音さすけ、長いタイトルのプレイリスト放送　UNCHAINやP-MODELをセレクト</title>
+            <link rel="alternate" href="https://natalie.mu/owarai/news/695781"></link>
+            <updated>2026-10-29T15:00:00+09:00</updated>
+            <author>
+                <name>お笑いナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>695781</id>
+            <summary type="html">芸人がテーマに沿ってセレクトした楽曲をプレイリストとして流すラジオ番組「MUSIC LAUGH MIX」（JFN系）で、滝音さすけが11月度のセレクターを務める。</summary>
+        </entry>
+            <entry>
+            <title>永野ら20名が選んだ5冊の本を展示「五冊展」TBSのスタジオで開催</title>
+            <link rel="alternate" href="https://natalie.mu/owarai/news/695766"></link>
+            <updated>2026-10-29T12:44:00+09:00</updated>
+            <author>
+                <name>お笑いナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>695766</id>
+            <summary type="html">11月21日（土）と22日（日）に東京・TBS赤坂BLITZスタジオで実施される本の展示イベント「五冊展 produced by After6Junction2」に、永野が選者として参加する。</summary>
+        </entry>
+            <entry>
+            <title>お笑いよもやま話 第1回 お笑い好き読者に聞いた「好きなコンビ名」一番人気だったのは例えば炎、語感や由来も大切</title>
+            <link rel="alternate" href="https://natalie.mu/owarai/column/694569"></link>
+            <updated>2026-10-29T12:00:00+09:00</updated>
+            <author>
+                <name>お笑いナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>694569</id>
+            <summary type="html">お笑いナタリー編集部が読者から募った意見をもとにあーだこーだしゃべってみる座談会企画「お笑いよもやま話」がスタート。第1回のテーマは「好きなコンビ名」！ みなさんから寄せられた回答を、記者によるちょっとした雑談と共にお届けします。</summary>
+        </entry>
+            <entry>
+            <title>三四郎・小宮、宮下草薙・草薙、マユリカ阪本ら「人見知り芸人2026」日々の苦悩を語る</title>
+            <link rel="alternate" href="https://natalie.mu/owarai/news/695749"></link>
+            <updated>2026-10-29T11:44:00+09:00</updated>
+            <author>
+                <name>お笑いナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>695749</id>
+            <summary type="html">本日10月29日（木）放送の「アメトーーク！」（テレビ朝日系）で「人見知り芸人2026」が約8年ぶりに展開され、三四郎・小宮、宮下草薙・草薙、ぼる塾・田辺、蛙亭イワクラ、マユリカ阪本、カベポスター永見、たくろう赤木、ダブルヒガシ大東が集結。“根が明るい芸人”筆頭の見取り図・盛山やMCの蛍原徹を前に日々の苦悩を語る。</summary>
+        </entry>
+            <entry>
+            <title>スピードワゴン井戸田、ファッション誌「RUDO」で大人のモノトーンスタイルに</title>
+            <link rel="alternate" href="https://natalie.mu/owarai/news/695745"></link>
+            <updated>2026-10-29T11:19:00+09:00</updated>
+            <author>
+                <name>お笑いナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>695745</id>
+            <summary type="html">本日10月29日発売のファッション誌「RUDO 2026AW」（マガジン・マガジン）にスピードワゴン井戸田が登場している。</summary>
+        </entry>
+            <entry>
+            <title>ファミマ店内に「芸人ギャグスロット」登場、ZAZYやパンサー尾形のギャグ放映　3面揃うと…</title>
+            <link rel="alternate" href="https://natalie.mu/owarai/news/695734"></link>
+            <updated>2026-10-29T10:45:00+09:00</updated>
+            <author>
+                <name>お笑いナタリー</name>
+                <author_email>noreply@natalie.mu</author_email>
+            </author>
+            <id>695734</id>
+            <summary type="html">全国のファミリーマート店内に設置されたデジタルサイネージ「ファミマTV」で、ZAZY、しんや、パンサー尾形、ぼる塾・田辺、ゆりやんレトリィバァを起用した「芸人ギャグスロット」キャンペーンが11月3日（火・祝）から12月28日（月）まで展開される。</summary>
+        </entry>
+    </feed>

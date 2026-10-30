@@ -1,0 +1,592 @@
+
+
+
+                                
+
+
+
+
+
+                                                
+                                                                          <!DOCTYPE html>
+<html lang="ja" itemscope itemtype="http://schema.org/WebPage">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>ルミネtheよしもと</title>
+  <meta name="description" content="東京・新宿駅南口「LUMINE2」の7Fにある、吉本興業が運営する劇場サイト。漫才やコント、スペシャルコメディなどを豪華な出演者が年中無休で笑いを届けます！">
+  <meta name="keywords" content="吉本興業,劇場,お笑い,漫才,コント,新宿">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <link rel="shortcut icon" href="https://lumine.yoshimoto.co.jp/images/favicon.ico">
+  <link rel="start" href="https://lumine.yoshimoto.co.jp/">
+  <link rel="canonical" href="https://lumine.yoshimoto.co.jp/" />
+  <!-- Open Graph Protocol -->
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="ja_JP">
+  <meta property="og:title" content="ルミネtheよしもと">
+  <meta property="og:url" content="https://lumine.yoshimoto.co.jp/">
+  <meta property="og:description" content="東京・新宿駅南口「LUMINE2」の7Fにある、吉本興業が運営する劇場サイト。漫才やコント、スペシャルコメディなどを豪華な出演者が年中無休で笑いを届けます！">
+  <meta property="og:site_name" content="ルミネtheよしもと">
+  <meta property="og:image" content="https://lumine.yoshimoto.co.jp/.assets/%5BHP%5DTOP%E3%81%BE%E3%81%A8%E3%82%81%E3%83%8F%E3%82%99%E3%83%8A%E3%83%BC_1026-1101.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@movabletypenet">
+  <meta name="twitter:title" content="ルミネtheよしもと">
+  <meta name="twitter:description" content="東京・新宿駅南口「LUMINE2」の7Fにある、吉本興業が運営する劇場サイト。漫才やコント、スペシャルコメディなどを豪華な出演者が年中無休で笑いを届けます！">
+  <meta name="twitter:image" content="https://lumine.yoshimoto.co.jp/.assets/%5BHP%5DTOP%E3%81%BE%E3%81%A8%E3%82%81%E3%83%8F%E3%82%99%E3%83%8A%E3%83%BC_1026-1101.jpg">
+  <!-- Microdata -->
+  <meta itemprop="description" content="東京・新宿駅南口「LUMINE2」の7Fにある、吉本興業が運営する劇場サイト。漫才やコント、スペシャルコメディなどを豪華な出演者が年中無休で笑いを届けます！">
+  <link itemprop="url" href="https://lumine.yoshimoto.co.jp/">
+  <link itemprop="image" href="https://lumine.yoshimoto.co.jp/.assets/%5BHP%5DTOP%E3%81%BE%E3%81%A8%E3%82%81%E3%83%8F%E3%82%99%E3%83%8A%E3%83%BC_1026-1101.jpg">
+  <link rel="stylesheet" href="/assets/fontawesome/css/all.min.css">
+  <link rel="stylesheet" href="/assets/owlcarousel/css/owl.carousel.min.css">
+  <link rel="stylesheet" href="/assets/css/style.css?202412181">
+<link rel="stylesheet" href="https://www.yoshimoto.co.jp/css/gdpr.css" media="all">
+  
+<link rel="stylesheet" href="https://www.yoshimoto.co.jp/css/gdpr.css" media="all">
+
+<script data-cookieconsent="ignore">
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag("consent", "default", {
+        ad_storage: "denied",
+        analytics_storage: "denied",
+        wait_for_update: 500,
+    });
+    gtag("set", "ads_data_redaction", true);
+</script> 
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PC3JV2Z');</script>
+<!-- End Google Tag Manager -->
+
+</head>
+
+<body class="home">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PC3JV2Z" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    <header class="site-header">
+    <h1 class="site-header-logo"><a href="/"><img src="/assets/images/common/site-header-logo.svg" alt="ルミネtheよしもと" width="220" height="40"></a></h1>
+    <a href="javascript:void(0)" class="site-header-toggle">menu</a>
+
+    <nav class="site-nav">
+      <ul>
+        
+
+                            <li><a href="/" class="ic-top"><span>トップ</span></a></li>
+<li><a href="/news/" class="ic-news"><span>お知らせ</span></a></li>
+<li><a href="/schedule/" class="ic-schedule"><span>スケジュール</span></a></li>
+<li><a href="/ticket/" class="ic-ticket"><span>チケット</span></a></li>
+<li><a href="/about/" class="ic-about"><span>劇場案内</span></a></li>
+<li><a href="/event/" class="ic-event"><span>公演一覧</span></a></li>
+<li><a href="/online/" class="ic-online"><span>配信公演一覧</span></a></li>
+<li><a href="/faq/" class="ic-faq"><span>よくある質問</span></a></li>
+
+      </ul>
+    </nav>
+
+    <div class="sec-social">
+      <ul>
+                  <li><a href="https://twitter.com/lumineyoshimoto" target="_blank" rel="noopener"><img src="/assets/images/common/icon-twitter.svg" alt="Twitter"></a></li>
+          <li><a href="https://www.instagram.com/lumine_the_yoshimoto/" target="_blank" rel="noopener"><img src="/assets/images/common/icon-instagram.svg" alt="Instagram"></a></li>
+          <!--<li><a href="https://vt.tiktok.com/ZSey6xCBP/" target="_blank" rel="noopener"><img src="/assets/images/common/icon-tiktok.svg" alt="TikTok"></a></li>-->
+      </ul>
+    </div>
+</header>
+
+
+
+  <main>
+    <input type="hidden" id="theater" value="lumine">
+    <input type="hidden" id="venue" value="01">
+
+        <div class="sec-mv">
+      <div class="owl-carousel">
+                <div class="owl-slide"><a href="https://lumine.yoshimoto.co.jp/schedule/" target="_blank" rel="noopener" class="mv-image" style="background-image:url(https://lumine.yoshimoto.co.jp/.assets/%5BHP%5DTOP%E3%81%BE%E3%81%A8%E3%82%81%E3%83%8F%E3%82%99%E3%83%8A%E3%83%BC_1026-1101.jpg)"></a></div>
+                <div class="owl-slide"><a href="https://lumine.yoshimoto.co.jp/2026/07/the202610-2.html" target="_blank" rel="noopener" class="mv-image" style="background-image:url(https://lumine.yoshimoto.co.jp/.assets/%5BHP%5DTOP%E3%83%8F%E3%82%99%E3%83%8A%E3%83%BC_10%E6%9C%88%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%98%E3%82%9A%E3%83%BC%E3%83%B3.jpg)"></a></div>
+                <div class="owl-slide"><a href="https://lumine.yoshimoto.co.jp/2026/08/the202611.html" target="_blank" rel="noopener" class="mv-image" style="background-image:url(https://lumine.yoshimoto.co.jp/.assets/%5BHP%5DTOP%E3%83%8F%E3%82%99%E3%83%8A%E3%83%BC_11%E6%9C%88%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%98%E3%82%9A%E3%83%BC%E3%83%B3.jpg)"></a></div>
+                <div class="owl-slide"><a href="https://lumine.yoshimoto.co.jp/2026/09/the202612.html" target="_blank" rel="noopener" class="mv-image" style="background-image:url(https://lumine.yoshimoto.co.jp/.assets/%5BHP%5DTOP%E3%83%8F%E3%82%99%E3%83%8A%E3%83%BC_12%E6%9C%88%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%98%E3%82%9A%E3%83%BC%E3%83%B3.jpg)"></a></div>
+                <div class="owl-slide"><div class="mv-image" style="background-image:url(https://lumine.yoshimoto.co.jp/.assets/%5B%E4%B8%8B%E6%89%8B%5D%E3%83%AB%E3%83%9F%E3%83%8D%E3%83%8F%E3%82%99%E3%83%8A%E3%83%BC%EF%BC%BF%E8%8F%AF%E5%A4%A7-%286%29-bd94cf8b.jpg)"></div></div>
+                <div class="owl-slide"><div class="mv-image" style="background-image:url(https://lumine.yoshimoto.co.jp/.assets/%5B%E4%B8%8B%E6%89%8B%5D%E3%83%AB%E3%83%9F%E3%83%8D%E3%83%8F%E3%82%99%E3%83%8A%E3%83%BC_%E3%82%BF%E3%82%AB%E3%83%88%E3%82%B7_26-%283%29-ec72f58f.jpg)"></div></div>
+                <div class="owl-slide"><div class="mv-image" style="background-image:url(https://lumine.yoshimoto.co.jp/.assets/%5B%E4%B8%8B%E6%89%8B%5D%E3%83%AB%E3%83%9F%E3%83%8D%E3%83%8F%E3%82%99%E3%83%8A%E3%83%BC_%E3%82%B7%E3%82%99%E3%83%A3%E3%83%AB%E3%82%B7%E3%82%99%E3%83%A3%E3%83%AB-%286%29-10e82e15.jpg)"></div></div>
+                <div class="owl-slide"><div class="mv-image" style="background-image:url(https://lumine.yoshimoto.co.jp/.assets/%5B%E4%B8%8B%E6%89%8B%5D%E3%83%AB%E3%83%9F%E3%83%8D%E3%83%8F%E3%82%99%E3%83%8A%E3%83%BC_%E3%83%81%E3%83%A7%E3%82%B3%E3%83%95%E3%82%9A%E3%83%A9-%284%29-73c8a81f.jpg)"></div></div>
+                <div class="owl-slide"><div class="mv-image" style="background-image:url(https://lumine.yoshimoto.co.jp/.assets/%5B%E4%B8%8B%E6%89%8B%5D%E3%83%AB%E3%83%9F%E3%83%8D%E3%83%8F%E3%82%99%E3%83%8A%E3%83%BC_%E3%83%AD%E3%83%B3%E3%82%AF%E3%82%99%E3%82%B3%E3%83%BC%E3%83%88%E3%82%BF%E3%82%99%E3%83%86%E3%82%99%E3%82%A3-%282%29-6a49ffd2.jpg)"></div></div>
+                <div class="owl-slide"><div class="mv-image" style="background-image:url(https://lumine.yoshimoto.co.jp/.assets/%5B%E4%B8%8B%E6%89%8B%5D%E3%83%AB%E3%83%9F%E3%83%8D%E3%83%8F%E3%82%99%E3%83%8A%E3%83%BC%EF%BC%BF%E3%81%9F%E3%81%8F%E3%82%8D%E3%81%86_260507-%283%29.jpg)"></div></div>
+              </div>
+      <div class="owl-dots-container">
+        <div class="owl-dots-body">
+          <div class="owl-dots owl-dots-mv"></div>
+          <a href="javascript:void(0)" class="owl-dots-prev owl-dots-prev-mv"></a>
+          <a href="javascript:void(0)" class="owl-dots-next owl-dots-next-mv"></a>
+        </div>
+      </div>
+    </div>
+    
+    <div class="sec is-s">
+	  <div class="container" style="margin-bottom: 2em;">
+        <a href="https://twitter.com/lumineyoshimoto" class="btn is-x" target="_blank"><span>当日券情報をチェック</span></a>
+      </div>		
+      <div class="container">
+        <a href="/schedule/" class="btn is-schedule"><span>スケジュール＆チケット</span></a>
+      </div>
+    </div>
+
+        <div class="sec is-s is-t0 sec-notice" id="notice">
+      <div class="container">
+        <div class="notice-body">
+          <div class="notice-title"><i class="fas fa-info-circle"></i> 重要なお知らせ</div>
+          <ul>
+                        <li><a href="https://lumine.yoshimoto.co.jp/notice/sasiire.html">所属タレントへのプレゼントについて</a></li>
+                        <li><a href="https://lumine.yoshimoto.co.jp/notice/-.html">吉本興業常設劇場 観劇料金改定のお知らせ</a></li>
+                        <li><a href="https://lumine.yoshimoto.co.jp/notice/notice8.html">吉本興業 劇場における感染予防対策ガイドライン緩和方針</a></li>
+                      </ul>
+        </div>
+      </div>
+    </div>
+    
+        <div class="sec is-red sec-topics">
+      <div class="container">
+        <p class="sec-title-en">Topics</p>
+        <h2 class="sec-title">トピックス</h2>
+        <ul>
+                    <li>
+            
+            <a href="https://lumine.yoshimoto.co.jp/2026/10/the-12.html">
+                                                        <div class="preload is-16by9" data-src="https://lumine.yoshimoto.co.jp/.assets/thumbnail/%E3%83%88%E3%83%92%E3%82%9A%E3%83%83%E3%82%AF%E3%82%B9_1%E6%9C%88-640wi.jpg"></div>
+              <span class="news-meta">
+                <span class="news-date">2026年10月23日</span>
+                              </span>
+              <span class="news-title">ルミネtheよしもと1月月間スケジュール</span>
+            </a>
+          </li>
+                    <li>
+            
+            <a href="https://lumine.yoshimoto.co.jp/2026/10/the20271.html">
+                                                        <div class="preload is-16by9" data-src="https://lumine.yoshimoto.co.jp/.assets/thumbnail/%E3%83%88%E3%83%94%E3%83%83%E3%82%AF%E3%82%B9_1%E6%9C%88%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3-640wi.jpg"></div>
+              <span class="news-meta">
+                <span class="news-date">2026年10月23日</span>
+                <span class="news-category is-campaign">キャンペーン</span>              </span>
+              <span class="news-title">ルミネtheよしもと2027年1月キャンペーンのお...</span>
+            </a>
+          </li>
+                    <li>
+            
+            <a href="https://lumine.yoshimoto.co.jp/2026/10/11-3.html">
+                                                        <div class="preload is-16by9" data-src="https://lumine.yoshimoto.co.jp/.assets/thumbnail/%5B%E3%83%8F%E3%82%99%E3%83%8A%E3%83%BC%5D%E6%96%B0_12%E6%9C%88__%E3%82%88%E3%82%8B%E3%81%AE%E9%83%A8-640wi.jpg"></div>
+              <span class="news-meta">
+                <span class="news-date">2026年10月15日</span>
+                              </span>
+              <span class="news-title">12月　平日よるの部</span>
+            </a>
+          </li>
+                    <li>
+            
+            <a href="https://lumine.yoshimoto.co.jp/2025/07/post-8-1.html">
+                                                        <div class="preload is-16by9" data-src="https://lumine.yoshimoto.co.jp/.assets/thumbnail/%E3%83%88%E3%83%92%E3%82%9A%E3%83%83%E3%82%AF%E3%82%B9_%E5%96%B6%E6%A5%AD%E6%99%82%E9%96%93%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B-640wi.jpg"></div>
+              <span class="news-meta">
+                <span class="news-date">2026年9月30日</span>
+                              </span>
+              <span class="news-title">営業時間のお知らせ</span>
+            </a>
+          </li>
+                    <li>
+            
+            <a href="https://lumine.yoshimoto.co.jp/2026/09/the202612.html">
+                                                        <div class="preload is-16by9" data-src="https://lumine.yoshimoto.co.jp/.assets/thumbnail/%E3%83%88%E3%83%94%E3%83%83%E3%82%AF%E3%82%B9_12%E6%9C%88%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3%281%29_0-640wi.jpg"></div>
+              <span class="news-meta">
+                <span class="news-date">2026年9月23日</span>
+                <span class="news-category is-campaign">キャンペーン</span>              </span>
+              <span class="news-title">ルミネtheよしもと2026年12月キャンペーンの...</span>
+            </a>
+          </li>
+                    <li>
+            
+            <a href="https://lumine.yoshimoto.co.jp/2026/09/the-12.html">
+                                                        <div class="preload is-16by9" data-src="https://lumine.yoshimoto.co.jp/.assets/thumbnail/%E3%83%88%E3%83%92%E3%82%9A%E3%83%83%E3%82%AF%E3%82%B9_12%E6%9C%88-640wi.jpg"></div>
+              <span class="news-meta">
+                <span class="news-date">2026年9月23日</span>
+                              </span>
+              <span class="news-title">ルミネtheよしもと12月月間スケジュール</span>
+            </a>
+          </li>
+                    <li>
+            
+            <a href="https://lumine.yoshimoto.co.jp/2026/08/the-8.html">
+                                                        <div class="preload is-16by9" data-src="https://lumine.yoshimoto.co.jp/.assets/thumbnail/%E3%83%88%E3%83%92%E3%82%9A%E3%83%83%E3%82%AF%E3%82%B9_11%E6%9C%88-640wi.jpg"></div>
+              <span class="news-meta">
+                <span class="news-date">2026年8月23日</span>
+                              </span>
+              <span class="news-title">ルミネtheよしもと11月月間スケジュール</span>
+            </a>
+          </li>
+                    <li>
+            
+            <a href="https://lumine.yoshimoto.co.jp/2026/08/the202611.html">
+                                                        <div class="preload is-16by9" data-src="https://lumine.yoshimoto.co.jp/.assets/thumbnail/%E3%83%88%E3%83%94%E3%83%83%E3%82%AF%E3%82%B9_11%E6%9C%88%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3_0_0-640wi.jpg"></div>
+              <span class="news-meta">
+                <span class="news-date">2026年8月23日</span>
+                <span class="news-category is-campaign">キャンペーン</span>              </span>
+              <span class="news-title">ルミネtheよしもと2026年11月キャンペーンの...</span>
+            </a>
+          </li>
+                    <li>
+            
+            <a href="https://lumine.yoshimoto.co.jp/2026/08/11-3.html">
+                                                        <div class="preload is-16by9" data-src="https://lumine.yoshimoto.co.jp/.assets/thumbnail/%5B%E3%83%8F%E3%82%99%E3%83%8A%E3%83%BC%5D%E6%96%B0_11%E6%9C%88__%E3%82%88%E3%82%8B%E3%81%AE%E9%83%A8-640wi.jpg"></div>
+              <span class="news-meta">
+                <span class="news-date">2026年8月23日</span>
+                              </span>
+              <span class="news-title">11月　平日よるの部</span>
+            </a>
+          </li>
+                    <li>
+            
+            <a href="https://lumine.yoshimoto.co.jp/2026/07/the202610-2.html">
+                                                        <div class="preload is-16by9" data-src="https://lumine.yoshimoto.co.jp/.assets/thumbnail/%E3%83%88%E3%83%94%E3%83%83%E3%82%AF%E3%82%B9_10%E6%9C%88%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3_0_0-640wi.jpg"></div>
+              <span class="news-meta">
+                <span class="news-date">2026年7月24日</span>
+                <span class="news-category is-campaign">キャンペーン</span>              </span>
+              <span class="news-title">ルミネtheよしもと2026年10月キャンペーンの...</span>
+            </a>
+          </li>
+                    <li>
+            
+            <a href="https://lumine.yoshimoto.co.jp/2026/07/10-16.html">
+                                                        <div class="preload is-16by9" data-src="https://lumine.yoshimoto.co.jp/.assets/thumbnail/%5B%E3%83%90%E3%83%8A%E3%83%BC%5D10%E6%9C%88__%E3%82%88%E3%82%8B%E3%81%AE%E9%83%A8-640wi.jpg"></div>
+              <span class="news-meta">
+                <span class="news-date">2026年7月23日</span>
+                              </span>
+              <span class="news-title">10月　平日よるの部</span>
+            </a>
+          </li>
+                    <li>
+            
+            <a href="https://lumine.yoshimoto.co.jp/2026/07/the-8.html">
+                                                        <div class="preload is-16by9" data-src="https://lumine.yoshimoto.co.jp/.assets/thumbnail/%E3%83%88%E3%83%92%E3%82%9A%E3%83%83%E3%82%AF%E3%82%B9_10%E6%9C%88-640wi.jpg"></div>
+              <span class="news-meta">
+                <span class="news-date">2026年7月23日</span>
+                              </span>
+              <span class="news-title">ルミネtheよしもと10月月間スケジュール</span>
+            </a>
+          </li>
+                  </ul>
+        <div class="btns"><a href="/topics/" class="btn is-sub">トピックス一覧</a></div>
+      </div>
+    </div>
+    
+        <section class="sec sec-news" id="news">
+      <div class="container">
+        <p class="sec-title-en">Information</p>
+        <h2 class="sec-title">お知らせ</h2>
+        <ul>
+                    <li>
+            <a href="https://lumine.yoshimoto.co.jp/2026/10/202611.html">
+              <span class="news-meta">
+                <span class="news-date">2026年10月27日</span>
+                              </span>
+              <span class="news-title">2026年11月前説スケジュール</span>
+            </a>
+          </li>
+                    <li>
+            <a href="https://lumine.yoshimoto.co.jp/2026/10/1024-weekend70-1.html">
+              <span class="news-meta">
+                <span class="news-date">2026年10月27日</span>
+                <span class="news-category is-syutuensyahenko">出演者変更</span>              </span>
+              <span class="news-title">【変更】10月27日（火）たくろう 休演のお知らせ 「ルミネtheよしもと　平日...</span>
+            </a>
+          </li>
+                    <li>
+            <a href="https://lumine.yoshimoto.co.jp/2026/10/1024-weekend70.html">
+              <span class="news-meta">
+                <span class="news-date">2026年10月24日</span>
+                <span class="news-category is-syutuensyahenko">出演者変更</span>              </span>
+              <span class="news-title">【変更】10月24日（土）エルフ 休演のお知らせ WEEKEND寄席70</span>
+            </a>
+          </li>
+                    <li>
+            <a href="https://lumine.yoshimoto.co.jp/2025/10/1129-al-capone.html">
+              <span class="news-meta">
+                <span class="news-date">2026年10月23日</span>
+                <span class="news-category is-event">イベント</span>              </span>
+              <span class="news-title">【お知らせ】11/28(土) とろサーモン単独ライブ「LIVE IS LIFE」...</span>
+            </a>
+          </li>
+                    <li>
+            <a href="https://lumine.yoshimoto.co.jp/2026/10/1022vol53.html">
+              <span class="news-meta">
+                <span class="news-date">2026年10月19日</span>
+                <span class="news-category is-event">イベント</span>              </span>
+              <span class="news-title">【公演延期のお知らせ】10月22日（木）「せいやのお笑いライブvol.53」</span>
+            </a>
+          </li>
+                  </ul>
+        <div class="btns"><a href="/news/" class="btn is-sub">お知らせ一覧</a></div>
+      </div>
+    </section>
+    
+    <section class="sec is-gray sec-ticket">
+      <div class="container">
+        <p class="sec-title-en">Ticket</p>
+        <h2 class="sec-title">チケット</h2>
+        <h3 class="sec-lead">チケットの購入方法はさまざま！<br class="inline-xs">はじめての購入でも安心！</h3>
+        <div class="ticket-list">
+          <ul>
+            <li>
+              <a href="/ticket/##web" class="btn is-blue">
+                <img src="/assets/images/common/icon-online-white.svg" alt=""><br>
+                WEBで購入
+              </a>
+            </li>
+            <li>
+              <a href="/ticket/##convenience-store" class="btn is-blue">
+                <img src="/assets/images/common/icon-convenience-white.svg" alt=""><br>
+                コンビニで購入
+              </a>
+            </li>
+<!--            <li>
+              <a href="/ticket/##tel" class="btn is-blue">
+                <img src="/assets/images/common/icon-phone-white.svg" alt=""><br>
+                電話で購入
+              </a>
+            </li>-->
+            <li>
+              <a href="/ticket/##counter" class="btn is-blue">
+                <img src="/assets/images/common/icon-about-white.svg" alt=""><br>
+                劇場窓口で購入
+              </a>
+            </li>
+            <li>
+              <a href="https://online-ticket.yoshimoto.co.jp/" target="_blank" rel="noopener" class="btn is-pink is-online">
+                <img src="/assets/images/common/icon-online-white.svg" alt=""><br>
+                オンラインチケット
+              </a>
+            </li>
+            
+          </ul>
+
+        </div>
+        <div class="ticket-fany">
+          <dl>
+            <dt>
+              <img src="/assets/images/common/logo-fany-id.svg" alt="FANY ID"><br>
+              おもしろいをもっと一緒に
+            </dt>
+            <dd>
+              <p class="sec-lead">チケット・グッズ購入、メルマガ配信など様々なサービスが利用できます！</p>
+              <ul>
+                <li><a href="https://id.yoshimoto.co.jp/signup_intro.html" class="btn is-s" target="_blank" rel="noopener">新規会員登録(無料)</a></li>
+                <li><a href="https://id.yoshimoto.co.jp/" class="btn is-s is-gray" target="_blank" rel="noopener">ログイン</a></li>
+              </ul>
+            </dd>
+          </dl>
+        </div>
+      </div>
+    </section>
+
+    <section class="sec sec-flyer">
+      <p class="sec-title-en">Event</p>
+      <h2 class="sec-title">公演</h2>
+
+      <div class="owl-container">
+        <div class="owl-carousel">
+                    <div class="owl-slide">
+            
+                        <a href="https://lumine.yoshimoto.co.jp/2024/08/819the-123-1.html"><img src="/assets/images/common/event-list-printing.png" alt="【変更・追加】8月19日（月）ルミネtheよしもと　夏休み大ネタ祭＜１回目＞、＜２回目＞、＜３回目＞" width="640" height="904"></a>
+          </div>
+                    <div class="owl-slide">
+            
+                        <a href="https://lumine.yoshimoto.co.jp/2024/09/95the-1416.html"><img src="/assets/images/common/event-list-printing.png" alt="【追加】9月5日（木）ルミネtheよしもと　平日１４時の部、１６時の部" width="640" height="904"></a>
+          </div>
+                    <div class="owl-slide">
+            
+                        <a href="https://lumine.yoshimoto.co.jp/2024/08/914the-11.html"><img src="/assets/images/common/event-list-printing.png" alt="【追加】9月14日（土）ルミネtheよしもと　土日祝１１時の部スペシャル" width="640" height="904"></a>
+          </div>
+                    <div class="owl-slide">
+            
+                        <a href="https://lumine.yoshimoto.co.jp/2024/08/92the-1416.html"><img src="/assets/images/common/event-list-printing.png" alt="【追加】9月2日（月）ルミネtheよしもと　平日１４時の部、１６時の部" width="640" height="904"></a>
+          </div>
+                    <div class="owl-slide">
+            
+                        <a href="https://lumine.yoshimoto.co.jp/2024/09/116the-141611.html"><img src="/assets/images/common/event-list-printing.png" alt="【追加】11月6日（水）ルミネtheよしもと　平日よるの部" width="640" height="904"></a>
+          </div>
+                    <div class="owl-slide">
+            
+                        <a href="https://lumine.yoshimoto.co.jp/2024/09/1018the-1416.html"><img src="/assets/images/common/event-list-printing.png" alt="【追加】10月18日（金）ルミネtheよしもと　平日１４時の部プラス、１６時の部プラス" width="640" height="904"></a>
+          </div>
+                    <div class="owl-slide">
+            
+                        <a href="https://lumine.yoshimoto.co.jp/2024/09/117the-1416.html"><img src="/assets/images/common/event-list-printing.png" alt="【追加】11月7日（木）ルミネtheよしもと　平日１４時の部、１６時の部" width="640" height="904"></a>
+          </div>
+                    <div class="owl-slide">
+            
+                        <a href="https://lumine.yoshimoto.co.jp/2024/11/124the-141611.html"><img src="/assets/images/common/event-list-printing.png" alt="【追加】12月4日（水）ルミネtheよしもと　平日１４時の部プラス、１６時の部プラス、平日よるの部" width="640" height="904"></a>
+          </div>
+                  </div>
+        <a href="javascript:void(0)" class="owl-prev"></a>
+        <a href="javascript:void(0)" class="owl-next"></a>
+      </div>
+      <div class="btns"><a href="/event/" class="btn is-sub">公演一覧</a></div>
+    </section>
+
+  	<div class="container sec is-s">
+      <div class="container">
+              <p class="sec-title-en">ONLINE TICKET</p>
+        <h2 class="sec-title">オンライン配信チケット</h2>
+      </div>
+	　
+      <div class="container">
+        <a href="/online/" class="btn is-online"><span>オンライン配信チケット一覧</span></a>
+      </div>
+    </div>	  
+  
+    <div class="sec sec-btns">
+      <div class="container">
+        <ul class="btns">
+		<li><a href="https://www.instagram.com/yes_shinjuku/" class="btn is-profile" target="_blank"><p><span><span class="small-text">ルミネtheよしもと<br>よしもとエンタメショップ</span><br>最新グッズ情報</span></p></a></li>
+        <li><a href="/about/" class="btn is-about"><p><span>劇場案内</span></p></a></li>
+        </ul>
+      </div>
+    </div>
+
+    <section class="sec is-t0 sec-access" id="access">
+      <div class="container">
+        <p class="sec-title-en">Access</p>
+        <h2 class="sec-title">アクセス</h2>
+        <div class="access-map"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.4764766774083!2d139.69888011525896!3d35.68989068019228!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188cd0893ac611%3A0x56210590175e6f52!2z44Or44Of44ONdGhl44KI44GX44KC44Go!5e0!3m2!1sja!2sjp!4v1640659256058!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe></div>
+        <p class="access-address">
+          東京都新宿区新宿3-38-2 ルミネ新宿店2 [7F]<br>
+          TEL：<a href="tel:03-5339-1112">03-5339-1112</a><br>
+          （受付時間：11:00～19:00※最終公演によって異なります。）<br>
+          「新宿駅」南口・東南口すぐ
+        </p>
+      </div>
+    </section>
+
+    <div class="sec is-gray sec-schedule-top">
+      <div class="container">
+        <p class="sec-lead">公演情報のチェック、<br class="inline-xs">チケットの購入はこちらから</p>
+        <a href="/schedule/" class="btn is-schedule"><span>スケジュール＆チケット</span></a>
+      </div>
+    </div>
+
+    <div class="sec">
+      <div class="sec-social">
+        <div class="container">
+          <ul>
+                      <li><a href="https://twitter.com/lumineyoshimoto" target="_blank" rel="noopener"><img src="/assets/images/common/icon-twitter.svg" alt="Twitter"></a></li>
+          <li><a href="https://www.instagram.com/lumine_the_yoshimoto/" target="_blank" rel="noopener"><img src="/assets/images/common/icon-instagram.svg" alt="Instagram"></a></li>
+          <!--<li><a href="https://vt.tiktok.com/ZSey6xCBP/" target="_blank" rel="noopener"><img src="/assets/images/common/icon-tiktok.svg" alt="TikTok"></a></li>-->
+          </ul>
+        </div>
+      </div>
+
+          </div>
+  </main>
+
+    <footer class="site-footer">
+        <!--
+    <div class="site-footer-btns">
+      <a href="https://yoshimoto.funity.jp/kglist/?kw=%E2%88%9E%E3%83%9B%E3%83%BC%E3%83%AB" class="btn is-s" target="_blank">この劇場のオンライン配信を見る</a>
+      <a href="javascript:void(0)" class="site-footer-btns-close"></a>
+    </div>
+    -->
+        <ul>
+      <li><a href="/" class="ic-top">トップ</a></li>
+      <li><a href="/news/" class="ic-news">お知らせ</a></li>
+      <li><a href="/schedule/" class="ic-schedule">スケジュール</a></li>
+      <li><a href="/ticket/" class="ic-ticket">チケット</a></li>
+      <li><a href="/about/" class="ic-about">劇場案内</a></li>
+    </ul>
+  </footer>
+
+  <a href="#" class="gototop"></a>
+  <!-- Cookie popup-->
+<div class="cookie-consent">
+ <div class="cookie-text">当サイトでは、サービスの品質向上・利便性向上を目的としてお客様のクッキーを取得しています。また、取得したクッキーをお客様の個人情報と紐付けて管理・利用する場合がございます。以上の事項について同意の上、当サイトをご利用ください。詳しくは当社グループの<a class="cokie-policy-url" href="#" onclick="returen:false;">プライバシーポリシー</a>をご確認ください。</div>
+ <div class="cookie-disagree">閉じる</div>
+ <div class="cookie-agree">同意の上、閉じる</div>
+</div>
+<script src="https://www.yoshimoto.co.jp/js/gdpr.js"></script> 
+<!-- Cookie END -->
+<footer class="common-footer">
+  <div class="container is-wide">
+    <nav class="common-footer-nav">
+      <ul>
+              <li><a href="https://www.yoshimoto.co.jp/gekijyo/list.html" rel="noopener">劇場一覧</a></li>
+        <li><a href="/faq/">よくある質問</a></li>
+      <li><a href="https://ticket.fany.lol/faq" target="_blank" rel="noopener">チケットに関するお問い合わせ</a></li>
+      </ul>
+      <ul>
+        <li><a href="https://id.yoshimoto.co.jp/s/privacy.html" target="_blank" rel="noopener">プライバシーポリシー</a></li>
+        <li><a href="https://www.yoshimoto.co.jp/corp/declaration.html" target="_blank" rel="noopener">反社会的勢力排除宣言</a></li>
+        <li><a href="https://www.yoshimoto.co.jp/corp/policy.html" target="_blank" rel="noopener">チケット販売および観劇約款</a></li>
+        <li><a href="https://recruit.yoshimoto.co.jp/" target="_blank" rel="noopener">採用情報</a></li>
+      </ul>
+      <p class="common-footer-copyright">
+        <a href="https://www.yoshimoto.co.jp/" target="_blank" rel="noopener">&copy;YOSHIMOTO KOGYO, All Rights Reserved</a>
+      </p>
+    </nav>
+  </div>
+</footer>
+    
+                                                                      
+  
+                                                                                                
+  <div class="site-header-menu">
+    <ul>
+      
+
+                            <li><a href="/" class="ic-top"><span>トップ</span></a></li>
+<li><a href="/news/" class="ic-news"><span>お知らせ</span></a></li>
+<li><a href="/schedule/" class="ic-schedule"><span>スケジュール</span></a></li>
+<li><a href="/ticket/" class="ic-ticket"><span>チケット</span></a></li>
+<li><a href="/about/" class="ic-about"><span>劇場案内</span></a></li>
+<li><a href="/event/" class="ic-event"><span>公演一覧</span></a></li>
+<li><a href="/online/" class="ic-online"><span>配信公演一覧</span></a></li>
+<li><a href="/faq/" class="ic-faq"><span>よくある質問</span></a></li>
+
+    </ul>
+
+    <div class="sec-social">
+      <div class="container">
+        <ul>
+                    <li><a href="https://twitter.com/lumineyoshimoto" target="_blank" rel="noopener"><img src="/assets/images/common/icon-twitter.svg" alt="Twitter"></a></li>
+          <li><a href="https://www.instagram.com/lumine_the_yoshimoto/" target="_blank" rel="noopener"><img src="/assets/images/common/icon-instagram.svg" alt="Instagram"></a></li>
+          <!--<li><a href="https://vt.tiktok.com/ZSey6xCBP/" target="_blank" rel="noopener"><img src="/assets/images/common/icon-tiktok.svg" alt="TikTok"></a></li>-->
+        </ul>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="event-modal-bg"></div>
+  <div class="event-modal-wrap">
+    <a href="javascript:void(0)" class="event-modal-close"></a>
+    <div class="event-modal-body">
+      <div class="event-modal-content"></div>
+    </div>
+  </div>
+
+  <script src="/assets/js/jquery-3.6.0.min.js"></script>
+  <script src="/assets/js/jquery.inview.min.js"></script>
+  <script src="/assets/owlcarousel/js/owl.carousel.min.js"></script>
+  <script src="/assets/js/moment.js"></script>
+  <script src="/assets/js/common.js?202412181"></script>
+  <script src="/assets/js/top_api.js?202412181"></script>
+<!-- Cookie popup-->
+<div class="cookie-consent">
+ <div class="cookie-text">当サイトでは、サービスの品質向上・利便性向上を目的としてお客様のクッキーを取得しています。また、取得したクッキーをお客様の個人情報と紐付けて管理・利用する場合がございます。以上の事項について同意の上、当サイトをご利用ください。詳しくは当社グループの<a class="cokie-policy-url" href="#" onclick="return:false;">プライバシーポリシー</a>をご確認ください。</div>
+ <div class="cookie-disagree">閉じる</div>
+ <div class="cookie-agree">同意の上、閉じる</div>
+</div>
+<script src="https://www.yoshimoto.co.jp/js/gdpr.js"></script> 
+<!-- Cookie END -->
+
+</body>
+</html>

@@ -1,0 +1,174 @@
+{
+ "fanymag_feed": {
+  "url": "https://magazine.fany.lol/feed/",
+  "final": "https://magazine.fany.lol/feed/",
+  "type": "application/rss+xml; charset=UTF-8",
+  "bytes": 225044,
+  "items": 24,
+  "titles": [
+   "FANY Magazine",
+   "FANY Magazine",
+   "進化し続ける王道、24年目の到達点。ティーアップによる『漫才攻め』がなんばグランド花月にて2027年も開催決定!",
+   "東から、ニューヨーク・ドンデコルテ・エバース、西からはシルク・黒帯・豪快キャプテンらが大集結『新春ラフフェスin森ノ宮2027』開催決定!",
+   "ジャルジャルら14組追加!『DAIBAKUSHOW 2026』出演回発表＆最終先行も",
+   "メンバーのオーケストラ歌ネタ全国ツアー! 11月2日チケット受付開始",
+   "INI 音楽アワード『MTV VMAJ 2026』にて「Best Asia Group」を受賞!",
+   "JO1 ⾳楽アワード『MTV VMAJ 2026』にて「Best Dance & Vocal Group Video」受賞! 川尻蓮が演出! 東京ドームで迫⼒パフォーマンス",
+   "9番街レトロ京極とヨネダ2000誠の『おさんぽジャポン』初ポップアップが新宿で開催!",
+   "ぼる塾・酒寄希望が初の小説を発売! 24時間営業ファミレス舞台の群像劇",
+   "はんにゃ.川島が「第56回がん予防道民大会」で熱弁! プロポーズ当日のガン告知、セカンドオピニオンの重要性、そして今伝えたい「病気は怖いことじゃない」の意味",
+   "ベストスコア60台が集結! ココリコ遠藤チームと大西ライオンチームが激突"
+  ],
+  "rss_links": []
+ },
+ "fanymag_top": {
+  "url": "https://magazine.fany.lol/",
+  "final": "https://magazine.fany.lol/",
+  "type": "text/html; charset=UTF-8",
+  "bytes": 323975,
+  "items": 0,
+  "titles": [
+   "Fany Magazine"
+  ],
+  "rss_links": [
+   "<link rel=\"alternate\" type=\"application/rss+xml\" title=\"FANY Magazine &raquo; フィード\" href=\"https://magazine.fany.lol/feed/\" />",
+   "<link rel=\"alternate\" type=\"application/rss+xml\" title=\"FANY Magazine &raquo; コメントフィード\" href=\"https://magazine.fany.lol/comments/feed/\" />"
+  ]
+ },
+ "natalie_owarai": {
+  "url": "https://natalie.mu/owarai/feed/news",
+  "final": "https://natalie.mu/owarai/feed/news",
+  "type": "application/xml",
+  "bytes": 25383,
+  "items": 0,
+  "titles": [
+   "お笑いナタリー - 最新ニュース",
+   "「おかべろ」10周年SPでフット後藤＆麒麟・川島の歴史を解剖、“じゃない方”時代の苦悩も",
+   "「DAIBAKUSHOW」出演者14組追加、第1部・第2部の出演ラインナップ発表",
+   "大阪・森ノ宮で新春お笑いフェス、ニューヨーク×黒帯「黒ヨーク」など9公演",
+   "やさしいズ・タイ「超超超、超超超、超超超超超難問王決定戦」LINE CUBE SHIBUYAで開催",
+   "バッテリィズ、兵庫・三田市ガラス工芸館で万華鏡作り",
+   "高木払い、渋谷PARCOの入場無料パーティーで友川カズキやSoichi Teradaと共演",
+   "テツandトモの年賀状＆ぽち袋が登場、もう2027年なのなんでだろう",
+   "山里×バカリ「ゼツメツちゃん」くっきー！、小宮、永見がパネラー　新山がリポーター",
+   "9番街レトロ京極＆ヨネダ2000誠「おさんぽジャポン」のポップアップ開催",
+   "大久保佳代子の登山番組「山に抱かれたい」NHKで放送、名峰・御嶽山へ　2014年の噴火の記憶も辿る",
+   "ぼる塾・酒寄の短編小説集「時をかけるファミレス」発売　出版イベントに相方田辺も出演"
+  ],
+  "rss_links": []
+ },
+ "natalie_music": {
+  "url": "https://natalie.mu/music/feed/news",
+  "final": "https://natalie.mu/music/feed/news",
+  "type": "application/xml",
+  "bytes": 22056,
+  "items": 0,
+  "titles": [
+   "音楽ナタリー - 最新ニュース",
+   "18歳のアーティスト・Maya「LOST10」主題歌MV公開、初のCDシングルリリース",
+   "「STARフェス」の模様を地上波放送　＝LOVE、NCT DREAM、INI、ME:I、CUTIE STREETら出演",
+   "ACIDMANが“重く、深く、美しい”ライブ＆アコースティックツアー開催、結成30周年を記念して",
+   "綾小路翔の音楽番組「夜のスジガネスタジオ」でTHE ALFEE、LAUGHIN' NOSE、民謡クルセイダーズ、Lienelらがライブパフォーマンス",
+   "さとみ、歌ってみたツアー開催　活動10周年を記念して",
+   "OddRe:が1stアルバムリリース、LIQUIDROOMで初披露した「AXEL」先行配信",
+   "乃木坂46最新アンダー曲は「編集」、アンダーライブは日本武道館2DAYSで",
+   "Kroi、ぴあアリーナMMワンマン映像をYouTubeで全編公開",
+   "TOMOO史上最速BPMの「バースデイ」MV公開、“無条件の生の肯定”を表現",
+   "時速36kmが結成10周年記念ライブ、記念日には仲川慎之介による弾き語りワンマンも",
+   "[NOiD]イベントひさびさ開催、出演者はこの3組"
+  ],
+  "rss_links": []
+ },
+ "yoshimoto_top": {
+  "url": "https://www.yoshimoto.co.jp/",
+  "final": "https://www.yoshimoto.co.jp/",
+  "type": "text/html; charset=UTF-8",
+  "bytes": 14972,
+  "items": 0,
+  "titles": [
+   "吉本興業株式会社",
+   "タレントアイコン",
+   "劇場アイコン",
+   "コンテンツプロデュースアイコン",
+   "スクールアイコン",
+   "FANYアイコン",
+   "BSよしもとアイコン",
+   "グローバルな展開アイコン",
+   "地域創生アイコン"
+  ],
+  "rss_links": []
+ },
+ "yoshimoto_news": {
+  "url": "https://news.yoshimoto.co.jp/",
+  "final": "http://news.yoshimoto.co.jp/",
+  "type": "text/html; charset=UTF-8",
+  "bytes": 50349,
+  "items": 0,
+  "titles": [
+   "よしもとニュースセンター"
+  ],
+  "rss_links": [
+   "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"「よしもとニュースセンター」のブログ記事 (Atom)\" href=\"http://news.yoshimoto.co.jp/atom.xml\" />"
+  ]
+ },
+ "lumine": {
+  "url": "https://lumine.yoshimoto.co.jp/",
+  "final": "https://lumine.yoshimoto.co.jp/",
+  "type": "text/html; charset=utf-8",
+  "bytes": 36552,
+  "items": 0,
+  "titles": [
+   "ルミネtheよしもと"
+  ],
+  "rss_links": []
+ },
+ "ngk": {
+  "url": "https://ngk.yoshimoto.co.jp/",
+  "final": "https://ngk.yoshimoto.co.jp/",
+  "type": "text/html; charset=utf-8",
+  "bytes": 32217,
+  "items": 0,
+  "titles": [
+   "なんばグランド花月"
+  ],
+  "rss_links": []
+ },
+ "manzaigekijyo": {
+  "url": "https://manzaigekijyo.yoshimoto.co.jp/",
+  "final": "https://manzaigekijyo.yoshimoto.co.jp/",
+  "type": "text/html; charset=utf-8",
+  "bytes": 32842,
+  "items": 0,
+  "titles": [
+   "よしもと漫才劇場"
+  ],
+  "rss_links": []
+ },
+ "jimbocho": {
+  "url": "https://jimbocho.yoshimoto.co.jp/",
+  "error": "URLError: <urlopen error [Errno -2] Name or service not known>"
+ },
+ "eplus_comedy": {
+  "url": "https://eplus.jp/sf/play/comedy",
+  "final": "https://eplus.jp/sf/play/comedy",
+  "type": "text/html;charset=UTF-8",
+  "bytes": 106276,
+  "items": 0,
+  "titles": [
+   "お笑いライブの公演チケット情報 - イープラス"
+  ],
+  "rss_links": []
+ },
+ "ltike_comedy": {
+  "url": "https://l-tike.com/play/comedy/",
+  "error": "TimeoutError: The read operation timed out"
+ },
+ "pia_comedy": {
+  "url": "https://t.pia.jp/event/comedy.jsp",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "pia_fan": {
+  "url": "https://fan.pia.jp/",
+  "error": "HTTPError: HTTP Error 403: Forbidden"
+ }
+}

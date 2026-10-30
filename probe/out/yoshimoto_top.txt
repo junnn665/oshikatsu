@@ -1,0 +1,327 @@
+
+<!doctype html>
+<html lang="ja">
+<head prefix="og:http://ogp.me/ns#">
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>吉本興業株式会社</title>
+
+<meta name="keywords" content="吉本興業,よしもと,お笑い,ヨシモト,YOSHIMOTO,芸人">
+<meta name="description" content="マネジメント、プロモーター、テレビ・ラジオ番組製作、演芸の興行等を行う芸能プロダクション。">
+<link rel="canonical" href="https://www.yoshimoto.co.jp/">
+<meta property="og:site_name" content="吉本興業株式会社">
+<meta property="og:type" content="artcle">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:title" content="吉本興業株式会社">
+<meta property="og:description" content="マネジメント、プロモーター、テレビ・ラジオ番組製作、演芸の興行等を行う芸能プロダクション。">
+<meta property="og:url" content="https://www.yoshimoto.co.jp/">
+<meta property="og:image" content="https://www.yoshimoto.co.jp/assets/v2022/img/common/ogp.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="吉本興業株式会社">
+<meta name="twitter:description" content="マネジメント、プロモーター、テレビ・ラジオ番組製作、演芸の興行等を行う芸能プロダクション。">
+<meta name="twitter:image" content="https://www.yoshimoto.co.jp/assets/v2022/img/common/ogp.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rubik:wght@600&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="/assets/v2022/css/common.css?1650962019657">
+<link rel="stylesheet" href="./assets/v2022/css/style.css?1650962019657">
+<script data-cookieconsent="ignore">
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+  gtag("consent", "default", {
+      ad_storage: "denied",
+      analytics_storage: "denied",
+      wait_for_update: 500,
+  });
+  gtag("set", "ads_data_redaction", true);
+</script>
+<link rel="stylesheet" href="https://www.yoshimoto.co.jp/css/gdpr.css" media="all">
+<script src="/assets/v2022/js/common.js?1650962019657" defer></script>
+<link rel="icon" href="/assets/v2022/img/favicon.ico" type="image/x-icon">
+
+</head>
+
+<body id="body" class="ysmt-index">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PCH6R2B"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div id="ysmtHeaderWrapper"></div>
+
+<main class="ysmt_content">
+
+
+<div class="ysmt_top__hero">
+  <div id="topSlider" class="ysmt_slider swiper">
+    <div class="ysmt_slider__wrapper">
+      <div id="topImagesWrapper"  class="ysmt_slider__slide">
+        <div id="topImages" class="ysmt_slider__img"></div>
+        <div id="topText" class="ysmt_slider__text__wrapper">
+          <div class="ysmt_slider__headline"></div>
+          <div class="ysmt_slider__text">
+             向こう側にひとがいる。<br class="ysmt_block_sp">笑ってくれるひとがいる。<br>ひとの可能性を掘り出し、仕事を生み出す。<br>次の舞台は、世界のぜんぶ。
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<!-- 事業内容 -->
+<section id="business" class="ysmt_top__business">
+  <h2 class="ysmt_top_heading" data-attr="io" aria-label="事業内容">
+    <span class="ysmt_top_heading__wrap">
+      <span>事</span><span>業</span><span>内</span><span>容</span>
+    </span>
+    <small class="ysmt_top_heading__sub">Business</small>
+  </h2>
+  <div class="ysmt_top__businessLinkWrap" data-attr="buttons">
+    <ul class="ysmt_top__businessLink">
+      <li><a href="business/#management"><div><span><svg class="ysmt_svg--business1" role="img">
+    <title>タレントアイコン</title>
+    <use xlink:href="./assets/v2022/img/common/siteSprite.svg#business1"></use>
+  </svg>タレント</span></div></a></li>
+      <li><a href="business/#theater"><div><span><svg class="ysmt_svg--business2" role="img">
+    <title>劇場アイコン</title>
+    <use xlink:href="./assets/v2022/img/common/siteSprite.svg#business2"></use>
+  </svg>劇場</span></div></a></li>
+    </ul>
+    <ul class="ysmt_top__businessLink2">
+      <li><a href="business/#produce"><div><span><svg class="ysmt_svg--business3" role="img">
+    <title>コンテンツプロデュースアイコン</title>
+    <use xlink:href="./assets/v2022/img/common/siteSprite.svg#business3"></use>
+  </svg>コンテンツ<br>プロデュース</span></div></a></li>
+      <li><a href="business/#school"><div><span><svg class="ysmt_svg--business4" role="img">
+    <title>スクールアイコン</title>
+    <use xlink:href="./assets/v2022/img/common/siteSprite.svg#business4"></use>
+  </svg>スクール/<br>NSC</span></div></a></li>
+      <li><a href="business/#fany"><div><span><svg class="ysmt_svg--business5" role="img">
+    <title>FANYアイコン</title>
+    <use xlink:href="./assets/v2022/img/common/siteSprite.svg#business5"></use>
+  </svg>FANY</span></div></a></li>
+      <li><a href="business/#bsYoshimoto"><div><span><svg class="ysmt_svg--business6" role="img">
+    <title>BSよしもとアイコン</title>
+    <use xlink:href="./assets/v2022/img/common/siteSprite.svg#business6"></use>
+  </svg>BS<br class="ysmt_block_pc">よしもと</span></div></a></li>
+      <li><a href="business/#global"><div><span><svg class="ysmt_svg--business7" role="img">
+    <title>グローバルな展開アイコン</title>
+    <use xlink:href="./assets/v2022/img/common/siteSprite.svg#business7"></use>
+  </svg>グローバルな<br>展開</span></div></a></li>
+      <li><a href="business/#local"><div><span><svg class="ysmt_svg--business8" role="img">
+    <title>地域創生アイコン</title>
+    <use xlink:href="./assets/v2022/img/common/siteSprite.svg#business8"></use>
+  </svg>地域創生</span></div></a></li>
+    </ul>
+  </div>
+</section>
+
+<!-- サービス -->
+<section id="service" class="ysmt_top__service">
+  <h2 class="ysmt_top_heading" data-attr="io" aria-label="サービス">
+    <span class="ysmt_top_heading__wrap">
+      <span>サ</span><span>ー</span><span>ビ</span><span>ス</span>
+    </span>
+    <small class="ysmt_top_heading__sub">Service</small>
+  </h2>
+  <ul class="ysmt_top__serviceLink" data-attr="buttons">
+    <li><a href="https://profile.yoshimoto.co.jp/" target="_blank" rel="noopener noreferrer"><span class="ysmt_button--external is-text-larger">タレントを探す</span></a></li>
+    <li><button id="searchTheaterBtn"  aria-controls="modal" aria-expanded="false"><span class="ysmt_button--external is-text-larger">劇場を探す</span></button></li>
+    <li><a href="https://ticket.fany.lol/" target="_blank" rel="noopener noreferrer"><span class="ysmt_button--external is-text-larger">チケットを探す</span></a></li>
+    <li><a href="https://online-ticket.yoshimoto.co.jp/" target="_blank" rel="noopener noreferrer"><span class="ysmt_button--external is-text-larger">オンラインチケットを探す</span></a></li>
+  </ul>
+</section>
+
+<!-- トピックス -->
+<section id="topics" class="ysmt_top__topics">
+  <h2 class="ysmt_top_heading"  data-attr="io" aria-label="トピックス">
+    <span class="ysmt_top_heading__wrap">
+      <span>ト</span><span>ピ</span><span>ッ</span><span>ク</span><span>ス</span>
+    </span>
+    <small class="ysmt_top_heading__sub">Topics</small>
+  </h2>
+  <div id="topTopicsWrapper" class="ysmt_top__topics__wrap"></div>
+  <p class="ysmt_top__topics__link">
+    <a class="ysmt_navLink" target="_blank" rel="noopener noreferrer" href="https://magazine.fany.lol/category/news/">
+      <span>すべて見る</span>
+    </a>
+  </p>
+</section>
+
+<!-- SDGs -->
+<section id="sdgs" class="ysmt_top__sdgs">
+  <h2 class="ysmt_top_heading" data-attr="io" aria-label="SDGsへの取り組み">
+    <span class="ysmt_top_heading__wrap">
+      <span>S</span><span>D</span><span>G</span><span>s</span><span>へ</span><span>の</span><span>取</span><span>り</span><span>組</span><span>み</span>
+    </span>
+    <small class="ysmt_top_heading__sub">SDGs</small>
+  </h2>
+
+  <p class="ysmt_top__sdgs__text">
+    吉本興業は、国際社会の一員として、持続可能な開発目標(SDGs)に賛同し<br class="ysmt_block_pc">「笑顔」につなげる活動を通じて、より良い国際社会の実現に貢献・応援いたします。
+  </p>
+  <div class="ysmt_top__sdgsImg">
+    <a href="https://www.yoshimoto.co.jp/sdgs/" target="_blank" rel="noopener noreferrer">
+      <div class="ysmt_top__sdgsImg__tilte">sustainable development goals</div>
+      <div class="ysmt_top__sdgsImg__img">
+        <picture>
+      <source type="image/webp" srcset="/assets/v2022/img/top/sdgs-670w.webp 670w" sizes="100vw">
+  <source type="image/jpeg" srcset="/assets/v2022/img/top/sdgs-670w.jpeg 670w" sizes="100vw">
+      <img
+        src="/assets/v2022/img/top/sdgs-670w.jpeg"
+        width="670"
+        height="330"
+        alt=""
+        loading="lazy">
+    </picture>
+      </div>
+      <div class="ysmt_top__sdgsImg__text">2030年を笑顔であふれる世界に！</div>
+    </a>
+  </div>
+</section>
+
+<!-- 劇場検索 -->
+<div id="modal" class="ysmt_top__modal" aria-hidden="true">
+  <section class="ysmt_top__search">
+    <h2 class="ysmt_top_heading isShow">
+      <span>劇場を探す</span><small class="ysmt_top_heading__sub">Search</small>
+    </h2>
+
+    <div id="topModalFocus" tabindex="-1"></div>
+    <ul class="ysmt_searchList">
+      
+      <li>
+        <a target="_blank" rel="noopener noreferrer" href="https://ngk.yoshimoto.co.jp/">
+        <span>なんばグランド花月</span></a>
+        <span class="ysmt_searchList__area">大阪
+        </span>
+      </li>
+      
+      <li>
+        <a target="_blank" rel="noopener noreferrer" href="https://lumine.yoshimoto.co.jp">
+        <span>ルミネthe よしもと</span></a>
+        <span class="ysmt_searchList__area">新宿
+        </span>
+      </li>
+      
+      <li>
+        <a target="_blank" rel="noopener noreferrer" href="https://manzaigekijyo.yoshimoto.co.jp">
+        <span>よしもと漫才劇場</span></a>
+        <span class="ysmt_searchList__area">大阪
+        </span>
+      </li>
+      
+      <li>
+        <a target="_blank" rel="noopener noreferrer" href="https://morinomiya-manzaigekijyo.yoshimoto.co.jp">
+        <span>森ノ宮よしもと漫才劇場</span></a>
+        <span class="ysmt_searchList__area">大阪
+        </span>
+      </li>
+
+      <li>
+        <a target="_blank" rel="noopener noreferrer" href="https://shibuya-manzaigekijyo.yoshimoto.co.jp/">
+        <span>渋谷よしもと漫才劇場</span></a>
+        <span class="ysmt_searchList__area">渋谷
+        </span>
+      </li>		
+		
+      <li>
+        <a target="_blank" rel="noopener noreferrer" href="https://jimbocho-manzaigekijyo.yoshimoto.co.jp/">
+        <span>神保町よしもと漫才劇場</span></a>
+        <span class="ysmt_searchList__area">神保町
+        </span>
+      </li>
+		
+      <li>
+        <a target="_blank" rel="noopener noreferrer" href="https://roppongi.yoshimoto.co.jp/">
+        <span>YOSHIMOTO ROPPONGI THEATER</span></a>
+        <span class="ysmt_searchList__area">六本木
+        </span>
+      </li>				
+      
+      <!--<li>
+        <a target="_blank" rel="noopener noreferrer" href="https://mugendai.yoshimoto.co.jp">
+        <span>ヨシモト∞ホール</span></a>
+        <span class="ysmt_searchList__area">渋谷
+        </span>
+      </li>
+      
+      <li>
+        <a target="_blank" rel="noopener noreferrer" href="https://mugendai-dome.yoshimoto.co.jp">
+        <span>ヨシモト∞ドーム</span></a>
+        <span class="ysmt_searchList__area">渋谷
+        </span>
+      </li>-->
+		
+      <!--<li>
+        <a target="_blank" rel="noopener noreferrer" href="https://yurakucho.yoshimoto.co.jp">
+        <span>よしもと有楽町シアター</span></a>
+        <span class="ysmt_searchList__area">有楽町
+        </span>
+      </li>-->
+      
+      <li>
+        <a target="_blank" rel="noopener noreferrer" href="https://makuhari.yoshimoto.co.jp">
+        <span>よしもと幕張イオンモール劇場</span></a>
+        <span class="ysmt_searchList__area">千葉
+        </span>
+      </li>
+      
+      <li>
+        <a target="_blank" rel="noopener noreferrer" href="https://omiya.yoshimoto.co.jp">
+        <span>大宮ラクーンよしもと劇場</span></a>
+        <span class="ysmt_searchList__area">埼玉
+        </span>
+      </li>
+      
+      <li>
+        <a target="_blank" rel="noopener noreferrer" href="https://fukuokagekijyo.yoshimoto.co.jp/">
+        <span>よしもと福岡 大和証券劇場</span></a>
+        <span class="ysmt_searchList__area">福岡
+        </span>
+      </li>
+      
+      <li>
+        <a target="_blank" rel="noopener noreferrer" href="https://numazu.yoshimoto.co.jp">
+        <span>沼津ラクーンよしもと劇場</span></a>
+        <span class="ysmt_searchList__area">静岡
+        </span>
+      </li>
+		
+      <li>
+        <a target="_blank" rel="noopener noreferrer" href="https://dotonbori.yoshimoto.co.jp/">
+        <span>よしもと道頓堀シアター</span></a>
+        <span class="ysmt_searchList__area">大阪
+        </span>
+      </li>		
+      
+    </ul>
+
+    <button id="topModalClose" class="ysmt_top__search__close" aria-controls="modal">劇場一覧を閉じる</button>
+  </section>
+
+</div>
+
+</main>
+
+<div id="ysmtFooterWrapper"></div>
+
+<script src="./assets/v2022/js/site.js?1650962019657" defer></script>
+    <script src="./assets/v2022/js/top.js?1650962019657" defer></script>
+<!-- Cookie popup-->
+<div class="cookie-consent">
+ <div class="cookie-text">当サイトでは、サービスの品質向上・利便性向上を目的としてお客様のクッキーを取得しています。また、取得したクッキーをお客様の個人情報と紐付けて管理・利用する場合がございます。以上の事項について同意の上、当サイトをご利用ください。詳しくは当社グループの<a class="cokie-policy-url" href="#" onclick="return:false;">プライバシーポリシー</a>をご確認ください。</div>
+ <div class="cookie-disagree">閉じる</div>
+ <div class="cookie-agree">同意の上、閉じる</div>
+</div>
+<script src="https://www.yoshimoto.co.jp/js/gdpr.js"></script>
+<!-- Cookie END -->
+
+</body>
+</html>
