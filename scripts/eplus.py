@@ -10,6 +10,7 @@ import datetime as dt
 import html
 import re
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 import urllib.robotparser
@@ -85,28 +86,45 @@ def parse_page(page: str, today: dt.date) -> list[dict]:
     return out
 
 
-def fetch(today: dt.date) -> list[dict]:
+def _get_retry(url: str) -> str:
+    """混んでいる（429/503）ときだけ、30秒待って1回だけやり直す。"""
+    try:
+        return _get(url)
+    except urllib.error.HTTPError as e:
+        if e.code not in (429, 503):
+            raise
+        time.sleep(30)
+        return _get(url)
+
+
+def fetch(today: dt.date, run_no: int, per_run: int = 3) -> dict[int, list[dict]]:
+    """1ページ目と、ほかのページから per_run ページだけ読む（実行ごとに順番に回す）。
+
+    返り値は {ページ番号: そのページの公演}。読めなかったページは入らない。
+    """
     global LAST_NOTE
     if not allowed():
         LAST_NOTE = "robots.txt で許可されていないので読みません"
-        print("[eplus] " + LAST_NOTE)
-        return []
-    first = _get(BASE + LIST_PATH)
+        return {}
+    first = _get_retry(BASE + LIST_PATH)
     pages = {int(p) for p in PAGE_RE.findall(first)}
     last = min(max(pages) if pages else 1, MAX_PAGES)
-    rows = parse_page(first, today)
+    got: dict[int, list[dict]] = {1: parse_page(first, today)}
+    others = list(range(2, last + 1))
+    if others:
+        start = (run_no * per_run) % len(others)
+        targets = [others[(start + i) % len(others)] for i in range(min(per_run, len(others)))]
+    else:
+        targets = []
     errors = []
-    for n in range(2, last + 1):
-        time.sleep(2)
+    for n in targets:
+        time.sleep(3)
         try:
-            page = _get(f"{BASE}{LIST_PATH}/p{n}")
-            got = parse_page(page, today)
-            if not got:
-                errors.append(f"p{n}: 0件 ({len(page)} 文字)")
-            rows.extend(got)
+            got[n] = parse_page(_get_retry(f"{BASE}{LIST_PATH}/p{n}"), today)
         except Exception as e:
             errors.append(f"p{n}: {type(e).__name__}: {e}")
-            print(f"[eplus] p{n}: {e}")
-    LAST_NOTE = f"{len(rows)} 公演（{last}ページ, 1ページ目 {len(first)} 文字, 件数表示 {re.findall(r'(\d+)件中', first)[:1]}）" + (" / " + " / ".join(errors[:3]) if errors else "")
+            break  # 断られたら、この回はそれ以上読まない
+    total = sum(len(v) for v in got.values())
+    LAST_NOTE = f"{total} 公演（全{last}ページ中 {sorted(got)} を読んだ）" + (" / " + " / ".join(errors) if errors else "")
     print("[eplus] " + LAST_NOTE)
-    return rows
+    return got

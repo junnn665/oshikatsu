@@ -655,25 +655,44 @@ def build_tickets(rows: list[dict]) -> list[dict]:
     return sorted(groups.values(), key=lambda g: (g["dates"][0] if g["dates"] else "9999", g["title"]))
 
 
-def load_tickets() -> list[dict]:
+def load_ticket_rows() -> list[dict]:
     try:
-        return json.loads(DATA_FILE.read_text("utf-8")).get("tickets", [])
+        return json.loads(DATA_FILE.read_text("utf-8")).get("ticket_rows", [])
     except (OSError, ValueError):
         return []
+
+
+def merge_ticket_rows(prev: list[dict], got: dict[int, list[dict]]) -> list[dict]:
+    """今回読めたページの公演を、前回までの分に足す。過ぎた公演と、3日見かけない公演は消す。"""
+    today = NOW.astimezone(JST).date().isoformat()
+    stamp = NOW.astimezone(JST).isoformat(timespec="seconds")
+    stale = (NOW - dt.timedelta(days=3)).astimezone(JST).isoformat(timespec="seconds")
+    rows: dict[str, dict] = {}
+    for r in prev:
+        if r.get("page") in got:          # このページは読み直したので、古い分は捨てる
+            continue
+        if (r.get("date") and r["date"] < today) or r.get("seen", "") < stale:
+            continue
+        rows[r["link"]] = r
+    for page, items in got.items():
+        for r in items:
+            rows[r["link"]] = dict(r, page=page, seen=stamp)
+    return list(rows.values())
 
 
 def main() -> int:
     existing = load_existing()
     eplus_note = ""
+    run_no = int(NOW.timestamp() // (6 * 3600))  # 実行ごとに、読むページを順番に変える
     try:
-        tickets = build_tickets(eplus.fetch(NOW.astimezone(JST).date()))
+        got = eplus.fetch(NOW.astimezone(JST).date(), run_no)
         eplus_note = eplus.LAST_NOTE
     except Exception as e:
+        got = {}
         eplus_note = f"{type(e).__name__}: {e}"
         print(f"[warn] eplus: {eplus_note}", file=sys.stderr)
-        tickets = []
-    if not tickets:
-        tickets = load_tickets()  # 読めなかったときは前回の分を残す
+    ticket_rows = merge_ticket_rows(load_ticket_rows(), got)  # 読めなかったときは前回の分が残る
+    tickets = build_tickets(ticket_rows)
     raw, errors = collect()
     if not raw and existing:
         print("ニュースを取得できなかったので前回のデータを残します")
@@ -685,7 +704,7 @@ def main() -> int:
     DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
     stamp = NOW.astimezone(JST).isoformat(timespec="seconds")
     DATA_FILE.write_text(json.dumps(
-        {"updated": stamp, "oshi": OSHI, "items": items, "tickets": tickets}, ensure_ascii=False, indent=1), "utf-8")
+        {"updated": stamp, "oshi": OSHI, "items": items, "tickets": tickets, "ticket_rows": ticket_rows}, ensure_ascii=False, indent=1), "utf-8")
     STATUS_FILE.write_text(json.dumps({
         "updated": stamp, "total": len(items), "new": new_count,
         "raw": len(raw), "errors": errors, "tickets": len(tickets), "eplus": eplus_note,
