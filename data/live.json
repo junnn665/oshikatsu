@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T23:35:13+09:00",
+ "updated": "2026-10-30T23:36:14+09:00",
  "oshi": {
   "geinin": [
    "令和ロマン",
@@ -1290,6 +1290,30 @@
     "あいみょん"
    ],
    "dates": [],
+   "deadline": null,
+   "sale_start": null,
+   "image_checked": true
+  },
+  {
+   "id": "db54f690976d8b88",
+   "title": "12/14発売｜King Gnu 常田大希 × atmos × adidas Originals Superstar｜抽選/販売/定価情報 | スニーカーダンク",
+   "link": "https://snkrdunk.com/articles/15123/",
+   "source": "SNKRDUNK",
+   "image": "https://cdn.snkrdunk.com/uploads/media/20221116042517-0.jpeg",
+   "published": "2026-10-30T17:54:22+09:00",
+   "provider": "google",
+   "added": "2026-10-30T23:36:14+09:00",
+   "summary": "12/14発売｜King Gnu 常田大希 × atmos × adidas Originals Superstar｜抽選/販売/定価情報 | スニーカーダンク SNKRDUNK",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "moushikomi",
+   "areas": [],
+   "oshi": [
+    "King Gnu"
+   ],
+   "dates": [
+    "2026-12-14"
+   ],
    "deadline": null,
    "sale_start": null,
    "image_checked": true
@@ -3547,6 +3571,26 @@
    "added": "2026-10-30T22:58:13+09:00",
    "genre": "artist",
    "type": "fes",
+   "areas": [],
+   "oshi": [],
+   "dates": [],
+   "deadline": null,
+   "sale_start": null,
+   "image_checked": true
+  },
+  {
+   "id": "8fc8db287e3e6624",
+   "title": "ＫＲＥＶＡ「ラップの教室」再演…授業にコントにライブ、あの手この手で日本語ラップの魅力を",
+   "link": "https://article.auone.jp/6ba7151e-a4b7-4ab5-aed1-034abae8b75f",
+   "source": "au Webポータル",
+   "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/10/29/https___www_yomiuri_co_jp_culture_stage_20261029-GYT1T00125__w823.webp",
+   "published": "2026-10-29T15:30:00+09:00",
+   "provider": "google",
+   "added": "2026-10-30T23:36:14+09:00",
+   "summary": "ＫＲＥＶＡ「ラップの教室」再演…授業にコントにライブ、あの手この手で日本語ラップの魅力を au Webポータル",
+   "force_genre": null,
+   "genre": "geinin",
+   "type": "sonota",
    "areas": [],
    "oshi": [],
    "dates": [],
@@ -6411,28 +6455,6 @@
    "image_checked": true
   },
   {
-   "id": "a49c9fa7c5601da8",
-   "title": "YOASOBI「優しい彗星」 From 初有観客ライブ『NICE TO MEET YOU』2021.12.04@日本武道館 Vladimir Guerrero Jr. (N31cLRUli8)",
-   "link": "https://media.unisba.ac.id/fc86ad17/5385d467sSmba3k5JZY",
-   "source": "Unisba Media",
-   "image": null,
-   "published": "2026-10-27T13:45:52+09:00",
-   "provider": "google",
-   "added": "2026-10-30T23:35:13+09:00",
-   "summary": "YOASOBI「優しい彗星」 From 初有観客ライブ『NICE TO MEET YOU』2021.12.04@日本武道館 Vladimir Guerrero Jr. (N31cLRUli8) Unisba Media",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "report",
-   "areas": [
-    "関東"
-   ],
-   "oshi": [],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "image_checked": true
-  },
-  {
    "id": "9c4f84d1d91bd398",
    "title": "31、11月1日に福大祭 オールジェンダーコンテスト開催 お笑いライブも",
    "link": "https://news.yahoo.co.jp/articles/ba0a073285bebf17141c647440e0d573f5827421",
@@ -8032,7 +8054,7 @@
    "image": null,
    "published": "2026-10-26T04:04:26+09:00",
    "provider": "google",
-   "added": "2026-10-30T23:35:13+09:00",
+   "added": "2026-10-30T23:36:14+09:00",
    "summary": "「YOASOBIが日本人初アジア10都市ドーム＆スタジアムツアー決定！世界に羽ばたくライブ新時代」 Prudential Center (tmSfBSediJ) Unisba Media",
    "force_genre": null,
    "genre": "artist",
@@ -8188,7 +8210,7 @@
    "image": null,
    "published": "2026-10-25T22:29:28+09:00",
    "provider": "google",
-   "added": "2026-10-30T23:35:13+09:00",
+   "added": "2026-10-30T23:36:14+09:00",
    "summary": "明日からライブチケットのリセール開始！これみて参加すれば何も心配いらない！【米津玄師2025TOUR/JUNK】 Spokane Weather (TMyk4R9beh) Unisba Media",
    "force_genre": null,
    "genre": "artist",
@@ -8221,21 +8243,23 @@
    "image_checked": true
   },
   {
-   "id": "5b3c2da96ae210cb",
-   "title": "『BTS WORLD TOUR 'ARIRANG' IN BUSAN』ライブビューイング特別予告編【デビュー記念日の公演を日本全国の映画館で生中継！】 Drogheda United Vs Derry City (K7A3k6ucKx)",
-   "link": "https://media.unisba.ac.id/eda6efd6/0b6f1d2dFw4BBRl-PAY7BFI/",
-   "source": "Unisba Media",
-   "image": null,
-   "published": "2026-10-25T21:56:58+09:00",
+   "id": "59392a04d18170cd",
+   "title": "「吉本百年物語」がいよいよ4/13（金）からスタート！ 4月公演に出演する国仲涼子×陣内智則にインタビュー",
+   "link": "https://www.walkerplus.com/article/29521/",
+   "source": "ウォーカープラス",
+   "image": "https://news.walkerplus.com/article/29521/133423_615.jpg",
+   "published": "2026-10-25T21:43:57+09:00",
    "provider": "google",
-   "added": "2026-10-30T23:35:13+09:00",
-   "summary": "『BTS WORLD TOUR 'ARIRANG' IN BUSAN』ライブビューイング特別予告編【デビュー記念日の公演を日本全国の映画館で生中継！】 Drogheda United Vs Derry City (K7A3k6ucKx) Unisba Media",
+   "added": "2026-10-30T23:36:14+09:00",
+   "summary": "「吉本百年物語」がいよいよ4/13（金）からスタート！ 4月公演に出演する国仲涼子×陣内智則にインタビュー ウォーカープラス",
    "force_genre": null,
-   "genre": "artist",
+   "genre": "geinin",
    "type": "kettei",
    "areas": [],
    "oshi": [],
-   "dates": [],
+   "dates": [
+    "2027-04-13"
+   ],
    "deadline": null,
    "sale_start": null,
    "image_checked": true
@@ -8317,6 +8341,29 @@
    "image_checked": true
   },
   {
+   "id": "6830f49ce66486b8",
+   "title": "初めてのねじロックフェス",
+   "link": "https://note.com/wakabakana/n/n66adc18b3f79",
+   "source": "note",
+   "image": "https://assets.st-note.com/production/uploads/images/328215351/rectangle_large_type_2_c5626322e33d702dac25472f9f5dc294.jpg?fit=bounds&quality=85&width=1280",
+   "published": "2026-10-25T19:37:00+09:00",
+   "provider": "bing",
+   "added": "2026-10-30T23:36:14+09:00",
+   "summary": "2024年から秋田で年に1回開催されている「ねじロックフェス」 今年は前日に秋田で三拍子の単独ライブがあったのでせっかくなのでと思い一泊して初参加。 チケットを予約する時に一瞬「東京で見られる芸人さん達をわざわざ秋田で…？」と頭によぎったが、とんでもない。 こんなに出演者達が自由でのびのびとした開放的なライブは今まで見たことがない。 しかも立見席は無料！！ この出演陣のライブを飲食しながら無料で見 ...",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "fes",
+   "areas": [
+    "東北",
+    "関東"
+   ],
+   "oshi": [],
+   "dates": [],
+   "deadline": null,
+   "sale_start": null,
+   "image_checked": true
+  },
+  {
    "id": "226b5195be81c694",
    "title": "ゆず、デビュー30周年イヤー突入！オールタイムベストアルバム発売＆日産スタジアムライブ2DAYS開催決定！",
    "link": "https://popscene.jp/news/062164",
@@ -8342,7 +8389,7 @@
    "image": null,
    "published": "2026-10-25T18:59:36+09:00",
    "provider": "google",
-   "added": "2026-10-30T23:35:13+09:00",
+   "added": "2026-10-30T23:36:14+09:00",
    "summary": "JO1 、XG、Vaundy、藤井風・日本人歌手の海外公演中止相次ぐ！3つの注意点 Elina Svitolina (iMmAXkcArO) Unisba Media",
    "force_genre": null,
    "genre": "artist",
@@ -8509,30 +8556,6 @@
    "type": "kettei",
    "areas": [],
    "oshi": [],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "image_checked": true
-  },
-  {
-   "id": "0708ec0fb07d0fc6",
-   "title": "✨🎵 あいみょん×桑田佳祐「なごり雪」熱唱！❄️『九段下フォーク・フェスティバル’25』4週連続先行配信決定🎉 Brighton Fixtures (y0tDRI2hqj)",
-   "link": "https://media.unisba.ac.id/5ca78a56/0841aa1dMi8XESpXQxYtEFI",
-   "source": "Unisba Media",
-   "image": null,
-   "published": "2026-10-25T14:54:02+09:00",
-   "provider": "google",
-   "added": "2026-10-30T23:35:13+09:00",
-   "summary": "✨🎵 あいみょん×桑田佳祐「なごり雪」熱唱！❄️『九段下フォーク・フェスティバル’25』4週連続先行配信決定🎉 Brighton Fixtures (y0tDRI2hqj) Unisba Media",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "moushikomi",
-   "areas": [
-    "配信"
-   ],
-   "oshi": [
-    "あいみょん"
-   ],
    "dates": [],
    "deadline": null,
    "sale_start": null,
@@ -8775,6 +8798,30 @@
    "image_checked": true
   },
   {
+   "id": "5073d143d3582ea0",
+   "title": "あいみょん過去ライブ映像をU-NEXTで見放題配信！ Buon Martedi 12 Maggio (swiUGWTxnP)",
+   "link": "https://media.unisba.ac.id/20c25d29/3338a940EFPWQ-8nCIc/?share=telegram&nb=1",
+   "source": "Unisba Media",
+   "image": null,
+   "published": "2026-10-25T10:47:51+09:00",
+   "provider": "google",
+   "added": "2026-10-30T23:36:14+09:00",
+   "summary": "あいみょん過去ライブ映像をU-NEXTで見放題配信！ Buon Martedi 12 Maggio (swiUGWTxnP) Unisba Media",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "sonota",
+   "areas": [
+    "配信"
+   ],
+   "oshi": [
+    "あいみょん"
+   ],
+   "dates": [],
+   "deadline": null,
+   "sale_start": null,
+   "image_checked": true
+  },
+  {
    "id": "067097349dfbc4bb",
    "title": "【Vaundyフェス】CDTVライブ！ライブ！ Drive Bc (hmpAYyveis)",
    "link": "https://media.unisba.ac.id/05bcb171/564a29ceF1r8wnrKfrk/?share=telegram&nb=1",
@@ -8782,7 +8829,7 @@
    "image": null,
    "published": "2026-10-25T10:46:40+09:00",
    "provider": "google",
-   "added": "2026-10-30T23:35:13+09:00",
+   "added": "2026-10-30T23:36:14+09:00",
    "summary": "【Vaundyフェス】CDTVライブ！ライブ！ Drive Bc (hmpAYyveis) Unisba Media",
    "force_genre": null,
    "genre": "artist",
