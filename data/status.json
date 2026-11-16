@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-16T10:00:05+09:00",
+ "updated": "2026-11-16T20:11:16+09:00",
  "total": 600,
- "new": 56,
- "raw": 1537,
- "errors": 0,
- "tickets": 129,
- "eplus": "50 公演（全7ページ中 [1] を読んだ） / p5: HTTPError: HTTP Error 503: Service Unavailable"
+ "new": 116,
+ "raw": 1551,
+ "errors": 5,
+ "tickets": 105,
+ "eplus": "50 公演（全7ページ中 [1] を読んだ） / p6: HTTPError: HTTP Error 503: Service Unavailable"
 }
