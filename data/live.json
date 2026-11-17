@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T20:11:16+09:00",
+ "updated": "2026-11-17T12:49:37+09:00",
  "oshi": {
   "geinin": [
    "令和ロマン",
@@ -17,6 +17,1058 @@
   ]
  },
  "items": [
+  {
+   "id": "4347ad6fa227d908",
+   "title": "KATEから、雪や星が舞うスノードームをイメージしたホリデーシーズン限定コレクションが登場。幻想的なきらめきをまとったアイシャドウ＆リップを発売。",
+   "link": "https://prtimes.jp/main/html/rd/p/000000942.000016220.html",
+   "source": "PR TIMES",
+   "image": "https://prcdn.freetls.fastly.net/release_image/16220/942/16220-942-1f96cd4c0b8286d5788a61922d0aff51-1080x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "published": "2026-11-17T12:40:44+09:00",
+   "provider": "prtimes",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "[株式会社カネボウ化粧品] [画像1: https://prcdn.freetls.fastly.net/release_image/16220/942/16220-942-1f96cd4c0b8286d5788a61922d0aff51-1080x1080.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "sonota",
+   "areas": [],
+   "oshi": [],
+   "dates": [
+    "2027-02-16"
+   ],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "f1693dcc62fb3f4e",
+   "title": "「本能寺の変」のエグスプロージョンまちゃあきが6年ぶり単独ライブ! 「“愛”で失った情熱を取り戻すことができた…これ、文字になったらだいぶハズいな」",
+   "link": "https://magazine.fany.lol/296849/",
+   "source": "FANY Magazine",
+   "image": "https://magazine.fany.lol/wp-content/uploads/2026/11/DSC_5622.jpg",
+   "published": "2026-11-17T12:00:00+09:00",
+   "provider": "feed",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "2015年にYouTubeにアップした踊る授業シリーズ「本能寺の変」で一世を風靡したエグスプロージョン。そのメンバーのまちゃあきが12月５日（土）に、約6年ぶりとなる単独ソロライブ『spare key』を開催します。なぜいまライブなのか、そして、この空白期間に何を感じてい…",
+   "force_genre": "geinin",
+   "genre": "geinin",
+   "type": "kettei",
+   "areas": [],
+   "oshi": [],
+   "dates": [
+    "2026-12-05"
+   ],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [
+    {
+     "site": "FANY",
+     "url": "https://ticket.fany.lol/search/event?keywords=spare+key&search_type=search_string"
+    }
+   ],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "2bc3717ef39d4d9a",
+   "title": "多彩なスポーツ体験しよう ２３日、棚倉でフェスタ なかやまきんに君のお笑いライブも",
+   "link": "https://www.minpo.jp/articles/-/276684",
+   "source": "福島民報デジタル",
+   "image": "https://minpo.ismcdn.jp/mwimgs/0/3/1200w/img_03b0f7992c2ebe8c8a5e61200e569e7f287992.jpg",
+   "published": "2026-11-17T11:43:00+09:00",
+   "provider": "google",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "多彩なスポーツ体験しよう ２３日、棚倉でフェスタ なかやまきんに君のお笑いライブも 福島民報デジタル",
+   "force_genre": null,
+   "genre": "geinin",
+   "type": "fes",
+   "areas": [
+    "東北"
+   ],
+   "oshi": [],
+   "dates": [],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "56e43b469ac6ab9e",
+   "title": "シンガーソングライター三浦祐太朗のオフィシャルファンクラブ開設！会員限定イベントの開催も決定！",
+   "link": "https://entamerush.jp/725240/",
+   "source": "エンタメラッシュ",
+   "image": "https://prcdn.freetls.fastly.net/release_image/2848/673/2848-673-817bd7e7b5cba0f0e01844ca89152745-1992x2700.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "published": "2026-11-17T11:30:00+09:00",
+   "provider": "google",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "シンガーソングライター三浦祐太朗のオフィシャルファンクラブ開設！会員限定イベントの開催も決定！ エンタメラッシュ",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "kettei",
+   "areas": [],
+   "oshi": [],
+   "dates": [],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "5699cc5d619ad892",
+   "title": "Travis Japanが今夜「夜の音」登場、岐路に立たされた7年前の東京ドーム「8・8祭り」を語る",
+   "link": "https://natalie.mu/music/news/698297",
+   "source": "音楽ナタリー",
+   "image": null,
+   "published": "2026-11-17T11:19:00+09:00",
+   "provider": "feed",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "Travis Japanが本日11月17日深夜に日本テレビ系で放送される音楽番組「夜の音 -TOKYO MIDNIGHT MUSIC-」に出演する。",
+   "force_genre": "artist",
+   "genre": "artist",
+   "type": "sonota",
+   "areas": [
+    "関東"
+   ],
+   "oshi": [],
+   "dates": [
+    "2026-11-17"
+   ],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "f2221a2a932a0d5c",
+   "title": "FRUITS ZIPPER、国立競技場含む計4公演の5周年スタジアムツアー開催決定！【コメントあり】",
+   "link": "https://popnroll.tv/articles/48419",
+   "source": "Pop'n'Roll.tv",
+   "image": "https://img.popnroll.tv/uploads/news_item/image/48419/large__3YY8679.jpg",
+   "published": "2026-11-17T11:03:22+09:00",
+   "provider": "google",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "FRUITS ZIPPER、国立競技場含む計4公演の5周年スタジアムツアー開催決定！【コメントあり】 Pop'n'Roll.tv",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "kettei",
+   "areas": [],
+   "oshi": [],
+   "dates": [],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "93ff0f22429270cc",
+   "title": "梶剛がプロデュースする『かじ祭り2026』11月22日開催決定! 昨年1万人動員の大人気イベント",
+   "link": "https://magazine.fany.lol/296818/",
+   "source": "FANY Magazine",
+   "image": "https://magazine.fany.lol/wp-content/uploads/2026/11/d579156347064000a04d8d8435ceefef-6.png",
+   "published": "2026-11-17T11:00:00+09:00",
+   "provider": "feed",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "香川県住みます芸人の梶剛がプロデュースするお祭り『かじ祭り2026』が、2026年11月22日（日）に香川県高松市のイオンモール高松 南側平面駐車場にて開催されます。昨年は県内外から延べ1万人を超える来場者数を記録した人気イベントが、今年も入場無料で開催されます。 笑い・…",
+   "force_genre": "geinin",
+   "genre": "geinin",
+   "type": "kettei",
+   "areas": [
+    "中国・四国"
+   ],
+   "oshi": [],
+   "dates": [
+    "2026-11-22"
+   ],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [
+    {
+     "site": "FANY",
+     "url": "https://ticket.fany.lol/reception/69535/54372?utm_source=fanymagazine&utm_medium=feed&utm_campaign=Kiwami極LIVE&utm_content=梶剛がプロデュースする『かじ祭り2026』11月22日開催決定!%20昨年1万人動員の大人気イベント"
+    }
+   ],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "e6ab9b0eae90f3ae",
+   "title": "AdHoc、ナユタン星人・煮ル果実とのコラボアイテムを発売。VRChat音楽フェス「ESPERA -AdHoc Live Festival 2026-」をさらに楽しめるファッションが登場！",
+   "link": "https://prtimes.jp/main/html/rd/p/000000710.000044525.html",
+   "source": "PR TIMES",
+   "image": "https://prcdn.freetls.fastly.net/release_image/44525/710/44525-710-b99ea088d1e0d9592b92cf284b2384f7-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "published": "2026-11-17T11:00:00+09:00",
+   "provider": "prtimes",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "[株式会社Brave group] [画像1: https://prcdn.freetls.fastly.net/release_image/44525/710/44525-710-b99ea088d1e0d9592b92cf284b2384f7-1920x1080.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "fes",
+   "areas": [],
+   "oshi": [],
+   "dates": [],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "51ee3e24e27e27f7",
+   "title": "トライセラ和田唱が初のセルフカバーライブを開催、ビルボードライブで一夜限り",
+   "link": "https://natalie.mu/music/news/698305",
+   "source": "音楽ナタリー",
+   "image": null,
+   "published": "2026-11-17T10:40:00+09:00",
+   "provider": "feed",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "和田唱（TRICERATOPS）のライブ「Covers vol.4 -Songs I Gave Away-」が、2027年2月28日に大阪・ビルボードライブ大阪で開催される。",
+   "force_genre": "artist",
+   "genre": "artist",
+   "type": "kettei",
+   "areas": [
+    "関西"
+   ],
+   "oshi": [],
+   "dates": [
+    "2027-02-28"
+   ],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "a5ead9a2141bdd09",
+   "title": "【ライブレポート】Rol3ertが音で思い伝えたO-EASTワンマン、追加公演はピアノ弾き語りで（音楽ナタリー）",
+   "link": "https://news.yahoo.co.jp/articles/1ca76ac6c4f15481459a4bf62393e931f1f92df6",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261117-00000017-natalien-000-1-view.jpg?exp=10800",
+   "published": "2026-11-17T10:36:10+09:00",
+   "provider": "google",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "【ライブレポート】Rol3ertが音で思い伝えたO-EASTワンマン、追加公演はピアノ弾き語りで（音楽ナタリー） Yahoo!ニュース",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "kettei",
+   "areas": [],
+   "oshi": [],
+   "dates": [],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "d5636b0a97582685",
+   "title": "Rol3ertが音で思い伝えたO-EASTワンマン、追加公演はピアノ弾き語りで",
+   "link": "https://natalie.mu/music/news/698234",
+   "source": "音楽ナタリー",
+   "image": null,
+   "published": "2026-11-17T10:36:00+09:00",
+   "provider": "feed",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "Rol3ertが11月6日に大阪・BIGCAT、11月12日に東京・Spotify O-EASTでワンマンライブ「Rol3ert Live Tour 2026 \"meet me in my head\"」を実施した。本稿では東京公演の模様をレポートする。",
+   "force_genre": "artist",
+   "genre": "artist",
+   "type": "kettei",
+   "areas": [
+    "関東",
+    "関西"
+   ],
+   "oshi": [],
+   "dates": [
+    "2026-11-06",
+    "2026-11-12"
+   ],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "0d6d8f152335c2b7",
+   "title": "11/30「CDTVライブ！ライブ！」出演アーティスト発表",
+   "link": "https://topics.smt.docomo.ne.jp/article/ggtnews/entertainment/ggtnews-KT4ck",
+   "source": "ｄメニューニュース",
+   "image": "https://img.topics.smt.news.goo.ne.jp/picture/ggtnews/m_ggtnews-KT4ck.jpg",
+   "published": "2026-11-17T07:16:00+09:00",
+   "provider": "google",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "11/30「CDTVライブ！ライブ！」出演アーティスト発表 ｄメニューニュース",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "kettei",
+   "areas": [],
+   "oshi": [],
+   "dates": [
+    "2026-11-30"
+   ],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "03b8a9c5d33fd8a9",
+   "title": "“モナキ紅白”開催決定「何でもアリやで☆しらんけど」",
+   "link": "https://natalie.mu/music/news/698288",
+   "source": "音楽ナタリー",
+   "image": null,
+   "published": "2026-11-17T07:00:00+09:00",
+   "provider": "feed",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "モナキの冠番組「冠モナキ」初のイベント「冠モナキpresents“モナキ紅白”歌にお笑いネタにショーまで 何でもアリやで☆しらんけど」が2027年2月1日に東京・EX THEATER ROPPONGIで開催される。",
+   "force_genre": "artist",
+   "genre": "artist",
+   "type": "kettei",
+   "areas": [
+    "関東"
+   ],
+   "oshi": [],
+   "dates": [
+    "2027-02-01"
+   ],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "89a90f02b7bcd471",
+   "title": "「マンゲキ」夏の2大イベント開催決定 関西芸人100組以上集結＆東西のマンゲキメンバーが集う特別ライブ【出演者など概要あり】",
+   "link": "https://www.sanyonews.jp/article/1943761?rct=oricon_geino&kw=%E5%8C%BB%E7%99%82",
+   "source": "山陽新聞",
+   "image": "https://static.sanyonews.jp/image/article/size1/a/f/b/6/afb6eb679a3a62228269e51600e163f6_1.jpg",
+   "published": "2026-11-17T05:04:14+09:00",
+   "provider": "google",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "「マンゲキ」夏の2大イベント開催決定 関西芸人100組以上集結＆東西のマンゲキメンバーが集う特別ライブ【出演者など概要あり】 山陽新聞",
+   "force_genre": null,
+   "genre": "geinin",
+   "type": "fes",
+   "areas": [
+    "関西"
+   ],
+   "oshi": [],
+   "dates": [],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "f2055d82c585a87c",
+   "title": "『ROCK IN JAPAN FES. 2026』9月21日の開催中止を発表 台風25号の影響により…メッセージつづる",
+   "link": "https://www.sanyonews.jp/article/1992131?rct=oricon_music&kw=2024%3Cbr%20/%3E%20%20%20%20%20%20%3C/a%3E%3C/p%3E%3Cp%3E%20%20%20%20%20%20%3Ca%20href=",
+   "source": "山陽新聞",
+   "image": "https://static.sanyonews.jp/image/article/size1/7/8/7/c/787c1a9bed939a060699dd6a4c2496c8_1.jpg",
+   "published": "2026-11-17T04:02:41+09:00",
+   "provider": "google",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "『ROCK IN JAPAN FES. 2026』9月21日の開催中止を発表 台風25号の影響により…メッセージつづる 山陽新聞",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "chushi",
+   "areas": [],
+   "oshi": [],
+   "dates": [
+    "2026-09-21"
+   ],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "160e08994634facc",
+   "title": "FRUITS ZIPPER、デビュー5周年記念スタジアムツアー開催決定 ノエビア ...",
+   "link": "https://www.msn.com/ja-jp/entertainment/music/fruits-zipper-%E3%83%87%E3%83%93%E3%83%A5%E3%83%BC5%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0%E3%83%84%E3%82%A2%E3%83%BC%E9%96%8B%E5%82%AC%E6%B1%BA%E5%AE%9A-%E3%83%8E%E3%82%A8%E3%83%93%E3%82%A2%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0%E7%A5%9E%E6%88%B8-%E5%9B%BD%E7%AB%8B%E7%AB%B6%E6%8A%80%E5%A0%B4%E3%81%A7%E8%A8%884%E5%85%AC%E6%BC%94/ar-AA2hAdz8",
+   "source": "E-TALENTBANK on MSN",
+   "image": null,
+   "published": "2026-11-17T04:00:49+09:00",
+   "provider": "bing",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "FRUITS ZIPPER（フルーツジッパー）が、2027年にデビュー5周年を記念した初のスタジアムツアーを開催する。6月12日（土）・13日（日）に兵庫・ノエビアスタジアム神戸、7月10日（土）・11日（日）に東京・MUFGスタジアム（国立競技場）。2会場で計4公演を行う。 発表の舞台は、11月15日（日）に東京ガーデンシアターで開催された『FRUITS ...",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "kettei",
+   "areas": [
+    "関東",
+    "関西"
+   ],
+   "oshi": [],
+   "dates": [
+    "2027-06-12",
+    "2027-07-10",
+    "2026-11-15"
+   ],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "d18af3414c0702df",
+   "title": "さとみZeppツアー「SATOMI UTATTEMITA TOUR 10th」オフィシャル先行受付開始 ...",
+   "link": "https://www.msn.com/ja-jp/entertainment/music/%E3%81%95%E3%81%A8%E3%81%BFzepp%E3%83%84%E3%82%A2%E3%83%BC-satomi-utattemita-tour-10th-%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E5%85%88%E8%A1%8C%E5%8F%97%E4%BB%98%E9%96%8B%E5%A7%8B-%E3%81%95%E3%82%81%E3%81%9F%E3%82%8D%E3%81%86%E3%81%AE%E3%83%88%E3%83%A9%E3%83%99%E3%83%AB%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%82%84%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9A%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E3%81%8A%E3%81%BE%E3%82%82%E3%82%8A%E3%82%AD%E3%83%BC%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E3%81%AA%E3%81%A9%E3%83%84%E3%82%A2%E3%83%BC%E3%82%B0%E3%83%83%E3%82%BA%E3%82%82%E5%85%AC%E9%96%8B/ar-AA2hAvdo",
+   "source": "PASH! PLUS on MSN",
+   "image": null,
+   "published": "2026-11-17T04:00:28+09:00",
+   "provider": "bing",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "STPR所属クリエイター「さとみ」が開催するZeppツアー『SATOMI UTATTEMITA TOUR 10th』のチケットのオフィシャル先行受付(抽選)が2026年11月14日(土)21:00より開始。あわせて、本ツアーのオフィシャルグッズ情報も公開されました。 2026年に活動10周年を迎えた「さとみ」。『SATOMI UTATTEMITA TOUR 10th』は、さとみが10周年の節目に実 ...",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "moushikomi",
+   "areas": [],
+   "oshi": [],
+   "dates": [
+    "2026-11-14"
+   ],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "9661b56ceb442918",
+   "title": "YOASOBI、初の韓国スタジアム公演が決定 ツアー“超惑星 ...",
+   "link": "https://www.msn.com/ja-jp/entertainment/%E5%85%A8%E8%88%AC/yoasobi-%E5%88%9D%E3%81%AE%E9%9F%93%E5%9B%BD%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0%E5%85%AC%E6%BC%94%E3%81%8C%E6%B1%BA%E5%AE%9A-%E3%83%84%E3%82%A2%E3%83%BC-%E8%B6%85%E6%83%91%E6%98%9F-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E5%85%AC%E6%BC%94%E3%82%92%E9%9F%93%E5%9B%BD-%E9%AB%98%E9%99%BD%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0%E3%81%A7%E9%96%8B%E5%82%AC/ar-AA2hAidm",
+   "source": "CDJournal.com on MSN",
+   "image": null,
+   "published": "2026-11-17T03:26:36+09:00",
+   "provider": "bing",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "“小説を音楽にするユニット”YOASOBIが、現在開催中のツアー〈YOASOBI 11-CITY ASIA-OCEANIA TOUR 2026-2027 “超惑星”〉のファイナルとして、2027年4月17日（土）に韓国・高陽（コヤン）市の高陽スタジアム（高陽総合運動場）で、自身初となる韓国でのスタジアム公演を開催することが決定。",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "kettei",
+   "areas": [],
+   "oshi": [],
+   "dates": [
+    "2027-04-17"
+   ],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "29941b4d6158f825",
+   "title": "大阪の年末音楽フェス『レディクレ』約100組の豪華アーティスト集結へ ラインナップほぼ出そろう【一覧】",
+   "link": "https://www.sanyonews.jp/article/2016691?rct=oricon_music&kw=%E7%A6%8F%E7%A5%81",
+   "source": "山陽新聞",
+   "image": "https://static.sanyonews.jp/image/article/size1/3/2/8/f/328f3111ec56cc5c0488dfec51f9979f_1.jpg",
+   "published": "2026-11-17T01:37:38+09:00",
+   "provider": "google",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "大阪の年末音楽フェス『レディクレ』約100組の豪華アーティスト集結へ ラインナップほぼ出そろう【一覧】 山陽新聞",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "fes",
+   "areas": [
+    "関西"
+   ],
+   "oshi": [],
+   "dates": [],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "14a5da316bcef9d2",
+   "title": "Ｂ’ｚ稲葉浩志 ソロ初の東京ドーム公演開催決定 ３０周年イヤーの２７年８・１４から２日間「節目のチャレンジ」（デイリースポーツ）",
+   "link": "https://news.yahoo.co.jp/articles/225f327188336e3a65b22f54e354dcced5b62d23",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261117-00000000-dal-000-1-view.jpg?exp=10800",
+   "published": "2026-11-17T01:09:07+09:00",
+   "provider": "google",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "Ｂ’ｚ稲葉浩志 ソロ初の東京ドーム公演開催決定 ３０周年イヤーの２７年８・１４から２日間「節目のチャレンジ」（デイリースポーツ） Yahoo!ニュース",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "kettei",
+   "areas": [
+    "関東"
+   ],
+   "oshi": [],
+   "dates": [],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "d9b6e48b07ad4fd0",
+   "title": "過去の単独ライブ未公開ネタを大放出！12月31日（木）ジャルジャル大晦日ライブ開催決定！",
+   "link": "https://prtimes.jp/main/html/rd/p/000005488.000029501.html",
+   "source": "PR TIMES",
+   "image": "https://prcdn.freetls.fastly.net/release_image/29501/5488/29501-5488-5c15c18d68008cc1b678a4d088bc89a7-1909x2700.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "published": "2026-11-17T01:00:00+09:00",
+   "provider": "bing",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "ジャルジャルが、12月31日（木）にCOOL JAPAN PARK OSAKA TT ホールにて大晦日ライブを開催することが決定しました。 過去に開催した3つの単独ライブで惜しくも本ネタに選ばれなかった未公開ネタを披露するライブで、3公演開催します。単独ライブ動員数4万人を超えるジャルジャルのここだけでしかみれない未公開ネタをぜひ劇場でご体感ください。",
+   "force_genre": null,
+   "genre": "geinin",
+   "type": "kettei",
+   "areas": [],
+   "oshi": [],
+   "dates": [
+    "2026-12-31"
+   ],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "a71aaeae29800968",
+   "title": "【STPR】さとみ、Zeppツアーのオフィシャル先行受付開始！こだわり ...",
+   "link": "https://prtimes.jp/main/html/rd/p/000000855.000059399.html",
+   "source": "PR TIMES",
+   "image": "https://prcdn.freetls.fastly.net/release_image/59399/855/59399-855-e82d75ee291b41d5e1d0fb7b14b41bcb-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "published": "2026-11-17T01:00:00+09:00",
+   "provider": "bing",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "株式会社STPR所属。卓越したトークを活かしたゲーム実況、歌、声優など「声」を起点とした多彩な表現で活躍するストリーマー兼アーティスト。2016年に配信を開始し、YouTube登録者数173万人、SNS累計登録者は約651万人にのぼる (2026年10月現在)。",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "moushikomi",
+   "areas": [
+    "配信"
+   ],
+   "oshi": [],
+   "dates": [],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "65bdbb99b90e8747",
+   "title": "ヘイリー・ウィリアムス、待望のアジアツアー開催決定！！「The Hayley Williams Show」東京公演は 2027年3月3日(水)豊洲PITにて開催！ 11月18日(水)12:00よりチケット最速先行受付開始！ | ニュース | エイベックス・ポータル",
+   "link": "https://www.avexnet.jp/news/1038342",
+   "source": "エイベックス・ポータル",
+   "image": "https://portal-media-org.avexnet.jp/wp-content/news/uploads/hatkey261117.jpg",
+   "published": "2026-11-17T01:00:00+09:00",
+   "provider": "bing",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "ヘイリー・ウィリアムス、待望のアジアツアー開催決定！！「The Hayley Williams Show」東京公演は 2027年3月3日 (水)豊洲PITにて開催！ 11月18日 (水)12:00よりチケット最速先行受付開始！",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "kettei",
+   "areas": [
+    "関東"
+   ],
+   "oshi": [],
+   "dates": [
+    "2027-03-03",
+    "2026-11-18"
+   ],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [
+    {
+     "site": "ローチケ",
+     "url": "https://l-tike.com/st1/n9cqapjwjylunx150i4f"
+    }
+   ],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "cd2e0ad7eeb9b79c",
+   "title": "稲葉浩志、初の東京ドーム単独公演開催決定 来年8月14、15日の2日間、ソロ30周年の節目「1人でも多くの方にお付き合いいただけますよう」",
+   "link": "https://www.msn.com/ja-jp/news/other/%E7%A8%B2%E8%91%89%E6%B5%A9%E5%BF%97-%E5%88%9D%E3%81%AE%E6%9D%B1%E4%BA%AC%E3%83%89%E3%83%BC%E3%83%A0%E5%8D%98%E7%8B%AC%E5%85%AC%E6%BC%94%E9%96%8B%E5%82%AC%E6%B1%BA%E5%AE%9A-%E6%9D%A5%E5%B9%B48%E6%9C%8814-15%E6%97%A5%E3%81%AE2%E6%97%A5%E9%96%93-%E3%82%BD%E3%83%AD30%E5%91%A8%E5%B9%B4%E3%81%AE%E7%AF%80%E7%9B%AE-1%E4%BA%BA%E3%81%A7%E3%82%82%E5%A4%9A%E3%81%8F%E3%81%AE%E6%96%B9%E3%81%AB%E3%81%8A%E4%BB%98%E3%81%8D%E5%90%88%E3%81%84%E3%81%84%E3%81%9F%E3%81%A0%E3%81%91%E3%81%BE%E3%81%99%E3%82%88%E3%81%86/ar-AA2hxIvE",
+   "source": "中日新聞Web on MSN",
+   "image": null,
+   "published": "2026-11-17T01:00:00+09:00",
+   "provider": "bing",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "ロックユニット「B’z」の稲葉浩志（62）が来年8月14、15日の2日間、初となる東京ドーム単独公演を開催することが決定した。1988年9月21日にB’zでデビューした後、97年1月29日にファーストアルバム「マグマ」でソロデビューした稲葉にとって、30周年を迎える節目の年にふさわしい大舞台が用意された。",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "kettei",
+   "areas": [
+    "関東"
+   ],
+   "oshi": [],
+   "dates": [
+    "2027-08-14",
+    "2026-09-21",
+    "2027-01-29"
+   ],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "dc3424706da70bde",
+   "title": "チョン・ヘイン、2027年ファンミツアー全9都市に拡大！ 横浜 ...",
+   "link": "https://danmee.jp/knews/koreandrama/junghaein-tpnews-3/",
+   "source": "Danmee ダンミ",
+   "image": "https://danmee.jp/wp-content/uploads/2026/11/tp-Jung-Hae-In11-e1794883665114.jpg",
+   "published": "2026-11-17T01:00:00+09:00",
+   "provider": "bing",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "チョン・ヘインが、2027年に開催するファンミーティングツアー『2027 JUNG HAE IN FAN 'MEET ME THERE'』の追加日程を発表し、横浜とソウルの公演が新たに決定した。同ツアーは香港、バンコク、マニラ、サンティアゴ、サンパウロ、メキシコシティ、台北、横浜、ソウルの全9都市を巡り、2027年3月20日・21日のソウル公演でフィナーレを迎える予定。2024年～2025年開催の ...",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "kettei",
+   "areas": [
+    "関東"
+   ],
+   "oshi": [],
+   "dates": [
+    "2027-03-20"
+   ],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "db27a79c40fba09b",
+   "title": "ラブライブフェス追加公演決定！なぜラブライブフェスは追加公演 ...",
+   "link": "https://note.com/rich_gerbil5217/n/nbce4ee1f4e80",
+   "source": "note",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/5d74eff25597ea532b3775bcc811da0ce8689e21.png",
+   "published": "2026-11-17T00:18:00+09:00",
+   "provider": "bing",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "先日、15thラブライブフェスにて追加公演が東京ドームで行われることが発表されました しかしここでとある疑問が生まれます 「本当は前々から計画されてたのではないか」 何も知らない人からすれば東京ドームなんて会場を取るのに難易度が高いハコなのにあらかじめ決めてないと入れられるわけないと言うのは当然の考えです。 そこで今回なぜラブライブフェスが追加公演を行うことができたのかを見ていきたいと思います。",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "fes",
+   "areas": [
+    "関東"
+   ],
+   "oshi": [],
+   "dates": [],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "48e7d05883f9cb83",
+   "title": "稲葉浩志が初の東京ドーム単独ライブ開催、ソロデビュー30周年の節目に",
+   "link": "https://natalie.mu/music/news/698274",
+   "source": "音楽ナタリー",
+   "image": null,
+   "published": "2026-11-17T00:05:00+09:00",
+   "provider": "feed",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "稲葉浩志（B'z）が2027年8月14、15日に東京・東京ドームで単独公演「Koshi Inaba LIVE 2027 ～en-DOME～」を開催する。",
+   "force_genre": "artist",
+   "genre": "artist",
+   "type": "kettei",
+   "areas": [
+    "関東"
+   ],
+   "oshi": [],
+   "dates": [
+    "2027-08-14"
+   ],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "c19dedd7d3cb4350",
+   "title": "📎 【ライブレポ】wacci、全国ツアー「wacci Hall Tour 2026-2027 ～あわい～」が開幕！東京公演はチケットSOLD OUT!!",
+   "link": "https://entameclip.com/news/494237/",
+   "source": "日刊エンタメクリップ",
+   "image": "https://cdn.entameclip.com/2026/11/pic20261116wacci1-1200x800.webp",
+   "published": "2026-11-16T23:36:56+09:00",
+   "provider": "google",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "📎 【ライブレポ】wacci、全国ツアー「wacci Hall Tour 2026-2027 ～あわい～」が開幕！東京公演はチケットSOLD OUT!! 日刊エンタメクリップ",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "kettei",
+   "areas": [
+    "関東"
+   ],
+   "oshi": [],
+   "dates": [],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "d8f2c046d679438c",
+   "title": "Zeke Deux、来年のツアー\"Salvation\"詳細発表！Z CLEAR、OPHELIA、DUAL CREED等 ...",
+   "link": "https://gekirock.com/news/2026/11/zeke_deux_tour_salvation_guest.php",
+   "source": "激ロック",
+   "image": "https://gekirock.com/news/2026/11/16/images/5D9A2530.jpg",
+   "published": "2026-11-16T22:00:00+09:00",
+   "provider": "bing",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "11月11日に結成5周年を迎えたZeke Deuxが、2027年1月24日の福岡graf公演を皮切りに、全8ヶ所8公演にわたる全国ツアー [Zeke Deux TOUR2027 \"Salvation\"]の詳細を発表した！ 同ツアーのファイナルとなるのは、4月22日のBLAZE GOTANDA公演で、先にツアーの日程は発表となっていたが、このたび同ツアーを各地でサポートするバンドの情報が公開。今回の ...",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "kettei",
+   "areas": [
+    "九州・沖縄"
+   ],
+   "oshi": [],
+   "dates": [
+    "2026-11-11",
+    "2027-01-24",
+    "2027-04-22"
+   ],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "25259c3236085eb2",
+   "title": "秋田駅前で「稲妻アメカジマーケット」開催！ハンバーガーフェスも同時開催【2026年11月】",
+   "link": "https://dochaku.com/akita2026111602",
+   "source": "じゃんごブログ",
+   "image": "https://dochaku.com/wp-content/uploads/2026/11/akita2026111602.jpg",
+   "published": "2026-11-16T21:37:17+09:00",
+   "provider": "google",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "秋田駅前で「稲妻アメカジマーケット」開催！ハンバーガーフェスも同時開催【2026年11月】 じゃんごブログ",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "fes",
+   "areas": [
+    "東北"
+   ],
+   "oshi": [],
+   "dates": [],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "530a9fac6a54aa87",
+   "title": "CYNHN全国ツアー決定、新曲「アマネ」配信スタート",
+   "link": "https://natalie.mu/music/news/698229",
+   "source": "音楽ナタリー",
+   "image": null,
+   "published": "2026-11-16T21:30:00+09:00",
+   "provider": "feed",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "CYNHNが2027年3月より全国ツアー「CYNHN TOUR 2027」を行う。",
+   "force_genre": "artist",
+   "genre": "artist",
+   "type": "kettei",
+   "areas": [
+    "配信"
+   ],
+   "oshi": [],
+   "dates": [],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "2d460b6726aac46e",
+   "title": "【イオンモール秋田】サンシャイン池崎のお笑いライブ開催決定！",
+   "link": "https://dochaku.com/akita20261116",
+   "source": "じゃんごブログ",
+   "image": "https://dochaku.com/wp-content/uploads/2026/11/akita20261116.jpg",
+   "published": "2026-11-16T21:27:17+09:00",
+   "provider": "google",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "【イオンモール秋田】サンシャイン池崎のお笑いライブ開催決定！ じゃんごブログ",
+   "force_genre": null,
+   "genre": "geinin",
+   "type": "kettei",
+   "areas": [
+    "東北"
+   ],
+   "oshi": [],
+   "dates": [],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "f2e9635aa10be926",
+   "title": "cacaoが12月に東京で「cacaoの日」開催、異なる3公演（お笑いナタリー）",
+   "link": "https://natalie.mu/owarai/news/698272",
+   "source": "お笑いナタリー",
+   "image": null,
+   "published": "2026-11-16T21:13:00+09:00",
+   "provider": "feed",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "cacaoが、12月4日（金）に東京・科学技術館サイエンスホールで「cacaoの日」と題したイベントを開催。異なる3公演を実施する。",
+   "force_genre": "geinin",
+   "genre": "geinin",
+   "type": "kettei",
+   "areas": [
+    "関東"
+   ],
+   "oshi": [],
+   "dates": [
+    "2026-12-04"
+   ],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "2727f9b6e7c8bb65",
+   "title": "『CDTVライブ！ライブ！』EBiDANフェス開催 選抜で3曲＆各グループがヒット曲披露 BE:FIRST、ILLIT、HANA、FANTASTICS、高畑充希、XGも登場（TV LIFE web）",
+   "link": "https://news.yahoo.co.jp/articles/f89cc4bef0e707117b80fe3971cee3561e88f777",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261116-00010012-tvlife-000-1-view.jpg?exp=10800",
+   "published": "2026-11-16T21:00:58+09:00",
+   "provider": "google",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "『CDTVライブ！ライブ！』EBiDANフェス開催 選抜で3曲＆各グループがヒット曲披露 BE:FIRST、ILLIT、HANA、FANTASTICS、高畑充希、XGも登場（TV LIFE web） Yahoo!ニュース",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "fes",
+   "areas": [],
+   "oshi": [],
+   "dates": [],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "2f19555802731d9c",
+   "title": "MUCCが結成30周年に向けニューアルバム「LOTUS」リリース、全国ツアーも決定",
+   "link": "https://natalie.mu/music/news/698254",
+   "source": "音楽ナタリー",
+   "image": null,
+   "published": "2026-11-16T21:00:00+09:00",
+   "provider": "feed",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "MUCCにとって通算18枚目となるオリジナルアルバム「LOTUS」が2027年2月24日にリリースされる。",
+   "force_genre": "artist",
+   "genre": "artist",
+   "type": "kettei",
+   "areas": [],
+   "oshi": [],
+   "dates": [
+    "2027-02-24"
+   ],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "6abd0f0eaa3b69e7",
+   "title": "「CDTV」でEBiDANフェス開催！ILLIT、XG、高畑充希、HANA、FANTASTICSらも出演",
+   "link": "https://natalie.mu/music/news/698268",
+   "source": "音楽ナタリー",
+   "image": null,
+   "published": "2026-11-16T20:55:00+09:00",
+   "provider": "feed",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "11月30日にTBS系で生放送される「CDTVライブ！ライブ！」の出演アーティストおよび歌唱曲が発表された。",
+   "force_genre": "artist",
+   "genre": "artist",
+   "type": "fes",
+   "areas": [],
+   "oshi": [],
+   "dates": [
+    "2026-11-30"
+   ],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "d441189988f2db4d",
+   "title": "BE:FIRSTが3曲披露、EBiDANは特別フェス！ 『CDTVライブ！ライブ！』出演者＆楽曲発表 - 音楽 - ニュース",
+   "link": "https://www.crank-in.net/news/194352/1",
+   "source": "クランクイン！",
+   "image": "https://www.crank-in.net/img/db/263118163179381_1200.jpg",
+   "published": "2026-11-16T20:55:00+09:00",
+   "provider": "google",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "BE:FIRSTが3曲披露、EBiDANは特別フェス！ 『CDTVライブ！ライブ！』出演者＆楽曲発表 - 音楽 - ニュース クランクイン！",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "fes",
+   "areas": [],
+   "oshi": [],
+   "dates": [],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [
+    {
+     "site": "ローチケ",
+     "url": "https://l-tike.com/?utm_source=crank-in.net&utm_medium=referral&utm_campaign=ci_common&utm_content=header"
+    }
+   ],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "fb5634acdd2614e7",
+   "title": "11月30日放送「CDTV」2時間SP出演アーティストはBE:FIRST・ILLIT・HANAら EBiDANフェスも開催",
+   "link": "https://mdpr.jp/music/detail/4877706",
+   "source": "モデルプレス",
+   "image": null,
+   "published": "2026-11-16T20:55:00+09:00",
+   "provider": "google",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "11月30日放送「CDTV」2時間SP出演アーティストはBE:FIRST・ILLIT・HANAら EBiDANフェスも開催 モデルプレス",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "fes",
+   "areas": [],
+   "oshi": [],
+   "dates": [
+    "2026-11-30"
+   ],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "82cd71a6bcefb3aa",
+   "title": "11/30放送「CDTV 」で“EBiDANフェス”開催！ FANTASTICS、HANA、ILLITらも登場",
+   "link": "https://news.infoseek.co.jp/article/oshiraku_30726/",
+   "source": "Infoseek",
+   "image": "https://media.image.infoseek.co.jp/isnews/photos/oshiraku/oshiraku_30726_0-enlarge.jpg",
+   "published": "2026-11-16T20:55:00+09:00",
+   "provider": "google",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "11/30放送「CDTV 」で“EBiDANフェス”開催！ FANTASTICS、HANA、ILLITらも登場 Infoseek",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "fes",
+   "areas": [],
+   "oshi": [],
+   "dates": [
+    "2026-11-30"
+   ],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "04c3c5a156101195",
+   "title": "雪国が温かな空気で会場を包み込んだ全国ツアーファイナル「WWWでワンマンをするのが夢でした」",
+   "link": "https://natalie.mu/music/news/698119",
+   "source": "音楽ナタリー",
+   "image": null,
+   "published": "2026-11-16T20:47:00+09:00",
+   "provider": "feed",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "雪国にとって初となる全国ツアー「雪国 One Man Tour 2026 \"claras\"」の最終公演が11月14日に東京・WWWで開催された。",
+   "force_genre": "artist",
+   "genre": "artist",
+   "type": "kettei",
+   "areas": [
+    "関東"
+   ],
+   "oshi": [],
+   "dates": [
+    "2026-11-14"
+   ],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "b7793e4bd15ca491",
+   "title": "『FF』40周年記念「オーケストラコンサート」日本公演のチケット最速先行抽選が本日11月16日より受付開始",
+   "link": "https://news.denfaminicogamer.jp/news/2611162e",
+   "source": "電ファミニコゲーマー",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/DW_Eternal_OGP.jpg",
+   "published": "2026-11-16T20:45:00+09:00",
+   "provider": "google",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "『FF』40周年記念「オーケストラコンサート」日本公演のチケット最速先行抽選が本日11月16日より受付開始 電ファミニコゲーマー",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "moushikomi",
+   "areas": [],
+   "oshi": [],
+   "dates": [
+    "2026-11-16"
+   ],
+   "deadline": null,
+   "sale_start": "2026-11-16",
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "67ba6f43e1750738",
+   "title": "『LoveLive! Series 15th Anniversary ラブライブ！フェス』 東京ドーム追加公演決定、誠に、おめでとうございます🎉 『バンテリンドーム ナゴヤ』で、各グループの皆さんが、シリーズの垣根を越えてつくり上げた素晴らしいステージに、胸が熱くなりました♥ 次の大舞台は『東京ドーム",
+   "link": "https://t.co/VrllEJeRKh",
+   "source": "Howl.Link",
+   "image": null,
+   "published": "2026-11-16T20:00:42+09:00",
+   "provider": "google",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "『LoveLive! Series 15th Anniversary ラブライブ！フェス』 東京ドーム追加公演決定、誠に、おめでとうございます🎉 『バンテリンドーム ナゴヤ』で、各グループの皆さんが、シリーズの垣根を越えてつくり上げた素晴らしいステージに、胸が熱くなりました♥ 次の大舞台は『東京ドーム Howl.Link",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "fes",
+   "areas": [
+    "関東"
+   ],
+   "oshi": [],
+   "dates": [],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
   {
    "id": "d83df06dcf6893e9",
    "title": "YOASOBIが韓国で初のスタジアム公演開催、ツアー「超惑星」ファイナル公演の会場が明らかに",
@@ -137,6 +1189,32 @@
    "areas": [],
    "oshi": [],
    "dates": [],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "c2616b5e612ffd79",
+   "title": "稲葉浩志、ソロ活動30周年で初の東京ドーム単独公演決定「節目の年のチャレンジ」 来年8月に2Days",
+   "link": "https://www.oricon.co.jp/news/2493334/full/",
+   "source": "ORICON NEWS",
+   "image": "https://contents.oricon.co.jp/upimg/news/2494000/2493334/20261117_085052_p_o_94693801.jpg",
+   "published": "2026-11-16T19:55:00+09:00",
+   "provider": "bing",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "ニュース｜ B'zの稲葉浩志が、来年8月14日、15日に東京ドームでソロとして初の単独公演『Koshi Inaba LIVE 2027 ～en-DOME～』を開催することが決定した。 稲葉は現在、全国29ヶ所36公演をめぐるホール・アリーナツアー『Koshi Inaba LIVE 2026-2027 ～enV～』を開催中。また、『2026 ワールドベースボールクラシック』のNetflix大会応援ソ ...",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "kettei",
+   "areas": [
+    "関東"
+   ],
+   "oshi": [],
+   "dates": [
+    "2027-08-14"
+   ],
    "deadline": null,
    "sale_start": null,
    "apply": [],
@@ -353,7 +1431,7 @@
   },
   {
    "id": "c7d7128ea32fb546",
-   "title": "「全部言いました！！！」事務所のお笑いライブが取り置きじゃないと出演者にお金が入らないのに、入場は電子チケット予約のお客さんが先であることに、所属芸人が不満爆発",
+   "title": "「全部言いました！！！」事務所のお笑いライブが取り置きじゃないと出演者にお金が入らないのに、入場は電子チケット予約のお客さんが先であることに、所属芸人が不満爆発 (2ページ目)",
    "link": "https://togetter.com/li/2771135",
    "source": "Togetter",
    "image": "https://s.tgstc.com/ogp3/443745f7babf75bee5dae03afcdf57f7-1200x630.jpeg",
@@ -364,6 +1442,28 @@
    "force_genre": null,
    "genre": "geinin",
    "type": "fes",
+   "areas": [],
+   "oshi": [],
+   "dates": [],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "f3babfd04fab0735",
+   "title": "Bybe物語の1stワンマンライブ開催決定 Tid会員先着300名を無料招待へ",
+   "link": "https://news.dellows.jp/798804/",
+   "source": "Dellows News",
+   "image": "https://news.dellows.jp/wp-content/uploads/2026/10/798804_1.jpg",
+   "published": "2026-11-16T18:22:30+09:00",
+   "provider": "google",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "Bybe物語の1stワンマンライブ開催決定 Tid会員先着300名を無料招待へ Dellows News",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "moushikomi",
    "areas": [],
    "oshi": [],
    "dates": [],
@@ -673,6 +1773,32 @@
    "apply_checked": true
   },
   {
+   "id": "2cf5cca6b5332746",
+   "title": "B’z稲葉浩志 ソロ初の東京ドーム公演開催決定 30周年イヤーの27年8 ...",
+   "link": "https://www.msn.com/ja-jp/entertainment/music/%EF%BD%82-%EF%BD%9A%E7%A8%B2%E8%91%89%E6%B5%A9%E5%BF%97-%E3%82%BD%E3%83%AD%E5%88%9D%E3%81%AE%E6%9D%B1%E4%BA%AC%E3%83%89%E3%83%BC%E3%83%A0%E5%85%AC%E6%BC%94%E9%96%8B%E5%82%AC%E6%B1%BA%E5%AE%9A-%EF%BC%93%EF%BC%90%E5%91%A8%E5%B9%B4%E3%82%A4%E3%83%A4%E3%83%BC%E3%81%AE%EF%BC%92%EF%BC%97%E5%B9%B4%EF%BC%98-%EF%BC%91%EF%BC%94%E3%81%8B%E3%82%89%EF%BC%92%E6%97%A5%E9%96%93-%E7%AF%80%E7%9B%AE%E3%81%AE%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8/ar-AA2hyrUR",
+   "source": "デイリースポーツ on MSN",
+   "image": null,
+   "published": "2026-11-16T17:05:21+09:00",
+   "provider": "bing",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "Ｂ’ｚの稲葉浩志（６２）がソロデビュー３０周年を迎える来年の８月１４、１５日の２日間、ソロとして初の東京ドーム公演を行うことが１６日、分かった。現在は全国２９カ所３６公演を巡るホール・アリーナツアーを開催中で、年末にはソロ初の「ＮＨＫ紅白歌合戦」出場も決定。勢いそのままに、メモリアルイヤーでのビッグステージへ臨む。",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "kettei",
+   "areas": [
+    "関東"
+   ],
+   "oshi": [],
+   "dates": [
+    "2027-08-14"
+   ],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
    "id": "3be85c61cdf51e62",
    "title": "LINKKPOP FES SEASON VII、12月11日に横浜で開催。ORBIT、TrESら6組出演、チケット一般発売中",
    "link": "https://k-entame.jp/archives/117662",
@@ -767,7 +1893,9 @@
     "関東"
    ],
    "oshi": [],
-   "dates": [],
+   "dates": [
+    "2026-12-19"
+   ],
    "deadline": null,
    "sale_start": null,
    "apply": [],
@@ -843,6 +1971,28 @@
    "provider": "google",
    "added": "2026-11-16T20:11:16+09:00",
    "summary": "【Travis Japan】アリーナツアー2027「Jewelry Basket」の制作開放席はいつ？案内の届く日を会場ごとに予想 ルルリボンのブログ",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "kettei",
+   "areas": [],
+   "oshi": [],
+   "dates": [],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "f62edbe8c86a434d",
+   "title": "【TEDESCHI TRUCKS BAND / テデスキ・トラックス・バンド】ツアー初日のライブレポートが到着！",
+   "link": "https://www.udo.jp/news/TedeschiTrucksBand26_NagoyaLiveReport",
+   "source": "ウドー音楽事務所",
+   "image": "https://www.udo.jp/media/sxwC8QfClYu5Pw2w2hjs5fsNmH56Xr6TyyPEcYI1.jpg",
+   "published": "2026-11-16T16:18:00+09:00",
+   "provider": "google",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "【TEDESCHI TRUCKS BAND / テデスキ・トラックス・バンド】ツアー初日のライブレポートが到着！ ウドー音楽事務所",
    "force_genre": null,
    "genre": "artist",
    "type": "kettei",
@@ -1003,6 +2153,33 @@
    "deadline": null,
    "sale_start": null,
    "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "434ee37e400223d9",
+   "title": "INI、5周年記念ドームツアー完走！ 木村柾哉、共に歩むメンバーは「頼もしくて、心強い仲間たち」 - 音楽 - ニュース",
+   "link": "https://www.crank-in.net/news/194326",
+   "source": "クランクイン！",
+   "image": "https://www.crank-in.net/img/db/266110160145371_1200.jpg",
+   "published": "2026-11-16T14:50:00+09:00",
+   "provider": "google",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "INI、5周年記念ドームツアー完走！ 木村柾哉、共に歩むメンバーは「頼もしくて、心強い仲間たち」 - 音楽 - ニュース クランクイン！",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "kettei",
+   "areas": [],
+   "oshi": [],
+   "dates": [],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [
+    {
+     "site": "ローチケ",
+     "url": "https://l-tike.com/?utm_source=crank-in.net&utm_medium=referral&utm_campaign=ci_common&utm_content=header"
+    }
+   ],
    "image_checked": true,
    "apply_checked": true
   },
@@ -1238,8 +2415,30 @@
    "apply_checked": true
   },
   {
+   "id": "7211b37fab37fe7c",
+   "title": "30日放送『CDTVライブ!ライブ!』2時間SP出演アーティスト発表 EBiDANフェス開催決定【歌唱曲一覧】",
+   "link": "https://mainichi.jp/articles/20261116/orc/00m/200/204000c",
+   "source": "毎日新聞デジタル",
+   "image": null,
+   "published": "2026-11-16T12:55:00+09:00",
+   "provider": "bing",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "30日放送のTBS系音楽番組『CDTVライブ！ライブ！』（後7：00～後8：55）の出演アーティストと歌唱曲が16日、発表された。 【写真】豪華すぎる…EBiDANフェス出演グループ BE:FIRSTによる「マンスリーライブ！」は、ラスト4週目を迎え、「Bye-Good-Bye」「NOW ...",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "kettei",
+   "areas": [],
+   "oshi": [],
+   "dates": [],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
    "id": "2bafb7f949e5448a",
-   "title": "「かわいい」のその先にある秘密とは？夜のペンギンワールドへようこそ！いのちのドラマに出会う『ナイトペンギンツアー２０２７』開催決定！",
+   "title": "「かわいい」のその先にある秘密とは？夜のペンギンワールドへようこそ！いのちのドラマに出会う『ナイトペンギンツアー２０２７』開催決定！２０２６年１１月１７日（火）よりチケット販売開始｜トピックス",
    "link": "https://prtimes.jp/main/html/rd/p/000001218.000040302.html",
    "source": "PR TIMES",
    "image": "https://prcdn.freetls.fastly.net/release_image/40302/1218/40302-1218-f30d6781770cd48a5336addb2b2d64ab-790x588.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
@@ -1324,7 +2523,9 @@
    "oshi": [
     "Mrs. GREEN APPLE"
    ],
-   "dates": [],
+   "dates": [
+    "2026-11-15"
+   ],
    "deadline": null,
    "sale_start": null,
    "apply": [],
@@ -1628,7 +2829,7 @@
    "summary": "スクウェア・エニックスは、「ファイナルファンタジー」40周年を記念したオーケストラコンサート「FINAL FANTASY 40th Anniversary Distant Worlds: music from FINAL FANTASY - Eternal / ...",
    "force_genre": null,
    "genre": "artist",
-   "type": "sonota",
+   "type": "moushikomi",
    "areas": [],
    "oshi": [],
    "dates": [],
@@ -1650,7 +2851,7 @@
    "summary": "レトロリロンが、2027年に全国ツアー『RETRORIRON ROAD TOUR 2027 “WINTER→SPRING”』を開催する。 今回発表となった全国ツアーは、2月21日の山口県 周南 RISING HALL公演を皮切りに、4月3日の千葉県 ...",
    "force_genre": null,
    "genre": "artist",
-   "type": "kettei",
+   "type": "moushikomi",
    "areas": [
     "関東",
     "中国・四国"
@@ -1684,7 +2885,8 @@
     "関東",
     "東海",
     "関西",
-    "九州・沖縄"
+    "九州・沖縄",
+    "配信"
    ],
    "oshi": [],
    "dates": [
@@ -2081,8 +3283,8 @@
    "areas": [],
    "oshi": [],
    "dates": [
-    "2026-11-16",
-    "2026-11-30"
+    "2026-11-30",
+    "2026-11-16"
    ],
    "deadline": "2026-11-30",
    "sale_start": null,
@@ -2468,6 +3670,64 @@
    "apply_checked": true
   },
   {
+   "id": "2e44557858d12949",
+   "title": "【神奈川県川崎市中原区】173回続く元住吉のお笑いライブ！梅ちゃん！に学ぶ継続の大切さ",
+   "link": "https://go2senkyo.com/seijika/200828/posts/1583644",
+   "source": "選挙ドットコム",
+   "image": null,
+   "published": "2026-11-16T01:00:00+09:00",
+   "provider": "bing",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "皆さんは、元住吉で毎月開催されているお笑いライブをご存じでしょうか？毎月第3月曜日、元住吉のライブバー＆レストラン「POWERS2」で開催されている「元住吉Powers2お笑いライブ」。2026年11月16日（月）、その第173回公演に行ってきました！なんと173回です！月に1回の開催を積み重ね、15年以上にわたって続いているお笑いライブ。主催者として中心になって活動しているのが、お笑い芸人 ...",
+   "force_genre": null,
+   "genre": "geinin",
+   "type": "sonota",
+   "areas": [
+    "関東"
+   ],
+   "oshi": [],
+   "dates": [
+    "2026-11-16"
+   ],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "a8278738d8c1ee8d",
+   "title": "さとみのZeppツアー、チケット先行受付とグッズ販売を開始",
+   "link": "https://news.dellows.jp/1218940/",
+   "source": "news.dellows.jp",
+   "image": "https://news.dellows.jp/wp-content/uploads/2026/11/1218940_1.jpg",
+   "published": "2026-11-16T01:00:00+09:00",
+   "provider": "bing",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "さとみが開催するZeppツアー『SATOMI UTATTEMITA TOUR 10th』のチケットオフィシャル先行受付（抽選）が、2026年11月14日 (土)に始まった。オフィシャルグッズは11月16日 (月)から「STPR ONLINE STORE」で販売している。ツアーは2026年12月28日 (月)の大阪公演を皮切りに、愛知・東京・福岡を巡り、2027年1月11日 ...",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "moushikomi",
+   "areas": [
+    "関東",
+    "東海",
+    "関西",
+    "九州・沖縄"
+   ],
+   "oshi": [],
+   "dates": [
+    "2026-11-14",
+    "2026-11-16",
+    "2026-12-28",
+    "2027-01-11"
+   ],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
    "id": "f7818d2d6ca4ec10",
    "title": "理芽・春猿火・幸?、待望のワンマンライブ「神椿後楽園戦線」開催 ...",
    "link": "https://www.oricon.co.jp/pressrelease/3087559/",
@@ -2527,7 +3787,7 @@
    "summary": "ORBIT・TrES・EPTS・FISTBUMP・WONJUN・BAEKGYEULが横浜YTJホールに集結！12月11日（金）昼夜2回公演。MCはSIKU（TrES）とYOUNGHOON（ORBIT） LIBERA株式会社（本社：東京都渋谷区）は、Naturally Musicと共同で運営するK-POPライブフェスティバル「2026 LINKKPOP FES in TOKYO SEASON VII ...",
    "force_genre": null,
    "genre": "artist",
-   "type": "fes",
+   "type": "moushikomi",
    "areas": [
     "関東",
     "関西"
@@ -2571,6 +3831,30 @@
    "apply_checked": true
   },
   {
+   "id": "6749d4ebd9e7c263",
+   "title": "『ナイチンゲールダンス』ヤス以外の名前も取り沙汰されていて…吉本芸人を直撃した「闇ライブ」の衝撃",
+   "link": "https://www.msn.com/ja-jp/entertainment/%E5%85%A8%E8%88%AC/%E3%83%8A%E3%82%A4%E3%83%81%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%AB%E3%83%80%E3%83%B3%E3%82%B9-%E3%83%A4%E3%82%B9%E4%BB%A5%E5%A4%96%E3%81%AE%E5%90%8D%E5%89%8D%E3%82%82%E5%8F%96%E3%82%8A%E6%B2%99%E6%B1%B0%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%A6-%E5%90%89%E6%9C%AC%E8%8A%B8%E4%BA%BA%E3%82%92%E7%9B%B4%E6%92%83%E3%81%97%E3%81%9F-%E9%97%87%E3%83%A9%E3%82%A4%E3%83%96-%E3%81%AE%E8%A1%9D%E6%92%83/ar-AA2huw8c",
+   "source": "FRIDAYデジタル on MSN",
+   "image": null,
+   "published": "2026-11-15T23:00:00+09:00",
+   "provider": "bing",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "所属する吉本興業を通さずに個人でライブを主催していたとして、『ナイチンゲールダンス』のヤスが10月31日付で吉本興業との契約を終了した。今回の件を受け、芸人の間ではあるウワサが飛び交っているという―― ...",
+   "force_genre": null,
+   "genre": "geinin",
+   "type": "sonota",
+   "areas": [],
+   "oshi": [],
+   "dates": [
+    "2026-10-31"
+   ],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
    "id": "ee89f87b0b954d54",
    "title": "長野市出身の藤澤涼架さんがメンバーの3人組人気バンド「Mrs. GREEN APPLE」の 長野公演が延期に メンバーの大森元貴さんがインフルエンザA型と診断「本人の病状回復と感染拡大防止を最優先に考慮」 | SBC NEWS | 長野のニュース | SBC信越放送 (1ページ)",
    "link": "https://newsdig.tbs.co.jp/articles/sbc/3087031?display=1",
@@ -2589,6 +3873,30 @@
    "oshi": [
     "Mrs. GREEN APPLE"
    ],
+   "dates": [],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "9d9d2440f9a0af7f",
+   "title": "Dr.ハインリッヒ、東京・ルミネtheよしもとで単独ライブ『風力、D』決定【コメント】",
+   "link": "https://www.sanyonews.jp/article/1991775?rct=oricon_geino&kw=2024",
+   "source": "山陽新聞",
+   "image": "https://static.sanyonews.jp/image/article/size1/4/4/9/e/449eb4e5b9d040c0694b36ba2771dfc1_1.jpg",
+   "published": "2026-11-15T22:49:31+09:00",
+   "provider": "google",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "Dr.ハインリッヒ、東京・ルミネtheよしもとで単独ライブ『風力、D』決定【コメント】 山陽新聞",
+   "force_genre": null,
+   "genre": "geinin",
+   "type": "kettei",
+   "areas": [
+    "関東"
+   ],
+   "oshi": [],
    "dates": [],
    "deadline": null,
    "sale_start": null,
@@ -2636,7 +3944,7 @@
    "summary": "電子チケットサービス「チケプラ」や主催者公認の公式リセールサービス「チケプラTrade」を提供する株式会社チケットプラスは、2026年12月11日（金）から開催される『KAMITSUBAKI WARS 2026 神椿後楽園戦線 at Kanadevia Hall』にて、チケプラ電子チケットおよびチケプラTradeが採用されたことをお知らせします。 ■3アーティストともに1年以上ぶりとなる待望の単独 ...",
    "force_genre": null,
    "genre": "artist",
-   "type": "kettei",
+   "type": "moushikomi",
    "areas": [],
    "oshi": [],
    "dates": [
@@ -3751,30 +5059,6 @@
    "apply_checked": true
   },
   {
-   "id": "ca672430831797a8",
-   "title": "今夜CDTVライブ！ライブ！】Mrs. GREEN APPLEが2曲連続ライブ！BE:FIRSTも登場、豪華出演者＆披露曲に注目！ Veleno Habs (jDhifAG4P5)",
-   "link": "https://media.unisba.ac.id/af616e23/e4d3e57dzzCmlgFrwNI/?share=twitter&nb=1",
-   "source": "Unisba Media",
-   "image": null,
-   "published": "2026-11-15T15:47:43+09:00",
-   "provider": "google",
-   "added": "2026-11-16T20:11:16+09:00",
-   "summary": "今夜CDTVライブ！ライブ！】Mrs. GREEN APPLEが2曲連続ライブ！BE:FIRSTも登場、豪華出演者＆披露曲に注目！ Veleno Habs (jDhifAG4P5) Unisba Media",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "fes",
-   "areas": [],
-   "oshi": [
-    "Mrs. GREEN APPLE"
-   ],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
    "id": "82c4ae9136a8e05f",
    "title": "ホロライブ「あやふぶみ」1stライブ「百花繚乱あやふぶみ」2027年2月に有明アリーナで開催決定！FC先行抽選・推しカメラ配信・ライブグッズ受付がスタート",
    "link": "https://nijimen.kusuguru.co.jp/topics/658334",
@@ -3860,7 +5144,7 @@
    "image": null,
    "published": "2026-11-15T14:41:13+09:00",
    "provider": "google",
-   "added": "2026-11-16T20:11:16+09:00",
+   "added": "2026-11-17T12:49:37+09:00",
    "summary": "アレン様、恋愛相談で“過激回答”連発に霜降り明星せいやが絶句！？ 『ラブキャッチャージャパン2』単独インタビュー Aryna Sabalenka (qOhBCFtskI) Unisba Media",
    "force_genre": null,
    "genre": "geinin",
@@ -4269,7 +5553,7 @@
   },
   {
    "id": "bfbccad3cfe77a33",
-   "title": "祇園、ツアーと連動した写真展開催 公演中写真やオフショット",
+   "title": "祇園、ツアーと連動した写真展開催 公演中写真やオフショット (お笑いナタリー)",
    "link": "https://natalie.mu/owarai/news/698039",
    "source": "お笑いナタリー",
    "image": null,
@@ -4362,6 +5646,30 @@
    ],
    "oshi": [],
    "dates": [],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "10b6855709704988",
+   "title": "城谷步独演会ｰ八百八怪ｰライブレポ11/14昼の部",
+   "link": "https://note.com/honest_bison3520/n/nc92a76f83ef5",
+   "source": "note",
+   "image": "https://assets.st-note.com/production/uploads/images/336359498/rectangle_large_type_2_ba09c71f6646494ca17dd856c76b4391.png?fit=bounds&quality=85&width=1280",
+   "published": "2026-11-15T08:51:00+09:00",
+   "provider": "bing",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "昨今、ブームとなっている「怪談」 それを語る「怪談師」も随分と増えました 以前レポした怪談イベントはこちら↓ さてそんな怪談界隈でも一目置かれる、業界屈指の人気怪談師「城谷步（しろたにわたる）」さん 軽妙洒脱な一面を見せたかと思えば 重厚でおどろおどろしい語り口を見せる 唯一無二の「名人芸」で人々を魅了することから 「日本一チケットの取れない怪談師」 という異名まであります そんな城谷さんと初めて ...",
+   "force_genre": null,
+   "genre": "geinin",
+   "type": "kettei",
+   "areas": [],
+   "oshi": [],
+   "dates": [
+    "2026-11-14"
+   ],
    "deadline": null,
    "sale_start": null,
    "apply": [],
@@ -4464,7 +5772,7 @@
   },
   {
    "id": "30dab9e25e300502",
-   "title": "お笑いコンビ・祇園、結成18周年ツアーの「写真展」開催決定",
+   "title": "お笑いコンビ・祇園、結成18周年ツアーの「写真展」開催決定 (オリコン)",
    "link": "https://www.oricon.co.jp/news/2493009/full/",
    "source": "ORICON NEWS",
    "image": "https://contents.oricon.co.jp/upimg/news/2494000/2493009/20261115_180444_p_o_34361878.jpg",
@@ -4582,6 +5890,31 @@
     "かまいたち",
     "霜降り明星"
    ],
+   "dates": [],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "fa631263b258a2df",
+   "title": "浜田雅功、自身初単独バンドライブ開催決定 『DOWNTOWN＋』1周年記念…松本人志のコント、浜田ドラマのアーカイブ配信も【概要】",
+   "link": "https://www.sanyonews.jp/article/2006077?kw=.xzhf",
+   "source": "山陽新聞",
+   "image": "https://static.sanyonews.jp/image/article/size1/5/9/7/a/597ace6d3990b80b17e3c694fd00cd03_1.jpg",
+   "published": "2026-11-15T00:51:13+09:00",
+   "provider": "google",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "浜田雅功、自身初単独バンドライブ開催決定 『DOWNTOWN＋』1周年記念…松本人志のコント、浜田ドラマのアーカイブ配信も【概要】 山陽新聞",
+   "force_genre": null,
+   "genre": "geinin",
+   "type": "kettei",
+   "areas": [
+    "北陸・甲信越",
+    "配信"
+   ],
+   "oshi": [],
    "dates": [],
    "deadline": null,
    "sale_start": null,
@@ -5525,6 +6858,28 @@
    "apply_checked": true
   },
   {
+   "id": "d503f1a1ecd7fc0c",
+   "title": "ブルーノ・マーズ、『THE MUSIC DAY』初歌唱決定 全国6都市12公演ドームツアーも発表【出演アーティスト一覧】",
+   "link": "https://www.sanyonews.jp/article/1942561?rct=oricon_music&kw=2024%3Cbr%20/%3E%E2%80%9D%20target=%E2%80%9D_blank%E2%80%9D%3Ehttps://www.sanyonews.jp/article/1815191?kw=",
+   "source": "山陽新聞",
+   "image": "https://static.sanyonews.jp/image/article/size1/e/0/7/c/e07cedda436331517788f64880804f8b_1.jpg",
+   "published": "2026-11-14T19:12:45+09:00",
+   "provider": "google",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "ブルーノ・マーズ、『THE MUSIC DAY』初歌唱決定 全国6都市12公演ドームツアーも発表【出演アーティスト一覧】 山陽新聞",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "kettei",
+   "areas": [],
+   "oshi": [],
+   "dates": [],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
    "id": "bda036bac7b09043",
    "title": "「M-1グランプリ2026」準決勝進出者はTVerライブ配信で発表 ワイルドカード実施も決定（お笑いナタリー）",
    "link": "https://natalie.mu/owarai/news/697991",
@@ -5950,6 +7305,80 @@
    "apply_checked": true
   },
   {
+   "id": "94a472a97bd973bc",
+   "title": "セカンドバッカー、11月14日に初のZeppワンマン開催決定！",
+   "link": "https://e.usen.com/news/news-event/1114zepp.html",
+   "source": "USENの音楽情報サイト",
+   "image": "https://e.usen.com/image/4551d54d489e9e51a3ec9c9724211c7c52d37046.jpg",
+   "published": "2026-11-14T17:00:00+09:00",
+   "provider": "google",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "セカンドバッカー、11月14日に初のZeppワンマン開催決定！ USENの音楽情報サイト",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "kettei",
+   "areas": [],
+   "oshi": [],
+   "dates": [
+    "2026-11-14"
+   ],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "3808f63dc3d57417",
+   "title": "「ano HALL TOUR 2026 DUAL DINER」をU-NEXTにて独占ライブ配信決定！",
+   "link": "https://e.usen.com/news/news-unext/ano-hall-tour-2026-dual-dineru-next.html",
+   "source": "USENの音楽情報サイト",
+   "image": "https://e.usen.com/image/85a73180d62f915b967e5ec6e57ea038e9fd68cb.jpg",
+   "published": "2026-11-14T17:00:00+09:00",
+   "provider": "google",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "「ano HALL TOUR 2026 DUAL DINER」をU-NEXTにて独占ライブ配信決定！ USENの音楽情報サイト",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "kettei",
+   "areas": [
+    "配信"
+   ],
+   "oshi": [],
+   "dates": [],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "32bf034227b79e24",
+   "title": "【10/18(金)公演！】なんばグランド花月で「ザ・コント9」を開催！ “ザ・プラン9”が4人揃ってインタビュー！",
+   "link": "https://www.walkerplus.com/article/41705/image217595.html",
+   "source": "ウォーカープラス",
+   "image": "https://news.walkerplus.com/article/41705/217595_615.jpg",
+   "published": "2026-11-14T16:56:04+09:00",
+   "provider": "google",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "【10/18(金)公演！】なんばグランド花月で「ザ・コント9」を開催！ “ザ・プラン9”が4人揃ってインタビュー！ ウォーカープラス",
+   "force_genre": null,
+   "genre": "geinin",
+   "type": "kettei",
+   "areas": [
+    "関西"
+   ],
+   "oshi": [],
+   "dates": [
+    "2026-10-18"
+   ],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
    "id": "c9722cf8ef69535c",
    "title": "東京発の4ピースバンド「新東京」×海底熟成ワイン「SUBRINA」、ツアー「NEOPHENOM」に寄せたコラボレーションワインを11月11日より一般販売",
    "link": "https://prtimes.jp/main/html/rd/p/000000021.000021860.html",
@@ -6155,6 +7584,30 @@
    "dates": [
     "2027-02-20"
    ],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "79d4d955747b80b1",
+   "title": "Official髭男dism「OFFICIAL HIGE DANDISM LIVE at STADIUM 2025」TOWER PLUS+発行 ライブ映像の見どころを伝える特別レビューを掲載",
+   "link": "https://mikiki.tokyo.jp/articles/-/45452",
+   "source": "Mikiki by TOWER RECORDS",
+   "image": "https://mikiki.ismcdn.jp/mwimgs/4/b/-/img_4bb5b8bca883615c573a11e43d56e181537816.jpg",
+   "published": "2026-11-14T14:00:45+09:00",
+   "provider": "google",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "Official髭男dism「OFFICIAL HIGE DANDISM LIVE at STADIUM 2025」TOWER PLUS+発行 ライブ映像の見どころを伝える特別レビューを掲載 Mikiki by TOWER RECORDS",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "sonota",
+   "areas": [],
+   "oshi": [
+    "Official髭男dism"
+   ],
+   "dates": [],
    "deadline": null,
    "sale_start": null,
    "apply": [],
@@ -10690,6 +12143,28 @@
    "apply_checked": true
   },
   {
+   "id": "9f1f89ae72f9c66f",
+   "title": "スターダスト☆レビュー×杉山清貴＆オメガトライブ、初対バンの熱狂を映像化 12・21発売「木蘭の涙」「ふたりの夏物語」など収録",
+   "link": "https://www.sanyonews.jp/article/2003220?kw=2024%3Cbr%20/%3E%20%20%20%20%20%20%3C/a%3E%3C/p%3E%3Cp%3E%20%20%20%20%20%20%3Ca%20href=",
+   "source": "山陽新聞",
+   "image": "https://static.sanyonews.jp/image/article/size1/a/2/3/f/a23fe2826b8e84347451855fb575e950_1.jpg",
+   "published": "2026-11-13T00:20:49+09:00",
+   "provider": "google",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "スターダスト☆レビュー×杉山清貴＆オメガトライブ、初対バンの熱狂を映像化 12・21発売「木蘭の涙」「ふたりの夏物語」など収録 山陽新聞",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "report",
+   "areas": [],
+   "oshi": [],
+   "dates": [],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
    "id": "88819d730065144a",
    "title": "世界ツアーで各地を巡るNao Yoshioka、ギタリストKazuki Isogaiと12月に東京・札幌でアコースティックライブ開催決定！",
    "link": "https://mantan-web.jp/prtimes/article/20261113prt00m200000738a.html",
@@ -12212,6 +13687,30 @@
    "apply_checked": true
   },
   {
+   "id": "5fcbff612aa7587c",
+   "title": "大阪の年末音楽フェス『レディクレ』追加アーティスト発表 YUKIが登場へ【出演決定一覧あり】",
+   "link": "https://www.sanyonews.jp/article/2006898?kw=%E4%BA%AC",
+   "source": "山陽新聞",
+   "image": "https://static.sanyonews.jp/image/article/size1/a/c/b/4/acb489fa5b032bbea3970b470bd4f21e_1.jpg",
+   "published": "2026-11-12T07:37:07+09:00",
+   "provider": "google",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "大阪の年末音楽フェス『レディクレ』追加アーティスト発表 YUKIが登場へ【出演決定一覧あり】 山陽新聞",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "fes",
+   "areas": [
+    "関西"
+   ],
+   "oshi": [],
+   "dates": [],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
    "id": "97695265add2b089",
    "title": "デュア・リパ、コーチェラフェスのヘッドライナーに SZA、マドンナ、BLACKPINKのジスも出演",
    "link": "https://www.elle.com/jp/culture/celebgossip/a74404113/dua-lipa-coachella-headliner-261112/",
@@ -12267,6 +13766,28 @@
    "provider": "google",
    "added": "2026-11-14T10:26:06+09:00",
    "summary": "「SUPER JUNIOR-83z」、ファンコンツアー巡行中…2027年釜山での追加公演発表 Infoseek",
+   "force_genre": null,
+   "genre": "artist",
+   "type": "kettei",
+   "areas": [],
+   "oshi": [],
+   "dates": [],
+   "deadline": null,
+   "sale_start": null,
+   "apply": [],
+   "image_checked": true,
+   "apply_checked": true
+  },
+  {
+   "id": "7afa8acd5bf9a846",
+   "title": "Number_i、初ワールドツアー決定 日本公演は5大ドームで実施",
+   "link": "https://www.sanyonews.jp/article/1966158?rct=oricon_music&kw=%E7%A6%8F%E7%A5%88",
+   "source": "山陽新聞",
+   "image": "https://static.sanyonews.jp/image/article/size1/6/b/c/a/6bca4984b8f5b94596a48222782fe575_1.jpg",
+   "published": "2026-11-12T05:38:09+09:00",
+   "provider": "google",
+   "added": "2026-11-17T12:49:37+09:00",
+   "summary": "Number_i、初ワールドツアー決定 日本公演は5大ドームで実施 山陽新聞",
    "force_genre": null,
    "genre": "artist",
    "type": "kettei",
@@ -13510,1551 +15031,9 @@
    ],
    "image_checked": true,
    "apply_checked": true
-  },
-  {
-   "id": "94dc208cf616d1fc",
-   "title": "新しい学校のリーダーズ、『コーチェラ 2027』出演決定 日本人女性アーティスト初となる2度目の単独出演",
-   "link": "https://entamerush.jp/724429/",
-   "source": "エンタメラッシュ",
-   "image": "https://prcdn.freetls.fastly.net/release_image/17258/947/17258-947-e654fc883313eaa8729c1424f1deba55-1280x720.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-   "published": "2026-11-11T17:00:00+09:00",
-   "provider": "google",
-   "added": "2026-11-13T10:48:42+09:00",
-   "summary": "新しい学校のリーダーズ、『コーチェラ 2027』出演決定 日本人女性アーティスト初となる2度目の単独出演 エンタメラッシュ",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "fes",
-   "areas": [],
-   "oshi": [],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [
-    {
-     "site": "ローチケ",
-     "url": "https://l-tike.com/leaders/"
-    }
-   ],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "f264da619ae4a08e",
-   "title": "探訪！町スイーツ▽あいらeスポーツフェス▽おじこむ凱旋",
-   "link": "https://tver.jp/episodes/eptxlafrdu",
-   "source": "TVer",
-   "image": null,
-   "published": "2026-11-11T17:00:00+09:00",
-   "provider": "google",
-   "added": "2026-11-13T19:55:12+09:00",
-   "summary": "探訪！町スイーツ▽あいらeスポーツフェス▽おじこむ凱旋 TVer",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "fes",
-   "areas": [],
-   "oshi": [],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "cf441aa7aaeabd97",
-   "title": "Ayumu Imazu 自身最大規模となる全国5都市を巡るホールツアーの開催が決定！チケット最速先行受付もスタート！",
-   "link": "https://e.usen.com/news/news-event/ayumu-imazu5.html",
-   "source": "USENの音楽情報サイト",
-   "image": "https://e.usen.com/image/05998490ca5b768d489bc7cc741e2ed4b066d74a.jpg",
-   "published": "2026-11-11T17:00:00+09:00",
-   "provider": "google",
-   "added": "2026-11-15T19:48:50+09:00",
-   "summary": "Ayumu Imazu 自身最大規模となる全国5都市を巡るホールツアーの開催が決定！チケット最速先行受付もスタート！ USENの音楽情報サイト",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "moushikomi",
-   "areas": [],
-   "oshi": [],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "4a3bab831b075748",
-   "title": "亀梨和也＆赤西仁、ライブ開催を発表 来年8月に神奈川・Kアリーナ横浜で",
-   "link": "https://www.asahi.com/and/entertainment/17042150",
-   "source": "朝日新聞",
-   "image": "https://p.potaufeu.asahi.com/5d83-p/picture/31553304/5c05f063de82bb0e60802191771a46f9.jpg",
-   "published": "2026-11-11T16:59:54+09:00",
-   "provider": "google",
-   "added": "2026-11-12T11:14:59+09:00",
-   "summary": "亀梨和也＆赤西仁、ライブ開催を発表 来年8月に神奈川・Kアリーナ横浜で 朝日新聞",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "kettei",
-   "areas": [
-    "関東"
-   ],
-   "oshi": [],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "a032d13b9b74a842",
-   "title": "【第2回 LIVE COMMERCE FESTIVAL】特別配信番組の出演者第一弾を発表！MCにティモンディ、ゲストに鈴木奈々が出演決定",
-   "link": "https://prtimes.jp/main/html/rd/p/000000016.000140472.html",
-   "source": "PR TIMES",
-   "image": "https://prcdn.freetls.fastly.net/release_image/140472/16/140472-16-2e9f5da28b508ada1b0ea985c4774b6d-2048x1455.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-   "published": "2026-11-11T16:45:30+09:00",
-   "provider": "prtimes",
-   "added": "2026-11-11T19:53:10+09:00",
-   "summary": "[ＮＡＣ] [画像1: https://prcdn.freetls.fastly.net/release_image/140472/16/140472-16-2e9f5da28b508ada1b0ea985c4774b6d-2048x1455.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "fes",
-   "areas": [
-    "配信"
-   ],
-   "oshi": [],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "7a8d794f21798242",
-   "title": "【観覧募集】SKIP Focus参加企業による「合同リバース＆アンサーピッチ ATグループ Special Edition」を11月25日に開催",
-   "link": "https://prtimes.jp/main/html/rd/p/000000150.000095825.html",
-   "source": "PR TIMES",
-   "image": "https://prcdn.freetls.fastly.net/release_image/95825/150/95825-150-19f0ef1b268bfc351a57c81d6d3f635d-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-   "published": "2026-11-11T16:41:16+09:00",
-   "provider": "prtimes",
-   "added": "2026-11-11T19:53:10+09:00",
-   "summary": "[STATION Ai株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/95825/150/95825-150-19f0ef1b268bfc351a57c81d6d3f635d-1920x1080.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "kettei",
-   "areas": [],
-   "oshi": [],
-   "dates": [
-    "2026-11-25"
-   ],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "e5d08f7af14bb152",
-   "title": "新生BEYOOOOONDS、新メンバー3名を迎えフルオーケストラ公演へ！【BEYOOOOOPHONIC lV】2027年3月に東京・兵庫で開催決定。シンフォニックでまだまだ伸びる！",
-   "link": "https://prtimes.jp/main/html/rd/p/000002624.000005179.html",
-   "source": "PR TIMES",
-   "image": "https://prcdn.freetls.fastly.net/release_image/5179/2624/5179-2624-76c9d75009755af44c1ccd0c8fab12d5-1200x564.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-   "published": "2026-11-11T16:41:16+09:00",
-   "provider": "prtimes",
-   "added": "2026-11-11T19:53:10+09:00",
-   "summary": "[阪急阪神ホールディングス株式会社] ビルボードジャパン（株式会社阪神コンテンツリンク）は、ハロー！プロジェクト所属のアイドルグループ・BEYOOOOONDSが出演する【billboard classics BEYOOOOOPHONIC lV】について、2027年3月に東京・NHKホール、...",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "kettei",
-   "areas": [
-    "関東",
-    "関西"
-   ],
-   "oshi": [],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "d69b54725e0efc95",
-   "title": "アイナ・ジ・エンド、自身最長のホールツアー開催決定！台北含む19都市22公演へ",
-   "link": "https://www.wws-channel.com/music2/675923.html/attachment/00_1-4661?pg=675923&mv=0",
-   "source": "WWSチャンネル",
-   "image": "https://pub-6e6736ba37d64d4aa5ae63b074884090.r2.dev/2026/10/r8zwDJQ3-00_1.jpg",
-   "published": "2026-11-11T16:19:37+09:00",
-   "provider": "google",
-   "added": "2026-11-12T20:00:38+09:00",
-   "summary": "アイナ・ジ・エンド、自身最長のホールツアー開催決定！台北含む19都市22公演へ WWSチャンネル",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "kettei",
-   "areas": [],
-   "oshi": [],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "90f790adebcdc180",
-   "title": "人気音楽フェス「コーチェラ2027」、デュア・リパ、テーム・インパラ、SZAがヘッドライナー決定！ マドンナも出演",
-   "link": "https://news.yahoo.co.jp/articles/0d2589b44aa7e700d2fda815ead512954e1fd4a2",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261111-00010004-thrjapan-000-1-view.jpg?exp=10800",
-   "published": "2026-11-11T16:14:33+09:00",
-   "provider": "google",
-   "added": "2026-11-11T19:53:10+09:00",
-   "summary": "人気音楽フェス「コーチェラ2027」、デュア・リパ、テーム・インパラ、SZAがヘッドライナー決定！ マドンナも出演 Yahoo!ニュース",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "fes",
-   "areas": [],
-   "oshi": [],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "c7c35e7ba5947fea",
-   "title": "SUPER★DRAGONのミニライブが中止に、収容人数を大幅に超える来場が見込まれるため",
-   "link": "https://natalie.mu/music/news/697557",
-   "source": "音楽ナタリー",
-   "image": null,
-   "published": "2026-11-11T15:46:00+09:00",
-   "provider": "feed",
-   "added": "2026-11-11T19:53:10+09:00",
-   "summary": "SUPER★DRAGONが11月14日に東京・東京ドームシティ ラクーアにて開催予定のメジャー2ndアルバム「STAR」のリリースイベントにおいて、ミニライブを中止し、特典会のみ実施することが発表された。",
-   "force_genre": "artist",
-   "genre": "artist",
-   "type": "chushi",
-   "areas": [
-    "関東"
-   ],
-   "oshi": [],
-   "dates": [
-    "2026-11-14"
-   ],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "78515281de1c95c8",
-   "title": "BEYOOOOONDS、新メンバー3名を迎えフルオーケストラ公演へ 「BEYOOOOOPHONIC",
-   "link": "https://news.nicovideo.jp/watch/nw19979527?news_ref=50_50",
-   "source": "ニコニコニュース",
-   "image": null,
-   "published": "2026-11-11T15:03:13+09:00",
-   "provider": "google",
-   "added": "2026-11-11T19:53:10+09:00",
-   "summary": "BEYOOOOONDS、新メンバー3名を迎えフルオーケストラ公演へ 「BEYOOOOOPHONIC ニコニコニュース",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "kettei",
-   "areas": [],
-   "oshi": [],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "d24368e36aac90b3",
-   "title": "BEYOOOOONDS×オーケストラ公演決定！新体制初「BEYOOOOOPHONIC」を2都市で開催",
-   "link": "https://natalie.mu/music/news/697517",
-   "source": "音楽ナタリー",
-   "image": null,
-   "published": "2026-11-11T15:00:00+09:00",
-   "provider": "feed",
-   "added": "2026-11-11T19:53:10+09:00",
-   "summary": "BEYOOOOONDSのフルオーケストラコンサート「billboard classics BEYOOOOOPHONIC Ⅳ」が、2027年3月に東京と兵庫で開催される。",
-   "force_genre": "artist",
-   "genre": "artist",
-   "type": "kettei",
-   "areas": [
-    "関東",
-    "関西"
-   ],
-   "oshi": [],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "92fa6f8cbc186f4a",
-   "title": "羊文学が自身初の全国ホールツアー完走 ファイナルの代々木2Daysで2 ...",
-   "link": "https://www.daily.co.jp/gossip/2026/11/11/0021024927.shtml",
-   "source": "デイリースポーツ",
-   "image": "https://i.daily.jp/gossip/2026/11/11/Images/f_21024928.jpg",
-   "published": "2026-11-11T14:53:00+09:00",
-   "provider": "bing",
-   "added": "2026-11-12T11:14:59+09:00",
-   "summary": "ロックバンド・羊文学が１１日、東京・国立代々木競技場 第一体育館で、自身初の全国ホールツアー「羊文学 ＴＯＵＲ ２０２６ “すーーーはーーー”」のファイナル公演を開催。１０日から２日間にわたって行われた同所でのライブには計２万人が駆けつけ、 ...",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "kettei",
-   "areas": [
-    "関東"
-   ],
-   "oshi": [],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "fc301e8c17db6b4d",
-   "title": "【AI博覧会 Osaka 2027】マイドームおおさかにて2027年1月20日・1月21日に開催",
-   "link": "https://prtimes.jp/main/html/rd/p/000000870.000053344.html",
-   "source": "PR TIMES",
-   "image": "https://prcdn.freetls.fastly.net/release_image/53344/870/53344-870-7569be24b5cd8cfc2eb8e1499ac683eb-660x320.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-   "published": "2026-11-11T14:40:55+09:00",
-   "provider": "prtimes",
-   "added": "2026-11-11T19:53:10+09:00",
-   "summary": "[株式会社アイスマイリー] [画像1: https://prcdn.freetls.fastly.net/release_image/53344/870/53344-870-7569be24b5cd8cfc2eb8e1499ac683eb-660x320.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "kettei",
-   "areas": [],
-   "oshi": [],
-   "dates": [
-    "2027-01-20",
-    "2027-01-21"
-   ],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "ae6322b6ad3319ef",
-   "title": "初音ミク、年越し音楽フェス「CDJ26/27」GALAXY STAGEのトップバッターに！",
-   "link": "https://prtimes.jp/main/html/rd/p/000000724.000052709.html",
-   "source": "PR TIMES",
-   "image": "https://prcdn.freetls.fastly.net/release_image/52709/724/52709-724-7fdb371437f1a8d7a20594aa3c6eacd6-1200x628.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-   "published": "2026-11-11T14:40:55+09:00",
-   "provider": "prtimes",
-   "added": "2026-11-11T19:53:10+09:00",
-   "summary": "[クリプトン・フューチャー・メディア株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/52709/724/52709-724-7fdb371437f1a8d7a20594aa3c6eacd6-1200x628.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "fes",
-   "areas": [],
-   "oshi": [],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "fc87d04c83ba4271",
-   "title": "「すたぽら」結成6周年記念のワンマンライブが2027年3月に開催決定！ 新メンバー加入前に臨むメモリアルライブ",
-   "link": "https://eeo.today/media/2026/11/11/411705/",
-   "source": "eeo",
-   "image": "https://eeo.today/media/wp-content/uploads/2026/11/20261111_sutapora_01.jpg",
-   "published": "2026-11-11T14:30:46+09:00",
-   "provider": "google",
-   "added": "2026-11-11T19:53:10+09:00",
-   "summary": "「すたぽら」結成6周年記念のワンマンライブが2027年3月に開催決定！ 新メンバー加入前に臨むメモリアルライブ eeo",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "kettei",
-   "areas": [],
-   "oshi": [],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "b219d957e5b1b3a2",
-   "title": "チーズグルメが一堂に会する『チーズEXPO』が、万博記念公園で開催されるみたい。よしもと芸人の「お笑いライブ」も",
-   "link": "https://kobe-journal.com/archives/4733273776.html",
-   "source": "神戸ジャーナル",
-   "image": "https://kobe-journal.com/web/images/2026/11/427391d022a1ba157c5acb1869c6f8ee.jpg",
-   "published": "2026-11-11T14:04:06+09:00",
-   "provider": "google",
-   "added": "2026-11-11T19:53:10+09:00",
-   "summary": "チーズグルメが一堂に会する『チーズEXPO』が、万博記念公園で開催されるみたい。よしもと芸人の「お笑いライブ」も 神戸ジャーナル",
-   "force_genre": null,
-   "genre": "geinin",
-   "type": "kettei",
-   "areas": [
-    "関西"
-   ],
-   "oshi": [],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "7455e9b0a1602af5",
-   "title": "くら寿司×よしもと漫才劇場がコラボ 関西2府4県でキャンペーン展開 会見に天才ピアニストら登壇",
-   "link": "https://news.livedoor.com/article/detail/32789675/",
-   "source": "ライブドアニュース",
-   "image": "https://image.news.livedoor.com/newsimage/stf/2/1/21913_1845_a46f4fff_8f00738a.jpg",
-   "published": "2026-11-11T14:00:00+09:00",
-   "provider": "google",
-   "added": "2026-11-11T19:53:10+09:00",
-   "summary": "くら寿司×よしもと漫才劇場がコラボ 関西2府4県でキャンペーン展開 会見に天才ピアニストら登壇 ライブドアニュース",
-   "force_genre": null,
-   "genre": "geinin",
-   "type": "report",
-   "areas": [
-    "関西"
-   ],
-   "oshi": [],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "8a4a990c576911d5",
-   "title": "原因は自分にある。、来春ツアー開催決定 自身最大規模の11都市34公演【『LIVE TOUR 2027 深溟』スケジュール掲載】",
-   "link": "https://www.fukuishimbun.co.jp/articles/-/2744568",
-   "source": "Fukui Shimbun",
-   "image": "https://fki.ismcdn.jp/mwimgs/b/c/-/img_bc7d8a89d45cc8d2de2ee9921b7e295280632.jpg",
-   "published": "2026-11-11T12:26:00+09:00",
-   "provider": "bing",
-   "added": "2026-11-12T11:14:59+09:00",
-   "summary": "EBiDAN所属の7人組ダンスヴォーカルグループ・原因は自分にある。が、2027年春に『LIVE TOUR 2027 深溟』を開催することが11日、発表された。11都市34公演の自身最大規模ツアーとなる。 【ソロカット多数】個性的！杢代和人盤のジャケット写真 同ツアーは、3月17 ...",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "kettei",
-   "areas": [],
-   "oshi": [],
-   "dates": [
-    "2027-03-17"
-   ],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "e1e1c6dd87cc63a5",
-   "title": "Anna、ニューアルバム『MINDED』CDリリース 収録曲「ピンクにハイヒール」先行配信も",
-   "link": "https://news.livedoor.com/article/detail/32788704/",
-   "source": "ライブドアニュース",
-   "image": "https://image.news.livedoor.com/newsimage/stf/d/2/d2048_1830_95e0701a_2917f522.jpeg",
-   "published": "2026-11-11T12:21:19+09:00",
-   "provider": "google",
-   "added": "2026-11-12T11:14:59+09:00",
-   "summary": "Anna、ニューアルバム『MINDED』CDリリース 収録曲「ピンクにハイヒール」先行配信も ライブドアニュース",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "moushikomi",
-   "areas": [
-    "配信"
-   ],
-   "oshi": [],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "e8480987fe0714f9",
-   "title": "Junkie Machine、東名阪ツアー大阪公演＆ナカムラヒカル生誕祭の追加席販売が決定",
-   "link": "https://rooftop1976.com/news/2026/11/11120000.php",
-   "source": "Rooftop",
-   "image": "https://rooftop1976.com/news/assets_c/2026/11/3711bd08bc3ac06bf81b9aa1b66e47b532bcf9d5-thumb-800x533-346008.jpg",
-   "published": "2026-11-11T12:04:07+09:00",
-   "provider": "google",
-   "added": "2026-11-11T19:53:10+09:00",
-   "summary": "Junkie Machine、東名阪ツアー大阪公演＆ナカムラヒカル生誕祭の追加席販売が決定 Rooftop",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "kettei",
-   "areas": [
-    "関西"
-   ],
-   "oshi": [],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [
-    {
-     "site": "e+",
-     "url": "https://eplus.jp/junkiemachine/"
-    }
-   ],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "22d0a58dda38737a",
-   "title": "【DEZERT 表紙】激ロック11月号、11/13-18前後より配布開始！TRIVIUM、甘い暴力、G.O.D.、glamscure、DAMNEDインタビュー、LM.C×有村竜太朗座談会、ジーフリ、グラビティ、\"YONEZAWA ROCK FES\"レポート等掲載！KOIAIコラム連載開始！",
-   "link": "https://gekirock.com/news/2026/11/gekirock_magazine_news.php",
-   "source": "激ロック",
-   "image": "https://gekirock.com/news/2026/11/10/images/geki202611.jpg",
-   "published": "2026-11-11T12:00:00+09:00",
-   "provider": "google",
-   "added": "2026-11-13T19:55:12+09:00",
-   "summary": "【DEZERT 表紙】激ロック11月号、11/13-18前後より配布開始！TRIVIUM、甘い暴力、G.O.D.、glamscure、DAMNEDインタビュー、LM.C×有村竜太朗座談会、ジーフリ、グラビティ、\"YONEZAWA ROCK FES\"レポート等掲載！KOIAIコラム連載開始！ 激ロック",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "fes",
-   "areas": [],
-   "oshi": [],
-   "dates": [
-    "2026-11-13"
-   ],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "6f76bcdf83fc1348",
-   "title": "日大生産工学部で文化祭「桜泉祭」 初の11月中旬開催、お笑いライブも（みんなの経済新聞ネットワーク）",
-   "link": "https://news.yahoo.co.jp/articles/1bd6d39ff97b796a96e41913cb0d227d31c6851d",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261111-00000032-minkei-000-1-view.jpg?exp=10800",
-   "published": "2026-11-11T11:53:00+09:00",
-   "provider": "bing",
-   "added": "2026-11-11T19:53:10+09:00",
-   "summary": "日本大学生産工学部津田沼キャンパス（習志野市泉町1）で11月14日・15日の2日間、第35回文化祭「桜泉祭（おうせんさい）」が開催される。（習志野経済新聞） 同祭は、大学のシンボルであり正門に広がる「桜」と、キャンパスの所在地である「泉」町から名付けられた学部祭。例年10月末から11月初頭に行われており、11月中旬の開催は40年近い歴史の中で初となる。今年のテーマには「彩（いろどり）」を掲げる。",
-   "force_genre": null,
-   "genre": "geinin",
-   "type": "kettei",
-   "areas": [],
-   "oshi": [],
-   "dates": [
-    "2026-11-14"
-   ],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "de09ca2cfa38d76b",
-   "title": "東京スカパラダイスオーケストラ、新曲「Nadia」11.20配信 大阪公演 ...",
-   "link": "https://news.yahoo.co.jp/articles/7a2341b715ebcc464dfca710c2bff8927418f8d7",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261111-00194063-crankinn-000-22-view.jpg?exp=10800",
-   "published": "2026-11-11T11:53:00+09:00",
-   "provider": "bing",
-   "added": "2026-11-11T19:53:10+09:00",
-   "summary": "東京スカパラダイスオーケストラが、9日におこなった公演の中で、新曲のリリースをサプライズで発表した。【写真】スカパラ、盛り上がりを見せた大阪フェスティバルホール公演の様子現在、全国ツアー「A Whole New Paradise」を開催中の東京スカパラダイスオーケストラ。「まったく新しいパラダイス」をテーマに掲げ、これまでの枠組みにとらわれない新しいチャレンジを詰め込んだ、今までにない特別なステー ...",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "kettei",
-   "areas": [
-    "関東",
-    "関西",
-    "配信"
-   ],
-   "oshi": [],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "822f508f90f609ef",
-   "title": "玉田真也×神谷圭介×蓮見翔のコントライブ「夜衝」「夜衝2」映像配信が決定 (ステージナタリー)",
-   "link": "https://news.yahoo.co.jp/articles/b7362c8138da7d376caf6f90d6f42f586341c71d",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261111-00000131-natalies-000-1-view.jpg?exp=10800",
-   "published": "2026-11-11T11:53:00+09:00",
-   "provider": "bing",
-   "added": "2026-11-12T11:14:59+09:00",
-   "summary": "テアトロコントspecial / コントライブ「夜衝3」の開催を記念し、「夜衝」「夜衝2」が11月16日18:00から23日23:59まで映像配信される。【画像】テアトロコントspecial / コントライブ「夜衝2」ビジュアル（他1件）「夜衝」は玉田企画の玉田真也とテニスコート / 画餅の神谷圭介が企画し、ダウ90000の蓮見翔が作・演出を手がけるコントライブシリーズ。第1弾が2021年、第2弾 ...",
-   "force_genre": null,
-   "genre": "geinin",
-   "type": "kettei",
-   "areas": [
-    "配信"
-   ],
-   "oshi": [],
-   "dates": [
-    "2026-11-16"
-   ],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "7b31aaa5089e47ef",
-   "title": "リュックと添い寝ごはん、2027年ツアー【one-man tour 「とは？」】開催決定 (Billboard JAPAN)",
-   "link": "https://www.billboard-japan.com/d_news/detail/167338",
-   "source": "Billboard JAPAN",
-   "image": "https://www.billboard-japan.com/scale/news/00000167/167338/200x_image.jpg",
-   "published": "2026-11-11T10:45:00+09:00",
-   "provider": "google",
-   "added": "2026-11-11T19:53:10+09:00",
-   "summary": "リュックと添い寝ごはん、2027年ツアー【one-man tour 「とは？」】開催決定 Billboard JAPAN",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "kettei",
-   "areas": [],
-   "oshi": [],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "d736a69dce2e30f6",
-   "title": "NOMELON NOLEMON、「ミッドナイト・リフレクション」のライブ映像をYouTubeチャンネル「THE FIRST TAKE」にて公開！都市型音楽フェス『CENTRAL26』内、「Echoes Baa 2026」のステージから届ける一曲！",
-   "link": "https://e.usen.com/news/news-movie/nomelon-nolemonyoutubethe-first-takecentral26echoes-baa-2026.html",
-   "source": "USENの音楽情報サイト",
-   "image": "https://e.usen.com/image/6cccb935e248cd82071990fc4c181f6601ebd66a.jpg",
-   "published": "2026-11-11T09:47:36+09:00",
-   "provider": "google",
-   "added": "2026-11-13T19:55:12+09:00",
-   "summary": "NOMELON NOLEMON、「ミッドナイト・リフレクション」のライブ映像をYouTubeチャンネル「THE FIRST TAKE」にて公開！都市型音楽フェス『CENTRAL26』内、「Echoes Baa 2026」のステージから届ける一曲！ USENの音楽情報サイト",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "fes",
-   "areas": [],
-   "oshi": [],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [
-    {
-     "site": "ローチケ",
-     "url": "https://l-tike.com/nmnl/"
-    }
-   ],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "71267cf1acdfa149",
-   "title": "スペースシャワーTVのオリジナルプログラム「DMZ」11月12日(木)はDYGLを特集！最新アルバム『All Tomorrows』プレリリースライブの模様をお届け！",
-   "link": "https://prtimes.jp/main/html/rd/p/000002584.000002929.html",
-   "source": "PR TIMES",
-   "image": "https://prcdn.freetls.fastly.net/release_image/2929/2584/2929-2584-c7e0e550486cee16d0aaba9219b757e3-1000x667.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-   "published": "2026-11-11T09:41:23+09:00",
-   "provider": "prtimes",
-   "added": "2026-11-11T10:14:15+09:00",
-   "summary": "[株式会社スペースシャワーネットワーク] [画像1: https://prcdn.freetls.fastly.net/release_image/2929/2584/2929-2584-c7e0e550486cee16d0aaba9219b757e3-1000x667.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "sonota",
-   "areas": [],
-   "oshi": [],
-   "dates": [
-    "2026-11-12"
-   ],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "09afac302fa80fde",
-   "title": "昨年SOLD OUTしたステージが「THE CLUB NAGASAKI」に再び！SHANK ~ SLOW SHANK TOUR 2027 ~",
-   "link": "https://prtimes.jp/main/html/rd/p/000000773.000016651.html",
-   "source": "PR TIMES",
-   "image": "https://prcdn.freetls.fastly.net/release_image/16651/773/16651-773-4eef102c67259373e7e06bed31326745-2000x1669.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-   "published": "2026-11-11T08:45:26+09:00",
-   "provider": "prtimes",
-   "added": "2026-11-11T10:14:15+09:00",
-   "summary": "[株式会社 ジャパネットホールディングス] 長崎スタジアムシティは、スタジアムシティホテル長崎最上階のライブレストラン「THE CLUB NAGASAKI」で「SHANK ～SLOW SHANKTOUR 2027」を開催することをお知らせいたします。 [画像1: https://prcdn.freetls.fa...",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "kettei",
-   "areas": [
-    "九州・沖縄"
-   ],
-   "oshi": [],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "370214685ac9d374",
-   "title": "「喋るなら出て行って」路上ライブの男性歌手が炎上＆“有料撮影”のルール違反も発覚、川崎市に聞いた苦情の詳細",
-   "link": "https://news.yahoo.co.jp/articles/6c9cd0cef0d672956199a56fe81003b35a84660f",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261111-00044598-jprime-000-1-view.jpg?exp=10800",
-   "published": "2026-11-11T08:00:31+09:00",
-   "provider": "google",
-   "added": "2026-11-13T10:48:42+09:00",
-   "summary": "「喋るなら出て行って」路上ライブの男性歌手が炎上＆“有料撮影”のルール違反も発覚、川崎市に聞いた苦情の詳細 Yahoo!ニュース",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "sonota",
-   "areas": [
-    "関東"
-   ],
-   "oshi": [],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "cb1b4b629f666b2e",
-   "title": "地域のつながりの大切さ 笑顔の舞台お届け 大井町など住民ら「ふるさと劇団」 吉本芸人が座長、28日の7回目公演へ稽古",
-   "link": "https://www.tokyo-np.co.jp/article/527339",
-   "source": "東京新聞",
-   "image": "https://static.tokyo-np.co.jp/image/article/size1/d/b/b/7/dbb78333bf4f04649655fb276cbc1313_1.jpg",
-   "published": "2026-11-11T07:34:59+09:00",
-   "provider": "google",
-   "added": "2026-11-13T10:48:42+09:00",
-   "summary": "地域のつながりの大切さ 笑顔の舞台お届け 大井町など住民ら「ふるさと劇団」 吉本芸人が座長、28日の7回目公演へ稽古 東京新聞",
-   "force_genre": null,
-   "genre": "geinin",
-   "type": "kettei",
-   "areas": [
-    "関東"
-   ],
-   "oshi": [],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "5040b897c63a2770",
-   "title": "亀梨和也×赤西仁、謎のカウントダウンの正体が明らかに！Kアリーナ横浜で18年ぶりのライブ共演",
-   "link": "https://natalie.mu/music/news/697457",
-   "source": "音楽ナタリー",
-   "image": null,
-   "published": "2026-11-11T06:00:00+09:00",
-   "provider": "feed",
-   "added": "2026-11-11T10:14:15+09:00",
-   "summary": "亀梨和也と赤西仁が、2027年8月18日と19日に神奈川・Kアリーナ横浜にてライブを開催することを発表した。それぞれのSNS公式アカウントでは11月8日に「jinkame.com」と銘打ったサイトのオープンを告知。本日11月11日6:00までのカウントダウンもスタートし、その動向に大きな注目が集まっていた。",
-   "force_genre": "artist",
-   "genre": "artist",
-   "type": "sonota",
-   "areas": [
-    "関東"
-   ],
-   "oshi": [],
-   "dates": [
-    "2027-08-18",
-    "2026-11-08",
-    "2026-11-11"
-   ],
-   "deadline": "2026-11-11",
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "8353d43f29b51fd9",
-   "title": "亀梨和也&赤西仁「スペシャルライブ開催決定！」27年8月18、19日ライブ実施発表 Kアリーナ横浜で",
-   "link": "https://topics.smt.docomo.ne.jp/article/sponichi/entertainment/sponichi-spngoo-20261111-0084",
-   "source": "ｄメニューニュース",
-   "image": "https://img.topics.smt.news.goo.ne.jp/picture/sponichi/m_sponichi-spngoo-20261111-0084.jpg",
-   "published": "2026-11-11T06:00:00+09:00",
-   "provider": "google",
-   "added": "2026-11-11T19:53:10+09:00",
-   "summary": "亀梨和也&赤西仁「スペシャルライブ開催決定！」27年8月18、19日ライブ実施発表 Kアリーナ横浜で ｄメニューニュース",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "kettei",
-   "areas": [
-    "関東"
-   ],
-   "oshi": [],
-   "dates": [
-    "2027-08-18"
-   ],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "73fdf64d8f46fd09",
-   "title": "チューリップ５５周年記念ツアー発表 財津和夫「やらせてください！」大阪公演で発表",
-   "link": "https://www.daily.co.jp/gossip/2026/11/11/0021021612.shtml",
-   "source": "デイリースポーツ",
-   "image": "https://i.daily.jp/gossip/2026/11/11/Images/f_21021613.jpg",
-   "published": "2026-11-11T05:00:00+09:00",
-   "provider": "google",
-   "added": "2026-11-14T10:26:06+09:00",
-   "summary": "チューリップ５５周年記念ツアー発表 財津和夫「やらせてください！」大阪公演で発表 デイリースポーツ",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "kettei",
-   "areas": [
-    "関西"
-   ],
-   "oshi": [],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "5cfd660ef8a471a4",
-   "title": "「King Gnu 10th Anniversary Opening Live “KICKOFF”」 「CLUB GNU」チケット2次先行受付スタート！",
-   "link": "https://www.sonymusic.co.jp/artist/kinggnu/info/588383",
-   "source": "ソニーミュージックオフィシャルサイト",
-   "image": "https://www.sonymusic.co.jp/adm_image/common/artist_image/70008000/70008873/artist_photo/69276.jpg",
-   "published": "2026-11-11T02:51:05+09:00",
-   "provider": "google",
-   "added": "2026-11-11T10:14:15+09:00",
-   "summary": "「King Gnu 10th Anniversary Opening Live “KICKOFF”」 「CLUB GNU」チケット2次先行受付スタート！ ソニーミュージックオフィシャルサイト",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "moushikomi",
-   "areas": [],
-   "oshi": [
-    "King Gnu"
-   ],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "cff5100085808514",
-   "title": "TULIPデビュー55周年記念ツアー開催を発表！財津和夫がステージで ...",
-   "link": "https://news.yahoo.co.jp/articles/b378d4526a9a47f4dde26083cb239cc299e1af00",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261111-00000003-mnet-000-1-view.jpg?exp=10800",
-   "published": "2026-11-11T02:14:00+09:00",
-   "provider": "bing",
-   "added": "2026-11-11T10:14:15+09:00",
-   "summary": "TULIPが、デビュー55周年コンサートツアーを2027年に開催することが決定した。【画像】財津和夫オフィシャルファンクラブX告知ポスト■財津和夫の口から開催が発表され、約2,700人のファンが歓喜 11月10日、大阪・フェスティバルホールで行われた『財津和夫コンサート2026 with 姫野達也 「そして」』ツアーファイナル。本編が終了し、熱いアンコールに応えて舞台に舞い戻った財津和夫の口から、 ...",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "kettei",
-   "areas": [
-    "関西"
-   ],
-   "oshi": [],
-   "dates": [
-    "2026-11-10"
-   ],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "1bbaabd03287d80c",
-   "title": "「知財って実は面白い！」笑って学べる「知財フェス2026」が11月28 ...",
-   "link": "https://www.asahi.com/and/pressrelease/17040713",
-   "source": "朝日新聞デジタル",
-   "image": "https://www.asahi.com/and/ogp/ogp_and.png",
-   "published": "2026-11-11T02:01:00+09:00",
-   "provider": "bing",
-   "added": "2026-11-11T19:53:10+09:00",
-   "summary": "日本弁理士会 東海会 開設30周年記念 お笑い芸人のゲスト登壇やアイドルステージも！ 2026年11月28日(土)、日本弁理士会 東海会は「中部電力 MIRAI TOWER」(名古屋市中区)で「知財フェス2026」を開催します。",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "fes",
-   "areas": [
-    "東海"
-   ],
-   "oshi": [],
-   "dates": [
-    "2026-11-28"
-   ],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "5de3af5a1501aa91",
-   "title": "M-1優勝会見から約1年！ “たくろう万博”開催直前のたくろうにインタビュー！",
-   "link": "https://ananweb.jp/categories/entertainment/112621",
-   "source": "anan",
-   "image": "https://api.ananweb.jp/wp-content/uploads/2026/10/5175a782a55caa7f2431cadfd93e5690.jpg",
-   "published": "2026-11-11T01:09:19+09:00",
-   "provider": "google",
-   "added": "2026-11-11T10:14:15+09:00",
-   "summary": "M-1優勝会見から約1年！ “たくろう万博”開催直前のたくろうにインタビュー！ anan",
-   "force_genre": null,
-   "genre": "geinin",
-   "type": "kettei",
-   "areas": [],
-   "oshi": [],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "091bbe130b133d75",
-   "title": "羊文学、初の全国ホールツアー完走 10月からは8カ月連続でリリース ...",
-   "link": "https://www.nikkansports.com/entertainment/news/202611110001747.html",
-   "source": "日刊スポーツ",
-   "image": "https://www.nikkansports.com/entertainment/news/img/202611110001747-w500_0.jpg",
-   "published": "2026-11-11T01:00:00+09:00",
-   "provider": "bing",
-   "added": "2026-11-13T10:48:42+09:00",
-   "summary": "バンド羊文学が10日、11日の2日間、東京・代々木第一体育館で、自身初となる全国ホールツアー「羊文学TOUR 2026“すーーーはーーー”」のファイナル公演を… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com） ...",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "kettei",
-   "areas": [
-    "関東"
-   ],
-   "oshi": [],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "d9c375e6edbfd6a2",
-   "title": "バンコクで国際音楽フェス「Bangkok Music City 2027」開催、日本から3組出演へ",
-   "link": "https://www.thaich.net/news/20261111mx.htm",
-   "source": "タイランドハイパーリンクス",
-   "image": "https://www.thaich.net/wp-content/uploads/2026/11/Victor-4.jpg",
-   "published": "2026-11-11T00:23:54+09:00",
-   "provider": "google",
-   "added": "2026-11-13T10:48:42+09:00",
-   "summary": "バンコクで国際音楽フェス「Bangkok Music City 2027」開催、日本から3組出演へ タイランドハイパーリンクス",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "fes",
-   "areas": [],
-   "oshi": [],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "1afdbc7d6efba233",
-   "title": "【事後レポート】長崎スタジアムシティ2周年イベント HAPPINESS ARENAにて音楽フェス「HAPPINESS JAM 2026」を開催！",
-   "link": "https://prtimes.jp/main/html/rd/p/000000771.000016651.html",
-   "source": "PR TIMES",
-   "image": "https://prcdn.freetls.fastly.net/release_image/16651/771/16651-771-e041a78e6f6f8e2d7700c623cdfbd631-3900x2600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-   "published": "2026-11-11T00:15:35+09:00",
-   "provider": "prtimes",
-   "added": "2026-11-11T02:00:27+09:00",
-   "summary": "[株式会社 ジャパネットホールディングス] 2026年10月17日（土）、長崎スタジアムシティの開業2周年を彩る目玉イベントとして、「HAPPINESS ARENA」にて音楽フェス『HAPPINESS JAM 2026（ハピネスジャム）』を開催いたしました。 昨年に引き続き、J-POPシ...",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "fes",
-   "areas": [
-    "九州・沖縄"
-   ],
-   "oshi": [],
-   "dates": [
-    "2026-10-17"
-   ],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "72aaac843819ebc2",
-   "title": "「アマハガン ウイスキーハイボール ピーテッド原酒ブレンド 缶」2026年11月24日(火)よりコンビニエンスストアにて先行発売いたします",
-   "link": "https://prtimes.jp/main/html/rd/p/000000120.000039741.html",
-   "source": "PR TIMES",
-   "image": "https://prcdn.freetls.fastly.net/release_image/39741/120/39741-120-f1846dae43fafc2ed38c3a5b4f24ed9b-1333x887.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-   "published": "2026-11-11T00:15:35+09:00",
-   "provider": "prtimes",
-   "added": "2026-11-11T02:00:27+09:00",
-   "summary": "[長浜浪漫ビール株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/39741/120/39741-120-f1846dae43fafc2ed38c3a5b4f24ed9b-1333x887.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
-   "force_genre": null,
-   "genre": "geinin",
-   "type": "moushikomi",
-   "areas": [],
-   "oshi": [],
-   "dates": [
-    "2026-11-24"
-   ],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "f9b373f7a2be2888",
-   "title": "大江千里さんからコメントが到着！いよいよ今週末11月15日(日)放送！7月開催の大江千里ソロコンサート2026夏 「格好悪いふられ方」「ありがとう」など往年の名曲も披露！｜CSホームドラマチャンネル",
-   "link": "https://prtimes.jp/main/html/rd/p/000000993.000006470.html",
-   "source": "PR TIMES",
-   "image": "https://prcdn.freetls.fastly.net/release_image/6470/993/6470-993-aa09a9cdd224d0fa263bcad33d752e1a-2048x1536.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-   "published": "2026-11-11T00:10:02+09:00",
-   "provider": "prtimes",
-   "added": "2026-11-11T02:00:27+09:00",
-   "summary": "[松竹ブロードキャスティング株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/6470/993/6470-993-aa09a9cdd224d0fa263bcad33d752e1a-2048x1536.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "kettei",
-   "areas": [],
-   "oshi": [],
-   "dates": [
-    "2026-11-15"
-   ],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "b55db88f50467667",
-   "title": "生活の設計ワンマンライブ「年末にたどりついて」ビジュアル",
-   "link": "https://natalie.mu/music/gallery/news/697454/2976586",
-   "source": "ナタリー",
-   "image": null,
-   "published": "2026-11-11T00:04:02+09:00",
-   "provider": "google",
-   "added": "2026-11-13T10:48:42+09:00",
-   "summary": "生活の設計ワンマンライブ「年末にたどりついて」ビジュアル ナタリー",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "kettei",
-   "areas": [],
-   "oshi": [],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "29f3c22477afdbae",
-   "title": "なにわ男子・大橋和也、単独初主演映画『人生を変えたコント』完成披露！霜降り明星せいや「想像を超えていた」と絶賛。完成披露舞台挨拶【詳細】レポート",
-   "link": "https://nbpress.online/archives/135962",
-   "source": "NB Press Online",
-   "image": "https://nbpress.online/wp/wp-content/uploads/2026/11/N29_0675-wm.jpg",
-   "published": "2026-11-11T00:01:39+09:00",
-   "provider": "google",
-   "added": "2026-11-11T02:00:27+09:00",
-   "summary": "なにわ男子・大橋和也、単独初主演映画『人生を変えたコント』完成披露！霜降り明星せいや「想像を超えていた」と絶賛。完成披露舞台挨拶【詳細】レポート NB Press Online",
-   "force_genre": null,
-   "genre": "geinin",
-   "type": "kettei",
-   "areas": [],
-   "oshi": [
-    "霜降り明星"
-   ],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "cd07b916d6537464",
-   "title": "生活の設計が新たな一面提示した「安全スーパーノヴァ」配信、ワンマンライブに小西康陽がDJ出演",
-   "link": "https://natalie.mu/music/news/697454",
-   "source": "音楽ナタリー",
-   "image": null,
-   "published": "2026-11-11T00:00:00+09:00",
-   "provider": "feed",
-   "added": "2026-11-11T02:00:27+09:00",
-   "summary": "東京を中心に活動する2人組兄弟バンド・生活の設計が、本日11月11日にニューシングル「安全スーパーノヴァ」を配信リリースした。",
-   "force_genre": "artist",
-   "genre": "artist",
-   "type": "kettei",
-   "areas": [
-    "関東",
-    "配信"
-   ],
-   "oshi": [],
-   "dates": [
-    "2026-11-11"
-   ],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "2e42eafc23defcbc",
-   "title": "レコードショップ5店舗とDJ8組が二子玉川に集結。McGuffinが「レコP.」を11月14日・15日に開催",
-   "link": "https://prtimes.jp/main/html/rd/p/000000318.000041209.html",
-   "source": "PR TIMES",
-   "image": "https://prcdn.freetls.fastly.net/release_image/41209/318/41209-318-0d2f3b55a41be7ee20adcf1fc5f2338c-2160x2700.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-   "published": "2026-11-10T23:40:02+09:00",
-   "provider": "prtimes",
-   "added": "2026-11-11T02:00:27+09:00",
-   "summary": "[株式会社ニューステクノロジー] 株式会社ニューステクノロジー（本社：東京都港区、代表取締役：三浦純揮）が運営する、東京発のカルチャー動画メディア「McGuffin（マクガフィン）(https://www.youtube.com/@McGuffin2017)」は、2026年11月14日...",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "kettei",
-   "areas": [
-    "関東",
-    "関西"
-   ],
-   "oshi": [],
-   "dates": [
-    "2026-11-14"
-   ],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "2744fff6205c9d84",
-   "title": "トラベル・スタンダード・ジャパン、AIアバターによる旅行相談サービスを開始｜世界中の旅行先選びからツアー提案まで対応",
-   "link": "https://prtimes.jp/main/html/rd/p/000000010.000018988.html",
-   "source": "PR TIMES",
-   "image": "https://prcdn.freetls.fastly.net/release_image/18988/10/18988-10-efd4f662c203fc6bedc40c324f898edc-1907x861.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-   "published": "2026-11-10T23:40:02+09:00",
-   "provider": "prtimes",
-   "added": "2026-11-11T02:00:27+09:00",
-   "summary": "[トラベル・スタンダード・ジャパン株式会社] 海外旅行を手がけるトラベル・スタンダード・ジャパン株式会社（本社：東京都豊島区）は、2026年11月2日より、公式サイト（https://www.travelwith.jp/）上で「AIアバターによる旅行相談サービス」の提供を開始い...",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "kettei",
-   "areas": [
-    "関東",
-    "関西"
-   ],
-   "oshi": [],
-   "dates": [
-    "2026-11-02"
-   ],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "cfbdc3f3a5ab2ae3",
-   "title": "「YOASOBIが日本人初アジア10都市ドーム＆スタジアムツアー決定！世界に羽ばたくライブ新時代」 Prudential Center (tmSfBSediJ)",
-   "link": "https://media.unisba.ac.id/e0448b4e/2d76a8d4AS5UBCxbQjweHQ0",
-   "source": "Unisba Media",
-   "image": null,
-   "published": "2026-11-10T23:00:13+09:00",
-   "provider": "google",
-   "added": "2026-11-16T20:11:16+09:00",
-   "summary": "「YOASOBIが日本人初アジア10都市ドーム＆スタジアムツアー決定！世界に羽ばたくライブ新時代」 Prudential Center (tmSfBSediJ) Unisba Media",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "kettei",
-   "areas": [],
-   "oshi": [],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "c5b9aab0ef0e981b",
-   "title": "イオンモール神戸北で『ブラックフライデー』が開催。M-1王者の「たくろう」も出演する「お笑いライブ」や「ちいかわPOP UP」も",
-   "link": "https://kobe-journal.com/archives/5635643478.html",
-   "source": "神戸ジャーナル",
-   "image": "https://kobe-journal.com/web/images/2026/11/00_eyecatch-76.jpg",
-   "published": "2026-11-10T23:00:00+09:00",
-   "provider": "bing",
-   "added": "2026-11-11T10:14:15+09:00",
-   "summary": "北区の「イオンモール神戸北」でお笑いライブや水族館などが登場する『超！BLACK FRIDAY Fes』が開催されます。 ちいかわPOP UP STORE 「ちいかわ」のポーチやぬいぐるみなどのグッズに加え、文房具や生活雑貨も並ぶ「POP UP STORE」。入場は無料です。",
-   "force_genre": null,
-   "genre": "geinin",
-   "type": "kettei",
-   "areas": [
-    "関西"
-   ],
-   "oshi": [],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "348ecef682ec8576",
-   "title": "TULIP、デビュー55周年記念コンサートツアー開催を発表！",
-   "link": "https://mantan-web.jp/prtimes/article/20261111prt00m200000006a.html",
-   "source": "MANTANWEB（まんたんウェブ）",
-   "image": "https://prtimes.jp/img/22572/140/resize/d22572-140-cc3426f51d0ab986ac1c-0.jpg",
-   "published": "2026-11-10T22:21:00+09:00",
-   "provider": "bing",
-   "added": "2026-11-11T10:14:15+09:00",
-   "summary": "『財津和夫コンサート 2026 with 姫野達也「そして」』ツアーファイナル（大阪公演）にて発表 2027年、TULIPのデビュー55周年コンサートツアーの開催が決定した。 本日11月10日(火)、大阪・フェスティバルホールで行われた『財津和夫コンサート2026 with 姫野達也 「そして」』ツアーファイナル。本編が終了し、熱いアンコールに応えて舞台に舞い戻った財津和夫の口から、来年TULIP ...",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "kettei",
-   "areas": [
-    "関西"
-   ],
-   "oshi": [],
-   "dates": [
-    "2026-11-10"
-   ],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "37a49f0068cd924a",
-   "title": "4人組バンド GUMMY、3rd EP『GIVE ME PINEAPPLE』来年3月リリース 2月より全国ツアー開催も",
-   "link": "https://realsound.jp/2026/11/post-2580102.html",
-   "source": "リアルサウンド",
-   "image": "https://realsound.jp/wp-content/uploads/2026/11/20261110-gummy-99.jpeg",
-   "published": "2026-11-10T22:00:15+09:00",
-   "provider": "google",
-   "added": "2026-11-11T02:00:27+09:00",
-   "summary": "4人組バンド GUMMY、3rd EP『GIVE ME PINEAPPLE』来年3月リリース 2月より全国ツアー開催も リアルサウンド",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "kettei",
-   "areas": [],
-   "oshi": [],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "c4647bd50036e4e8",
-   "title": "〈TULIP〉財津和夫が直接発表！最後の55周年ツアー2027年開幕",
-   "link": "https://www.zakzak.co.jp/article/20261110-V74PFKYL7JEVLCN3UCUQVNUKZM/",
-   "source": "zakⅡ",
-   "image": "https://www.zakzak.co.jp/resizer/v2/7Z5URW6L4JB4BOVI3J7RAGA4F4.webp?auth=fb4c2ed67bc3c1d80fa9c659db1ee0509a3dae43672fde6d622888202161bfa9&quality=50&smart=true&width=1200&height=675",
-   "published": "2026-11-10T21:58:40+09:00",
-   "provider": "google",
-   "added": "2026-11-12T11:14:59+09:00",
-   "summary": "〈TULIP〉財津和夫が直接発表！最後の55周年ツアー2027年開幕 zakⅡ",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "kettei",
-   "areas": [],
-   "oshi": [],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "a8e9f57f733d3291",
-   "title": "U-NEXTが霜降り明星せいやの石川晟也2nd音楽ライブを独占生配信へ",
-   "link": "https://news.dellows.jp/1059184/",
-   "source": "Dellows News",
-   "image": "https://news.dellows.jp/wp-content/uploads/2026/11/1059184_1.jpg",
-   "published": "2026-11-10T21:43:22+09:00",
-   "provider": "google",
-   "added": "2026-11-11T19:53:10+09:00",
-   "summary": "U-NEXTが霜降り明星せいやの石川晟也2nd音楽ライブを独占生配信へ Dellows News",
-   "force_genre": null,
-   "genre": "geinin",
-   "type": "sonota",
-   "areas": [
-    "北陸・甲信越",
-    "配信"
-   ],
-   "oshi": [
-    "霜降り明星"
-   ],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "1d478e5e73c55424",
-   "title": "TULIPがデビュー55周年記念コンサートツアー開催",
-   "link": "https://natalie.mu/music/news/697450",
-   "source": "音楽ナタリー",
-   "image": null,
-   "published": "2026-11-10T21:30:00+09:00",
-   "provider": "feed",
-   "added": "2026-11-11T02:00:27+09:00",
-   "summary": "TULIPのデビュー55周年を記念したコンサートツアーが2027年に開催される。",
-   "force_genre": "artist",
-   "genre": "artist",
-   "type": "kettei",
-   "areas": [],
-   "oshi": [],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "52176f5df7edb743",
-   "title": "@onefiveの日本武道館公演日程が決定",
-   "link": "https://natalie.mu/music/news/697404",
-   "source": "音楽ナタリー",
-   "image": null,
-   "published": "2026-11-10T21:05:00+09:00",
-   "provider": "feed",
-   "added": "2026-11-11T02:00:27+09:00",
-   "summary": "@onefiveが2027年10月10日に東京・日本武道館にてワンマンライブを開催する。",
-   "force_genre": "artist",
-   "genre": "artist",
-   "type": "kettei",
-   "areas": [
-    "関東"
-   ],
-   "oshi": [],
-   "dates": [
-    "2027-10-10"
-   ],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "b007a4ce352770dd",
-   "title": "ライブ規模ランキングTOP30（2026年10月）：なにわ男子、YOASOBI、Snow Man、Mrs. GREEN APPLE、NEWSら上位に",
-   "link": "https://realsound.jp/2026/11/post-2573530.html",
-   "source": "リアルサウンド",
-   "image": "https://realsound.jp/wp-content/uploads/2026/11/20261110-liveranking-999.jpg",
-   "published": "2026-11-10T21:00:55+09:00",
-   "provider": "google",
-   "added": "2026-11-11T02:00:27+09:00",
-   "summary": "ライブ規模ランキングTOP30（2026年10月）：なにわ男子、YOASOBI、Snow Man、Mrs. GREEN APPLE、NEWSら上位に リアルサウンド",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "sonota",
-   "areas": [],
-   "oshi": [
-    "Mrs. GREEN APPLE"
-   ],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "94ed5e24959633c6",
-   "title": "チューリップ55周年記念ツアー発表 財津和夫「やらせてください ...",
-   "link": "https://www.daily.co.jp/gossip/2026/11/11/0021021612.shtml",
-   "source": "デイリースポーツ",
-   "image": "https://i.daily.jp/gossip/2026/11/11/Images/f_21021613.jpg",
-   "published": "2026-11-10T21:00:00+09:00",
-   "provider": "bing",
-   "added": "2026-11-11T19:53:10+09:00",
-   "summary": "シンガー・ソングライターの財津和夫（７８）が１０日、大阪・フェスティバルホールで行ったコンサートツアーの大阪公演で、自身がリーダーでボーカルの人気フォークグループ・ＴＵＬＩＰ（チューリップ）のデビュー５５周年記念コンサートツアーを来年開催す ...",
-   "force_genre": null,
-   "genre": "artist",
-   "type": "kettei",
-   "areas": [
-    "関西"
-   ],
-   "oshi": [],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "bfe6b00e94931c51",
-   "title": "太田プロ 「月笑クライマックスシリーズ」本戦出場3組が決定 12月に都内で開催",
-   "link": "https://news.infoseek.co.jp/amp/article/sponichin_20261110_0273/",
-   "source": "Infoseek",
-   "image": "https://media.image.infoseek.co.jp/isnews/photos/sponichin/sponichin_20261110_0273_0-enlarge.jpg",
-   "published": "2026-11-10T20:00:42+09:00",
-   "provider": "google",
-   "added": "2026-11-11T02:00:27+09:00",
-   "summary": "太田プロ 「月笑クライマックスシリーズ」本戦出場3組が決定 12月に都内で開催 Infoseek",
-   "force_genre": null,
-   "genre": "geinin",
-   "type": "kettei",
-   "areas": [
-    "関東"
-   ],
-   "oshi": [],
-   "dates": [],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "b09c1bbac18e4b4b",
-   "title": "SDP×tofubeats×水カンが「今夜は水星ブギー・バック」披露、中村佳穂×折坂悠太×ハンバートはコンサートホールで共演「LIVE STOCK」",
-   "link": "https://natalie.mu/music/news/697364",
-   "source": "音楽ナタリー",
-   "image": null,
-   "published": "2026-11-10T20:00:00+09:00",
-   "provider": "feed",
-   "added": "2026-11-11T02:00:27+09:00",
-   "summary": "11月1日と3日に神奈川・川崎駅周辺エリアで都市型フェスティバル「KAWASAKI FESTIVAL 2026」が初開催された。",
-   "force_genre": "artist",
-   "genre": "artist",
-   "type": "report",
-   "areas": [
-    "関東"
-   ],
-   "oshi": [],
-   "dates": [
-    "2026-11-01"
-   ],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
-  },
-  {
-   "id": "46fad2480e1512f0",
-   "title": "スポークンワードがテーマのイベントにs-ken、いとうせいこう、GOMESS、町田康ら出演",
-   "link": "https://natalie.mu/music/news/697282",
-   "source": "音楽ナタリー",
-   "image": null,
-   "published": "2026-11-10T19:55:00+09:00",
-   "provider": "feed",
-   "added": "2026-11-11T02:00:27+09:00",
-   "summary": "スポークンワードをテーマにしたイベント「TOKYO SPOKEN WORD 2026」が、11月15日に東京・GOOD TEMPOで開催される。",
-   "force_genre": "artist",
-   "genre": "artist",
-   "type": "sonota",
-   "areas": [
-    "関東"
-   ],
-   "oshi": [],
-   "dates": [
-    "2026-11-15"
-   ],
-   "deadline": null,
-   "sale_start": null,
-   "apply": [],
-   "image_checked": true,
-   "apply_checked": true
   }
  ],
  "tickets": [
-  {
-   "id": "ab071fd3d1326023",
-   "title": "テアトロコントSpecial コントライブ『夜衝2』",
-   "link": "https://eplus.jp/sf/detail/3080250006-P0030015P021001",
-   "label": "先着",
-   "dates": [
-    "2026-11-16"
-   ],
-   "venues": [
-    "Streaming+"
-   ],
-   "status": "受付中",
-   "online": true,
-   "areas": [
-    "配信"
-   ],
-   "oshi": []
-  },
-  {
-   "id": "e7339feeb7d59eeb",
-   "title": "テアトロコントSpecial コントライブ『夜衝』",
-   "link": "https://eplus.jp/sf/detail/3080250006-P0030014P021001",
-   "label": "先着",
-   "dates": [
-    "2026-11-16"
-   ],
-   "venues": [
-    "Streaming+"
-   ],
-   "status": "受付中",
-   "online": true,
-   "areas": [
-    "配信"
-   ],
-   "oshi": []
-  },
-  {
-   "id": "4090ae8010cc5f64",
-   "title": "ATSUKO OKATSUKA",
-   "link": "https://eplus.jp/sf/detail/4093170001-P0030002P021001",
-   "label": "先着",
-   "dates": [
-    "2026-11-17",
-    "2026-11-18"
-   ],
-   "venues": [
-    "ヒューリックホール東京（東京都）"
-   ],
-   "status": "予定枚数終了",
-   "online": false,
-   "areas": [
-    "関東",
-    "関西"
-   ],
-   "oshi": []
-  },
   {
    "id": "07472eb7377a9514",
    "title": "ASH&D PRESENTS LIVE 『東京コントメンR』",
@@ -15065,6 +15044,25 @@
    ],
    "venues": [
     "座･高円寺2（東京都）"
+   ],
+   "status": "予定枚数終了",
+   "online": false,
+   "areas": [
+    "関東",
+    "関西"
+   ],
+   "oshi": []
+  },
+  {
+   "id": "3ca84c9fbad30568",
+   "title": "ATSUKO OKATSUKA",
+   "link": "https://eplus.jp/sf/detail/4093170001-P0030002P021002",
+   "label": "先着",
+   "dates": [
+    "2026-11-18"
+   ],
+   "venues": [
+    "ヒューリックホール東京（東京都）"
    ],
    "status": "予定枚数終了",
    "online": false,
@@ -15096,7 +15094,7 @@
   {
    "id": "1fac994563ff03ad",
    "title": "どっきん! スパイシーガーリックを囲むネタライブ!!",
-   "link": "https://eplus.jp/sf/detail/4462400001-P0030076P021001",
+   "link": "https://eplus.jp/sf/detail/4462400001-P0030080P021001",
    "label": "先着",
    "dates": [
     "2026-11-20"
@@ -15210,7 +15208,7 @@
   {
    "id": "9f6397da1c255070",
    "title": "どっきん! ネタ&トークライブ",
-   "link": "https://eplus.jp/sf/detail/4462400001-P0030078P021001",
+   "link": "https://eplus.jp/sf/detail/4462400001-P0030082P021001",
    "label": "先着",
    "dates": [
     "2026-11-21"
@@ -15231,7 +15229,7 @@
   {
    "id": "6f683a1f2886a755",
    "title": "どっきん! 人力コント座～長尺コント編～",
-   "link": "https://eplus.jp/sf/detail/4462400001-P0030077P021001",
+   "link": "https://eplus.jp/sf/detail/4462400001-P0030081P021001",
    "label": "先着",
    "dates": [
     "2026-11-21"
@@ -15252,7 +15250,7 @@
   {
    "id": "9a5cd00e686e9ab7",
    "title": "どっきん! 普段やらないネタをやってみるライブ",
-   "link": "https://eplus.jp/sf/detail/4462400001-P0030079P021001",
+   "link": "https://eplus.jp/sf/detail/4462400001-P0030083P021001",
    "label": "先着",
    "dates": [
     "2026-11-21"
@@ -15326,9 +15324,9 @@
    "oshi": []
   },
   {
-   "id": "d5ff5012af4ec76e",
+   "id": "f8c7db4ae135ac0a",
    "title": "カンテレ祭り!2026 よ～いドン!フェス～人気番組大集合～",
-   "link": "https://eplus.jp/sf/detail/4212790001-P0030003P021003",
+   "link": "https://eplus.jp/sf/detail/4212790001-P0030003P021001",
    "label": "先着",
    "dates": [
     "2026-11-21",
@@ -15475,7 +15473,7 @@
   {
    "id": "282114364350e1e0",
    "title": "神奈月 神奈月 ソロライブツアー ものまねLOVE2026 in 東京",
-   "link": "https://eplus.jp/sf/detail/2825350001-P0030010P021002",
+   "link": "https://eplus.jp/sf/detail/2825350001-P0030010P021001",
    "label": "先着",
    "dates": [
     "2026-11-21",
@@ -15586,8 +15584,8 @@
    "venues": [
     "福岡国際会議場 メインホール（福岡県）",
     "メガネのイタガキ文化ホール伊勢崎 大ホール（群馬県）",
-    "東京エレクトロンホール宮城（宮城県）",
-    "とうほう･みんなの文化センター 大ホール（福島県）"
+    "とうほう･みんなの文化センター 大ホール（福島県）",
+    "東京エレクトロンホール宮城（宮城県）"
    ],
    "status": "受付中",
    "online": false,
@@ -18212,30 +18210,6 @@
    "seen": "2026-11-14T10:26:06+09:00"
   },
   {
-   "link": "https://eplus.jp/sf/detail/0031770001-P0030422P021001",
-   "title": "ワハハ本舗特別公演 最後のショービジネス",
-   "label": "先着",
-   "date": "2026-11-22",
-   "venue": "東京エレクトロンホール宮城（宮城県）",
-   "online": false,
-   "time": "開演：17:30～（開場：16:30～）",
-   "status": "受付中",
-   "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
-  },
-  {
-   "link": "https://eplus.jp/sf/detail/4212790001-P0030003P021003",
-   "title": "カンテレ祭り!2026 よ～いドン!フェス～人気番組大集合～",
-   "label": "先着",
-   "date": "2026-11-23",
-   "venue": "扇町公園（大阪府）",
-   "online": false,
-   "time": "開演：09:30～",
-   "status": "受付中",
-   "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
-  },
-  {
    "link": "https://eplus.jp/sf/detail/3449570002-P0030004P021001",
    "title": "ものまね FACTORY 2026 ビューティーこくぶ×ミラクルひかる×ほいけんた",
    "label": "先着",
@@ -18244,8 +18218,8 @@
    "online": false,
    "time": "開演：14:00～（開場：13:15～）",
    "status": "受付中",
-   "page": 2,
-   "seen": "2026-11-15T10:00:24+09:00"
+   "page": 1,
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/3592380001-P0030049P021001",
@@ -18665,7 +18639,7 @@
    "time": "配信開始：17:30～",
    "status": "受付中",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/0533760008-P0030045P021001",
@@ -18677,7 +18651,7 @@
    "time": "配信開始：13:00～",
    "status": "受付中",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/4462120003-P0030018P021001",
@@ -18689,7 +18663,7 @@
    "time": "配信開始：19:00～",
    "status": "受付中",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/3080250006-P0030014P021001",
@@ -18701,7 +18675,7 @@
    "time": "配信開始：18:00～",
    "status": "受付中",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/3080250006-P0030015P021001",
@@ -18713,19 +18687,7 @@
    "time": "配信開始：18:00～",
    "status": "受付中",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
-  },
-  {
-   "link": "https://eplus.jp/sf/detail/4093170001-P0030002P021001",
-   "title": "ATSUKO OKATSUKA",
-   "label": "先着",
-   "date": "2026-11-17",
-   "venue": "ヒューリックホール東京（東京都）",
-   "online": false,
-   "time": "開演：19:00～（開場：18:00～）",
-   "status": "予定枚数終了",
-   "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/0232490001-P0030055P021001",
@@ -18737,7 +18699,7 @@
    "time": "開演：19:00～（開場：18:30～）",
    "status": "予定枚数終了",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/4093170001-P0030002P021002",
@@ -18749,7 +18711,7 @@
    "time": "開演：19:00～（開場：18:00～）",
    "status": "予定枚数終了",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/4473040001-P0030002P021001",
@@ -18761,7 +18723,7 @@
    "time": "開演：19:30～（開場：19:00～）",
    "status": "受付中",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/4625140001-P0030001P021001",
@@ -18773,7 +18735,7 @@
    "time": "開演：14:00～（開場：13:00～）",
    "status": "受付中",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/0169030003-P0030059P021001",
@@ -18785,7 +18747,7 @@
    "time": "開演：18:30～（開場：17:45～）",
    "status": "受付中",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/4462400001-P0030080P021001",
@@ -18795,9 +18757,9 @@
    "venue": "Streaming+",
    "online": true,
    "time": "配信開始：18:50～",
-   "status": "受付前",
+   "status": "受付中",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/4462400001-P0030076P021001",
@@ -18809,7 +18771,7 @@
    "time": "開演：19:00～（開場：18:45～）",
    "status": "受付中",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/4597380001-P0030001P021001",
@@ -18821,7 +18783,7 @@
    "time": "開演：19:00～（開場：18:00～）",
    "status": "受付中",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/4462120002-P0030019P021001",
@@ -18833,7 +18795,7 @@
    "time": "開演：21:30～（開場：21:15～）",
    "status": "予定枚数終了",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/4462120002-P0030020P021001",
@@ -18845,7 +18807,7 @@
    "time": "配信開始：21:30～",
    "status": "受付中",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/4212790001-P0030003P021001",
@@ -18857,7 +18819,7 @@
    "time": "開演：09:30～",
    "status": "受付中",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/4462400001-P0030081P021001",
@@ -18867,9 +18829,9 @@
    "venue": "Streaming+",
    "online": true,
    "time": "配信開始：11:50～",
-   "status": "受付前",
+   "status": "受付中",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/0193020001-P0030136P021001",
@@ -18881,7 +18843,7 @@
    "time": "開演：12:00～（開場：11:30～）",
    "status": "受付中",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/4462400001-P0030077P021001",
@@ -18893,7 +18855,7 @@
    "time": "開演：12:00～（開場：11:45～）",
    "status": "受付中",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/0413850029-P0030204P021001",
@@ -18905,7 +18867,7 @@
    "time": "開演：12:15～（開場：11:30～）",
    "status": "受付中",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/4604300001-P0030001P021001",
@@ -18917,7 +18879,7 @@
    "time": "開演：13:00～（開場：12:30～）",
    "status": "受付中",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/4611390001-P0030001P021001",
@@ -18929,7 +18891,7 @@
    "time": "開演：13:00～（開場：12:00～）",
    "status": "受付中",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/4625140001-P0030001P021002",
@@ -18941,7 +18903,7 @@
    "time": "開演：13:30～（開場：12:30～）",
    "status": "予定枚数終了",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/4450080001-P0030003P021001",
@@ -18953,7 +18915,7 @@
    "time": "開演：14:00～（開場：13:30～）",
    "status": "受付中",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/4462400001-P0030082P021001",
@@ -18963,9 +18925,9 @@
    "venue": "Streaming+",
    "online": true,
    "time": "配信開始：14:20～",
-   "status": "受付前",
+   "status": "受付中",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/4462400001-P0030078P021001",
@@ -18977,7 +18939,7 @@
    "time": "開演：14:30～（開場：14:15～）",
    "status": "受付中",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/0413850029-P0030204P021002",
@@ -18989,7 +18951,7 @@
    "time": "開演：15:30～（開場：14:45～）",
    "status": "受付中",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/0193020001-P0030136P021002",
@@ -19001,7 +18963,7 @@
    "time": "開演：16:00～（開場：15:30～）",
    "status": "受付中",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/2825350001-P0030010P021002",
@@ -19011,9 +18973,9 @@
    "venue": "日経ホール（東京都）",
    "online": false,
    "time": "開演：16:00～（開場：15:15～）",
-   "status": "受付中",
+   "status": "予定枚数終了",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/4462400001-P0030083P021001",
@@ -19023,9 +18985,9 @@
    "venue": "Streaming+",
    "online": true,
    "time": "配信開始：16:50～",
-   "status": "受付前",
+   "status": "受付中",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/0084810001-P0030367P021001",
@@ -19037,7 +18999,7 @@
    "time": "開演：17:00～（開場：16:15～）",
    "status": "予定枚数終了",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/2625750001-P0030011P021002",
@@ -19049,7 +19011,7 @@
    "time": "開演：17:00～（開場：16:00～）",
    "status": "受付中",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/4462400001-P0030079P021001",
@@ -19061,7 +19023,7 @@
    "time": "開演：17:00～（開場：16:45～）",
    "status": "受付中",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/4604320001-P0030001P021001",
@@ -19073,7 +19035,7 @@
    "time": "開演：17:00～（開場：16:30～）",
    "status": "予定枚数終了",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/4627350001-P0030001P021001",
@@ -19085,7 +19047,7 @@
    "time": "開演：17:00～（開場：16:00～）",
    "status": "受付中",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/4450080001-P0030003P021002",
@@ -19097,7 +19059,7 @@
    "time": "開演：18:00～（開場：17:30～）",
    "status": "受付中",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/4583490001-P0030001P021001",
@@ -19109,7 +19071,7 @@
    "time": "開演：19:00～（開場：18:30～）",
    "status": "受付中",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/4402420001-P0030006P021002",
@@ -19121,7 +19083,7 @@
    "time": "開演：19:15～（開場：18:30～）",
    "status": "予定枚数終了",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/4212790001-P0030003P021002",
@@ -19133,7 +19095,7 @@
    "time": "開演：09:30～",
    "status": "受付中",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/0834340001-P0030135P021001",
@@ -19145,7 +19107,7 @@
    "time": "開演：11:30～（開場：11:00～）",
    "status": "受付中",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/2625750001-P0030011P021001",
@@ -19157,7 +19119,7 @@
    "time": "開演：13:00～（開場：12:00～）",
    "status": "受付中",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/2825350001-P0030010P021001",
@@ -19169,7 +19131,7 @@
    "time": "開演：13:00～（開場：12:15～）",
    "status": "受付中",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/0300290001-P0030022P021001",
@@ -19181,7 +19143,7 @@
    "time": "開演：14:00～（開場：13:00～）",
    "status": "予定枚数終了",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/1411990001-P0030093P021001",
@@ -19193,7 +19155,7 @@
    "time": "開演：14:00～（開場：13:00～）",
    "status": "予定枚数終了",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/0834340001-P0030135P021002",
@@ -19205,7 +19167,7 @@
    "time": "開演：15:00～（開場：14:30～）",
    "status": "受付中",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/2625750001-P0030011P021003",
@@ -19217,7 +19179,7 @@
    "time": "開演：17:00～（開場：16:00～）",
    "status": "受付中",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
   },
   {
    "link": "https://eplus.jp/sf/detail/2825350001-P0030010P021003",
@@ -19229,7 +19191,31 @@
    "time": "開演：17:00～（開場：16:15～）",
    "status": "受付中",
    "page": 1,
-   "seen": "2026-11-16T20:11:16+09:00"
+   "seen": "2026-11-17T12:49:37+09:00"
+  },
+  {
+   "link": "https://eplus.jp/sf/detail/0031770001-P0030422P021001",
+   "title": "ワハハ本舗特別公演 最後のショービジネス",
+   "label": "先着",
+   "date": "2026-11-22",
+   "venue": "東京エレクトロンホール宮城（宮城県）",
+   "online": false,
+   "time": "開演：17:30～（開場：16:30～）",
+   "status": "受付中",
+   "page": 1,
+   "seen": "2026-11-17T12:49:37+09:00"
+  },
+  {
+   "link": "https://eplus.jp/sf/detail/4212790001-P0030003P021003",
+   "title": "カンテレ祭り!2026 よ～いドン!フェス～人気番組大集合～",
+   "label": "先着",
+   "date": "2026-11-23",
+   "venue": "扇町公園（大阪府）",
+   "online": false,
+   "time": "開演：09:30～",
+   "status": "受付中",
+   "page": 1,
+   "seen": "2026-11-17T12:49:37+09:00"
   }
  ]
 }
