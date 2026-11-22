@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-21T19:57:15+09:00",
+ "updated": "2026-11-22T10:15:56+09:00",
  "total": 600,
- "new": 36,
- "raw": 1573,
- "errors": 1,
- "tickets": 125,
+ "new": 49,
+ "raw": 1661,
+ "errors": 0,
+ "tickets": 106,
  "eplus": "HTTPError: HTTP Error 503: Service Unavailable"
 }
